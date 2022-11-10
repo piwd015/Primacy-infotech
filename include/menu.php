@@ -64,11 +64,11 @@
                     Odoo</a>
                 <ul class="my-col-2">
                         <li>
-                            <a href="../oddo/odoo-erp.php"><i class="icofont-bullseye icofont-2x"></i><br />
+                            <a href="../oddo/odoo-erp"><i class="icofont-bullseye icofont-2x"></i><br />
                                 <div class="txt">Odoo ERP</div></a>
                         </li>
                         <li>
-                            <a href="../oddo/oddo-implementation.php"><i class="icofont-print icofont-2x"></i><br />
+                            <a href="../oddo/oddo-implementation"><i class="icofont-print icofont-2x"></i><br />
                                 <div class="txt">Odoo Implementation</div></a>
                         </li>
                         <li><a href="#"><i class="icofont-architecture-alt icofont-2x"></i>
