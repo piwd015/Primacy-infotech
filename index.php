@@ -513,7 +513,7 @@
 
                                   <h2 class="w-100 d-block text-center pb-4"><strong>Our</strong> Clients</h2>
 
-                                  <p class="w-100 d-block text-center pb-4">Primacy Infotech in a period of jouney in IT / Softwarew field, we have successfully completed one thousend + projects in our journey and </p>
+                                  <p class="w-100 d-block text-center pb-4">Primacy Infotech in long period of jouney, we solving problem of our thousand of happy customer using technology</p>
 
                                   <div class="owl-carousel carousel-main clnt-sld pb-3">
 
@@ -1466,7 +1466,7 @@
 
                                       <h2 class="w-100 d-block text-center pb-4"><strong>Our</strong> Clients</h2>
 
-                                      <p class="w-100 d-block text-center pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>            <div class="owl-carousel carousel-main clnt-sld">
+                                      <p class="w-100 d-block text-center pb-4">Primacy Infotech in long period of jouney, we solving problem of our thousand of happy customer using technology</p>            <div class="owl-carousel carousel-main clnt-sld">
 
                                         <div><div class="client-box"><img src="assets/images/client-logo-01.png" alt=""></div></div>
 
