@@ -1,0 +1,15 @@
+[01-Mar-2019 07:47:16 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:47:16 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:47:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/primaaof/public_html/services/index.php on line 810
+[01-Mar-2019 07:48:08 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:48:08 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:48:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/primaaof/public_html/services/index.php on line 810
+[01-Mar-2019 07:49:48 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:49:48 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:49:48 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/primaaof/public_html/services/index.php on line 810
+[01-Mar-2019 07:50:47 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:50:47 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:50:47 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/primaaof/public_html/services/index.php on line 810
+[01-Mar-2019 07:51:20 Etc/GMT] PHP Notice:  Undefined variable: sql in /home/primaaof/public_html/services/index.php on line 809
+[01-Mar-2019 07:51:20 Etc/GMT] PHP Warning:  mysqli::query(): Empty query in /home/primaaof/public_html/services/index.php on line 809
+[26-Sep-2019 07:19:39 Etc/GMT] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home/primaaof/public_html/services/index.php on line 918

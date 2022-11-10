@@ -1,0 +1,2962 @@
+/* Banner Css */
+
+.food_banner.main-banner {
+
+    background: url(../images/food_banner.png);
+
+    background-repeat: no-repeat;
+
+    padding: 120px 10px 80px;
+
+    background-position: top right;
+
+}
+
+.food_banner.main-banner .container {
+
+    text-align: center;
+
+    display: flex;
+
+    flex-direction: column;
+
+}
+
+.food_banner.main-banner .container .title {
+
+    color: #fff;
+
+    font-size: 38px;
+
+    font-weight: 600;
+
+    width: 80%;
+
+    margin: auto;
+
+    line-height: 54px;
+
+}
+
+.food_banner.main-banner .phone_no {
+
+    background: #ffa500;
+
+    color: #fff;
+
+    padding: 16px;
+
+    font-size: 18px;
+
+    border-radius: 30px;
+
+    width: 30%;
+
+    margin: 15px auto 28px;
+
+}
+
+
+
+.food_banner.main-banner .started_btn {
+
+    color: #fff;
+
+    border: 1px solid;
+
+    width: 20%;
+
+    margin: auto;
+
+    padding: 12px;
+
+    background: #000;
+
+}
+
+.food_banner.main-banner .container .mobile_app {
+
+    width: 480px;
+
+    margin: 90px auto 0;
+
+}
+
+.food_banner.main-banner .container .mobile_app img {
+
+    width: 100%;
+
+}
+
+/* Banner Css */
+
+
+
+.modal-backdrop {
+
+    z-index: 0;
+
+}
+
+.food_banner.main-banner .modlal_from form .form-group {
+
+    text-align: left;
+
+}
+
+/* Service Sec */
+
+section.service_sec .title {
+
+    margin-bottom: 15px;
+
+    color: #000;
+
+    text-align: center;
+
+    font-size: 28px;
+
+    font-weight: 600;
+
+}
+
+
+
+section.service_sec .des {
+
+    text-align: center;
+
+    font-size: 18px;
+
+    color: #3e3e3e;
+
+    font-weight: 400;
+
+    width: 70%;
+
+    margin: auto;
+
+}
+
+section.service_sec .service_content {
+
+    margin-top: 30px;
+
+}
+
+section.service_sec .service_content .service_grid .service_photo {
+
+    height: 200px;
+
+    overflow: hidden;
+
+    border: 1px solid #f3f3f3;
+
+    padding: 5px;
+
+    border-bottom: none;
+
+}
+
+
+
+section.service_sec .service_content .service_grid .service_photo img {
+
+    width: 100%;
+
+    height: 190px;
+
+    object-fit: cover;
+
+}
+
+
+
+section.service_sec .service_content .service_grid  .text_content {
+
+    background: #fff;
+
+    border: 1px solid #eaeaea;
+
+    padding: 6px;
+
+    border-top: none;
+
+}
+
+
+
+section.service_sec .service_content .service_grid .text_content .service_title {
+
+    font-size: 16px;
+
+    color: #000;
+
+    font-weight: 600;
+
+}
+
+
+
+section.service_sec .service_content .service_grid .text_content .des {
+
+    width: auto;
+
+    text-align: left;
+
+    font-size: 14px;
+
+    color: #999;
+
+}
+
+/* Service Sec */
+
+
+
+/* Tab Sec */
+
+.tab_sec .nav-pills {
+
+    display: flex;
+
+    justify-content: center;
+
+    border-bottom: 1px solid #f1f1f1;
+
+    margin-bottom: 0 !important;
+
+}
+
+.tab_sec .nav-pills li.nav-item a {
+
+    border-radius: 5px 5px 0 0;
+
+    border: 1px solid #eaeaea;
+
+    font-size: 16px;
+
+    padding:  8px  10px;
+
+    margin: 0 4px;
+
+    border-bottom: none;
+
+    background: #f9f9f9;
+
+    color: #858585;
+
+    font-weight: 400;
+
+}
+
+
+
+.tab_sec .nav-pills li.nav-item a.active {
+
+    background: #ffa500;
+
+    border: 1px solid #ffa500;
+
+    color: #fff;
+
+}
+
+section.tab_sec .tab-content {
+
+    background: #fff;
+
+    border: 1px solid #eaeaea;
+
+    border-top: none;
+
+    padding: 18px;
+
+    border-top: none;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content {
+
+    display: flex;
+
+    /* align-items: baseline; */
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .mobile_view {
+
+    position: relative;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .mobile_view img {
+
+    width: 100%;
+
+    position: relative;
+
+    z-index: 9;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .mobile_view:after {
+
+    content: "";
+
+    background: #f73f0c;
+
+    position: absolute;
+
+    width: 260px;
+
+    height: 260px;
+
+    left: 0;
+
+    right: 0;
+
+    margin: auto;
+
+    top: -20px;
+
+    bottom: 0;
+
+    border-radius: 50%;
+
+    z-index: 0;
+
+}
+
+section.tab_sec .tab-content .tab_content .mobile_view:before {
+
+    content: "";
+
+    background: #f54d4d;
+
+    position: absolute;
+
+    width: 230px;
+
+    height: 230px;
+
+    left: 0;
+
+    right: 0;
+
+    margin: auto;
+
+    top: 0;
+
+    bottom: 0;
+
+    z-index: 9;
+
+    border-radius: 50%;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .text_content {
+
+    margin-top: 80px;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .text_content .title {
+
+    color: #000;
+
+    font-weight: 600;
+
+    font-size: 24px;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .text_content .des {
+
+    color: #8d8d8d;
+
+    font-weight: 400;
+
+    font-size: 16px;
+
+    margin: 12px 0 40px;
+
+}
+
+
+
+section.tab_sec .tab-content .tab_content .text_content .started_btn {
+
+    background: #ffa500;
+
+    color: #fff;
+
+    padding: 8px 20px;
+
+    border-radius: 18px;
+
+}
+
+
+
+/* Tab Sec */
+
+
+
+/* Benefits Sec */
+
+section.benefits_sec {
+
+    text-align: center;
+
+}
+
+
+
+section.benefits_sec .title {
+
+    font-size: 28px;
+
+    color: #000;
+
+    font-weight: 600;
+
+    width: 58%;
+
+    margin: 0 auto 15px;
+
+    line-height: 38px;
+
+}
+
+
+
+section.benefits_sec .des {
+
+    text-align: center;
+
+    font-size: 18px;
+
+    color: #3e3e3e;
+
+    font-weight: 400;
+
+    width: 70%;
+
+    margin: 0 auto 30px;
+
+}
+
+
+
+section.benefits_sec .benefits_grid {
+
+    margin: 20px auto;
+
+    display: flex;
+
+    flex-direction: column;
+
+    background: #fff;
+
+    padding: 14px;
+
+    box-shadow: 6px 24px 30px -8px rgb(229 229 229 / 75%);
+
+    -webkit-box-shadow: 6px 24px 30px -8px rgb(229 229 229 / 75%);
+
+    -moz-box-shadow: 6px 24px 30px -8px rgb(229 229 229 / 75%);
+
+    min-height: 280px;
+
+    align-items: start;
+
+    height: 80%;
+
+}
+
+section.benefits_sec .benefits_grid .benefits_icon {
+
+    width: 60px;
+
+    height: 60px;
+
+    background: #f1f1f1;
+
+    border-radius: 50%;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    margin: 0 auto;
+
+}
+
+
+
+section.benefits_sec .benefits_grid .benefits_icon img {
+
+    width: 34px;
+
+}
+
+
+
+section.benefits_sec .benefits_grid .text_content {
+
+    margin-top: 18px;
+
+}
+
+
+
+section.benefits_sec .benefits_grid .text_content .service_title {
+
+    color: #000;
+
+    font-size: 18px;
+
+    font-weight: 600;
+
+}
+
+
+
+section.benefits_sec .benefits_grid .text_content .des {
+
+    width: auto;
+
+    color: #727272;
+
+    font-size: 16px;
+
+}
+
+/* Benefits Sec */
+
+
+
+/* Explore Sec */
+
+section.explore_sec {
+
+    text-align: center;
+
+}
+
+
+
+section.explore_sec .title {
+
+    font-size: 28px;
+
+    color: #000;
+
+    font-weight: 600;
+
+    width: 58%;
+
+    margin: 0 auto 15px;
+
+    line-height: 38px;
+
+}
+
+
+
+section.explore_sec .des {
+
+    text-align: center;
+
+    font-size: 18px;
+
+    color: #3e3e3e;
+
+    font-weight: 400;
+
+    width: 70%;
+
+    margin: 0 auto 30px;
+
+}
+
+section.explore_sec .explore_grid {
+
+    position: relative;
+
+    height: 200px;
+
+    overflow: hidden;
+
+}
+
+
+
+section.explore_sec .explore_grid .explore_photo {
+
+    height: 200px;
+
+    overflow: hidden;
+
+    border-radius: 7px;
+
+    position: relative;
+
+}
+
+section.explore_sec .explore_grid .explore_photo:before {
+
+    content: "";
+
+    background: #00000038;
+
+    position: absolute;
+
+    top: 0;
+
+    bottom: 0;
+
+    right: 0;
+
+    left: 0;
+
+}
+
+section.explore_sec .explore_grid .explore_photo img {
+
+    width: 100%;
+
+    height: 230px;
+
+    object-fit: cover;
+
+}
+
+
+
+section.explore_sec .explore_grid  .text_content {
+
+    background: rgb(0 0 0 / 0%);
+
+    padding: 6px;
+
+    position: absolute;
+
+    top: 70%;
+
+    transition: all 0.6s ease-in-out 0.3s;
+
+    bottom: 0;
+
+    height: 100%;
+
+
+
+}
+
+
+
+section.explore_sec .explore_grid:hover .text_content {
+
+    background: rgb(0 0 0 / 58%);
+
+    bottom: 0;
+
+    top: 0;
+
+    transition: all 0.6s ease-in-out 0.3s;
+
+}
+
+
+
+section.explore_sec .explore_grid .text_content .explore_title {
+
+    color: #fff;
+
+    font-size: 20px;
+
+    padding: 18px 0;
+
+}
+
+
+
+section.explore_sec .explore_grid .text_content .des {
+
+    width: auto;
+
+    text-align: left;
+
+    font-size: 14px;
+
+    color: #d7d7d7;
+
+    text-align: center;
+
+    margin-bottom: 0;
+
+}
+
+section.explore_sec .explore_grid .text_content .more {
+
+    color: #ffffff;
+
+    background: #ffa500;
+
+    font-size: 12px;
+
+    padding: 4px 16px;
+
+    border-radius: 15px;
+
+    display: block;
+
+    width: 100px;
+
+    margin: 10px auto;
+
+}
+
+/* Explore Sec */
+
+
+
+
+
+/* Blog Post Sec */
+
+.blog_post_sec {
+
+    text-align: center;
+
+}
+
+.blog_post_sec .title {
+
+    font-size: 28px;
+
+    color: #000;
+
+    font-weight: 600;
+
+    width: 58%;
+
+    margin: 0 auto 30px;
+
+    line-height: 38px;
+
+}
+
+.blog_post_sec .blog_post_content .service_grid .blog_photo {
+
+    height: 200px;
+
+    overflow: hidden;
+
+    border: 1px solid #f3f3f3;
+
+    padding: 5px;
+
+    border-bottom: none;
+
+}
+
+
+
+.blog_post_sec .blog_post_content .service_grid .blog_photo img {
+
+    width: 100%;
+
+    height: 190px;
+
+    object-fit: cover;
+
+}
+
+.blog_post_sec .blog_post_content .service_grid span {
+
+    background: #f73f0c;
+
+    font-size: 14px;
+
+    padding: 3px 10px;
+
+    display: block;
+
+    width: 200px;
+
+    margin: auto;
+
+    color: #fff;
+
+    border-radius: 16px;
+
+    margin: 20px auto 14px;
+
+}
+
+
+
+.blog_post_sec .blog_post_content .service_grid .blog_title {
+
+    color: #000;
+
+    font-size: 16px;
+
+    font-weight: 600;
+
+    line-height: 23px;
+
+}
+
+/* Blog Post Sec */
+
+
+
+
+
+/* Faq Form */
+
+section.faq_form {
+
+    padding: 50px 0 110px;
+
+}
+
+section.faq_form .faq_sec {
+
+    width: 54%;
+
+    flex: 0 0 54%;
+
+}
+
+
+
+section.faq_form .faq_sec .title {
+
+    color: #000;
+
+    font-size: 28px;
+
+    font-weight: 600;
+
+}
+
+
+
+section.faq_form .faq_sec .faq_accordion.accordion {
+
+    background: #ffffff;
+
+}
+
+section.faq_form .faq_sec .faq_accordion.accordion .card {
+
+    margin: 0 auto 10px;
+
+    border: none;
+
+    box-shadow: 6px 24px 30px -8px rgb(205 201 201 / 75%);
+
+    -moz-box-shadow: 6px 24px 30px -8px rgb(205 201 201 / 75%);
+
+    -webkit-box-shadow: 6px 24px 30px -8px rgb(205 201 201 / 75%);
+
+    background: none;
+
+}
+
+
+
+section.faq_form .faq_sec .faq_accordion.accordion .card .card-header {
+
+    background: none;
+
+    padding: 0;
+
+    border: none;
+
+}
+
+
+
+section.faq_form .faq_sec .faq_accordion.accordion .card .card-header button.btn {
+
+    border: none;
+
+    padding: 14px;
+
+    color: #2a2a2a;
+
+    text-decoration: none;
+
+    white-space: inherit;
+
+}
+
+section.faq_form .faq_sec .faq_accordion.accordion .card .card-header button.btn:hover {
+
+    background: #fff;
+
+    text-decoration: none;
+
+    color: #ffa500;
+
+}
+
+section.faq_form .container {
+
+    display: flex;
+
+}
+
+
+
+section.faq_form .container .discussion_from {
+
+    background: #ffa500;
+
+    margin: 30px;
+
+    border: 1px solid #eaeaea;
+
+    padding: 15px;
+
+}
+
+
+
+section.faq_form .container .discussion_from .title {
+
+    color: #fff;
+
+    font-size: 20px;
+
+    text-align: center;
+
+}
+
+
+
+section.faq_form .container .discussion_from .des {
+
+    color: #fff;
+
+    text-align: center;
+
+    font-size: 14px;
+
+    font-weight: 400;
+
+}
+
+
+
+section.faq_form .container .discussion_from .from_sec .form-group {
+
+    margin-bottom: 20px;
+
+}
+
+section.faq_form .container .discussion_from .from_sec .form_row {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+
+
+section.faq_form .container .discussion_from .from_sec .form_row .form-group {
+
+    width: 48%;
+
+}
+
+
+
+section.faq_form .container .discussion_from .from_sec .form-group label {
+
+    font-size: 16px;
+
+    color: #fff;
+
+    text-transform: capitalize;
+
+    display: block;
+
+}
+
+
+
+section.faq_form .container .discussion_from .from_sec .form-group .form-control {
+
+    padding: 5px 10px;
+
+}
+
+
+
+section.faq_form .container .discussion_from .from_sec .form_row {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-between;
+
+}
+
+section.faq_form .container .discussion_from .from_sec .form-group textarea {
+
+    width: 100%;
+
+    padding: 8px;
+
+    border: none;
+
+}
+
+
+
+section.faq_form .container .discussion_from .from_sec .submit_btn {
+
+    padding: 0;
+
+    display: block;
+
+    margin: auto;
+
+    background: #f73f0c;
+
+    font-weight: 400;
+
+    padding: 6px;
+
+    font-size: 16px;
+
+    color: #ffffff;
+
+}
+
+/* Faq Form */
+
+
+
+
+
+/* 1600px */
+
+@media only screen and (max-width: 1600px) {
+
+    .container {
+
+        max-width: 60%;
+
+    }
+
+
+
+    .food_banner.main-banner .container {
+
+        max-width: 80%;
+
+    }
+
+
+
+    .top .container {
+
+        max-width: 1140px;
+
+    }
+
+
+
+    .home-3-banner .container {
+
+        max-width: 1140px;
+
+    }
+
+
+
+    .pricing.food-delivery-pricing .container {
+
+        max-width: 1100px;
+
+    }
+
+
+
+    /* Readymade Grocery */
+
+    .pricing .container {
+
+        max-width: 70%;
+
+    }
+
+    /* Readymade Grocery */
+
+}
+
+
+
+
+
+/* 1400px */
+
+@media only screen and (max-width: 1400px) {
+
+
+
+
+
+    /* Header Sec */
+
+    .top .c-mob .col-md-4 {
+
+        max-width: 36%;
+
+        flex: 0 0 36%;
+
+    }
+
+    /* Header Sec */
+
+
+
+    .food_banner.main-banner {
+
+        padding: 120px 10px 80px;
+
+        background-size: 100% 70%;
+
+    }
+
+    .food_banner.main-banner .container .title {
+
+        font-size: 30px;
+
+        width: 60%;
+
+        line-height: 44px;
+
+    }
+
+    .food_banner.main-banner .container .mobile_app {
+
+        width: 270px;
+
+        margin: 30px auto 0;
+
+    }
+
+    .food_banner.main-banner .phone_no {
+
+        width: 40%;
+
+    }
+
+
+
+    .service_sec .container, .tab_sec .container, .benefits_sec .container, explore_sec .container, .explore_sec .container, .h3-app-screenshot.food-delivery-screenshot  .container, .pricing.food-delivery-pricing .container, .faq_form .container {
+
+        max-width: 900px;
+
+    }
+
+
+
+
+
+
+
+    /* Grocery Delivery*/
+
+    .s-title {
+
+        margin-top: 50px;
+
+    }
+
+    .pricing .container {
+
+        max-width: 90%;
+
+    }
+
+    .container {
+
+        max-width: 60%;
+
+    }
+
+
+
+    .top .container {
+
+        max-width: 1100px;
+
+    }
+
+
+
+    .home-3-banner .container {
+
+        max-width: 1140px;
+
+    }
+
+
+
+    .top .container {
+
+        max-width: 1000px;
+
+    }
+
+    .home-3-banner {
+
+        margin-left: 67px;
+
+        width: 100%;
+
+    }
+
+    #my-tab {
+
+        margin-top: 0 !important;
+
+        margin-left: 70px;
+
+    }
+
+
+
+    .quick-overview .container {
+
+        max-width: 100%;
+
+        margin-left: 74px;
+
+    }
+
+    .h4-get-the-app {
+
+        margin-left: 80px;
+
+        width: 100%;
+
+    }
+
+
+
+    .h4-get-the-app .container {
+
+        max-width: 80%;
+
+    }
+
+    section.h4-awesome-feature.bg-color.s-padding {
+
+        margin-left: 80px;
+
+        width: 100%;
+
+    }
+
+
+
+    section.h4-awesome-feature.bg-color.s-padding .container {
+
+        max-width: 70%;
+
+    }
+
+    .video-sec {
+        width: 100%;       
+    }
+
+    .faq-sec {
+
+        margin-top: 0;
+
+        margin-left: 85px;
+
+        width: 100%;
+
+    }
+
+    .faq-sec .container {
+
+        max-width: 80%;
+
+    }
+
+    .fun-fact .container {
+
+        max-width: 80%;
+
+        margin: auto;
+
+    }
+
+    section.h4-about.s-padding {
+
+        margin-top: 60px;
+
+    }
+
+
+
+    section.fun-fact {
+
+        position: relative;
+
+    }
+
+    section.fun-fact:after {
+
+        content: "";
+
+        background: #8956e5;
+
+        right: -80px;
+
+        top: 0;
+
+        bottom: 0;
+
+        height: 100%;
+
+        width: 200px;
+
+        z-index: 9;
+
+        position: absolute;
+
+    }
+
+    .fun-fact .overlay {
+
+        width: 100%;
+
+        margin-left: 0;
+
+    }
+
+
+
+    .fun-fact  .container {
+
+        max-width: 80%;
+
+        margin: auto;
+
+    }
+
+
+
+
+
+    .fun-fact  .container {
+
+        max-width: 80%;
+
+        margin: auto;
+
+    }
+
+
+
+.testimonial {
+width: 100%;
+}
+
+
+
+    .testimonial .container {
+
+        max-width: 100%;
+
+    }
+
+    .bg-text {
+
+        width: 60%;
+
+        top: 60%;
+
+        left: 41%;
+
+        font-size: 210px;
+
+    }
+
+
+
+    .s-padding {
+        max-width: 100%;
+        padding-top: 0;
+    }
+
+
+
+    .s-padding .container {
+
+        max-width: 80%;
+
+    }
+
+
+
+    .s-padding .container .col-md-4.offset-md-1 {
+
+        max-width: 50%;
+
+        flex: 0 0 40%;
+
+    }
+
+
+
+
+
+    .h4-about-img-wrapper img.g-img {
+
+        width: 410px;
+
+        height: 300px;
+
+    }
+
+    section.fun-fact .counter-item {
+
+        margin: 70px auto 0;
+
+    }
+
+
+
+
+
+
+
+    /* Grocery Delivery */
+
+
+
+
+
+}
+
+
+
+/* 1200px */
+
+@media only screen and (max-width: 1200px) {
+
+
+
+    #sidemenu {
+
+        height: calc(100vh - -44px);
+
+    }
+
+    /* Food Banner */
+
+    .food_banner.main-banner .modlal_from .modal-dialog {
+
+        margin-top: 80px;
+
+    }
+
+    .food_banner.main-banner .container .title {
+
+        font-size: 28px;
+
+        width: 70%;
+
+        line-height: 36px;
+
+    }
+
+
+
+    .food_banner.main-banner .phone_no {
+
+        padding: 10px;
+
+        font-size: 18px;
+
+        width: 44%;
+
+        margin: 15px auto 20px;
+
+    }
+
+    .food-delivery-screenshot.h3-app-screenshot {
+
+        margin-top: 50px;
+
+        margin-bottom: 50px;
+
+    }
+
+    /* Food Banner */
+
+
+
+    .service_sec .container, .tab_sec .container, .benefits_sec .container, explore_sec .container, .explore_sec .container, .h3-app-screenshot.food-delivery-screenshot .container, .pricing.food-delivery-pricing .container, .faq_form .container {
+
+        max-width: 800px;
+
+    }
+
+
+
+
+
+    /* Grocery Delivery */
+
+    .top .container {
+
+        max-width: 1000px;
+
+        margin-left: 90px;
+
+    }
+
+    .h3-banner-img-wrapper .h3-banner-img-2 {
+
+        right: 20px;
+
+    }
+
+    .home-3-banner {
+
+        margin-left: 85px;
+
+        width: 100%;
+
+    }
+
+    .tab_sec .nav-pills li.nav-item a {
+
+        padding: 6px 4px;
+
+        margin: 0 4px;
+
+    }
+
+
+
+    section.tab_sec .tab-content .tab_content .mobile_view:after {
+
+        width: 200px;
+
+        height: 200px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view:before {
+
+        width: 160px;
+
+        height: 160px;
+
+    }
+
+    section.benefits_sec .title {
+
+        font-size: 24px;
+
+        width: 68%;
+
+    }
+
+    .faq-sec {
+
+        padding: 40px 0;
+
+        margin-top: 0 !important;
+
+    }
+
+
+
+    section.explore_sec .des {
+
+        width: 80%;
+
+    }
+
+    .s-padding {
+
+        padding-bottom: 20px;
+
+    }
+
+
+
+    .pricing {
+
+        padding-top: 0 !important;
+
+    }
+
+
+
+    .pricing .row {
+
+        justify-content: center;
+
+    }
+
+
+
+    .pricing .row .col-lg-3 {
+
+        flex: 0 0 33%;
+
+        max-width: 33%;
+
+    }
+
+
+
+
+
+    .testimonial .bg-text {
+
+        font-size: 154px;
+
+    }
+
+
+
+    .fun-fact:after {
+
+        width: 10%;
+
+        background: #825df0;
+
+    }
+
+
+
+    .faq-sec {
+
+        padding: 40px 0;
+
+        margin-top: 0 !important;
+
+    }
+
+
+
+    section.fun-fact:after {
+
+        width: 10%;
+
+        background: #7e5ff5;
+
+    }
+
+    section.fun-fact .counter-item {
+
+        margin: 70px auto 0;
+
+        padding: 16px;
+
+    }
+
+    section.fun-fact .counter-item-count span.counter-count {
+
+        font-size: 38px;
+
+    }
+
+
+
+    section.fun-fact .counter-item-count span {
+
+        font-size: 40px;
+
+    }
+
+
+
+    section.fun-fact .container {
+
+        max-width: 90%;
+
+    }
+
+
+
+    section.fun-fact .counter-item .counter-item-count .counter-count {
+
+        font-size: 34px;
+
+    }
+
+
+
+    section.fun-fact .counter-item .counter-item-count span {
+
+        font-size: 34px;
+
+    }
+
+
+
+    section.fun-fact .counter-item {
+
+        margin: 40px auto;
+
+        padding: 16px;
+
+    }
+
+
+
+    .quick-overview-tab li.nav-item {
+
+        display: inline-block;
+
+        margin-left: 15px;
+
+        margin-right: 15px;
+
+    }
+
+
+
+    section.h4-awesome-feature .row {
+
+        align-items: start !important;
+
+    }
+
+    section.h4-awesome-feature .row .icon-box {
+
+        height: auto;
+
+    }
+
+
+
+    .iconic-contact-info .contact-info-head h2 {
+
+        font-size: 24px;
+
+    }
+
+    .video-play-content .title {
+
+        font-size: 24px;
+
+    }
+
+    /* Grocery Delivery */
+
+
+
+
+
+
+
+
+
+}
+
+/* 991px */
+
+@media only screen and (max-width: 991px) {
+
+    /* Header Sec */
+
+    .top  .col-md-3.pic0 {
+
+        max-width: 16%;
+
+    }
+
+
+
+    .top .col-md-3.pic0 a {
+
+        width: 100%;
+
+        display: block;
+
+    }
+
+
+
+    .top .col-md-3.pic0 a img {
+
+        width: 100%;
+
+    }
+
+    .top .c-mob .col-md-4 {
+
+        max-width: 36%;
+
+        flex: 0 0 36%;
+
+        padding: 0;
+
+    }
+
+    /* Header Sec */
+
+
+
+
+
+    #sidemenu {
+
+        height: calc(100vh - -64px);
+
+    }
+
+
+
+
+
+    .food_banner.main-banner .container .title {
+
+        font-size: 24px;
+
+        width: 90%;
+
+        line-height: 36px;
+
+    }
+
+    .food_banner.main-banner .phone_no {
+
+        font-size: 18px;
+
+        width: 60%;
+
+    }
+
+    .food_banner.main-banner .started_btn {
+
+        width: 30%;
+
+        margin: auto;
+
+    }
+
+    .service_sec .container, .tab_sec .container, .benefits_sec .container, explore_sec .container, .explore_sec .container, .h3-app-screenshot .container, .pricing .container, .faq_form .container {
+
+        max-width: 74%;
+
+    }
+
+    section.service_sec .title {
+
+        margin-bottom: 15px;
+
+        font-size: 24px;
+
+        line-height: 30px;
+
+    }
+
+    section.service_sec .des {
+
+        font-size: 16px;
+
+        width: 100%;
+
+        margin: auto;
+
+    }
+
+    section.service_sec .service_content {
+
+        margin-top: 10px;
+
+    }
+
+    section.service_sec .service_content .row {
+
+        justify-content: center;
+
+    }
+
+    section.service_sec .service_content .service_grid {
+
+        margin: 15px 0;
+
+    }
+
+    section.service_sec .service_content .service_grid .service_photo {
+
+        height: 130px;
+
+    }
+
+
+
+    section.service_sec .service_content .service_grid .service_photo img {
+
+        height: 130px;
+
+    }
+
+    .tab_sec .nav-pills li.nav-item {
+
+        width: 33%;
+
+        margin-bottom: 8px;
+
+    }
+
+    .tab_sec .nav-pills li.nav-item a {
+
+        padding: 6px 4px;
+
+        margin: 0 4px;
+
+        text-align: center;
+
+        border-radius: 15px;
+
+        border-bottom: 1px solid #eaeaea;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view:before {
+
+        width: 110px;
+
+        height: 110px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view:after {
+
+        width: 130px;
+
+        height: 130px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view:before {
+
+        width: 110px;
+
+        height: 110px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view:after {
+
+        width: 130px;
+
+        height: 130px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view img {
+
+        width: 90%;
+
+        margin: auto;
+
+        display: block;
+
+        top: 30px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .text_content .title {
+
+        font-size: 20px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .text_content .des {
+
+        margin: 12px 0 20px;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .text_content .started_btn {
+
+        padding: 8px 20px;
+
+        font-size: 14px;
+
+    }
+
+    section.benefits_sec .title {
+
+        font-size: 20px;
+
+        width: 80%;
+
+    }
+
+    section.benefits_sec .des {
+
+        font-size: 16px;
+
+        width: 90%;
+
+        margin: 0 auto 30px;
+
+    }
+
+    .pricing .row .col-lg-3 {
+
+        flex: 0 0 48%;
+
+        max-width: 48%;
+
+    }
+
+    section.faq_form .container {
+
+        flex-direction: column;
+
+    }
+
+    section.faq_form .container .discussion_from {
+
+        margin: 30px 0;
+
+    }
+
+    section.explore_sec {
+
+        padding: 0;
+
+    }
+
+
+
+    section.explore_sec .title {
+
+        font-size: 20px;
+
+        width: 70%;
+
+        margin: 0 auto 8px;
+
+    }
+
+    section.explore_sec .des {
+
+        width: 100%;
+
+        font-size: 16px;
+
+    }
+
+    section.explore_sec .explore_grid {
+
+        margin: 14px 0;
+
+    }
+
+    section.explore_sec .row {
+
+        justify-content: center;
+
+    }
+
+    section.faq_form .faq_sec {
+
+        width: 100%;
+
+        flex: 0 0 100%;
+
+    }
+
+    .pricing .s-title {
+
+        margin: 50px auto 40px;
+
+    }
+
+
+
+    /* Grocery Delivery*/
+
+    .main-banner .banner-content .title {
+
+        font-size: 24px;
+
+    }
+
+    #my-tab {
+
+        margin-top: -20px !important;
+
+        margin-left: 84px;
+
+    }
+
+    .main-banner .banner-content .title .hightlight-price {
+
+        font-size: 28px;
+
+    }
+
+
+
+    .testimonial .bg-text {
+
+        font-size: 124px;
+
+    }
+
+    .main-banner .banner-content .title span.title-header {
+
+        padding-top: 14px;
+
+        display: inline-table;
+
+    }
+
+    .main-banner .banner-content .title span.title-header a {
+
+        font-size: 30px;
+
+    }
+
+    .testimonial .bg-text {
+
+        font-size: 134px;
+
+    }
+
+    .quick-overview .container {
+
+        max-width: 100%;
+
+    }
+
+    .h4-get-the-app .get-the-app-content {
+
+        text-align: center;
+
+    }
+
+    .h4-get-the-app .h4-get-the-app-img {
+
+        padding-top: 0;
+
+        text-align: center;
+
+    }
+
+
+
+    section.h4-awesome-feature.bg-color.s-padding .container {
+
+        max-width: 80%;
+
+    }
+
+    section.h4-awesome-feature.bg-color.s-padding .col-lg-4.col-md-4 {
+
+        max-width: 48%;
+
+        flex: 0 0 48%;
+
+    }
+
+    section.h4-about.s-padding .about-content {
+
+        margin-top: 0;
+
+        text-align: center;
+
+    }
+
+
+
+    section.h4-about.s-padding .row {
+
+        display: flex;
+
+        flex-direction: column-reverse;
+
+    }
+
+
+
+    section.h4-about .h4-about-img-wrapper {
+
+        text-align: center;
+
+        margin-bottom: 40px;
+
+    }
+
+    .faq-sec .faq-sec-img img.img-fluid.wow.slideInLeft {
+
+        margin: 0 auto 60px;
+
+    }
+
+    section.fun-fact:after {
+
+        width: 12%;
+
+        background: #7e5ff5;
+
+    }
+
+
+
+    .h4-contact.s-padding .col-md-4.offset-md-1 {
+
+        margin: 0;
+
+        flex: 0 0 100%;
+
+        max-width: 100%;
+
+    }
+
+    .s-padding .container  .col-md-6 {
+
+        flex: 0 0 100%;
+
+        max-width: 100%;
+
+    }
+
+    .s-padding .container .col-md-6 form.contact-form .form-row .form-group.col-md-6 {
+
+        flex: 0 0 48%;
+
+    }
+
+    .quick-overview-tab li.nav-item {
+
+        display: inline-block;
+
+        margin-left: 10px;
+
+        margin-right: 10px;
+
+    }
+
+    /* Grocery Delivery*/
+
+
+
+    .h4-contact form.contact-form {
+
+        margin-bottom: 70px;
+
+    }
+
+
+
+
+
+}
+
+/* 767px */
+
+@media only screen and (max-width: 767px) {
+
+
+
+    .container {
+
+        max-width: 100%;
+
+    }
+
+    /* Modal Sec */
+
+    .modal_sec .modal-dialog {
+
+        width:90%;
+        margin:0 auto;
+
+    }
+
+    .modal-dialog {
+         width: 75%;
+    }
+
+    .modal_sec .modal-dialog .modal-content .modal-body form.form-horizontal .modal-footer {
+
+        padding: 0;
+
+    }
+
+    .modal_sec .modal-dialog .modal-content .modal-body form.form-horizontal .modal-footer button {
+
+        padding: 4px;
+
+        margin: 0 4px;
+
+        min-width: 134px;
+
+    }
+
+    /* Modal Sec */
+
+
+
+
+
+    .food_banner.main-banner .modlal_from .modal-dialog button {
+
+        padding: 6px;
+
+        margin: 0 6px;
+
+        min-width: 48%;
+
+    }
+
+    .food_banner.main-banner .modlal_from .modal-content .modal-header button.close {
+
+        min-width: 10%;
+
+    }
+
+
+
+
+
+    .service_sec .container, .tab_sec .container, .benefits_sec .container, explore_sec .container, .explore_sec .container, .h3-app-screenshot .container, .pricing .container, .faq_form .container {
+
+        max-width: 100%;
+
+    }
+
+    .food_banner.main-banner .container .title {
+
+        font-size: 18px;
+
+        width: auto;
+
+        line-height: 29px;
+
+    }
+
+    .food_banner.main-banner .phone_no {
+
+        font-size: 18px;
+
+        width: auto;
+
+    }
+
+    .food_banner.main-banner .started_btn {
+
+        width: auto;
+
+        margin: auto;
+
+    }
+
+    .food_banner.main-banner .container .mobile_app {
+
+        width: 60%;
+
+    }
+
+
+
+    section.service_sec {
+
+        padding-top: 0;
+
+    }
+
+    section.service_sec .title {
+
+        margin-bottom: 15px;
+
+        font-size: 20px;
+
+        line-height: 30px;
+
+    }
+
+    section.service_sec .service_content .service_grid .service_photo {
+
+        height: 200px;
+
+    }
+
+    section.service_sec .service_content .service_grid .service_photo img {
+
+        height: 200px;
+
+    }
+
+    .tab_sec .nav-pills li.nav-item {
+
+        width: 100%;
+
+    }
+
+    section.tab_sec .tab-content .tab_content {
+
+        flex-direction: column;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view:before, section.tab_sec .tab-content .tab_content .mobile_view:after {
+
+        display: none;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .text_content {
+
+        margin-top: 0;
+
+        text-align: center;
+
+    }
+
+    section.tab_sec .tab-content .tab_content .mobile_view img {
+
+        z-index: 0;
+
+        top: 0;
+
+    }
+
+    section.explore_sec .title {
+
+        width: auto;
+
+        margin: 0 auto 8px;
+
+    }
+
+    .food-delivery-pricing.pricing, .food-delivery-screenshot.h3-app-screenshot {
+
+        margin-left: 0;
+
+    }
+
+    .pricing .pricing-table {
+
+        margin: 0 auto 30px;
+
+    }
+
+    .pricing .row .col-lg-3 {
+
+        flex: 0 0 100%;
+
+        max-width: 1000%;
+
+    }
+
+
+
+    section.faq_form .container .discussion_from {
+
+        margin: 30px 0 0;
+
+    }
+
+    section.faq_form .container .discussion_from .from_sec .form_row {
+
+        flex-direction: column;
+
+        justify-content: center;
+
+    }
+
+    section.faq_form .container .discussion_from .from_sec .form_row .form-group {
+
+        width: 100%;
+
+    }
+
+
+
+    section.h3-feature.s-padding {margin-left: 0;}
+
+
+
+    section.h3-about.s-padding {
+
+        margin-left: 0;
+
+    }
+
+
+
+    section.h3-about.s-padding .about-content {
+
+        margin-top: 0;
+
+    }
+
+
+
+    .h3-awesome-feature {
+
+        margin-left: 0;
+
+    }
+
+
+
+    .h3-app-screenshot.s-padding {
+
+        margin-left: 0;
+
+    }
+
+
+
+    section.partners.s-padding {
+
+        margin-left: 0;
+
+    }
+
+
+
+    /* Readymade Grocery */
+
+    .top .col-md-3.pic0 {
+
+        max-width: 28%;
+
+    }
+
+    .top .dropdown .my-button2 {
+
+        margin-right: 0px !important;
+
+        width: auto;
+
+        margin-top: -28px !important;
+
+    }
+
+
+
+    .quick-overview {
+
+        margin-left: 0;
+
+    }
+
+
+
+    .quick-overview .container {
+
+        margin-left: 0;
+
+    }
+
+
+
+
+
+    .home-3-banner {
+
+        margin-left: 0;
+
+        width: 100%;
+
+    }
+
+    .top .container {
+
+        max-width: 100%;
+
+        margin-left: 0;
+
+    }
+
+
+
+    .home-3-banner .h3-banner-img-wrapper {
+
+        display: none;
+
+    }
+
+    #my-tab {
+
+        margin-top: 0 !important;
+
+        margin-left: 0;
+
+    }
+
+    #my-tab .col-4.col-md-4 {
+
+        max-width: 36%;
+
+    }
+
+
+
+    #my-tab .container {
+
+        max-width: 100%;
+
+    }
+
+
+
+    #my-tab .col-4.col-md-4 {
+
+        max-width: 36%;
+
+    }
+
+    .quick-overview .container {
+
+        margin-left: 0;
+
+    }
+
+    .h4-get-the-app {
+
+        margin-left: 0;
+
+        width: 100%;
+
+    }
+
+    .h4-get-the-app .container {
+
+        max-width: 100%;
+
+    }
+
+    .h4-get-the-app .get-the-app-content {
+
+        margin-bottom: 0;
+
+    }
+
+    .h4-get-the-app .container h2 {
+
+        font-size: 24px;
+
+    }
+
+    .pricing.s-padding {
+
+        margin-left: 0;
+
+    }
+
+    .h4-app-screenshot.s-padding {
+
+        margin-left: 0;
+
+    }
+
+    section.h4-awesome-feature.bg-color.s-padding {
+
+        margin-left: 0;
+
+        width: 100%;
+
+    }
+
+    section.h4-awesome-feature.bg-color.s-padding {
+
+        margin-left: 0;
+
+        width: 100%;
+
+    }
+
+    section.h4-awesome-feature.bg-color.s-padding .s-title .wow {
+
+        font-size: 24px;
+
+    }
+
+    section.h4-awesome-feature .row {
+
+        flex-direction: column;
+
+    }
+
+    section.h4-awesome-feature.bg-color.s-padding .col-lg-4.col-md-4 {
+
+        max-width: 100%;
+
+        flex: 0 0 100%;
+
+    }
+
+    section.h4-awesome-feature .row .icon-box .icon-box-details p {
+
+        text-align: center;
+
+    }
+
+    .video-sec {
+
+        width: 100%;
+
+        margin-left: 0;
+
+    }
+
+    .video-sec .container {
+
+        max-width: 100%;
+
+    }
+
+    .video-play-content .title {
+
+        font-size: 18px;
+
+    }
+
+    section.h4-about.s-padding {
+
+        margin-left: 0;
+
+    }
+
+    section.h4-about.s-padding .about-content h3 {
+
+        font-size: 24px;
+
+    }
+
+    .faq-sec {
+
+        padding: 40px 0;
+
+        margin-top: 0 !important;
+
+        margin-left: 0;
+
+    }
+
+    .s-padding .container {
+
+        max-width: 100%;
+
+    }
+
+    .h4-contact {
+
+        margin: 0;
+
+    }
+
+    .h4-contact .iconic-contact-info {
+
+        margin-bottom: 0;
+
+    }
+
+    .s-padding .container .col-md-6 form.contact-form .form-row .form-group.col-md-6 {
+
+        flex: 0 0 50%;
+
+    }
+
+    .h4-contact form.contact-form .text-lg-right button.btn.fill-style {
+
+        display: block;
+
+        margin: auto;
+
+        padding: 8px;
+
+    }
+
+    section.fun-fact {
+
+        max-width: 90%;
+
+        margin: auto;
+
+    }
+
+    section.fun-fact:after {
+
+        display: none;
+
+    }
+
+    section.testimonial {
+
+        margin-left: 0;
+
+    }
+
+    /* Readymade Grocery */
+
+
+
+    .home-1-banner .container {
+
+        max-width: 100%;
+
+    }
+
+    .home-1-banner {
+
+        padding-top: 140px;
+
+        padding-bottom: 0;
+
+    }
+
+
+
+    .about.s-padding {
+
+        margin: 0;
+
+    }
+
+
+
+    .about.s-padding .about-content {
+
+        margin-top: 0;
+
+    }
+
+    .h6-app-screenshot.s-padding {
+
+        margin: 0;
+
+    }
+
+
+
+    .h6-app-screenshot.s-padding .s-title {
+
+        margin-top: 0;
+
+    }
+
+
+
+    .h6-feature.s-padding {
+
+        margin-left: 0;
+
+    }
+
+
+
+}
+
+
+
+@media only screen and (max-width: 320px) {
+
+    .food_banner.main-banner {
+
+        padding: 90px 10px 20px;
+
+        background-size: cover;
+
+    }
+
+    .food_banner.main-banner .started_btn {
+
+        width: auto;
+
+        margin: auto;
+
+        padding: 10px 24px;
+
+    }
+
+    .food_banner.main-banner .container .title {
+
+        font-size: 16px;
+
+        width: auto;
+
+        line-height: 25px;
+
+    }
+
+    .food_banner.main-banner .phone_no {
+
+        font-size: 14px;
+
+        width: auto;
+
+    }
+
+    .food_banner.main-banner .container .mobile_app {
+
+        display: none;
+
+    }
+
+    section.service_sec .title {
+
+        margin-bottom: 15px;
+
+        font-size: 18px;
+
+        line-height: 24px;
+
+        margin-top: 20px;
+
+    }
+
+}
+
+
+
+
+
+
+
