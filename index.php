@@ -406,9 +406,11 @@
 
                                                        <h3 class="d-block">Improve Your Website Ranking On <span>GOOGLE SEARCH ENGINE</span></h3>
 
-                                                       <p>In order to improve the rankings of the website on Google, certain measures are taken by our company. The package of Digital Marketing starts from Rs 9,999. If you want to contact us, we are just a call away.</p>
+                                                       <p>In order to improve the rankings of the website on Google, certain measures are taken by our company. Digital Marketing is continuously evolving and can be very confusing. It is critical to have a crisp, sorted-out, business-aligned strategy to get the maximum return on your investments.
 
-                                                       <dd>Rs.9,999/-</dd>
+                                                           We put together the right strategy, baseline, metrics, knowledge, techniques, and insights suitable to your business and industry.</p>
+
+
 
                                                  </div>
 
@@ -1372,9 +1374,11 @@
 
                                                        <h3 class="d-block pb-2">Improve Your Website Ranking On <span>GOOGLE SEARCH ENGINE</span></h3>
 
-                                                       <p>In order to improve the rankings of the website on Google, certain measures are taken by our company. The package of Digital Marketing starts from Rs 9,999. If you want to contact us, we are just a call away.</p>
+                                                       <p>In order to improve the rankings of the website on Google, certain measures are taken by our company.Digital Marketing is continuously evolving and can be very confusing. It is critical to have a crisp, sorted-out, business-aligned strategy to get the maximum return on your investments.
 
-                                                       <dd class="d-block pb-5">Rs.9,999/-</dd>
+                                                           We put together the right strategy, baseline, metrics, knowledge, techniques, and insights suitable to your business and industry.</p>
+
+
 
                                                  </div>
 
