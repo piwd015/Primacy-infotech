@@ -77,8 +77,8 @@
                                              <div class="row">
                                                    <div class="col-md-8">
                                                          <ul class="top-menu">
-                                                               <li><a href="/Primacy-infotech/about/about.php">About Us</a></li>
-                                                               <li><a href="/Primacy-infotech/about/our-company.php">Company</a></li>
+                                                               <li><a href="/Primacy Infotechabout/about.php">About Us</a></li>
+                                                               <li><a href="../about/our-company.php">Company</a></li>
                                                                <li><a href="#">Career</a></li>
                                                                <li><a href="#">Case Study</a></li>
                                                                <li><a href="#">Contact Us</a></li>

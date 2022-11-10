@@ -359,11 +359,11 @@
                                                          </div>
                                                  </div>
                                                  <div id="tab-3" class="tab-content2">
-                                                        <h2 class="w-100 d-block"><a href="/Primacy-infotech/oddo/odoo-erp.php">Odoo ERP</a></h2>
+                                                        <h2 class="w-100 d-block"><a href="../oddo/odoo-erp.php">Odoo ERP</a></h2>
                                                          <div class="row">
                                                              <div class="col-lg-6 col-md-6">
                                                                  <ul>
-                                                                     <li><a href="/Primacy-infotech/oddo/oddo-implementation.php"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
+                                                                     <li><a href="../oddo/oddo-implementation.php"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
                                                                      <li><a href="#"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
                                                                      <li><a href="#"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
                                                                      <li><a href="#"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
