@@ -370,7 +370,7 @@
 
                                                 <div class="col-md-12">
 
-                                                    <a href="#" class="app-serv" tabindex="0">Mobile App Development Service</a>
+                                                    <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Mobile App Development Service</a>
 
                                                 </div>
 
@@ -409,6 +409,11 @@
                                                        <p>In order to improve the rankings of the website on Google, certain measures are taken by our company. Digital Marketing is continuously evolving and can be very confusing. It is critical to have a crisp, sorted-out, business-aligned strategy to get the maximum return on your investments.
 
                                                            We put together the right strategy, baseline, metrics, knowledge, techniques, and insights suitable to your business and industry.</p>
+                                                     <div class="col-md-12">
+
+                                                         <a href="../service/digital-marketing" class="app-serv" tabindex="0">Digital Marketing Service</a>
+
+                                                     </div>
 
 
 
@@ -508,7 +513,7 @@
 
                                   <h2 class="w-100 d-block text-center pb-4"><strong>Our</strong> Clients</h2>
 
-                                  <p class="w-100 d-block text-center pb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore</p> 
+                                  <p class="w-100 d-block text-center pb-4">Primacy Infotech in a period of jouney in IT / Softwarew field, we have successfully completed one thousend + projects in our journey and </p>
 
                                   <div class="owl-carousel carousel-main clnt-sld pb-3">
 
@@ -1338,7 +1343,7 @@
 
                                                 <div class="col-md-12">
 
-                                                    <a href="#" class="app-serv" tabindex="0">Mobile App Development Service</a>
+                                                    <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Mobile App Development Service</a>
 
                                                 </div>
 
@@ -1377,6 +1382,11 @@
                                                        <p>In order to improve the rankings of the website on Google, certain measures are taken by our company.Digital Marketing is continuously evolving and can be very confusing. It is critical to have a crisp, sorted-out, business-aligned strategy to get the maximum return on your investments.
 
                                                            We put together the right strategy, baseline, metrics, knowledge, techniques, and insights suitable to your business and industry.</p>
+                                                 <div class="col-md-12">
+
+                                                     <a href="../service/digital-marketing" class="app-serv" tabindex="0">Digital Marketing Service</a>
+
+                                                 </div>
 
 
 
