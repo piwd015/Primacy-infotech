@@ -263,7 +263,7 @@
                         <div class="txt">Company</div>
                     </a>
                 </li>
-                <li><a href="../about/career.php"><i class="icofont-search-job icofont-2x"></i><br />
+                <li><a href="https://erp.primacyinfotech.com/jobs"><i class="icofont-search-job icofont-2x"></i><br />
                         <div class="txt">Career</div>
                     </a>
                 </li>
