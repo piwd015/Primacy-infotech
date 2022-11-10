@@ -292,8 +292,9 @@
                                                          <ul class="top-menu">
                                                                <li><a href="../about/about.php">About Us</a></li>
                                                                <li><a href="../about/our-company.php">Company</a></li>
-                                                               <li><a href="#">Career</a></li>
+                                                               <li><a href="https://erp.primacyinfotech.com/jobs">Career</a></li>
                                                                <li><a href="#">Case Study</a></li>
+                                                             <li><a href="https://erp.primacyinfotech.com/blog/">Blog</a></li>
                                                                <li><a href="../about/contact.php">Contact Us</a></li>
                                                          </ul>
                                                    </div>
@@ -431,7 +432,8 @@
                                                          <div class="col-lg-6 col-md-6">
                                                              <ul>
                                                                    <li><a href="../about/our-company"><i class="icofont-building icofont-1x"></i>Company</a></li>
-                                                                   <li><a href="../about/career"><i class="icofont-search-job icofont-1x"></i>Career</a></li>
+                                                                 <li><a href="https://erp.primacyinfotech.com/blog/"><i class="icofont-building icofont-1x"></i>Blog</a></li>
+                                                                   <li><a href="https://erp.primacyinfotech.com/jobs"><i class="icofont-search-job icofont-1x"></i>Career</a></li>
                                                              </ul>
                                                          </div>
                                                          <div class="col-lg-6 col-md-6">
