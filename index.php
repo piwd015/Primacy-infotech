@@ -212,7 +212,7 @@
                                                     Cost effective Solution for SME to
                                                     Multinational Company</p>
 
-                                                <a href="#" class="lrn-mr">Learn More</a>
+                                                <a href="../oddo/odoo-erp" class="lrn-mr">Learn More</a>
 
                                           </div>
 
