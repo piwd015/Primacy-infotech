@@ -152,20 +152,20 @@
                                                              <div class="col-lg-6 col-md-6">
                                                                  <ul>
                                                                      <li><a href="../oddo/oddo-implementation"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
-                                                                     <li><a href="#"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
-                                                                     <li><a href="#"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
-                                                                     <li><a href="#"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
-                                                                     <li><a href="#"><i class="icofont-test-tube-alt icofont-1x"></i>Odoo Integration</a></li>
-                                                                     <li><a href="#"><i class="icofont-cubes icofont-1x"></i>Odoo Support</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-test-tube-alt icofont-1x"></i>Odoo Integration</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-cubes icofont-1x"></i>Odoo Support</a></li>
                                                                  </ul>
                                                              </div>
                                                              <div class="col-lg-6 col-md-6">
                                                                  <ul>
-                                                                     <li><a href="#"><i class="icofont-brand-compaq icofont-1x"></i>Odoo Licensing Consultancy</a></li>
-                                                                     <li><a href="#"><i class="icofont-read-book-alt icofont-1x"></i>Odoo Training</a></li>
-                                                                     <li><a href="#"><i class="icofont-ui-browser icofont-1x"></i>Odoo Hosting</a></li>
-                                                                     <li><a href="#"><i class="icofont-ui-power icofont-1x"></i>Odoo Demo</a></li>
-                                                                     <li><a href="#"><i class="icofont-money-bag icofont-1x"></i>Odoo Pricing</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-brand-compaq icofont-1x"></i>Odoo Licensing Consultancy</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-read-book-alt icofont-1x"></i>Odoo Training</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-ui-browser icofont-1x"></i>Odoo Hosting</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-ui-power icofont-1x"></i>Odoo Demo</a></li>
+                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-money-bag icofont-1x"></i>Odoo Pricing</a></li>
                                                                  </ul>
                                                              </div>
                                                          </div>
@@ -249,7 +249,7 @@
                                              <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="assets/images/pimart-new.png" alt=""></a></div>
                                          </div>
                                          <div class="col-md-2">
-                                             <div class="piapps-logo"><a href="#" target="_blank"><img src="assets/images/odoo-logo.png" alt=""></a></div>
+                                             <div class="piapps-logo"><a href="/oddo/odoo-erp.php" target="_blank"><img src="assets/images/odoo-logo.png" alt=""></a></div>
                                          </div>
                                               </div>
                                          </div>
