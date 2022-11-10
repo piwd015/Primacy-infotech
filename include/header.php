@@ -290,11 +290,11 @@
                                              <div class="row">
                                                    <div class="col-md-8">
                                                          <ul class="top-menu">
-                                                               <li><a href="../about.php">About Us</a></li>
+                                                               <li><a href="../about/about.php">About Us</a></li>
                                                                <li><a href="../about/our-company.php">Company</a></li>
                                                                <li><a href="#">Career</a></li>
                                                                <li><a href="#">Case Study</a></li>
-                                                               <li><a href="../contact.php">Contact Us</a></li>
+                                                               <li><a href="../about/contact.php">Contact Us</a></li>
                                                          </ul>
                                                    </div>
                                                    <div class="col-md-4">
