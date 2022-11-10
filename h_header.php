@@ -62,7 +62,7 @@
                     </div>                  
                 </div>
                 <div class="col-md-2 col-12">                  
-                     <div class="header-top-right w-100 d-block text-right">
+                     <div class="header-top-right w-100 d-block text-right"><a href="https://api.whatsapp.com/send?phone=919088015865">
                            <img src="assets/images/whatsapp-icon.png" alt="">
                            <img src="assets/images/globe.png" alt="">
                      </div>
