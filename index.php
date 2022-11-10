@@ -202,7 +202,15 @@
 
                                                 <h3 class="w-100">What is Odoo ERP</h3>
 
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus.</p>
+                                                <p>THE BEST USER FRIENDLY ERP - ODOO ERP
+                                                    7 Million users around the Globe,
+                                                    Fully Integrated Software
+                                                    Impressive User Interface
+                                                    34,000+ supporting add-ons
+                                                    available from the Odoo apps store
+                                                    Single tool for any kind of business
+                                                    Cost effective Solution for SME to
+                                                    Multinational Company</p>
 
                                                 <a href="#" class="lrn-mr">Learn More</a>
 
@@ -1166,7 +1174,15 @@
 
                                             <h3 class="w-100">What is Odoo ERP</h3>
 
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum sus.</p>
+                                            <p>THE BEST USER FRIENDLY ERP - ODOO ERP
+                                                7 Million users around the Globe,
+                                                Fully Integrated Software
+                                                Impressive User Interface
+                                                34,000+ supporting add-ons
+                                                available from the Odoo apps store
+                                                Single tool for any kind of business
+                                                Cost effective Solution for SME to
+                                                Multinational Company .</p>
 
                                             <a href="#" class="lrn-mr">Learn More</a>
 
