@@ -392,11 +392,12 @@
                 <li><a href="../about/career">Career</a>
                 </li>
                 <li>
-                    <a href="../about/our-portfolios">Our Case Study</a>
+                    <a href="../about/our-portfolios">Case Study</a>
                 </li>
-
-
             </ul>
+            <li>
+                <a href="#"><i class="fas fa-envelope fa-lg"></i> Blog</a>
+            </li>
 
             <li>
                 <a href="../about/contact">
