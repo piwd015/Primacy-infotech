@@ -1101,73 +1101,73 @@
 
         <div class="mb-page">
 
-<!--            <section class="inovton-bg w-100 d-block" data-aos="fade-down">-->
-<!---->
-<!--                        <div class="container-fluid">-->
-<!---->
-<!--                         <div class="col-md-12 px-0">-->
-<!---->
-<!--                               <h3 class="w-100 d-block text-center">First Growing Software Company</h3>-->
-<!---->
-<!--                               <div class="primc-logo">-->
-<!---->
-<!--                                    <img src="assets/images/p-logo.gif" alt="">-->
-<!---->
-<!--                               </div>-->
-<!---->
-<!--                               <h2 class="w-100 d-block text-center">Innovation In Every Step</h2>-->
-<!---->
-<!--                               <ul class="w-100 d-block text-center">-->
-<!---->
-<!--                                    <li><a href="#">Odoo Implementation</a></li>-->
-<!---->
-<!--                                    <li><a href="#">Mobile Apps</a></li>-->
-<!---->
-<!--                                    <li><a href="#">Web Apps</a></li>-->
-<!---->
-<!--                                    <li><a href="#">Digital Marketing</a></li>-->
-<!---->
-<!--                               </ul>-->
-<!---->
-<!--                               <p class="d-block text-md-center text-justify">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>-->
-<!---->
-<!--                               -->
-<!---->
-<!--                         </div>-->
-<!---->
-<!--                         <div class="row">-->
-<!---->
-<!--                               <div class="col-md-9 position-relative">-->
-<!---->
-<!--                                     <div class="big-arrow down-arrow-animate-01"></div>          -->
-<!---->
-<!--                               </div>-->
-<!---->
-<!--                               <div class="col-md-3 odd-inov-pt">-->
-<!---->
-<!--                                     <div class="row">-->
-<!---->
-<!--                                         <div class="col-md-12 col-xs-12">-->
-<!---->
-<!--                                              <div class="oddo-inovation"><img src="assets/images/odoo-inovation.png" alt=""></div>-->
-<!---->
-<!--                                         </div>-->
-<!---->
-<!--                                         <div class="col-md-12 col-xs-12">-->
-<!---->
-<!--                                              <a href="#" class="odoo-partner">Partner</a>-->
-<!---->
-<!--                                         </div>-->
-<!---->
-<!--                                     </div>-->
-<!---->
-<!--                               </div>-->
-<!---->
-<!--                         </div>-->
-<!---->
-<!--                    </div>  -->
-<!---->
-<!--              </section>-->
+            <section class="inovton-bg w-100 d-block" data-aos="fade-down">
+
+                        <div class="container-fluid">
+
+                         <div class="col-md-12 px-0">
+
+                               <h3 class="w-100 d-block text-center">First Growing Software Company</h3>
+
+                               <div class="primc-logo">
+
+                                    <img src="assets/images/p-logo.gif" alt="">
+
+                               </div>
+
+                               <h2 class="w-100 d-block text-center">Innovation In Every Step</h2>
+
+                               <ul class="w-100 d-block text-center">
+
+                                    <li><a href="#">Odoo Implementation</a></li>
+
+                                    <li><a href="#">Mobile Apps</a></li>
+
+                                    <li><a href="#">Web Apps</a></li>
+
+                                    <li><a href="#">Digital Marketing</a></li>
+
+                               </ul>
+
+                               <p class="d-block text-md-center text-justify">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
+
+
+
+                         </div>
+
+                         <div class="row">
+
+                               <div class="col-md-9 position-relative">
+
+                                     <div class="big-arrow down-arrow-animate-01"></div>
+
+                               </div>
+
+                               <div class="col-md-3 odd-inov-pt">
+
+                                     <div class="row">
+
+                                         <div class="col-md-12 col-xs-12">
+
+                                              <div class="oddo-inovation"><img src="assets/images/odoo-inovation.png" alt=""></div>
+
+                                         </div>
+
+                                         <div class="col-md-12 col-xs-12">
+
+                                              <a href="#" class="odoo-partner">Partner</a>
+
+                                         </div>
+
+                                     </div>
+
+                               </div>
+
+                         </div>
+
+                    </div>
+
+              </section>
 
               <section class="product-bg-hm pag-hd w-100 d-block">
 
