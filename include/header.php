@@ -275,8 +275,9 @@
                     </div>                  
                 </div>
                 <div class="col-md-3 col-4">
-                     <div class="header-top-right w-100 d-block text-right"><a href="https://api.whatsapp.com/send?phone=919088015865">
-                           <img src="../assets/images/whatsapp-icon.png" alt="">
+                     <div class="header-top-right w-100 d-block text-right">
+                         <a href="https://api.whatsapp.com/send?phone=919088015865">
+                             <img src="../assets/images/whatsapp-icon.png" alt=""></a>
                            <img src="../assets/images/globe.png" alt="">
                      </div>
                 </div>
