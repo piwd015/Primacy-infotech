@@ -266,7 +266,7 @@
 
                                                   <div class="col-md-12">
 
-                                                       <a href="#" class="get-strtd">Get Started Free</a>
+                                                       <a href="https://piapps.in/" class="get-strtd" target="_blank">Get Started Free</a>
 
                                                   </div>
 
@@ -320,7 +320,7 @@
 
                                                 <div class="col-md-12">
 
-                                                    <a href="#" class="app-serv" tabindex="0">Custom App Development Service</a>
+                                                    <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Custom App Development Service</a>
 
                                                 </div>
 
@@ -465,7 +465,7 @@
 
                                               <p class="d-block text-left pb-3">Primacy Infotech go in for in a soup of sectors like web designing, three-dimensional and two-dimensional animations, computer-based tutorials, brochure, multimedia presentations, web-designing and software development. We originate ourselves as Primacy Infotech IT services and Products Company at KOLKATA.</p>
 
-                                               <a href="#">About Us</a>
+                                               <a href="../about/our-company">About Us</a>
 
                                         </div>
 
@@ -1007,9 +1007,9 @@
 
                                         <div class="col-md-5">
 
-                                              <div class="flag-logo"><img src="images/indian-flag.png" alt="">fghgfh</div>
+                                              <div class="flag-logo"><img src="images/basis-logo.jpg" alt=""></div>
 
-                                              <div class="flag-logo"><img src="images/enterpreneur.png" alt="">gfhgfh</div>
+                                              <div class="flag-logo"><img src="images/iso-logo.jpg" alt=""></div>
 
                                               <div class="flag-logo"><img src="images/protected.png" alt=""></div>
 
@@ -1136,11 +1136,8 @@
                          </div>
 
                          <div class="row">
-
                                <div class="col-md-9 position-relative">
-
-                                     <div class="big-arrow down-arrow-animate-01"></div>
-
+                                     <!-- <div class="big-arrow down-arrow-animate-01"></div> -->
                                </div>
 
                                <div class="col-md-3 odd-inov-pt">
@@ -1164,10 +1161,9 @@
                                </div>
 
                          </div>
+                        </div>
 
-                    </div>
-
-              </section>
+            </section>
 
               <section class="product-bg-hm pag-hd w-100 d-block">
 
@@ -1181,7 +1177,7 @@
 
                                             <h3 class="w-100">What is Odoo ERP</h3>
 
-                                            <p>THE BEST USER FRIENDLY ERP - ODOO ERP,
+                                            <p class="pb-0">THE BEST USER FRIENDLY ERP - ODOO ERP,
                                                 7 Million users around the Globe,
                                                 Fully Integrated Software ,
                                                 Impressive User Interface ,
@@ -1191,7 +1187,7 @@
                                                 Cost effective Solution for SME to
                                                 Multinational Company .</p>
 
-                                            <a href="#" class="lrn-mr">Learn More</a>
+                                            <a href="../oddo/odoo-erp" class="lrn-mr">Learn More</a>
 
                                       </div>
 
@@ -1253,7 +1249,7 @@
 
                                       <div class="col-md-12">
 
-                                           <a href="#" class="get-strtd">Get Started Free</a>
+                                           <a href="https://piapps.in/" class="get-strtd" target="_blank">Get Started Free</a>
 
                                       </div>
 
@@ -1307,7 +1303,7 @@
 
                                                     <div class="col-md-12">
 
-                                                        <a href="#" class="app-serv" tabindex="0">Custom App Development Service</a>
+                                                        <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Custom App Development Service</a>
 
                                                     </div>
 
@@ -1384,7 +1380,7 @@
                                                            We put together the right strategy, baseline, metrics, knowledge, techniques, and insights suitable to your business and industry.</p>
                                                  <div class="col-md-12">
 
-                                                     <a href="../service/digital-marketing" class="app-serv" tabindex="0">Digital Marketing Service</a>
+                                                     <a href="../service/digital-marketing" class="app-serv digi-serv" tabindex="0">Digital Marketing Service</a>
 
                                                  </div>
 
@@ -1428,7 +1424,7 @@
 
                                           <p class="d-block text-left pb-3">Primacy Infotech go in for in a soup of sectors like web designing, three-dimensional and two-dimensional animations, computer-based tutorials, brochure, multimedia presentations, web-designing and software development. We originate ourselves as Primacy Infotech IT services and Products Company at KOLKATA.</p>
 
-                                           <a href="#">About Us</a>
+                                           <a href="../about/our-company">About Us</a>
 
                                     </div>
 
