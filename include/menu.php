@@ -226,10 +226,6 @@
                       About Us</a>
 
               <ul class="my-col-2">
-                  <!--  <li><a href="#"><i class="icofont-question-square icofont-2x"></i><br />
-                           <div class="txt">Why Us</div>
-                       </a>
-                   </li>-->
                    <li>
                        <a href="../about/our-company"><i class="icofont-building icofont-2x"></i><br />
                            <div class="txt">Company</div>
@@ -239,29 +235,15 @@
                           <div class="txt">Career</div>
                       </a>
                   </li>
-                  <!-- <li><a href="#"><i class="icofont-building-alt icofont-2x"></i><br />
-                          <div class="txt">Infrastructure</div>
-                      </a>
-                  </li>
-                  <li><a href="#"><i class="icofont-team icofont-2x"></i><br />
-                          <div class="txt">Team</div>
-                      </a>
-                  </li>-->
                   <li><a href="../about/our-portfolios"><i class="icofont-notebook icofont-2x"></i><br />
-                          <div class="txt">Our Case Study</div>
+                          <div class="txt">Case Study</div>
                       </a>
                   </li>
-
               </ul>
-
-
-
           </li>
-
+           <li><a class="noflyout selected" href="#"><i class="fas fa-envelope"></i><br>Blog</a></li>
           <li><a class="noflyout selected" href="../about/contact"><i class="fas fa-envelope"></i><br>Contact Us</a></li>
-
       </ul>
-
   </div>
   <!--end side menuu on desktop-->
 
@@ -400,68 +382,21 @@
                 </li>
                 <li><a href="../industry/industry-media">Media</a>
                 </li>
-
-
             </ul>
-
-
-            <!--
-                            <li data-toggle="collapse" data-target="#about" class="collapsed">
-                              <a href="#"><i class="fa fa-globe fa-lg"></i> Industry<span class="arrow"></span></a>
-                            </li>
-                            <ul class="sub-menu collapse" id="about">
-
-                                       <li><a href="why-us">Why Us</a>
-                                </li>
-                                  <li><a href="our-company">Company</a>
-                                </li>
-                                  <li><a href="career">Career</a>
-                                </li>
-                                   <li><a href="#">Infrastructure</a>
-                                </li>
-                                <li><a href="#">Team</a>
-                                </li>
-                                <li><a href="industry-media">Media</a>
-                                </li>
-
-
-                            </ul>
-            -->
             <li data-toggle="collapse" data-target="#about3" class="collapsed">
                 <a href="#"><i class="fas fa-paper-plane fa-lg"></i> About Us <span class="arrow"></span></a>
             </li>
             <ul class="sub-menu collapse" id="about3">
-
-                <!--                           <li><a href="why-us">Why Us</a>-->
-                <!--<li><a href="#">Why Us</a>
-                </li>-->
                 <li><a href="../about/our-company">Company</a>
                 </li>
                 <li><a href="../about/career">Career</a>
                 </li>
-                <!-- <li><a href="#">Infrastructure</a>
-                 </li>
-                 <li><a href="#">Team</a>
-                 </li>
-                 --><li>
-                     <!--                    <a href="sucess-story">Our Case Study</a>-->
+                <li>
                     <a href="../about/our-portfolios">Our Case Study</a>
                 </li>
 
 
             </ul>
-            <!--   <li>
-               <a href="about">
-               <i class="fa fa-user fa-lg"></i> About Us
-               </a>
-               </li>-->
-            <!-- vb
-                             <li>
-                              <a href="our-company">
-                              <i class="fa fa-user fa-lg"></i> Company
-                              </a>
-                              </li>
-            -->
 
             <li>
                 <a href="../about/contact">

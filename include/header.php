@@ -293,7 +293,7 @@
                                                          <ul class="top-menu">
                                                                <li><a href="../about/our-company.php">About Us</a></li>
                                                                <li><a href="https://erp.primacyinfotech.com/jobs">Career</a></li>
-                                                               <li><a href="#">Case Study</a></li>
+                                                               <li><a href="../about/our-portfolios">Case Study</a></li>
                                                              <li><a href="https://erp.primacyinfotech.com/blog/">Blog</a></li>
                                                                <li><a href="../about/contact.php">Contact Us</a></li>
                                                          </ul>
