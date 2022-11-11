@@ -1109,11 +1109,11 @@
 
                                <h3 class="w-100 d-block text-center">First Growing Software Company</h3>
 
-                               <div class="primc-logo">
-
-                                    <img src="assets/images/p-logo.gif" alt="">
-
-                               </div>
+<!--                               <div class="primc-logo">-->
+<!---->
+<!--                                    <img src="assets/images/p-logo.gif" alt="">-->
+<!---->
+<!--                               </div>-->
 
                                <h2 class="w-100 d-block text-center">Innovation In Every Step</h2>
 
