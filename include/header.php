@@ -251,7 +251,7 @@
     </div>
 </div>
 
-<div class="top" data-aos="fade-down">
+<div class="top pb-2" data-aos="fade-down">
     <div class="container-fluid">
         <div class="row">
                 <div class="col-md-2 pic0"><a href="../"><img src="../assets/images/logo-p.png" alt="primacy logo"></a></div>
