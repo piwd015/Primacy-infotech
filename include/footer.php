@@ -27,8 +27,8 @@
                                                  </div>
                                             </div>
                                             <div class="col-md-5">
-                                                  <div class="flag-logo"><img src="../images/indian-flag.png" alt=""></div>
-                                                  <div class="flag-logo"><img src="../images/enterpreneur.png" alt=""></div>
+                                                  <div class="flag-logo"><img src="images/basis-logo.jpg" alt=""></div>
+                                                  <div class="flag-logo"><img src="images/iso-logo.jpg" alt=""></div>
                                                   <div class="flag-logo"><img src="../images/protected.png" alt=""></div>
                                                   <div class="col-md-12 flag-lgo-sps">
                                                       <div class="flag-logo"><img src="../images/mobile-app-logo.png" class="flag-logo-pt" alt=""></div>
