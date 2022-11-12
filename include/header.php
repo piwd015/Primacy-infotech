@@ -254,222 +254,222 @@
 <div class="top pb-2" data-aos="fade-down">
     <div class="container-fluid">
         <div class="row">
-                <div class="col-md-2 col-12 hm-lgo pic0"><a href="../"><img src="../assets/images/logo-p.png" alt="primacy logo"></a></div>
-                <div class="col-md-6 col-12">
-                    <div class="c-mob">
-                        <div class="col-md-4">
-                            <img src="../assets/images/inddd.png" alt="india">&nbsp;
-                            <a href="tel:+91 9088015866" class="">+91 9088015866 </a><a href="tel:+91 9088015865" class="">/65</a>
-                        </div>
-                        <div class="col-md-4">
-                            <img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="canada">
-                            <a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a>
-                        </div>
+            <div class="col-md-2 col-12 pic0"><a href="../"><img src="assets/images/logo-p.png" alt="primacy logo"></a></div>
+            <div class="col-md-6 col-12">
+                <div class="c-mob">
+                    <div class="col-md-4">
+                        <img src="assets/images/inddd.png" alt="india">&nbsp;
+                        <a href="tel:+91 9088015866" class="">+91 9088015866 </a><a href="tel:+91 9088015865" class="">/65</a>
+                    </div>
+                    <div class="col-md-4">
+                        <img width="16" height="11" src="assets/images/canada-flag-xs.png" alt="canada">
+                        <a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a>
+                    </div>
 
-                        <div class="col-md-4">
+                    <div class="col-md-4">
 
-                            <img width="16" height="11" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"> &nbsp;
+                        <img width="16" height="11" src="assets/images/bangladesh-flag-xs.png" alt="bangladesh"> &nbsp;
 
-                            <a href="tel:+88 01759787636" class="Blondie-email">+88 01759787636</a>
-                        </div>
-                    </div>                  
+                        <a href="tel:+88 01759787636" class="Blondie-email">+88 01759787636</a>
+                    </div>
                 </div>
-                <div class="col-md-3 col-12">
-                     <div class="header-top-right w-100 d-block text-right insd-hdr">
-                         <a href="https://api.whatsapp.com/send?phone=919088015865">
-                             <img src="../assets/images/whatsapp-icon.png" alt=""></a>
-                           <img src="../assets/images/globe.png" alt="">
-                     </div>
+            </div>
+            <div class="col-md-3 col-12">
+                <div class="header-top-right w-100 d-block text-right">
+                    <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
+                    <a href="#"><img src="assets/images/globe.png" alt=""></a>
                 </div>
-                <div class="col-md-1 tgl-mt hd-menu">
-                        <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
-                        <div id="myCanvs" class="overlay2">
-                               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-                               <div class="overlay2-content">
-                                  <div class="row">
-                                        <div class="col-md-12 menu-black-bg">
-                                             <div class="row">
-                                                   <div class="col-md-8">
-                                                         <ul class="top-menu">
-                                                               <li><a href="../about/our-company.php">About Us</a></li>
-                                                               <li><a href="https://erp.primacyinfotech.com/jobs">Career</a></li>
-                                                               <li><a href="../about/our-portfolios">Case Study</a></li>
-                                                             <li><a href="https://erp.primacyinfotech.com/blog/">Blog</a></li>
-                                                               <li><a href="../about/contact.php">Contact Us</a></li>
-                                                         </ul>
-                                                   </div>
-                                                   <div class="col-md-4">
-                                                         <ul class="wld-flg">
-                                                             <li><a href="#"><img src="../assets/images/canada-flag-icon.png"></a></li>
-                                                             <li><a href="#"><img src="../assets/images/uk-flag-icon.png"></a></li>
-                                                             <li><a href="#"><img src="../assets/images/indian-flag.png"></a></li>
-                                                             <li><a href="#"><img src="../assets/images/bangladesh-flag-xs.png"></a></li>
-                                                         </ul>
-                                                    </div>
-                                             </div>
+            </div>
+            <div class="col-md-1 tgl-mt hd-menu">
+                <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
+                <div id="myCanvs" class="overlay2">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+                    <div class="overlay2-content">
+                        <div class="row">
+                            <div class="col-md-12 menu-black-bg">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <ul class="top-menu">
+                                            <li><a href="../about/about.php">About Us</a></li>
+                                            <li><a href="https://erp.primacyinfotech.com/jobs">Career</a></li>
+                                            <li><a href="../about/our-portfolios">Case Study</a></li>
+                                            <li><a href="https://erp.primacyinfotech.com/blog/">Blog</a></li>
+                                            <li><a href="../about/contact.php">Contact Us</a></li>
+
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <ul class="wld-flg">
+                                            <li><a href="#"><img src="assets/images/canada-flag-icon.png"></a></li>
+                                            <li><a href="#"><img src="assets/images/uk-flag-icon.png"></a></li>
+                                            <li><a href="#"><img src="assets/images/indian-flag.png"></a></li>
+                                            <li><a href="#"><img src="assets/images/bangladesh-flag-xs.png"></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <ul class="tabs2 w-100 d-block">
+                                    <li class="tab2" data-tab="tab-1"><i class="fas fa-desktop"></i><span id="text">Services</span></li>
+                                    <li class="tab2" data-tab="tab-2"><i class="far fa-compass"></i><span id="text">Solution</span></li>
+                                    <li class="tab2" data-tab="tab-3"><i class="fa fa-graduation-cap" aria-hidden="true"></i><span id="text">Odoo</span></li>
+                                    <li class="tab2" data-tab="tab-4"><i class="fas fa-globe"></i><span id="text">Product</span></li>
+                                    <li class="tab2" data-tab="tab-5"><i class="fa fa-industry" aria-hidden="true"></i><span id="text">Industry</span></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-8 pr-0">
+                                <div id="tab-1" class="tab-content2 current">
+                                    <h2 class="w-100 d-block">Web Development Services</h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../service/web-developement"><i class="icofont-code icofont-1x"></i>Web Development</a></li>
+                                                <li><a href="../service/web-designing"><i class="icofont-dashboard-web icofont-1x"></i>Web Designing</a></li>
+                                                <li><a href="../service/mobile-app-developemnt"><i class="icofont-brand-android-robot icofont-1x"></i>Apps Development</a></li>
+                                                <li><a href="../service/crm-erp-portal-development"><i class="icofont-computer icofont-1x"></i>CRM &amp; ERP Development </a></li>
+                                            </ul>
                                         </div>
-
-                                         <div class="col-md-4">
-                                                 <ul class="tabs2 w-100 d-block">
-                                                     <li class="tab2" data-tab="tab-1"><i class="fas fa-desktop"></i><span id="text">Services</span></li>
-                                                     <li class="tab2" data-tab="tab-2"><i class="far fa-compass"></i><span id="text">Solution</span></li>
-                                                     <li class="tab2" data-tab="tab-3"><i class="fa fa-graduation-cap" aria-hidden="true"></i><span id="text">Odoo</span></li>
-                                                     <li class="tab2" data-tab="tab-4"><i class="fas fa-globe"></i><span id="text">Product</span></li>
-                                                     <li class="tab2" data-tab="tab-5"><i class="fa fa-industry" aria-hidden="true"></i><span id="text">Industry</span></li>
-                                                 </ul>
-                                         </div>
-                                         <div class="col-md-8 pr-0">
-                                                 <div id="tab-1" class="tab-content2 current">
-                                                 <h2 class="w-100 d-block">Web Development Services</h2>
-                                                 <div class="row">
-                                                     <div class="col-lg-6 col-md-6">
-                                               <ul>
-                                                   <li><a href="/service/web-developement"><i class="icofont-code icofont-1x"></i>Web Development</a></li>
-                                                   <li><a href="/service/web-designing"><i class="icofont-dashboard-web icofont-1x"></i>Web Designing</a></li>
-                                                   <li><a href="/service/mobile-app-developemnt"><i class="icofont-brand-android-robot icofont-1x"></i>Apps Development</a></li>
-                                                   <li><a href="/service/crm-erp-portal-development"><i class="icofont-computer icofont-1x"></i>CRM & ERP Development </a></li>
-                                               </ul>
-                                                     </div>
-                                                     <div class="col-lg-6 col-md-6">
-                                                         <ul>
-                                                             <li><a href="/service/digital-marketing"><i class="icofont-automation icofont-1x"></i>Digital Marketing</a></li>
-                                                             <li><a href="../service/ui-ux-desing"><i class="icofont-penalty-card icofont-1x"></i>UI/UX Design</a></li>
-                                                             <li><a href="../service/mlm-software-development.php"><i class="icofont-company icofont-1x"></i>MLM Software Development</a></li>
-                                                             <li><a href="../service/health-care-mangment"><i class="icofont-company icofont-1x"></i>Halthcare Portal Development</a></li>
-                                                         </ul>
-                                                     </div>
-                                                 </div>
-                                                 </div>
-                                                 <div id="tab-2" class="tab-content2">
-                                                         <h2 class="w-100 d-block">We are Solve this Solution</h2>
-                                                         <div class="row">
-                                                             <div class="col-lg-6 col-md-6">
-                                                                 <ul>
-                                                                     <li><a href="http://www.travelbusinessportal.com/"><i class="icofont-airplane-alt icofont-1x"></i>Travel Portal</a></li>
-                                                                     <li><a href="http://primacycms.com/"><i class="icofont-building-alt icofont-1x"></i>PrimacyCMS</a></li>
-                                                                     <li><a href="../product/school-managmest-system"><i class="icofont-building-alt icofont-1x"></i>School Management System</a></li>
-                                                                 </ul>
-                                                             </div>
-                                                             <div class="col-lg-6 col-md-6">
-                                                                 <ul>
-                                                                     <li><a href="../product/portal-accounting"><i class="icofont-paper icofont-1x"></i>Accounting & Pos Software</a></li>
-                                                                     <li><a href="../product/ludo-gaming-app.php"><i class="icofont-paper icofont-1x"></i>Ludo Game Development</a></li>
-                                                                     <li><a href="../product/tambola-gaming.php"><i class="icofont-paper icofont-1x"></i>Tambola Game Development</a></li>
-                                                                 </ul>
-                                                             </div>
-                                                         </div>
-                                                 </div>
-                                                 <div id="tab-3" class="tab-content2">
-                                                        <h2 class="w-100 d-block"><a href="../oddo/odoo-erp.php">Odoo ERP</a></h2>
-                                                         <div class="row">
-                                                             <div class="col-lg-6 col-md-6">
-                                                                 <ul>
-                                                                     <li><a href="../oddo/oddo-implementation.php"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-test-tube-alt icofont-1x"></i>Odoo Integration</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-cubes icofont-1x"></i>Odoo Support</a></li>
-                                                                 </ul>
-                                                             </div>
-                                                             <div class="col-lg-6 col-md-6">
-                                                                 <ul>
-                                                                     <li><a href="#../oddo/odoo-erp"><i class="icofont-brand-compaq icofont-1x"></i>Odoo Licensing Consultancy</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-read-book-alt icofont-1x"></i>Odoo Training</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-ui-browser icofont-1x"></i>Odoo Hosting</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-ui-power icofont-1x"></i>Odoo Demo</a></li>
-                                                                     <li><a href="../oddo/odoo-erp"><i class="icofont-money-bag icofont-1x"></i>Odoo Pricing</a></li>
-                                                                 </ul>
-                                                             </div>
-                                                         </div>
-                                                 </div>
-                                                 <div id="tab-4" class="tab-content2">
-                                                     <h2 class="w-100 d-block">Mobile App Product</h2>
-                                                     <div class="row">
-                                                         <div class="col-lg-6 col-md-6">
-                                                             <ul>
-                                                                     <li><a href="../product/readymade-ecommerces-app"><i class="icofont-shopping-cart icofont-1x"></i>Ecommerce App</a></li>
-                                                                     <li><a href="../product/readymade-pharmacy-app"><i class="icofont-doctor icofont-1x"></i>Pharmacy App</a></li>
-                                                                    <li><a href="../product/readymade-grocery-delivery-app"><i class="icofont-grocery icofont-1x"></i>Grocery Delivery App</a></li>
-                                                                    <li><a href="../product/recharge-bill-payment-portal-b2b-b2c"><i class="icofont-brand-china-mobile icofont-1x"></i>B2B & b2C Portal</a></li>
-                                                                     <li><a href="../product/readymade-online-education-app"><i class="icofont-learn icofont-1x"></i>Online Education App</a></li>
-                                                             </ul>
-                                                         </div>
-                                                         <div class="col-lg-6 col-md-6">
-                                                             <ul>
-                                                                 <li><a href="../product/loan-mangment-system"><i class="icofont-money-bag icofont-1x"></i>Loan Management System</a></li>
-                                                                 <li><a href="../product/readymade-video-streaming-app"><i class="icofont-video-cam icofont-1x"></i>Video streaming app</a></li></li>
-                                                                 <li><a href="../product/readymade-realestate-portal"><i class="icofont-search-property icofont-1x"></i>Realestate Portal</a></li>
-                                                                 <li><a href="../product/readymade-cab-booking-app"> <i class="icofont-car-alt-1 icofont-1x"></i>Cab booking App</a></li>
-                                                             </ul>
-                                                         </div>
-                                                     </div>
-                                                 </div>
-                                                 <div id="tab-5" class="tab-content2">
-                                                     <h2 class="w-100 d-block">Industry Services</h2>
-                                                     <div class="row">
-                                                         <div class="col-lg-6 col-md-6">
-                                                             <ul>
-                                                                 <li><a href="../industry/industry-healthcare"><i class="icofont-doctor icofont-1x"></i>Healthcare</a></li>
-                                                                 <li><a target="_blank" href="http://www.travelbusinessportal.com/"><i class="icofont-airplane-alt icofont-1x"></i>Travel</a></li>
-                                                                 <li><a href="../industry/industry-education"><i class="icofont-paper icofont-1x"></i>Education</a></li>
-                                                                 <li><a href="../industry/industry-retail"><i class="icofont-ui-cart icofont-1x"></i>Retail</a></li>
-                                                             </ul>
-                                                         </div>
-                                                         <div class="col-lg-6 col-md-6">
-                                                             <ul>
-                                                                 <li><a href="../industry/industry-media"><i class="icofont-newspaper icofont-1x"></i>Media</a></li>
-                                                                 <li><a href="../industry/industry-bankin-finance"><i class="icofont-bank icofont-1x"></i>Banking </a></li>
-                                                                 <li><a href="../industry/industry-goverment"><i class="icofont-man-in-glasses icofont-1x"></i>Goverment</a></li>
-                                                                 <li><a href="../industry/industry-insurance"><i class="icofont-company icofont-1x"></i>Insurance</a></li>
-                                                             </ul>
-                                                         </div>
-                                                     </div>
-                                                 </div>
-                                                 <div id="tab-6" class="tab-content2">
-                                                     <h2 class="w-100 d-block">About Us</h2>
-                                                     <div class="row">
-                                                         <div class="col-lg-6 col-md-6">
-                                                             <ul>
-                                                                   <li><a href="../about/our-company"><i class="icofont-building icofont-1x"></i>Company</a></li>
-                                                                 <li><a href="https://erp.primacyinfotech.com/blog/"><i class="icofont-building icofont-1x"></i>Blog</a></li>
-                                                                   <li><a href="https://erp.primacyinfotech.com/jobs"><i class="icofont-search-job icofont-1x"></i>Career</a></li>
-                                                             </ul>
-                                                         </div>
-                                                         <div class="col-lg-6 col-md-6">
-                                                             <ul>
-                                                                   <li><a href="../about/our-portfolios"><i class="icofont-notebook icofont-1x"></i>Our Case Study</a></li>
-                                                             </ul>
-                                                         </div>
-                                                     </div>
-                                                 </div>
-                                         </div>
-                                         <div class="col-md-12">
-                                              <div class="row">
-                                                  <div class="col-md-2">
-                                              <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/piapps.png" alt=""></a></div>
-                                          </div>
-                                         <div class="col-md-2">
-                                               <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/piresto-new.png" alt=""></a></div>
-                                         </div>
-                                         <div class="col-md-2">
-                                             <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/pistore-new.png" alt=""></a></div>
-                                         </div>
-                                         <div class="col-md-2">
-                                             <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/pimed-new.png" alt=""></a></div>
-                                         </div>
-                                         <div class="col-md-2">
-                                             <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/pimart-new.png" alt=""></a></div>
-                                         </div>
-                                         <div class="col-md-2">
-                                             <div class="piapps-logo"><a href="../oddo/odoo-erp.php" target="_blank"><img src="../assets/images/odoo-logo.png" alt=""></a></div>
-                                         </div>
-                                              </div>
-                                         </div>
-                                  </div>
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../service/digital-marketing"><i class="icofont-automation icofont-1x"></i>Digital Marketing</a></li>
+                                                <li><a href="../service/ui-ux-desing"><i class="icofont-penalty-card icofont-1x"></i>UI/UX Design</a></li>
+                                                <li><a href="../service/mlm-software-development.php"><i class="icofont-company icofont-1x"></i>MLM Software Development</a></li>
+                                                <li><a href="../service/health-care-mangment"><i class="icofont-company icofont-1x"></i>Halthcare Portal Development</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="tab-2" class="tab-content2">
+                                    <h2 class="w-100 d-block">We are Solve this Solution</h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="http://www.travelbusinessportal.com/"><i class="icofont-airplane-alt icofont-1x"></i>Travel Portal</a></li>
+                                                <li><a href="http://primacycms.com/"><i class="icofont-building-alt icofont-1x"></i>PrimacyCMS</a></li>
+                                                <li><a href="../product/school-managmest-system"><i class="icofont-building-alt icofont-1x"></i>School Management System</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../product/portal-accounting"><i class="icofont-paper icofont-1x"></i>Accounting &amp; Pos Software</a></li>
+                                                <li><a href="../product/ludo-gaming-app.php"><i class="icofont-paper icofont-1x"></i>Ludo Game Development</a></li>
+                                                <li><a href="../product/tambola-gaming.php"><i class="icofont-paper icofont-1x"></i>Tambola Game Development</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="tab-3" class="tab-content2">
+                                    <h2 class="w-100 d-block"><a href="../oddo/odoo-erp">Odoo ERP</a></h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../oddo/oddo-implementation"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-test-tube-alt icofont-1x"></i>Odoo Integration</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-cubes icofont-1x"></i>Odoo Support</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-brand-compaq icofont-1x"></i>Odoo Licensing Consultancy</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-read-book-alt icofont-1x"></i>Odoo Training</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-ui-browser icofont-1x"></i>Odoo Hosting</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-ui-power icofont-1x"></i>Odoo Demo</a></li>
+                                                <li><a href="../oddo/odoo-erp"><i class="icofont-money-bag icofont-1x"></i>Odoo Pricing</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="tab-4" class="tab-content2">
+                                    <h2 class="w-100 d-block">Mobile App Product</h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../product/readymade-ecommerces-app"><i class="icofont-shopping-cart icofont-1x"></i>Ecommerce App</a></li>
+                                                <li><a href="../product/readymade-pharmacy-app"><i class="icofont-doctor icofont-1x"></i>Pharmacy App</a></li>
+                                                <li><a href="../product/readymade-grocery-delivery-app"><i class="icofont-grocery icofont-1x"></i>Grocery Delivery App</a></li>
+                                                <li><a href="../product/recharge-bill-payment-portal-b2b-b2c"><i class="icofont-brand-china-mobile icofont-1x"></i>B2B &amp; b2C Portal</a></li>
+                                                <li><a href="../product/readymade-online-education-app"><i class="icofont-learn icofont-1x"></i>Online Education App</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../product/loan-mangment-system"><i class="icofont-money-bag icofont-1x"></i>Loan Management System</a></li>
+                                                <li><a href="../product/readymade-video-streaming-app"><i class="icofont-video-cam icofont-1x"></i>Video streaming app</a></li>
+                                                <li><a href="../product/readymade-realestate-portal"><i class="icofont-search-property icofont-1x"></i>Realestate Portal</a></li>
+                                                <li><a href="../product/readymade-cab-booking-app"> <i class="icofont-car-alt-1 icofont-1x"></i>Cab booking App</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="tab-5" class="tab-content2">
+                                    <h2 class="w-100 d-block">Industry Services</h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../industry/industry-healthcare"><i class="icofont-doctor icofont-1x"></i>Healthcare</a></li>
+                                                <li><a target="_blank" href="http://www.travelbusinessportal.com/"><i class="icofont-airplane-alt icofont-1x"></i>Travel</a></li>
+                                                <li><a href="../industry/industry-education"><i class="icofont-paper icofont-1x"></i>Education</a></li>
+                                                <li><a href="../industry/industry-retail"><i class="icofont-ui-cart icofont-1x"></i>Retail</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../industry/industry-media"><i class="icofont-newspaper icofont-1x"></i>Media</a></li>
+                                                <li><a href="../industry/industry-bankin-finance"><i class="icofont-bank icofont-1x"></i>Banking </a></li>
+                                                <li><a href="../industry/industry-goverment"><i class="icofont-man-in-glasses icofont-1x"></i>Goverment</a></li>
+                                                <li><a href="../industry/industry-insurance"><i class="icofont-company icofont-1x"></i>Insurance</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="tab-6" class="tab-content2">
+                                    <h2 class="w-100 d-block">About Us</h2>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="#"><i class="icofont-building icofont-1x"></i>Company</a></li>
+                                                <li><a href="https://erp.primacyinfotech.com/jobs"><i class="icofont-search-job icofont-1x"></i>Career</a></li>
+                                                <li><a href="https://erp.primacyinfotech.com/blog/"><i class="icofont-building icofont-1x"></i>Blog</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6">
+                                            <ul>
+                                                <li><a href="../about/our-portfolios"><i class="icofont-notebook icofont-1x"></i>Our Case Study</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="assets/images/piapps.png" alt=""></a></div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="assets/images/piresto-new.png" alt=""></a></div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="assets/images/pistore-new.png" alt=""></a></div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="assets/images/pimed-new.png" alt=""></a></div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="assets/images/pimart-new.png" alt=""></a></div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="/oddo/odoo-erp.php" target="_blank"><img src="assets/images/odoo-logo.png" alt=""></a></div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+                    </div>
                 </div>
+            </div>
         </div>
     </div>
 </div>
