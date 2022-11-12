@@ -121,19 +121,19 @@
 
 </li>
 
-							<li><i class="fas fa-cog fa-spin"></i> &nbsp;•	Latest technology is attached to it 
+							<li><i class="fas fa-cog fa-spin"></i> Latest technology is attached to it
 
 
 
 </li>
 
-							<li><i class="fas fa-cog fa-spin"></i> &nbsp;•	Output is extensive
+							<li><i class="fas fa-cog fa-spin"></i> Output is extensive
 
 
 
 </li>
 
-							<li><i class="fas fa-cog fa-spin"></i> &nbsp;•	Experts involved are very much experienced and smart 
+							<li><i class="fas fa-cog fa-spin"></i> Experts involved are very much experienced and smart
 
 
 
