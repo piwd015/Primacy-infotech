@@ -248,7 +248,7 @@
 
 	<section class="quick-overview s-padding pb-4">
 		<div class="container-fluid px-md-5 px-4">
-			<div class="s-title mt-0 mb-4 pb-4">
+			<div class="s-title mt-0 mb-4 pb-md-0 pb-4">
 				<h2><span class="logo-color">Q</span>uick Overview</h2>
 			</div>
 			<div class="row">
