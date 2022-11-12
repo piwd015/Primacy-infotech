@@ -254,21 +254,21 @@
 <div class="top pb-2" data-aos="fade-down">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-2 col-12 pic0"><a href="../"><img src="assets/images/logo-p.png" alt="primacy logo"></a></div>
+            <div class="col-md-2 col-12 pic0"><a href="../"><img src="../assets/images/logo-p.png" alt="primacy logo"></a></div>
             <div class="col-md-6 col-12">
                 <div class="c-mob">
                     <div class="col-md-4">
-                        <img src="assets/images/inddd.png" alt="india">&nbsp;
+                        <img src="../assets/images/inddd.png" alt="india">&nbsp;
                         <a href="tel:+91 9088015866" class="">+91 9088015866 </a><a href="tel:+91 9088015865" class="">/65</a>
                     </div>
                     <div class="col-md-4">
-                        <img width="16" height="11" src="assets/images/canada-flag-xs.png" alt="canada">
+                        <img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="canada">
                         <a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a>
                     </div>
 
                     <div class="col-md-4">
 
-                        <img width="16" height="11" src="assets/images/bangladesh-flag-xs.png" alt="bangladesh"> &nbsp;
+                        <img width="16" height="11" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"> &nbsp;
 
                         <a href="tel:+88 01759787636" class="Blondie-email">+88 01759787636</a>
                     </div>
@@ -276,8 +276,8 @@
             </div>
             <div class="col-md-3 col-12">
                 <div class="header-top-right w-100 d-block text-right">
-                    <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
-                    <a href="#"><img src="assets/images/globe.png" alt=""></a>
+                    <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="../assets/images/whatsapp-icon.png" alt=""></a>
+                    <a href="#"><img src="../assets/images/globe.png" alt=""></a>
                 </div>
             </div>
             <div class="col-md-1 tgl-mt hd-menu">
