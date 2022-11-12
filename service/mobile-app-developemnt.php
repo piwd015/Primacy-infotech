@@ -103,7 +103,7 @@
 
 						<ul  style="color:#202020;list-style:none;line-height:30px;">
 
-						<li><i class="fas fa-cog fa-spin"></i> &nbsp;•	It is cost-effective and affordable as well. 
+						<li><i class="fas fa-cog fa-spin"></i> It is cost-effective and affordable as well.
 
 
 
@@ -111,11 +111,11 @@
 
 </li>
 
-							<li><i class="fas fa-cog fa-spin"></i> &nbsp;•	Reliability is huge.
+							<li><i class="fas fa-cog fa-spin"></i> Reliability is huge.
 
 </li>
 
-							<li><i class="fas fa-cog fa-spin"></i> &nbsp;•	The best customer support is available for the development of app.
+							<li><i class="fas fa-cog fa-spin"></i> The best customer support is available for the development of app.
 
 
 
