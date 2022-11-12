@@ -46,12 +46,12 @@
                                                <div class="ftr-menu">
                                                   <h2><i class="icofont-ui-wifi"></i> Quick Links</h2>
                                                   <ul class="quick-link">
-                                                      <li><dd></dd><a href="#">Home</a></li>
-                                                      <li><dd></dd><a href="#">About Us</a></li>
-                                                      <li><dd></dd><a href="#">Company</a></li>
-                                                      <li><dd></dd><a href="#">Privacy Policy</a></li>
-                                                      <li><dd></dd><a href="#">Terms & Condition</a></li>
-                                                      <li><dd></dd><a href="#">Refund & Cancellation Policy</a></li>
+                                                      <li><dd></dd><a href="../">Home</a></li>
+                                                      <li><dd></dd><a href="../about/about">About Us</a></li>
+                                                      <li><dd></dd><a href="../about/our-company">Company</a></li>
+                                                      <li><dd></dd><a href="../about/privacy-policy">Privacy Policy</a></li>
+                                                      <li><dd></dd><a href="../about/terms-of-service">Terms & Condition</a></li>
+                                                      <li><dd></dd><a href="../about/refund-cancellation-policy">Refund & Cancellation Policy</a></li>
                                                   </ul>
                                                </div>
                                                <div class="ftr-menu ftr-menu-pt0 position-relative">

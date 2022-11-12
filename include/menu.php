@@ -396,7 +396,7 @@
                 </li>
             </ul>
             <li>
-                <a href="#"><i class="fas fa-blog"></i> Blog</a>
+                <a href="#"><i class="fa-solid fa-blog"></i> Blog</a>
             </li>
 
             <li>
