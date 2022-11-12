@@ -11,6 +11,7 @@ height:100vh; background-size:100% 100%; padding:70px 0px 0px; position:relative
 .oddo-imple-bnr h1{font-size:45px; color:#fff; text-transform:uppercase; font-weight:300;
 
 text-align:left;}
+.oddo-imple-bnr h1 br{display:block;}
 
 .oddo-imple-bnr ul{padding:0px; margin:0px; width: 85%;}
 
@@ -2023,6 +2024,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
 .insd-hdr{top:-35px;}
 .hm-lgo{z-index:100; top:-35px;}
  .oddo-imple-bnr{padding-top:55px;}
+ .oddo-imple-bnr h1 br{display:none;}
 }
 
 
