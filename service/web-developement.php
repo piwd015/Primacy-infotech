@@ -268,7 +268,7 @@
 	</section>
 
 	<!-- awesome-feature -->
-		<section class="video-sec bg-img bg-2">
+		<section class="video-sec bg-img bg-2 mt-md-0 mt-3">
 		<div class="overlay"></div>
 		<div class="container">
 			<div class="row">
