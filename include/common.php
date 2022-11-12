@@ -133,7 +133,7 @@
 <section class="testimonial bg-color">
     <div class="bg-text">Feedback</div>
     <div class="container-fluid px-md-5">
-        <div class="s-title mt-0 mb-5">
+        <div class="s-title mt-md-0 mt-3 mb-5">
             <h2><span class="logo-color">W</span>hat Customer Says</h2>
             <p></p>
         </div>
