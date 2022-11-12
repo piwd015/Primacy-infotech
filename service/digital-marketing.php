@@ -253,7 +253,7 @@
 			</div>
 			<div class="row">
 				<div class="col-12">
-					<div class="quick-overview-tab-wrapper text-center">
+					<div class="quick-overview-tab-wrapper text-center pt-md-0 pt-4">
 						<ul class="nav nav-tabs quick-overview-tab" id="overviewtab" role="tablist">
 							<li class="nav-item">
 						    	<a class="nav-link active" id="qa-tab1" data-toggle="tab" href="#qa-tab-content1" role="tab">SEO FEATURES</a>
