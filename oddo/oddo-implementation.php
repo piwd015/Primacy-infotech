@@ -572,7 +572,7 @@
                         </div>
                 </div>
       </section>
-      <section class="float-left w-100 d-block pb-5 mb-5">
+      <section class="w-100 d-block pb-5 mb-5">
       	     <div class="container odo-faq">
       	     	   <h2 class="w-100 d-block text-center pb-md-4"><dd class="mr-md-3 mr-1"></dd>Frequently Asked Questions<dd class="ml-md-3 ml-1"></dd></h2>
       	     	   <div id="accordion" role="tablist" aria-multiselectable="true">          
