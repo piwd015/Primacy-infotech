@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
 <link rel="stylesheet" href="../assets/css/main.css">
 <link rel="stylesheet" type="text/css" href="../assets/css/icofont/icofont.min.css">
