@@ -169,10 +169,10 @@
     	  	   	    	 	<h3 class="d-block py-2">Customer Relationship Management</h3>
     	  	   	    	 	<p class="d-block">Managing your existing customers and tracking new opportunities is critical for business growth. We help you engage every individual who touches your brand-customer or prospect and integrate marketing automation to ensure that contextual touch-points happen without manual intervention. We ensure that this is the best investment you make! Besides developing bespoke solutions, we work on:</p>
     	  	   	    	 	<ul class="w-100 d-block">
-    	  	   	    	 		<li class="d-block pb-2">vTiger</li>
-    	  	   	    	 		<li class="d-block pb-2">SugarCRM</li>
-    	  	   	    	 		<li class="d-block pb-2">Odoo</li>
-    	  	   	    	 		<li class="d-block pb-2">Zoho</li>
+    	  	   	    	 		<li class="d-inline-block pb-2 mr-2">vTiger</li>
+    	  	   	    	 		<li class="d-inline-block pb-2">SugarCRM</li>
+    	  	   	    	 		<li class="d-inline-block mr-2">Odoo</li>
+    	  	   	    	 		<li class="d-block">Zoho</li>
     	  	   	    	 	</ul>
     	  	   	    	 </div>
     	  	   	    </div>
