@@ -62,6 +62,7 @@
                         </div>
                     </div>                  
                 </div>
+                <div class="col-6"></div>
                 <div class="col-md-3 col-6">
                      <div class="header-top-right w-100 d-block text-right">
                         <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
