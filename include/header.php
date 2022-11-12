@@ -254,8 +254,8 @@
 <div class="top pb-2" data-aos="fade-down">
     <div class="container-fluid">
         <div class="row">
-                <div class="col-md-2 pic0"><a href="../"><img src="../assets/images/logo-p.png" alt="primacy logo"></a></div>
-                <div class="col-md-6">
+                <div class="col-md-2 col-12 pic0"><a href="../"><img src="../assets/images/logo-p.png" alt="primacy logo"></a></div>
+                <div class="col-md-6 col-12">
                     <div class="c-mob">
                         <div class="col-md-4">
                             <img src="../assets/images/inddd.png" alt="india">&nbsp;
@@ -274,7 +274,7 @@
                         </div>
                     </div>                  
                 </div>
-                <div class="col-md-3 col-4">
+                <div class="col-md-3 col-12">
                      <div class="header-top-right w-100 d-block text-right">
                          <a href="https://api.whatsapp.com/send?phone=919088015865">
                              <img src="../assets/images/whatsapp-icon.png" alt=""></a>
