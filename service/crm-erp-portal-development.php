@@ -25,7 +25,7 @@
 
 		<div class="container-fluid px-md-5 px-4">
 
-			<div class="row align-items-center pr-md-5">
+			<div class="row align-items-center">
 
 				<div class="col-lg-6 col-md-7">
 
