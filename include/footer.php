@@ -29,7 +29,7 @@
                                             <div class="col-md-5">
                                                   <div class="flag-logo"><img src="../images/basis-logo.jpg" alt=""></div>
                                                   <div class="flag-logo"><img src="../images/iso-logo.jpg" alt=""></div>
-                                                  <div class="flag-logo"><img src="../images/protected.png" alt=""></div>
+                                                  <div class="flag-logo"><a href="https://www.dmca.com/site-report/primacyinfotech.com" target="_blank"><img src="../images/protected.png" alt=""></a></div>
                                                   <div class="col-md-12 flag-lgo-sps">
                                                       <div class="flag-logo"><img src="../images/mobile-app-logo.png" class="flag-logo-pt" alt=""></div>
                                                       <div class="flag-logo"><img src="../images/clutch-logo.png" alt=""></div>
