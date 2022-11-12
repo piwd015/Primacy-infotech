@@ -42,7 +42,7 @@
 
 <!--end fixed header-->
 	<!-- header -->
-<section class="home-1-banner main-banner bg-img bg-6 pl-md-4" id="banner">
+<section class="home-1-banner main-banner bg-img bg-6 pb-md-0 pb-4" id="banner">
 
 		<div class="container-fluid px-md-5 px-3">
 
@@ -65,9 +65,7 @@
 
 						<button type="button" class="btn custom-btn slid-button mb " data-toggle="modal" data-target="#myModal" href="#" style="color: #000">Get Started <i class="icon-layers"></i></button>
 
-            							 
-
-             							 <button type="button" class="btn custom-btn mb" data-toggle="modal" data-target="#callback"href="#" style="color: #000"><i class="icon-phone
+                        <button type="button" class="btn custom-btn mb" data-toggle="modal" data-target="#callback"href="#" style="color: #000"><i class="icon-phone
 
 "></i> Call Back Request</button>
 
@@ -75,7 +73,7 @@
 
 				</div>
 
-				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper">
+				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper mb-ap-bnr">
 
 					<img src="../assets/images/banner-mobile1.png" class="banner-img-1 wow slideInUpAlt" data-wow-delay=".1s" alt="#primacy">
 
