@@ -45,10 +45,10 @@
 	
 
 
-<section class="home-1-banner main-banner bg-img bg-6 pt-4" id="banner">
+<section class="home-1-banner main-banner bg-img bg-6" id="banner">
 		<div class="container-fluid pl-md-5">
 			<div class="row align-items-center">
-				<div class="col-lg-6 col-md-7">
+				<div class="col-lg-6 col-md-7 pt-5">
 					<div class="banner-content">
 						<div class="ovh">
 							<h2 class="title wow slideInUpBig" data-wow-duration=".65s"  data-wow-delay=".1s"><span class="logo-color">WEB DESIGNING </span>START FROM <br/><span class="logo-color-red">Rs 6,999/-</span> </h2>
@@ -63,7 +63,7 @@
 "></i> Call Back Request</button>
 					</div>
 				</div>
-				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper" style="height:65vh;">
+				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper pt-5" style="height:65vh;">
 			<img src="../assets/images/webinar-example2.png" class="banner-img-1  wow slideInUpAlt" data-wow-delay=".1s" alt="web design">
 				</div>
 			</div>
