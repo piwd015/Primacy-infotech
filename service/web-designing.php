@@ -51,7 +51,7 @@
 				<div class="col-lg-6 col-md-7 pt-5">
 					<div class="banner-content">
 						<div class="ovh">
-							<h2 class="title wow slideInUpBig" data-wow-duration=".65s"  data-wow-delay=".1s"><span class="logo-color">WEB DESIGNING </span>START FROM <br/><span class="logo-color-red">Rs 6,999/-</span> </h2>
+							<h2 class="title wow slideInUpBig" data-wow-duration=".65s"  data-wow-delay=".1s"><span class="logo-color">WEB DESIGNING </span> COMPANY <br/><span class="logo-color-red">Primacy Infotech</span> </h2>
 						</div>
 						<div class="ovh">
 							<span class="sub-title wow slideInUpBig" data-wow-duration=".65s" data-wow-delay=".3s">Web designing is one of the main services provided by our company as we are known for our excellent web designing services. If you want to design your website then we can provide you with  the basic stuffs which would help you in designing the website.  </span>
