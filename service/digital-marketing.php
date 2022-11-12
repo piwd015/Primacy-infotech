@@ -161,7 +161,7 @@
 
 					</div>
 				</div>
-				<div class="col-lg-6 offset-lg-1 about-images-wrapper mt-5">
+				<div class="col-lg-6 offset-lg-1 about-images-wrapper mt-md-5 mt-2">
                     <img src="../assets/images/organic-traffic_Google-Analytics.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="#primacy">
 				</div>
 			</div>
