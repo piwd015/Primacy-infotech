@@ -58,7 +58,7 @@
 	</section><!-- banner -->
 
 		<section class="feature">
-		<div class="container-fluid pl-md-5">
+		<div class="container-fluid px-md-5 px-3">
 				<div class="s-title mb-4 mt-0">
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
 			</div>
@@ -83,7 +83,7 @@
 
 </h3>
 
-							<p>•	Brand awareness which is at peak: this is very much true that majority of people use social media platforms like facebook, youtube, twitter, instagram etc. We promote our brand through social media networking and create an awareness for the targeted customers.  </p>
+							<p>Brand awareness which is at peak: this is very much true that majority of people use social media platforms like facebook, youtube, twitter, instagram etc. We promote our brand through social media networking and create an awareness for the targeted customers.  </p>
 
 						</div>
 
@@ -107,7 +107,7 @@
 
 </h3>
 
-							<p>•	Interactive and displaying products :Most of the people get in touch with social media websites for getting information, we present the products put some of the questions that are related to questions in a way that the customers find it totally fun. The products are discussed as well as promoted in this way. 
+							<p>Interactive and displaying products :Most of the people get in touch with social media websites for getting information, we present the products put some of the questions that are related to questions in a way that the customers find it totally fun. The products are discussed as well as promoted in this way.
 
 
 
@@ -133,7 +133,7 @@
 
 							<h3 class="icon-box-title">SPY ON COMPETITORS</h3>
 
-							<p>•	A watch on competitors : Our digital marketers  follow the competitors  on facebook as well as twitter. Our social media managers keep a watch on the competitors. They keep a track on the deals, so that you come up with the deals which are better than your competitors. 
+							<p>A watch on competitors : Our digital marketers  follow the competitors  on facebook as well as twitter. Our social media managers keep a watch on the competitors. They keep a track on the deals, so that you come up with the deals which are better than your competitors.
 
  </p>
 
