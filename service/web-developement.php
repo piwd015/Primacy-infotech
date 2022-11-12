@@ -34,17 +34,8 @@
 
 
     <?php include '../include/header.php'; ?>
-
-
-
-
-
     <!--end fixed header-->
 	<!-- header -->
-
-	
-
-
 <section class="home-1-banner main-banner bg-img bg-6 pb-0 mb-0" id="banner">
 		<div class="container-fluid pl-md-5">
 			<div class="row align-items-center">
@@ -106,7 +97,7 @@
 						<button type="button" class="btn custom-btn slid-button mb " data-toggle="modal" data-target="#myModal" href="#" style="color: #000">Get A Quote <i class="icon-layers"></i></button>
 					</div>
 				</div>
-				<div class="col-lg-6 offset-lg-1 about-images-wrapper">
+				<div class="col-lg-6 col-10 offset-lg-1 about-images-wrapper">
                     <img src="../assets/images/web-dev.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="web development">
 				</div>
 			</div>
