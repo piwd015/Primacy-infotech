@@ -168,8 +168,8 @@
 		</div>
 	</section><!-- about -->	
 
-	<section class="develp-Area wow slideInUp ml-md-5 py-md-0" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
-    	  <div class="container-fluid pl-md-2 pr-md-4">
+	<section class="develp-Area wow slideInUp  py-md-0" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
+    	  <div class="container-fluid px-md-5 px-3">
     	  	   <h2 class="w-100 d-block text-center pb-md-4 pb-2">Digital Marketing</h2>
     	  	   <div class="row pt-3">
     	  	   	    <div class="col-md-4 mb-4">
