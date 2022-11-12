@@ -46,7 +46,7 @@
 
 
 <section class="home-1-banner main-banner bg-img bg-6" id="banner">
-		<div class="container-fluid pl-md-5">
+		<div class="container-fluid pl-5">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-7 pt-5">
 					<div class="banner-content">
@@ -70,7 +70,7 @@
 		</div>
 	</section><!-- banner -->
 	<section class="feature">
-		<div class="container-fluid pl-md-5">
+		<div class="container-fluid pl-5">
 			<div class="row justify-content-center">
 				<div class="col-lg-4">
 					<div class="icon-box style-boxed">
@@ -112,7 +112,7 @@
 		</div>
 	</section><!-- feature -->
 	<section class="about s-padding">
-		<div class="container">
+		<div class="container-fluid pl-5">
 			<div class="row align-items-center">
 				<div class="col-lg-5">
 					<div class="about-content pt-md-5 mt-md-5">
