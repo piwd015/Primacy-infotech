@@ -2020,8 +2020,8 @@ ul.cont-info li i{font-size:15px; top:4px;}
 
 a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
 .digi-serv{top:34px!important; position: relative;}
-.insd-hdr{top:-35px; z-index:-1;}
-
+.insd-hdr{top:-35px;}
+.hm-lgo{z-index: 10;}
 }
 
 
