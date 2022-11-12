@@ -44,7 +44,7 @@
 	<!-- header -->
 <section class="home-1-banner main-banner bg-img bg-6 pl-md-4" id="banner">
 
-		<div class="container-fluid pl-md-5">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
