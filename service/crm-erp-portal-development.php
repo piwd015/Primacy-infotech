@@ -21,9 +21,9 @@
     <?php include '../include/header.php'; ?>
     <!--end fixed header-->
 	<!-- header -->
-	<section class="home-3-banner main-banner" id="banner">
+	<section class="home-3-banner main-banner pt-5 mt-5" id="banner">
 
-		<div class="container-fluid px-md-5 px-4">
+		<div class="container-fluid px-md-5 px-4 pt-5">
 
 			<div class="row align-items-center">
 
