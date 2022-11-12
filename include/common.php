@@ -130,7 +130,7 @@
       </div>
 </section>
 
-<section class="testimonial bg-color d-none d-md-block">
+<section class="testimonial bg-color">
     <div class="bg-text">Feedback</div>
     <div class="container-fluid px-md-5">
         <div class="s-title mt-0 mb-5">
