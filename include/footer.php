@@ -79,7 +79,7 @@
     <a href="mailto:info@primacyinfotech.com" class="phone"><i class="fa fa-envelope"></i></a>
 
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
+
 <script src="../assets/js/jquery-2.2.3.min.js"></script>
 
 <script src="../assets/js/jquery.easing.min.js"></script>
