@@ -63,7 +63,7 @@
 "></i> Call Back Request</button>
 					</div>
 				</div>
-				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper pt-5" style="height:65vh;">
+				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper bnr-hv pt-5">
 			<img src="../assets/images/webinar-example2.png" class="banner-img-1  wow slideInUpAlt" data-wow-delay=".1s" alt="web design">
 				</div>
 			</div>

@@ -1674,6 +1674,7 @@ ul.crt-vlu li{display:inline-block; width:fit-content; padding:12px 17px; border
 font-size:17px; color:#fff; font-weight:600; text-transform:uppercase;}
 ul.crt-vlu li img{width:30px; display:inline-block; background:#fff; border-radius:100%;
 padding:3px;}
+.bnr-hv{height:65vh;}
 
 @media only screen and (max-width:990px){
 
@@ -2034,6 +2035,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .develp-Area-box{height:355px!important;}
  .othr-serv-bg h2{font-size:30px;}
  .othr-serv-ht{height:65vh!important;}
+ .bnr-hv{height:45vh;}
 }
 
 
