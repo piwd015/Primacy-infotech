@@ -11149,6 +11149,8 @@ footer,
 	.about-content{margin:50px 0px 20px;}
 	.about-images-wrapper .about-img1{left:0px;}
 	.about-images-wrapper{height:260px;}
+	.icon-box.awf-item{height:auto; margin-bottom:0px;}
+	.awesome-feature-img{margin:20px 0px 0px;}
 }
 
 

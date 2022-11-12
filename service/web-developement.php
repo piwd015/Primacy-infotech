@@ -106,7 +106,7 @@
 
     <section class="develp-Area wow slideInUp ml-md-5 py-md-0" data-wow-delay=".1s">
     	  <div class="container-fluid pl-md-2 pr-md-4">
-    	  	   <h2 class="w-100 d-block text-center pb-md-4 pb-2">Web Development</h2>
+    	  	   <h2 class="w-100 d-block text-center pb-4">Web Development</h2>
     	  	   <div class="row pt-3">
     	  	   	    <div class="col-md-4 mb-4">
     	  	   	    	 <div class="develp-Area-box w-100 d-block p-md-4 p-3"> 
