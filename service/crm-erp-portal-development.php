@@ -23,7 +23,7 @@
 	<!-- header -->
 	<section class="home-3-banner main-banner" id="banner">
 
-		<div class="container-fluid px-md-5">
+		<div class="container-fluid px-md-5 px-4">
 
 			<div class="row align-items-center pr-md-5">
 
