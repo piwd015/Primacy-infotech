@@ -161,7 +161,7 @@
 
 					</div>
 				</div>
-				<div class="col-lg-6 offset-lg-1 about-images-wrapper mt-md-5 mt-2">
+				<div class="col-lg-6 offset-lg-1 about-images-wrapper mt-md-5">
                     <img src="../assets/images/organic-traffic_Google-Analytics.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="#primacy">
 				</div>
 			</div>
@@ -248,7 +248,7 @@
 
 	<section class="quick-overview s-padding pb-4">
 		<div class="container-fluid px-md-5 px-4">
-			<div class="s-title mt-0 mb-4">
+			<div class="s-title mt-0 mb-4 pb-4">
 				<h2><span class="logo-color">Q</span>uick Overview</h2>
 			</div>
 			<div class="row">
