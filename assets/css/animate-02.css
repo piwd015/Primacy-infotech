@@ -2,8 +2,8 @@
 
 /*=== Trigger  ===*/
 .animate {
-  -webkit-animation-duration: 3s;
-  animation-duration: 3s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
 }
@@ -22,9 +22,9 @@
 }
 
 .fade-lft {
-  -webkit-animation-delay: 3.5s;
-  -moz-animation-delay: 3.5s;
-  animation-delay: 3.5s;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  animation-delay: 0.5s;
 }
 
 .four {
