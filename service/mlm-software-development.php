@@ -371,15 +371,15 @@ manages all the affairs of the business.
 
 	
 
-	<section class="faq-sec s-padding bg-color pt-0 mt-0" id="faq">
+	<section class="faq-sec s-padding bg-color pt-0 mt-0 ml-0" id="faq">
 		<div class="s-title mb-5">
 			<h2 class="w-100 d-block text-center">Frequently Asked Question</h2>
 		</div>
-		<div class="container-fluid px-4">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
-				<div class="col-lg-5">
+				<div class="col-lg-6">
 
 					<div class="faq-sec-img">
 
