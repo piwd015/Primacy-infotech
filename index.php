@@ -172,13 +172,13 @@
 
                     <div class="item">
 
-                        <section class="product-bg-hm pag-hd w-100 d-block" id="#section02">
+                        <section class="product-bg-hm pag-hd w-100 d-block" id="#section02" data-animation="fadeIn">
 
                              <div class="container-fluid">
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                          <div class="col-md-6">
+                                          <div class="col-md-6" data-animation="slideInRight" data-animation-delay=".75s">
 
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
