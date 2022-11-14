@@ -95,19 +95,16 @@
 
                                      <div class="col-md-12 px-md-0">
 
-                                          <div class="enterpenur-logo"><img src="assets/images/enterpreneur-logo.png" alt=""></div>
+                                          <div class="enterpenur-logo animate fadeInLeft fade-lft"><img src="assets/images/enterpreneur-logo.png" alt=""></div>
 
                                      </div>
 
                                      <div class="col-md-12">
-
-                                           <div class="primc-logo">
-
+                                           <div class="primc-logo animate fadeInRight fade-rght">
                                                 <img src="assets/images/p-logo.gif">
-
                                            </div>
 
-                                           <p class="d-block text-md-center text-left">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
+                                           <p class="d-block text-md-center text-left animate fadeInUp fade-up">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
 
                                            <h2 class="w-100 d-block text-center">Innovation In Every Step</h2>
 
