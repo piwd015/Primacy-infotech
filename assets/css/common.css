@@ -1678,6 +1678,24 @@ padding:3px;}
 .Ul-uxImg{height: 630px; position: relative;}
 .Ul-uxImg img{width:100%; height:auto; display:block; position:absolute;}
 
+.anmsn {
+ width: 100%;
+ position: relative;
+ animation: fd-lft 5s infinite;
+}
+
+#anmsn1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {animation-timing-function: ease-in-out;}
+
+@keyframes fd-lft {
+ from {left: 0px;}
+ to {left: 300px;}
+}
+</style>
+
 @media only screen and (max-width:990px){
 
 .overlay2{display:none;}

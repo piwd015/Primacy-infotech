@@ -7,8 +7,7 @@
 <meta charset="utf-8" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-
-  			<!-- Chrome, Firefox OS and Opera -->
+    <!-- Chrome, Firefox OS and Opera -->
 
 <meta name="theme-color" content="#ba1217">
 
@@ -178,7 +177,7 @@
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                          <div class="col-md-6" >
+                                          <div class="col-md-6 anmsn" id="anmsn1">
 
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
