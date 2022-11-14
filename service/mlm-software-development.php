@@ -90,9 +90,7 @@ multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Bus
 	
 
 		<section class="feature">
-
 		<div class="container-fluid px-md-5 px-3">
-
 				<div class="s-title mb-4">
 
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
@@ -114,12 +112,8 @@ multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Bus
 						</div>
 
 						<div class="icon-box-details">
-
-				
-
 							<h3 class="icon-box-title">MLM SOFTWARE SECURITY 
-
-</h3>
+                            </h3>
 
 							<p>It is designed in order to continue with a lot of services. Secure 
 
@@ -145,11 +139,7 @@ It has a nlot of features which can take the business a lot further.  </p>
 
 						<div class="icon-box-details">
 
-							<h3 class="icon-box-title">Why  MLM software 
-
-
-
-</h3>
+							<h3 class="icon-box-title">Why  MLM software </h3>
 
 							<p>It is relied on because  it keeps a track of the 
 
@@ -311,7 +301,7 @@ manages all the affairs of the business.
 
 	<section class="about s-padding">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
