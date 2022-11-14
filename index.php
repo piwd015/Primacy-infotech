@@ -177,7 +177,7 @@
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                          <div class="col-md-6 animate fadeInLeft three">
+                                          <div class="col-md-6 animate fadeInLeft fade-lft">
 
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
