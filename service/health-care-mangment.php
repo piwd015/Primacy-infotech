@@ -1,61 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
-
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
 	<title>Best Health Mangement Portal2 in India</title>
-
 	<meta name="description" content="Primacy Infotech is one of the best Health management system companies in India. Call us on 9088015866 to get your website in affordable prices." />
-
 	<meta name="keywords" content="Health Management software, Heath Management app, Health Management software company in India, Health Management software company in kolkata, Health Management app company in India" />
-
 	<meta name="robots" content="index, follow">
-
 	<meta name="language" content="EN">
-
 	<meta name="organization" content="Primacy Infotech">
-
 	<link rel="canonical" href="index.php">
-
 	<meta property="og:locale" content="en_US">
-
 	<meta property="og:type" content="website">
-
 	<meta property="og:title" content="Primacy Infitech Best website development company in kolkata">
-
 	<meta property="og:description" content="Primacy Infotech- It is a website design and development company based in kolkata. We help small and mid sized company to achieve thier marketing goals. Call today - 9088015866">
-
 	<meta property="og:image" content="assets/images/logo-p.png">
-
 	<meta property="og:url" content="index.html">
-
 	<meta property="og:site_name" content="Primacy Infotech">
-
 	<meta name="format-detection" content="telephone=no">
-
     <?php include '../include/header.php'; ?>
 
 <!--end fixed header-->
 	<!-- header -->
+	<section class="home-5-banner bg-img main-banner pt-5 mt-5" id="banner">
 
-	
-
-
-
-
-
-
-
-
-	<section class="home-5-banner bg-img main-banner" id="banner">
-
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
