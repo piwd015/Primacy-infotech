@@ -33,25 +33,26 @@
   animation-delay: 1.5s;
 }
 
-.five {
+.fade-sld-01 {
   -webkit-animation-delay: 4.5s;
   -moz-animation-delay: 4.5s;
   animation-delay: 4.5s;
+  background-color: ;
 }
 
-.six {
+.fade-sld-02 {
   -webkit-animation-delay: 5.5s;
   -moz-animation-delay: 5.5s;
   animation-delay: 5.5s;
 }
 
-.seven {
+.fade-sld-03 {
   -webkit-animation-delay: 6.5s;
   -moz-animation-delay: 6.5s;
   animation-delay: 6.5s;
 }
 
-.eight {
+.fade-sld-04 {
   -webkit-animation-delay: 7.5s;
   -moz-animation-delay: 7.5s;
   animation-delay: 7.5s;
