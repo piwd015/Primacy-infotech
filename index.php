@@ -1154,7 +1154,7 @@
 
                           <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                      <div class="col-md-6 prod-pt animate fadeInDownBig fade-lft">
+                                      <div class="col-md-6 prod-pt animate fadeInLeftBig fade-lft">
 
                                             <h2 class="w-100">Odoo ERP</h2>
 
@@ -1174,7 +1174,7 @@
 
                                       </div>
 
-                                      <div class="col-md-6 animate fadeInDownBig fade-lft">
+                                      <div class="col-md-6 animate fadeInRightBig fade-lft">
 
                                             <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
@@ -1204,7 +1204,7 @@
 
                           <div class="row">
 
-                                <div class="col-md-7 contArea-top-pt animate fadeInDownBig fade-lft">
+                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-lft">
 
                                       <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
