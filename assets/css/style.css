@@ -198,7 +198,7 @@ p{
 
     padding: 1.2em;
 
-    min-width:fit-content;
+    min-width: 160px;
 
     text-align: center;
 
@@ -11057,6 +11057,7 @@ footer,
 
 /* 767px */
 @media only screen and (max-width: 767px) {
+	.btn{min-width:fit-content!important;}
   .ecommerces_demo_page .container {
     padding: 0;
   }
