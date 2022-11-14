@@ -1675,7 +1675,8 @@ font-size:17px; color:#fff; font-weight:600; text-transform:uppercase;}
 ul.crt-vlu li img{width:30px; display:inline-block; background:#fff; border-radius:100%;
 padding:3px;}
 .bnr-hv{height:58vh!important;}
-
+.Ul-uxImg{height: 630px; position: relative;}
+.Ul-uxImg img{width:100%; height:auto; display:block; position:absolute;}
 
 @media only screen and (max-width:990px){
 
@@ -2042,6 +2043,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .mb-ap-bnr{height:400px!important;}
  .banner-content .btn{min-width:fit-content!important;}
  .btn-wrapper .btn{ margin-right:5px!important;}
+ .Ul-uxImg{height: auto; position: relative;}
+ .Ul-uxImg img{position:inherit;}
 }
 
 
