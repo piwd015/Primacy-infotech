@@ -106,7 +106,7 @@
 							<i class="icon_chat_alt"></i>
 						</div>
 
-						<div class="icon-box-details">
+						<div class="icon-box-details px-md-0 px-3">
 							<h3 class="icon-box-title">Contact Management</h3>
 							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Easily Manage Customer Details.</p>
 
