@@ -46,7 +46,7 @@
 		</div>
 	</section><!-- banner -->
 
-	<section class="feature pt-md-0 pt-5 mt-md-0 mt-5">
+	<section class="feature pt-md-0 pt-5 ">
 		<div class="container-fluid px-md-5">
 			<div class="row justify-content-center">
 				<div class="col-lg-4">
