@@ -110,13 +110,13 @@
 							<h3 class="icon-box-title">Contact Management</h3>
 							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Easily Manage Customer Details.</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Feed important information of customers.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Feed important information of customers.</p>
 
-					<p><i class="fa fa-hand-o-right mr-2" ></i>Capture both registered and shipping address.</p>
+					<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Capture both registered and shipping address.</p>
 
-					<p><i class="fa fa-hand-o-right mr-2" ></i>Set birthday Reminders of your customers.</p>
+					<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Set birthday Reminders of your customers.</p>
 
-					<p><i class="fa fa-hand-o-right mr-2" ></i>Edit and sort customer details.</p>
+					<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Edit and sort customer details.</p>
 						</div>
 					</div>
                    
@@ -129,15 +129,15 @@
 						<div class="icon-box-details">
 							<h3 class="icon-box-title">Manage Quotations</h3>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Seamlessly generates price quote</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Seamlessly generates price quote</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Link quotes to accounts, contacts, or opportunities.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Link quotes to accounts, contacts, or opportunities.</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Quick quotes for pricing and availability.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Quick quotes for pricing and availability.</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Publish and send in various formats, PDF, MSWord etc.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Publish and send in various formats, PDF, MSWord etc.</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Customise Invoices & Quotes using Logo & Company details.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Customise Invoices & Quotes using Logo & Company details.</p>
 
 						</div>
 
@@ -159,15 +159,15 @@
 
 							<h3 class="icon-box-title">Inventory Management</h3>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Manage unlimited number of categories</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Manage unlimited number of categories</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Link between equipment and spare parts</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Link between equipment and spare parts</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Detailed stock management</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Detailed stock management</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Maintain safety stock (also called buffer stock).</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Maintain safety stock (also called buffer stock).</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Safety stock maximizes customer service</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Safety stock maximizes customer service</p>
 						</div>
 					</div>
 					<div class="icon-box awf-item mb-0 wow slideInUp" data-wow-delay=".1s">
@@ -186,17 +186,17 @@
 
 </h3>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Time management</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Time management</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Attendance Management</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Attendance Management</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Manage HR & Payroll</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Manage HR & Payroll</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Compliant with Indian payroll statutory and taxes.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Compliant with Indian payroll statutory and taxes.</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Upload employees scan documents</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Upload employees scan documents</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Pay your suppliers on time.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Pay your suppliers on time.</p>
 						</div>
 
 					</div>
@@ -217,15 +217,15 @@
 
 							<h3 class="icon-box-title">Inventory Management</h3>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Manage unlimited number of categories</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Manage unlimited number of categories</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Link between equipment and spare parts</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Link between equipment and spare parts</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Detailed stock management</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Detailed stock management</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Maintain safety stock (also called buffer stock).</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Maintain safety stock (also called buffer stock).</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Safety stock maximizes customer service</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Safety stock maximizes customer service</p>
 						</div>
 					</div>
 					<div class="icon-box awf-item mb-0 wow slideInUp" data-wow-delay=".1s">
@@ -236,17 +236,17 @@
 						<div class="icon-box-details">
 							<h3 class="icon-box-title">Simplified Payroll System</h3>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Time management</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Time management</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Attendance Management</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Attendance Management</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Manage HR & Payroll</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Manage HR & Payroll</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Compliant with Indian payroll statutory and taxes.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Compliant with Indian payroll statutory and taxes.</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Upload employees scan documents</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Upload employees scan documents</p>
 
-							<p><i class="fa fa-hand-o-right mr-2" ></i>Pay your suppliers on time.</p>
+							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Pay your suppliers on time.</p>
 
 						</div>
 
