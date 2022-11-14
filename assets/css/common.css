@@ -1691,8 +1691,8 @@ padding:3px;}
 #div5 {animation-timing-function: ease-in-out;}
 
 @keyframes fd-lft {
- from {left: 0px;}
- to {left: 300px;}
+ from {left: -10px;}
+ to {left: 100px;}
 }
 </style>
 
