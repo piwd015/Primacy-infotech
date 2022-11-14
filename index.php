@@ -222,7 +222,7 @@
 
                                       <div class="row">
 
-                                            <div class="col-md-7 contArea-top-pt">                           
+                                            <div class="col-md-7 contArea-top-pt fadeInUpBig fade-sld-01">
 
                                                   <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -256,7 +256,7 @@
 
                                             </div>
 
-                                          <div class="col-md-5 pr-md-0">
+                                          <div class="col-md-5 pr-md-0 fadeInDownBig fade-sld-01">
 
                                                 <div class="ecomrs-right-bg">                 
 
