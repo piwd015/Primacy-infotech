@@ -126,7 +126,7 @@
 							<i class="icon_headphones"></i>
 						</div>
 
-						<div class="icon-box-details">
+						<div class="icon-box-details px-md-0 px-3">
 							<h3 class="icon-box-title">Manage Quotations</h3>
 
 							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Seamlessly generates price quote</p>
@@ -155,7 +155,7 @@
 
 						</div>
 
-						<div class="icon-box-details">
+						<div class="icon-box-details px-md-0 px-3">
 
 							<h3 class="icon-box-title">Inventory Management</h3>
 
@@ -178,13 +178,9 @@
 
 						</div>
 
-						<div class="icon-box-details">
+						<div class="icon-box-details px-md-0 px-3">
 
-							<h3 class="icon-box-title">Simplified Payroll System
-
-
-
-</h3>
+							<h3 class="icon-box-title">Simplified Payroll System</h3>
 
 							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Time management</p>
 
@@ -213,7 +209,7 @@
 
 						</div>
 
-						<div class="icon-box-details">
+						<div class="icon-box-details px-md-0 px-3">
 
 							<h3 class="icon-box-title">Inventory Management</h3>
 
@@ -233,7 +229,7 @@
 							<i class="icon_ribbon_alt"></i>
 						</div>
 
-						<div class="icon-box-details">
+						<div class="icon-box-details px-md-0 px-3">
 							<h3 class="icon-box-title">Simplified Payroll System</h3>
 
 							<p class="text-left"><i class="fa fa-hand-o-right mr-2" ></i>Time management</p>
