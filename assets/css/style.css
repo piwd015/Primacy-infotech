@@ -11065,6 +11065,9 @@ footer,
 	.btn.fill-style{padding:15px 20px;}
 	.btn{min-width:fit-content!important; font-size:13px!important;}
 	.accordion-body{ padding-left:0px; padding-right:10px;}
+	.accordion-btn.collapsed{padding:20px 0px;}
+	.accordion-btn .accordion-title{font-size:16px;}
+	.accordion-btn .accordion-icon{ margin-right:15px;}
   .ecommerces_demo_page .container {
     padding: 0;
   }
