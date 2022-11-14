@@ -178,7 +178,7 @@
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                          <div class="col-md-6">
+                                          <div class="col-md-6 wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; -webkit-animation-delay: 0.2s; -moz-animation-delay: 0.2s; animation-delay: 0.2s;">
 
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
