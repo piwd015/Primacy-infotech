@@ -22,7 +22,7 @@
     <?php include '../include/header.php'; ?>
     <!--end fixed header-->
 	<!-- header -->
-	<section class="home-5-banner bg-img main-banner pt-5 mt-5 pb-3" id="banner">
+	<section class="home-5-banner bg-img main-banner pt-5 mt-5 pb-0" id="banner">
 		<div class="container-fluid px-md-5 px-3 pt-5">
 
 			<div class="row align-items-center">
@@ -93,7 +93,7 @@ multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Bus
 
 		<div class="container">
 
-				<div class="s-title">
+				<div class="s-title mb-0">
 
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
 
