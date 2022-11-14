@@ -1,18 +1,5 @@
 
-.box {
-  background: #2ecc71 none repeat scroll 0 0;
-  color: white;
-  font-family: "Raleway", sans-serif;
-  font-size: 14px;
-  font-weight: 600;
-  height: 150px;
-  line-height: 150px;
-  margin: 0 auto 3%;
-  padding: 20px;
-  text-align: center;
-  text-transform: uppercase;
-  width: 95%;
-}
+
 /*=== Trigger  ===*/
 .animate {
   -webkit-animation-duration: 1s;
@@ -35,9 +22,9 @@
 }
 
 .three {
-  -webkit-animation-delay: 2.5s;
-  -moz-animation-delay: 2.5s;
-  animation-delay: 2.5s;
+  -webkit-animation-delay: 3.5s;
+  -moz-animation-delay: 3.5s;
+  animation-delay: 3.5s;
 }
 
 .four {
