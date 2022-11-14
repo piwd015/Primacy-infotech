@@ -23,7 +23,6 @@
     <!--end fixed header-->
 	<!-- header -->
 	<section class="home-5-banner bg-img main-banner pt-5 mt-5 pb-3" id="banner">
-
 		<div class="container-fluid px-md-5 px-3 pt-5">
 
 			<div class="row align-items-center">
