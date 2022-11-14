@@ -24,7 +24,7 @@
 	<!-- header -->
 	<section class="home-5-banner bg-img main-banner pt-5" id="banner">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3 pt-3">
 
 			<div class="row align-items-center">
 
