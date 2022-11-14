@@ -1149,17 +1149,11 @@
             </section>
 
               <section class="product-bg-hm pag-hd w-100 d-block">
-
                     <div class="container-fluid">
-
                           <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-
-                                      <div class="col-md-6 prod-pt animate fadeInLeftBig fade-lft">
-
+                                      <div class="col-md-6 prod-pt animate fadeInLeftBig fade-sld-04">
                                             <h2 class="w-100">Odoo ERP</h2>
-
                                             <h3 class="w-100">What is Odoo ERP</h3>
-
                                             <p class="pb-0">THE BEST USER FRIENDLY ERP - ODOO ERP,
                                                 7 Million users around the Globe,
                                                 Fully Integrated Software ,
@@ -1174,7 +1168,7 @@
 
                                       </div>
 
-                                      <div class="col-md-6 animate fadeInRightBig fade-lft">
+                                      <div class="col-md-6 animate fadeInRightBig fade-sld-04">
 
                                             <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
@@ -1204,7 +1198,7 @@
 
                           <div class="row">
 
-                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-lft">
+                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-04">
 
                                       <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -1238,7 +1232,7 @@
 
                                 </div>
 
-                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-lft">
+                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-04">
 
                                     <div class="ecomrs-right-bg">                 
 
@@ -1261,24 +1255,19 @@
               </section>
 
               <div class="container-fluid">
-
                    <div class="row">
-
                          <section class="devlpr-bg pag-hd w-100 d-block">
-
                          <section class="devlpr-bg-top w-100 d-block"></section>
-
                                 <div class="container-fluid">
+                                        <div class="row">
 
-                                        <div class="row">                                     
-
-                                              <div class="col-md-6 animate fadeInLeftBig fade-lft">
+                                              <div class="col-md-6 animate fadeInLeftBig fade-sld-04">
 
                                                     <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
 
                                               </div>
 
-                                              <div class="col-md-6 prod-pt animate fadeInRightBig fade-lft">
+                                              <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-04">
 
                                                     <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
 
