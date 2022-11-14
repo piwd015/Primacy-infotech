@@ -59,7 +59,7 @@
 	</section>
 	<!-- banner -->	
 
-	<section class="h4-about s-padding pb-3 mt-md-4 mt-2">
+	<section class="h4-about s-padding pb-3 mt-md-5 mt-3">
 		<div class="container-fluid px-md-5 px-4">
 
 			<div class="row align-items-center">
