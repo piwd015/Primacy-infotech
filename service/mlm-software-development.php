@@ -93,7 +93,7 @@ multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Bus
 
 		<div class="container">
 
-				<div class="s-title">
+				<div class="s-title mb-4">
 
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
 
