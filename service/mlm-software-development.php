@@ -31,7 +31,7 @@
 
 					<div class="banner-content">
 
-						<div class="">
+						<div class="pb-3">
 
 							<h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We provide hardy and flexible services, and known to provide the best services when it comes to 
 
