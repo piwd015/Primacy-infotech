@@ -24,26 +24,16 @@
 <!--end fixed header-->
 	<!-- header -->
 	<section class="home-5-banner bg-img main-banner pb-0" id="banner">
-
-		<div class="container">
-
+		<div class="container-fluid px-md-5 px-3">
 			<div class="row align-items-center">
-
 				<div class="col-lg-6 col-md-7">
-
 					<div class="banner-content">
-
 						<div class="">
-
                             <h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We are the trusted brand for providing hardy, flexible, user friendly, tested and calculation accuracy software for <span class="logo-color">Health Management</span> System.</h2>
 						</div>
-
 						<div class="btn-wrapper">
-
 							<button type="button" class="btn custom-btn slid-button mb " data-toggle="modal" data-target="#myModal" href="#" style="color: #000">Get Started <i class="icon-layers"></i></button>
-
 							 <button type="button" class="btn custom-btn mb" data-toggle="modal" data-target="#callback"href="#" style="color: #000"><i class="icon-phone"></i> Call Back Request</button>
-
 						</div>
 
 					</div>
@@ -69,7 +59,7 @@
 
 		<section class="feature">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 				<div class="s-title nb-4">
 
