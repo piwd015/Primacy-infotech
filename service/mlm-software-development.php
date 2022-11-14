@@ -35,16 +35,7 @@
 
 							<h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We provide hardy and flexible services, and known to provide the best services when it comes to 
 
-multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Business.</h2> 
-
-
-
-						</div>
-
-						<div class=""> 
-
-							<span class="sub-title wow fadeInUp" data-wow-duration=".65s" data-wow-delay=".3s">MLM START FROM <span class="logo-color-red">RS 20,999/-</span></span>
-
+multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Business.</h2>
 						</div>
 
 						<div class="btn-wrapper">
