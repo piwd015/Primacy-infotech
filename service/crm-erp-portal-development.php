@@ -108,7 +108,7 @@
 
 						<div class="icon-box-details">
 							<h3 class="icon-box-title">Contact Management</h3>
-							<p><i class="fa fa-hand-o-right" ></i>Easily Manage Customer Details.</p>
+							<p><i class="fa fa-hand-o-right mr-2" ></i>Easily Manage Customer Details.</p>
 
 							<p><i class="fa fa-hand-o-right" ></i>Feed important information of customers.</p>
 

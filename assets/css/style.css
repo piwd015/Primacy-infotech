@@ -3068,7 +3068,7 @@ top: -9%;
 
 	margin-bottom: 0;
 
-	    text-align: justify;
+	    text-align: left;
 
     word-spacing: -1px;
 
@@ -11057,6 +11057,8 @@ footer,
 
 /* 767px */
 @media only screen and (max-width: 767px) {
+	.icon-box p{text-align: left;}
+	.about-content .btn-wrapper{margin-top:0px;}
 	.btn.fill-style{padding:15px 20px;}
 	.btn{min-width:fit-content!important; font-size:13px!important;}
   .ecommerces_demo_page .container {

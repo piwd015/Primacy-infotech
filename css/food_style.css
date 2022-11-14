@@ -2298,6 +2298,7 @@ width: 100%;
 /* 767px */
 
 @media only screen and (max-width: 767px) {
+    section.h4-about .h4-about-img-wrapper{width: 100%; margin-bottom:0px;}
     .quick-overview-tab li.nav-item{width:80%; margin-right:0px;}
 
     .container {
