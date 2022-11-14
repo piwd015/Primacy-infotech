@@ -91,7 +91,7 @@ multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Bus
 
 		<section class="feature">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 				<div class="s-title mb-4">
 
