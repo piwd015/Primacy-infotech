@@ -11057,6 +11057,9 @@ footer,
 
 /* 767px */
 @media only screen and (max-width: 767px) {
+	.ul-ux-bnr{height: 800px;}
+	.banner-img-wrapper .banner-img-2{bottom:-190px;}
+	.banner-img-wrapper .banner-img-1{display:none;}
 	.icon-box p{text-align: left;}
 	.about-content .btn-wrapper{margin-top:0px;}
 	.btn.fill-style{padding:15px 20px;}

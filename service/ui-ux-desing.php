@@ -22,7 +22,7 @@
     <?php include '../include/header.php'; ?>
     <!--end fixed header-->
 	<!-- header -->
-<section class="home-1-banner main-banner bg-img bg-6" id="banner">
+<section class="home-1-banner main-banner bg-img bg-6 ul-ux-bnr" id="banner">
 		<div class="container-fluid px-md-5">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-7">
