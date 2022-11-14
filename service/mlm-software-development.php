@@ -373,7 +373,7 @@ manages all the affairs of the business.
 
 	<section class="faq-sec s-padding bg-color pt-0 mt-0" id="faq">
 		<div class="s-title mb-5">
-			<h2>Frequently Asked Question</h2>
+			<h2 class="w-100 d-block text-center">Frequently Asked Question</h2>
 		</div>
 		<div class="container-fluid px-4">
 
