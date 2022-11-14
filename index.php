@@ -173,31 +173,19 @@
                              <div class="container-fluid">
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-
-                                          <div class="col-md-6 animate fadeInLeftBig five">
-
+                                          <div class="col-md-6 animate fadeInLeftBig fade-sld-01">
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
-
                                                 <div class="col-md-12 prod-odoo-pl">
-
                                                       <div class="prod-odoo"><img src="assets/images/prod-oddo.png" alt=""></div>
-
                                                 </div>
-
                                                 <div class="col-md-12 prod-odoo-pl">
-
                                                       <a href="#" class="prtnr-btn">Partner</a>
-
                                                 </div>
-
                                           </div>
 
-                                          <div class="col-md-6 prod-pt animate fadeInRightBig five">
-
+                                          <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-01">
                                                 <h2 class="w-100">Odoo ERP</h2>
-
                                                 <h3 class="w-100">What is Odoo ERP</h3>
-
                                                 <p>THE BEST USER FRIENDLY ERP - ODOO ERP,
                                                     7 Million users around the Globe,
                                                     Fully Integrated Software,
