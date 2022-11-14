@@ -371,8 +371,8 @@ manages all the affairs of the business.
 
 	
 
-	<section class="faq-sec s-padding bg-color pt-5" id="faq">
-		<div class="s-title">
+	<section class="faq-sec s-padding bg-color pt-5 mt-2" id="faq">
+		<div class="s-title mb-4">
 			<h2>Frequently Asked Question</h2>
 		</div>
 		<div class="container-fluid px-4">
