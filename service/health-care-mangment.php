@@ -69,7 +69,7 @@
 
 		<section class="feature">
 		<div class="container-fluid px-md-5 px-3">
-				<div class="s-title mb-4">
+				<div class="s-title ">
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
 			</div>
 			<div class="row justify-content-center">
