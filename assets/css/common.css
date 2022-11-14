@@ -1678,23 +1678,15 @@ padding:3px;}
 .Ul-uxImg{height: 630px; position: relative;}
 .Ul-uxImg img{width:100%; height:auto; display:block; position:absolute;}
 
-.anmsn {
- width: 100%;
- position: relative;
- animation: fd-lft 5s infinite;
+@keyframes fadeInRight {
+ from {
+  opacity: 0;
+  transform: translateX(300px);
+ }
+ to {
+  opacity: 1;
+ }
 }
-
-#anmsn1 {animation-timing-function: linear;}
-#div2 {animation-timing-function: ease;}
-#div3 {animation-timing-function: ease-in;}
-#div4 {animation-timing-function: ease-out;}
-#div5 {animation-timing-function: ease-in-out;}
-
-@keyframes fd-lft {
- from {left: -10px;}
- to {left: 100px;}
-}
-</style>
 
 @media only screen and (max-width:990px){
 
