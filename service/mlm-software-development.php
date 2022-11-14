@@ -375,7 +375,7 @@ manages all the affairs of the business.
 		<div class="s-title">
 			<h2>Frequently Asked Question</h2>
 		</div>
-		<div class="container-fluid px-md-5 px-3">
+		<div class="container-fluid">
 
 			<div class="row align-items-center">
 
