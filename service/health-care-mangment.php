@@ -23,7 +23,7 @@
 
 <!--end fixed header-->
 	<!-- header -->
-	<section class="home-5-banner bg-img main-banner" id="banner">
+	<section class="home-5-banner bg-img main-banner pb-5" id="banner">
 
 		<div class="container-fluid px-md-5 px-3">
 
@@ -35,16 +35,7 @@
 
 						<div class="">
 
-                            <h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We are the trusted brand for providing hardy, flexible, user friendly, tested and calculation accuracy software for <span class="logo-color">Health Management</span> System.</h2> 
-
-
-
-						</div>
-
-						<div class="">
-
-							<span class="sub-title wow fadeInUp" data-wow-duration=".65s" data-wow-delay=".3s">HEALTH MANAGEMENT START FROM <span class="logo-color-red">RS 40,000/-</span></span>
-
+                            <h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We are the trusted brand for providing hardy, flexible, user friendly, tested and calculation accuracy software for <span class="logo-color">Health Management</span> System.</h2>
 						</div>
 
 						<div class="btn-wrapper">
