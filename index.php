@@ -1090,17 +1090,17 @@
 
                          <div class="col-md-12 px-0">
 
-                               <h3 class="w-100 d-block text-center">First Growing Software Company</h3>
+                               <h3 class="w-100 d-block text-center animate fadeInDown fade-lft">First Growing Software Company</h3>
 
-                               <div class="primc-logo">
+                               <div class="primc-logo animate fadeInRightBig fade-lft">
 
                                     <img src="assets/images/p-logo.gif" alt="">
 
                                </div>
 
-                               <h2 class="w-100 d-block text-center">Innovation In Every Step</h2>
+                               <h2 class="w-100 d-block text-center animate fadeInDown fade-lft">Innovation In Every Step</h2>
 
-                               <ul class="w-100 d-block text-center">
+                               <ul class="w-100 d-block text-center animate fadeInUp fade-lft">
 
                                     <li><a href="#">Odoo Implementation</a></li>
 
@@ -1112,7 +1112,7 @@
 
                                </ul>
 
-                               <p class="d-block text-md-center text-justify">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
+                               <p class="d-block text-md-center text-justify animate fadeInUp fade-lft">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
 
 
 
@@ -1154,7 +1154,7 @@
 
                           <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                      <div class="col-md-6 prod-pt">
+                                      <div class="col-md-6 prod-pt animate fadeInDownBig fade-lft">
 
                                             <h2 class="w-100">Odoo ERP</h2>
 
@@ -1174,7 +1174,7 @@
 
                                       </div>
 
-                                      <div class="col-md-6">
+                                      <div class="col-md-6 animate fadeInDownBig fade-lft">
 
                                             <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
@@ -1204,7 +1204,7 @@
 
                           <div class="row">
 
-                                <div class="col-md-7 contArea-top-pt">               
+                                <div class="col-md-7 contArea-top-pt animate fadeInDownBig fade-lft">
 
                                       <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -1238,7 +1238,7 @@
 
                                 </div>
 
-                                <div class="col-md-5 pr-md-0">
+                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-lft">
 
                                     <div class="ecomrs-right-bg">                 
 
