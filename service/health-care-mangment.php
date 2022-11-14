@@ -285,54 +285,28 @@
 
 	
 
-	<section class="faq-sec s-padding bg-color" id="faq">
-
-		<div class="s-title">
-
-			<h2>Frequently Asked</h2>
-
-			<!--<p>Ut totam hymenaeos a quasi enim, duis erat mollitia, pellentesque ac metus!</p>-->
-
+	<section class="faq-sec s-padding bg-color pt-5" id="faq">
+		<div class="s-title mb-4">
+			  <h2 class="w-100 d-block text-center">Frequently Asked</h2>
 		</div>
-
-		<div class="container">
-
+		<div class="container-fluid px-md-5 px-3">
 			<div class="row align-items-center">
-
-			<div class="offset-lg-1"></div>
-
 				<div class="col-lg-5">
-
 					<div class="faq-sec-img">
-
 						<img class="wow slideInLeft" src="../assets/images/school-software.gif" alt="school">
-
 					</div>
-
 				</div>
-
 				<div class="col-lg-6 ">
-
 					<div class="accordion" id="iconicAccordion">
-
 					  	<div class="card accordion-item">
-
 					   		<div class="accordion-header" id="accordionHeading1">
-
 						      	<h5 class="mb-0">
-
 						        	<button class="accordion-btn" type="button" data-toggle="collapse" data-target="#accordionItem1" aria-expanded="true" aria-controls="accordionItem1">
-
 						        		<span class="accordion-icon"><i class="icon-settings"></i></span>
-
 						        		<span class="accordion-title">HOW DOES THE DESIGN PROCESS WORK?</span>
-
 						        		<span class="accordion-arrow"><i class="arrow_carrot-down"></i></span>
-
 						        	</button>
-
 						      	</h5>
-
 					    	</div>
 
 
