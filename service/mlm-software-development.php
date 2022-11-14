@@ -371,17 +371,11 @@ manages all the affairs of the business.
 
 	
 
-	<section class="faq-sec s-padding bg-color" id="faq">
-
+	<section class="faq-sec s-padding bg-color pt-5" id="faq">
 		<div class="s-title">
-
-			<h2>Frequently Asked</h2>
-
-			
-
+			<h2>Frequently Asked Question</h2>
 		</div>
-
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
