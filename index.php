@@ -177,7 +177,7 @@
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                          <div class="col-md-6 anmsn" id="anmsn1">
+                                          <div class="col-md-6 animate fadeInLeft three">
 
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
 
@@ -195,7 +195,7 @@
 
                                           </div>
 
-                                          <div class="col-md-6 prod-pt" style="animation: fadeInRight 1s ease-in-out;">
+                                          <div class="col-md-6 prod-pt">
 
                                                 <h2 class="w-100">Odoo ERP</h2>
 

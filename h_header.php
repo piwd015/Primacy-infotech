@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="assets/css/common.css">
 <link rel="stylesheet" href="css/common-style.css">
 <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="assets/css/animate-02.css">
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
 <!-- <script src="js/jquery.js"></script> -->
