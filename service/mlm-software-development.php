@@ -299,7 +299,7 @@ manages all the affairs of the business.
 
 	</section><!-- feature -->
 
-	<section class="about s-padding pt-5 mt-0">
+	<section class="about s-padding pt-4 mt-0">
 
 		<div class="container-fluid px-md-5 px-3">
 
