@@ -1272,13 +1272,13 @@
 
                                         <div class="row">                                     
 
-                                              <div class="col-md-6">
+                                              <div class="col-md-6 animate fadeInLeftBig fade-lft">
 
                                                     <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
 
                                               </div>
 
-                                              <div class="col-md-6 prod-pt">
+                                              <div class="col-md-6 prod-pt animate fadeInRightBig fade-lft">
 
                                                     <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
 
