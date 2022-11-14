@@ -61,7 +61,7 @@
 
 		<div class="container-fluid px-md-5 px-3">
 
-				<div class="s-title nb-4">
+				<div class="s-title mb-4">
 
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
 
@@ -266,73 +266,21 @@
 	</section><!-- feature -->
 
 	<section class="about s-padding">
-
 		<div class="container">
-
 			<div class="row align-items-center">
-
 				<div class="col-lg-5">
-
 					<div class="about-content">
-
 						<h2>Why <span class="logo-color">Health </span>Software</h2>
-
 						<p>Primacy Infotech offers you the best MLM Software Development  to run a successful multi-level marketing or direct selling business. MLM business can’t manage manually on paper, it needs an automated system i.e. MLM Software to manage product selling, customer records, commission, payments, structure, level, rewards, e-Pin management and many more information at a large level. It’s a business of networking; therefore you need to present your business plan across the globe. Sharp e-Solutions provides you accurate, secure and best MLM software on the web to achieve your dreamed targets.
-
-
-
-</p>
-
+                        </p>
 						<button type="button" class="btn custom-btn slid-button mb " data-toggle="modal" data-target="#myModal" href="#" style="color: #000">Request A Quote <i class="icon-layers"></i></button>
-
 					</div>
-
 				</div>
-
 				<div class="col-lg-6 offset-lg-1 about-images-wrapper">
-
-<!--				<img src="assets/images/app-mockup.png" class="about-img1 wow slideInRightAlt"  alt="#primacy">-->
-
                     <img src="../assets/images/health2.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="mlm">
-
-<!--
-
-					<img src="assets/images/about-img1.png" class="about-img1 wow slideInRightAlt"  alt="#primacy">
-
-					<img src="assets/images/about-img2.png" class="about-img2 wow slideInRightAlt"  data-wow-delay=".2s" alt="#primacy">
-
--->
-
 				</div>
-
 			</div>
-
 		</div>
-
-		<!--<div class="floating-shapes">
-
-			<span data-parallax='{"x": 150, "y": -20, "rotateZ":500}'><img src="assets/images/fl-shape-1.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": 250, "y": 150, "rotateZ":500}'><img src="assets/images/fl-shape-2.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": -180, "y": 80, "rotateY":2000}'><img src="assets/images/fl-shape-3.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": -20, "y": 180}'><img src="assets/images/fl-shape-4.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": 300, "y": 70}'><img src="assets/images/fl-shape-5.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": 250, "y": 180, "rotateZ":1500}'><img src="assets/images/fl-shape-6.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": 180, "y": 10, "rotateZ":2000}'><img src="assets/images/fl-shape-7.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": 250, "y": -30, "rotateX":2000}'><img src="assets/images/fl-shape-8.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": 60, "y": -100}'><img src="assets/images/fl-shape-9.png" alt="#primacy"></span>
-
-			<span data-parallax='{"x": -30, "y": 150, "rotateZ":1500}'><img src="assets/images/fl-shape-10.png" alt="#primacy"></span>
-
-		</div>-->
-
 	</section><!-- about -->
 
 	
