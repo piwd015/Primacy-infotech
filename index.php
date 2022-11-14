@@ -195,7 +195,7 @@
 
                                           </div>
 
-                                          <div class="col-md-6 prod-pt">
+                                          <div class="col-md-6 prod-pt animate fadeInLeft fade-rght">
 
                                                 <h2 class="w-100">Odoo ERP</h2>
 
