@@ -106,9 +106,9 @@
 
                                            <p class="d-block text-md-center text-left animate fadeInUp fade-up">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
 
-                                           <h2 class="w-100 d-block text-center">Innovation In Every Step</h2>
+                                           <h2 class="w-100 d-block text-center animate fadeInUp fade-up">Innovation In Every Step</h2>
 
-                                           <ul class="w-100 d-block text-center">
+                                           <ul class="w-100 d-block text-center animate fadeInUp fade-up">
 
                                                 <li><a href="#">Odoo Implementation</a></li>
 
