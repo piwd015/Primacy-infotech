@@ -1151,7 +1151,7 @@
               <section class="product-bg-hm pag-hd w-100 d-block">
                     <div class="container-fluid">
                           <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                                      <div class="col-md-6 prod-pt animate fadeInLeftBig fade-sld-04">
+                                      <div class="col-md-6 prod-pt animate fadeInLeftBig fade-sld-02">
                                             <h2 class="w-100">Odoo ERP</h2>
                                             <h3 class="w-100">What is Odoo ERP</h3>
                                             <p class="pb-0">THE BEST USER FRIENDLY ERP - ODOO ERP,
