@@ -11057,7 +11057,7 @@ footer,
 
 /* 767px */
 @media only screen and (max-width: 767px) {
-	.ul-ux-bnr{height: 800px;}
+	.ul-ux-bnr{height: 900px;}
 	.banner-img-wrapper .banner-img-2{bottom:-190px;}
 	.banner-img-wrapper .banner-img-1{display:none;}
 	.icon-box p{text-align: left;}
