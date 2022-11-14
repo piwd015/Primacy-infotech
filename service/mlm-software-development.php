@@ -56,18 +56,6 @@ multi-level marketing. <span class="logo-color">Multi Level Marketing</span> Bus
 
 						<img src="../assets/images/mlm.gif" class="img-fluid" alt="mlm software">
 
-<!--
-
-						<div class="video-play">
-
-							<a href="https://www.youtube.com/embed/0CAQtl11vQY" data-rel="lightbox-popup"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="20px">
-
-							<path fill-rule="evenodd"  fill="rgb(255, 255, 255)" d="M-0.001,1.104 C-0.001,2.027 -0.001,18.234 -0.001,18.872 C-0.001,19.698 0.872,20.312 1.734,19.829 C2.425,19.442 13.233,11.631 14.411,10.962 C15.185,10.523 15.172,9.478 14.411,9.038 C13.563,8.548 2.702,0.697 1.699,0.152 C0.964,-0.247 -0.001,0.194 -0.001,1.104 Z"/></svg></a>
-
-						</div>
-
--->
-
 					</div>
 
 				</div>
@@ -300,7 +288,7 @@ manages all the affairs of the business.
 
 					<div class="about-content">
 
-						<h2>Why <span class="logo-color">MLM </span>Software</h2>
+						<h2 class="w-100 d-block text-center">Why <span class="logo-color">MLM </span>Software</h2>
 
 						<p>Primacy Infotech offers you the best MLM Software Development  to run a successful multi-level marketing or direct selling business. MLM business can’t manage manually on paper, it needs an automated system i.e. MLM Software to manage product selling, customer records, commission, payments, structure, level, rewards, e-Pin management and many more information at a large level. It’s a business of networking; therefore you need to present your business plan across the globe. Sharp e-Solutions provides you accurate, secure and best MLM software on the web to achieve your dreamed targets.
 
