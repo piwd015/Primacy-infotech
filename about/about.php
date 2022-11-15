@@ -100,8 +100,8 @@
                                <div class="row">
                                      <div class="col-md-4 col-6">
                                           <div class="exit-box">
-                                               <h2><dd></dd>Mission</h2>
-                                                <p>To be amount top 10 global digital service companies
+                                               <h5><dd></dd>Mission</h5>
+                                                <p class="px-md-5">To be amount top 10 global digital service companies
                                                     within 2025</p>
                                                <div class="exit-box-ftr">
                                                      <img src="../assets/images/about/mission.png" alt="">
@@ -110,8 +110,8 @@
                                      </div>
                                      <div class="col-md-4 col-6">
                                          <div class="exit-box">
-                                             <h2><dd></dd>Vision</h2>
-                                             <p>To make a digitally empowered world</p>
+                                             <h5><dd></dd>Vision</h5>
+                                             <p class="px-md-5 pt-5">To make a digitally empowered world</p>
                                              <div class="exit-box-ftr">
                                                  <img src="../assets/images/about/vision.png" alt="">
                                              </div>
