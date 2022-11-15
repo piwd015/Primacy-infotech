@@ -171,7 +171,7 @@
                                          <a href="#" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                          <img src="../assets/images/about/md.jpg" alt="">
                                      </div>
-                                   <span class="w-100 d-block text-center pt-3">Motaleb Molla</span>
+                                   <strong class="w-100 d-block text-center pt-3">Motaleb Molla</strong>
                                    <dd class="w-100 d-block text-center pt-3">Managing Director</dd>
                                </div>
                          </div>

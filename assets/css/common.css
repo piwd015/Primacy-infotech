@@ -1670,7 +1670,7 @@ a.youtb{background:#f70000; width:45px; height:40px; border-radius:100%; display
  top:-15px; margin:0 auto;}
 a:hover.youtb{background:#000; color:#fff;}
 a.youtb i{font-size:20px; color:#fff;}
-.team span{font-size:17px; color:#000; font-weight:600; text-transform:uppercase;}
+.team strong{font-size:17px; color:#000; text-transform:uppercase;}
 .team dd{font-size:15px; color:#999;}
 
 
