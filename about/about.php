@@ -161,7 +161,7 @@
                          </div>
                    </div>
 
-                   <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-3">Our Team Member</h2>
+                   <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-2">Our Team Member</h2>
                    <div class="row pt-md-5 pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
@@ -191,7 +191,7 @@
                        </div>
                          <div class="col-md-3">
                            <div class="team w-100 d-block text-center">
-                               <div class="team-circle" style="background:#17928d;">
+                               <div class="team-circle" style="background:#014872;">
                                    <a href="https://www.facebook.com/primacyit/" class="fb" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                    <a href="https://twitter.com/primacyinfotech" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
                                    <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
