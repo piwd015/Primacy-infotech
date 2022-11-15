@@ -1654,10 +1654,17 @@ padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
 .team-circle img{width:100%; display:block; border-radius:100%;}
 a.fb{background:#38529a; width:50px; height:40px; border-radius:100%; display:flex;
 justify-content:center; align-items:center; position:absolute; left:-20px; top:45%;}
+a:hover.fb{background:#000; color:#fff;}
 a.fb i{font-size:20px; color:#fff;}
 a.tw{background:#1bb1e4; width:50px; height:40px; border-radius:100%; display:flex;
  justify-content:center; align-items:center; position:absolute; right:-20px; top:45%;}
+a:hover.tw{background:#000; color:#fff;}
 a.tw i{font-size:20px; color:#fff;}
+a.ins{background:#d42364; width:50px; height:40px; border-radius:100%; display:flex;
+ justify-content:center; align-items:center; position:absolute; right:0px; left:0px;
+bottom:0px; margin:0 auto;}
+a:hover.ins{background:#000; color:#fff;}
+a.ins i{font-size:20px; color:#fff;}
 
 
 
