@@ -161,6 +161,7 @@
                          </div>
                    </div>
 
+                   <h2 class="w-100 d-block text-center pb-md-4 pb-2">Our Team Member</h2>
                    <div class="row pt-md-5 pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
