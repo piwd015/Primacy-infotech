@@ -90,7 +90,7 @@
                     <div class="item" data-aos="fade-down">
                         <section class="inovton-bg w-100 d-block">
                                <div class="container-fluid">
-                                     <div class="col-md-12 px-md-0 pt-3">
+                                     <div class="col-md-12 px-md-0 pt-1">
                                           <div class="enterpenur-logo animate fadeInLeftBig fade-lft"><img src="assets/images/enterpreneur-logo.png" alt=""></div>
                                      </div>
                                      <div class="col-md-12">
