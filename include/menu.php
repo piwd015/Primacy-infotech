@@ -389,14 +389,14 @@
             <ul class="sub-menu collapse" id="about3">
                 <li><a href="../about/our-company">Company</a>
                 </li>
-                <li><a href="../about/career">Career</a>
+                <li><a href="https://erp.primacyinfotech.com/jobs">Career</a>
                 </li>
                 <li>
                     <a href="../about/our-portfolios">Case Study</a>
                 </li>
             </ul>
             <li>
-                <a href="#"><i class="fas fa-blog"></i> Blog</a>
+                <a href="https://erp.primacyinfotech.com/blog/"><i class="fas fa-blog"></i> Blog</a>
             </li>
 
             <li>

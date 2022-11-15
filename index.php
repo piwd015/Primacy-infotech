@@ -1198,7 +1198,7 @@
 
                           <div class="row">
 
-                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-04">
+                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-03">
 
                                       <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -1232,7 +1232,7 @@
 
                                 </div>
 
-                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-04">
+                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-03">
 
                                     <div class="ecomrs-right-bg">                 
 
