@@ -1624,7 +1624,7 @@ background:url(../images/bullet.png) no-repeat 0 7px; padding-left:20px;}
 .develp-Area h2{font-size:40px; color:#000; font-weight:700; position:relative;}
 .develp-Area h2:after{content:""; width:50px; height:2px; position:absolute;
  left:0px; right:0px; bottom:10px; margin:0 auto; background:url(../images/header-line.png) no-repeat center top;}
-.develp-Area h4{background:#e53c00; font-size:40px; color:#fff; font-weight:600; height:116px; position:relative; line-height:116px;}
+.develp-Area h4{background:#e53c00; font-size:40px; color:#fff; font-weight:600; height:70px; position:relative; line-height:116px;}
 .develp-Area h4:before{content:""; position:absolute; left:0px; top:0px; width: 90px; height:116px;
 background: url("../assets/images/exit-bg-left.png") no-repeat 0 0; background-size:100% 100%;}
 .develp-Area h4:after{content:""; position:absolute; right:0px; top:0px; width: 90px; height:116px;
