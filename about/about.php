@@ -161,7 +161,7 @@
                          </div>
                    </div>
 
-                   <div class="row">
+                   <div class="row pt-md-5 pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
                                      <div class="team-circle" style="background:#f78b33;">
@@ -170,6 +170,8 @@
                                          <a href="#" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
                                          <a href="#" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                          <img src="../assets/images/about/md.jpg" alt="">
+                                         <span class="w-100 d-block text-center pt-3">Motaleb Molla</span>
+                                         <dd class="w-100 d-block text-center pt-3">Managing Director</dd>
                                      </div>
                                </div>
                          </div>
