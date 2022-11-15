@@ -1652,7 +1652,9 @@ padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
 .team-circle{background:#094d72; width:80%; height:80%; border-radius:100%; padding:15px;
  position:relative; margin:0 auto;}
 .team-circle img{width:100%; display:block; border-radius:100%;}
-a.fb{background:#38529a; width:30px; height:30px; border-radius:100%; display: flex  }
+a.fb{background:#38529a; width:30px; height:30px; border-radius:100%; display:flex;
+justify-content:center; align-items:center; position:absolute; left:0px; top:50%;}
+a.fb i{font-size:20px; color:#fff;}
 
 
 
