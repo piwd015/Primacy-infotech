@@ -1641,9 +1641,9 @@ text-align:center; line-height:40px; position:relative; font-weight: 700;}
 .exit-box h5 dd{position:absolute; left:0px; right:0px; bottom:-15px; width:20px; height:10px; margin:0 auto;
  border-top: solid 15px #90cf03; border-left: solid 15px transparent; border-right: solid 15px transparent;}
 .exit-box-ftr{background:#90cf03; height:30px; width:100%; position:absolute; bottom:0px;}
-.exit-box-ftr object{width:70px; height:70px; background:#6c9b02; border-radius:100%; margin:0 auto;
+.exit-box-ftrImg{width:70px; height:70px; background:#6c9b02; border-radius:100%; margin:0 auto;
 padding:10px;}
-.exit-box-ftr object img{width:100%; display:block; border-radius:100%;}
+.exit-box-ftrImg img{width:100%; display:block; border-radius:100%;}
 ,
 .triangle-bottom{width: 0; height: 0; margin: 30px auto;}
 .triangle-bottom{border-top:30px solid #90cf03;}

@@ -104,9 +104,9 @@
                                                 <p class="px-md-5 pt-4">To be amount top 10 global digital service companies
                                                     within 2025</p>
                                                <div class="exit-box-ftr">
-                                                   <object>
+                                                     <div class="exit-box-ftrImg">
                                                        <img src="../assets/images/about/mission.png" alt="">
-                                                   </object>
+                                                     </div>
                                                </div>
                                           </div>
                                      </div>
@@ -115,9 +115,9 @@
                                              <h5><dd></dd>Vision</h5>
                                              <p class="px-md-5 pt-4">To make a digitally empowered world</p>
                                              <div class="exit-box-ftr">
-                                                   <object>
+                                                   <div class="exit-box-ftrImg">
                                                           <img src="../assets/images/about/vision.png" alt="">
-                                                   </object>
+                                                   </div>>
                                              </div>
                                          </div>
                                      </div>
