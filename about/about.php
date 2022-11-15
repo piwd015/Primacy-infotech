@@ -121,6 +121,17 @@
                                              </div>
                                          </div>
                                      </div>
+                                   <div class="col-md-4 col-6">
+                                       <div class="exit-box">
+                                           <h5><dd></dd>Motto</h5>
+                                           <p class="px-md-5 pt-4">Create value, to be valued</p>
+                                           <div class="exit-box-ftr">
+                                               <div class="exit-box-ftrImg">
+                                                   <img src="../assets/images/about/vision.png" alt="">
+                                               </div>>
+                                           </div>
+                                       </div>
+                                   </div>
                                </div>
                          </div>
                    </div>
