@@ -1638,7 +1638,7 @@ background:url(../images/bullet.png) no-repeat 0 7px; padding-left:20px;}
 .exit-box p{font-size:20px; color:#000; font-weight:600; text-align:center; display:block;}
 .exit-box h2{ background:#90cf03; height:40px; width:100%; font-size:25px; color:#fff;
 text-align:center; line-height:40px; position:relative;}
-.exit-box h2 dd{position:absolute; left:0px; right:0px; bottom:0px; width:40px; height:20px;
+.exit-box h2 dd{position:absolute; left:0px; right:0px; bottom:-30px; width:40px; height:20px; margin:0 auto;
  border-top: solid 30px #90cf03; border-left: solid 30px transparent; border-right: solid 30px transparent;}
 .exit-box-ftr{background:#90cf03; height:30px; width:100%; position:relative;}
 .exit-box-ftr img{width:50px; height:50px; background:#6c9b02; border-radius:100%;
