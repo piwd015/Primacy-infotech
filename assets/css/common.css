@@ -1670,8 +1670,8 @@ a.youtb{background:#f70000; width:45px; height:40px; border-radius:100%; display
  top:-15px; margin:0 auto;}
 a:hover.youtb{background:#000; color:#fff;}
 a.youtb i{font-size:20px; color:#fff;}
-.team strong{font-size:17px; color:#000; text-transform:uppercase;}
-.team dd{font-size:15px; color:#999;}
+.team strong{font-size:20px; color:#000; text-transform:uppercase;}
+.team dd{font-size:16px; color:#6a6a6a;}
 
 
 
