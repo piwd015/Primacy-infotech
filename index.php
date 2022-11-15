@@ -88,78 +88,45 @@
                     <!-- Banner section -->
 
                     <div class="item" data-aos="fade-down">
-
-                         <section class="inovton-bg-02 w-100 d-block">
-
+                        <section class="inovton-bg w-100 d-block">
+                            <div class="inovton-bg-02 w-100 d-block">
                                <div class="container-fluid">
-
                                      <div class="col-md-12 px-md-0">
-
                                           <div class="enterpenur-logo animate fadeInLeftBig fade-lft"><img src="assets/images/enterpreneur-logo.png" alt=""></div>
-
                                      </div>
-
                                      <div class="col-md-12">
                                            <div class="primc-logo animate fadeInRightBig fade-rght">
                                                 <img src="assets/images/p-logo.gif">
                                            </div>
-
                                            <p class="d-block text-md-center text-left animate fadeInUpBig fade-up">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
-
                                            <h2 class="w-100 d-block text-center animate fadeInDownBig fade-dn">Innovation In Every Step</h2>
-
                                            <ul class="w-100 d-block text-center animate fadeInDownBig fade-dn">
-
                                                 <li><a href="#">Odoo Implementation</a></li>
-
                                                 <li><a href="#">Mobile Apps</a></li>
-
                                                 <li><a href="#">Web Apps</a></li>
-
                                                 <li><a href="#">Digital Marketing</a></li>
-
                                            </ul>
-
                                      </div>
-
                                      <div class="row">
-
                                            <div class="col-md-9 position-relative">
-
                                               <div class="big-arrow">
-
                                                   <a href="#section02" class="down-arrow-animate-01"></a>
-
-                                              </div>                             
-
+                                              </div>
                                            </div>
-
                                            <div class="col-md-3 odd-inov-pt">
-
                                                  <div class="row">
-
                                                      <div class="col-md-12 col-xs-12">
-
                                                           <div class="oddo-inovation"><img src="assets/images/odoo-inovation.png" alt=""></div>
-
                                                      </div>
-
                                                      <div class="col-md-12 col-xs-12">
-
                                                           <a href="#" class="odoo-partner">Partner</a>
-
                                                      </div>
-
                                                  </div>
-
                                            </div>
-
                                      </div>
-
-                               </div>  
-
+                               </div>
+                            </div>
                          </section>
-
                     </div>
 
                     <!-- Banner section -->
