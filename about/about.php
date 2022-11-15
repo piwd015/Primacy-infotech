@@ -94,6 +94,10 @@
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We innovate everyday</li>
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
+                   <div class="row">
+                         <div class="col-md-2 col-6"></div>
+                         <div class="col-md-2 col-6"></div>
+                   </div>
             </div>
     </section>
     <!-- footer -->
