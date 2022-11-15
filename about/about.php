@@ -95,7 +95,7 @@
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
 
-                <div class="row d-flex flex-wrap justify-content-center pt-4">
+                <div class="row d-flex flex-wrap justify-content-center py-md-5 py-3">
                         <div class="col-md-10">
                                <div class="row">
                                      <div class="col-md-4 mb-3">
