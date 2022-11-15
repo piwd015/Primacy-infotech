@@ -1698,6 +1698,24 @@ padding:3px;}
  }
 }
 
+.inovton-bg-02 p{padding:10px 0px; line-height:20px;}
+
+.inovton-bg-02 h3{font-size:24px; color:#fff; padding:5px 0px; font-family: 'Oswald', sans-serif;
+
+ border-top:solid 1px #f17324;  border-bottom:solid 1px #f17324; margin:0px; font-weight:400;
+
+ letter-spacing:1px;}
+
+.inovton-bg-02 h2{font-size:24px; padding:5px 0px; font-family: 'Oswald', sans-serif;
+
+ border-top:solid 1px #f17324;  border-bottom:solid 1px #f17324; margin:0px 0px 5px; font-weight:400;
+
+ letter-spacing:1px;}
+
+.inovton-bg-02 ul{padding-top:0px;}
+
+.inovton-bg-02 ul li a{font-size:13px;}
+
 
 
 @media only screen and (max-width:990px){
