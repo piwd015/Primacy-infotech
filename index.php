@@ -88,8 +88,7 @@
                     <!-- Banner section -->
 
                     <div class="item" data-aos="fade-down">
-                        <section class="inovton-bg w-100 d-block">
-                            <div class="inovton-bg-02 w-100 d-block">
+                        <section class="inovton-bg-02 w-100 d-block">
                                <div class="container-fluid">
                                      <div class="col-md-12 px-md-0">
                                           <div class="enterpenur-logo animate fadeInLeftBig fade-lft"><img src="assets/images/enterpreneur-logo.png" alt=""></div>
@@ -125,7 +124,6 @@
                                            </div>
                                      </div>
                                </div>
-                            </div>
                          </section>
                     </div>
 
