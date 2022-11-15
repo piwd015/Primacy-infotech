@@ -161,8 +161,8 @@
                          </div>
                    </div>
 
-                   <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-2">Our Team Member</h2>
-                   <div class="row pt-md-5 pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
+                   <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4">Our Team Member</h2>
+                   <div class="row pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
                                          <div class="team-circle" style="background:#f78b33;">
@@ -211,8 +211,8 @@
                                    <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                    <img src="../assets/images/about/md.jpg" alt="">
                                </div>
-                               <strong class="w-100 d-block text-center pt-4">Motaleb Molla</strong>
-                               <dd class="w-100 d-block text-center pt-1">Managing Director</dd>
+                               <strong class="w-100 d-block text-center pt-4">Smritimay Debnath</strong>
+                               <dd class="w-100 d-block text-center pt-1">Software Developer</dd>
                            </div>
                        </div>
                    </div>
