@@ -2086,10 +2086,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .banner-content .btn{min-width:fit-content!important;}
  .btn-wrapper .btn{ margin-right:5px!important;}
 
- .inovton-bg-02 {
-  height: auto;
-  min-height: auto;
- }
+ .inovton-bg-02 {height: auto; min-height: auto;}
  .inovton-bg-02 p{font-size:14px; line-height: 20px; padding: 10px 0px;}
  .inovton-bg-02 h3{font-size:20px;}
  .inovton-bg-02 h2{font-size: 20px;}
