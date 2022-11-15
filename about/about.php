@@ -182,7 +182,7 @@
                                    <a href="https://twitter.com/primacyinfotech" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
                                    <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
                                    <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
-                                   <img src="../assets/images/about/md.jpg" alt="">
+                                   <img src="../assets/images/about/ceo.jpg" alt="">
                                </div>
                                <strong class="w-100 d-block text-center pt-4">Kabir Hossain</strong>
                                <dd class="w-100 d-block text-center pt-1">Founder and CEO</dd>
@@ -195,7 +195,7 @@
                                    <a href="https://twitter.com/primacyinfotech" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
                                    <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
                                    <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
-                                   <img src="../assets/images/about/ceo.jpg" alt="">
+                                   <img src="../assets/images/about/manager.jpg" alt="">
                                </div>
                                <strong class="w-100 d-block text-center pt-4">Sudip Mondal</strong>
                                <dd class="w-100 d-block text-center pt-1">Manager</dd>
