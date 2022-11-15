@@ -34,23 +34,23 @@
                            <ul class="fact-shet pl-0">
                                 <li class="mb-3"><dd><img src="../assets/images/about/since-icon.png"></dd>
                                      <strong class="pb-1">Since</strong>
-                                     <span>2015</span>
+                                     <b>2015</b>
                                 </li>
                                <li class="mb-3"><dd><img src="../assets/images/about/team-icon.png"></dd>
                                    <strong class="pb-1">Team</strong>
-                                   <span>20 + Passionate Professionals</span>
+                                   <b>20 + Passionate Professionals</b>
                                </li>
                                <li class="mb-3"><dd><img src="../assets/images/about/office.png"></dd>
                                    <strong class="pb-1">Offices</strong>
-                                   <span>3,000 square feet</span>
+                                   <b>3,000 square feet</b>
                                </li>
                                <li class="mb-3"><dd><img src="../assets/images/about/location-search.png"></dd>
                                    <strong class="pb-1">Presence in</strong>
-                                   <span>India, Bangladesh, Canada</span>
+                                   <b>India, Bangladesh, Canada</b>
                                </li>
                                <li class="mb-3"><dd><img src="../assets/images/about/learn-organization.png"></dd>
                                    <strong class="pb-1">Lean Organization</strong>
-                                   <span>Only 3 levels of hierarchy including top management. Empowered team.</span>
+                                   <b>Only 3 levels of hierarchy including top management. Empowered team.</b>
                                </li>
                            </ul>
                       </div>
@@ -58,25 +58,25 @@
                             <ul class="fact-shet">
                                   <li class="mb-3"><dd><img src="../assets/images/about/core-service.png"></dd>
                                         <strong class="pb-1">Core Services</strong>
-                                        <span>Web Apps, Odoo ERP, Mobile Apps, Saas Products, Digital Marketing,
-                                        Cloud Infra, Digital Consulting, Blockchain</span>
+                                        <b>Web Apps, Odoo ERP, Mobile Apps, Saas Products, Digital Marketing,
+                                        Cloud Infra, Digital Consulting, Blockchain</b>
                                   </li>
                                   <li class="mb-3"><dd><img src="../assets/images/about/business-distribution.png"></dd>
                                         <strong class="pb-1">Business distribution</strong>
-                                        <span>Tech - 80%&nbsp;&nbsp;&nbsp;&nbsp;Marketing - 20%</span>
+                                        <b>Tech - 80%&nbsp;&nbsp;&nbsp;&nbsp;Marketing - 20%</b>
                                   </li>
                                   <li class="mb-3"><dd><img src="../assets/images/about/hours-delivered.png"></dd>
                                         <strong class="pb-1"># of hours delivered</strong>
-                                        <span>4,500,00 hours & counting</span>
+                                        <b>4,500,00 hours & counting</b>
                                   </li>
                                   <li class="mb-3"><dd><img src="../assets/images/about/project-delivered.png"></dd>
                                        <strong class="pb-1">Project delivered</strong>
-                                        <span>1000+</span>
+                                        <b>1000+</b>
                                   </li>
                                    <li class="mb-3"><dd><img src="../assets/images/about/industries-served.png"></dd>
                                          <strong class="pb-1">Industries served</strong>
-                                         <span>Financial Service, Entertainment, Retail, Health, Media,
-                                          IT Services, Professional Services, Education, Travel & Others</span>
+                                         <b>Financial Service, Entertainment, Retail, Health, Media,
+                                          IT Services, Professional Services, Education, Travel & Others</b>
                                    </li>
                             </ul>
                       </div>

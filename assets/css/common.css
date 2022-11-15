@@ -1663,7 +1663,7 @@ ul.fact-shet li{display:block; padding-left:52px; position:relative; border-bott
  height: 85px;}
 ul.fact-shet li strong{display:block; font-size:20px; color:#ba1419; font-weight:700;
 letter-spacing:1px;}
-ul.fact-shet li span{display:block; font-size:17px; color:#000; font-weight:600;
+ul.fact-shet li b{display:block; font-size:17px; color:#000; font-weight:600;
  letter-spacing:1px;}
 ul.fact-shet li dd{position:absolute; left:0px; top:5px; width:40px;}
 ul.fact-shet li dd img{width:100%; display:block;}
@@ -1678,15 +1678,7 @@ padding:3px;}
 .Ul-uxImg{height: 630px; position: relative;}
 .Ul-uxImg img{width:100%; height:auto; display:block; position:absolute;}
 
-@keyframes fadeInRight {
- from {
-  opacity: 0;
-  transform: translateX(300px);
- }
- to {
-  opacity: 1;
- }
-}
+
 
 @media only screen and (max-width:990px){
 
