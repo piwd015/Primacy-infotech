@@ -94,9 +94,31 @@
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We innovate everyday</li>
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
-                   <div class="row">
-                         <div class="col-md-2 col-6"></div>
-                         <div class="col-md-2 col-6"></div>
+
+                   <div class="row d-flex flex-wrap justify-content-center">
+                         <div class="col-md-10">
+                               <div class="row">
+                                     <div class="col-md-4 col-6">
+                                          <div class="exit-box">
+                                               <h2><dd></dd>Mission</h2>
+                                                <p>To be amount top 10 global digital service companies
+                                                    within 2025</p>
+                                               <div class="exit-box-ftr">
+                                                     <img src="../assets/images/about/mission.png" alt="">
+                                               </div>
+                                          </div>
+                                     </div>
+                                     <div class="col-md-4 col-6">
+                                         <div class="exit-box">
+                                             <h2><dd></dd>Vision</h2>
+                                             <p>To make a digitally empowered world</p>
+                                             <div class="exit-box-ftr">
+                                                 <img src="../assets/images/about/vision.png" alt="">
+                                             </div>
+                                         </div>
+                                     </div>
+                               </div>
+                         </div>
                    </div>
             </div>
     </section>
