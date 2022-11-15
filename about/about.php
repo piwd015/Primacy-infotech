@@ -95,7 +95,7 @@
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
 
-                   <div class="row d-flex flex-wrap justify-content-center">
+                   <div class="row d-flex flex-wrap justify-content-center pt-4">
                          <div class="col-md-10">
                                <div class="row">
                                      <div class="col-md-4 col-6">
@@ -127,7 +127,7 @@
                                            <p class="px-md-5 pt-4">Create value, to be valued</p>
                                            <div class="exit-box-ftr">
                                                <div class="exit-box-ftrImg">
-                                                   <img src="../assets/images/about/vision.png" alt="">
+                                                   <img src="../assets/images/about/motto.png" alt="">
                                                </div>>
                                            </div>
                                        </div>
