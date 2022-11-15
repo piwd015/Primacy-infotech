@@ -101,7 +101,7 @@
                                      <div class="col-md-4 col-6">
                                           <div class="exit-box">
                                                <h5><dd></dd>Mission</h5>
-                                                <p class="px-md-5 pt-3">To be amount top 10 global digital service companies
+                                                <p class="px-md-5 pt-4">To be amount top 10 global digital service companies
                                                     within 2025</p>
                                                <div class="exit-box-ftr">
                                                      <img src="../assets/images/about/mission.png" alt="">
@@ -111,7 +111,7 @@
                                      <div class="col-md-4 col-6">
                                          <div class="exit-box">
                                              <h5><dd></dd>Vision</h5>
-                                             <p class="px-md-5 pt-3">To make a digitally empowered world</p>
+                                             <p class="px-md-5 pt-4">To make a digitally empowered world</p>
                                              <div class="exit-box-ftr">
                                                  <img src="../assets/images/about/vision.png" alt="">
                                              </div>
