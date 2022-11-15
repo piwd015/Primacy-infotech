@@ -1682,7 +1682,7 @@ padding:3px;}
  height: 100%;
  min-height: 500px;
  /*background-color: #cc246f;*/
- background-image: radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #999 41%, transparent 0);
+ background-image: radial-gradient(circle, transparent 40%, #999 40%, #f7ad00 41%, transparent 0), radial-gradient(circle, transparent 40%, #f7ad00 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #999 40%, #f7ad00 41%, transparent 0), radial-gradient(circle, transparent 40%, #f7ad00 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #f7ad00 40%, #999 41%, transparent 0), radial-gradient(circle, transparent 40%, #f7ad00 40%, #f7ad00 41%, transparent 0), radial-gradient(circle, transparent 40%, #f7ad00 40%, #f7ad00 41%, transparent 0);
  background-position: 50% 50%;
  background-size: 200% 200%, 150% 150%, 100% 100%, 60% 60%, 40% 40%, 20% 20%, 5% 5%;
  background-repeat: no-repeat;
