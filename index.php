@@ -1051,7 +1051,7 @@
 
             <section class="inovton-bg-02 w-100 d-block pt-5" data-aos="fade-down">
 
-                        <div class="container-fluid">
+                        <div class="container-fluid pt-5">
 
                          <div class="col-md-12 px-0">
 
