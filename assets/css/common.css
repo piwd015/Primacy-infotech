@@ -1648,7 +1648,11 @@ padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
 .intgrty img{width:50%; display: block; margin:0 auto;}
 .intgrty strong{background:#ba151a; font-size:35px; color:#fff; height:55px; line-height:45px;}
 
-
+.team{}
+.team-circle{background:#094d72; width:80%; height:80%; border-radius:100%; padding:15px;
+ position:relative; margin:0 auto;}
+.team-circle img{width:100%; display:block; border-radius:100%;}
+a.fb{background:#38529a; width:30px; height:30px; border-radius:100%; display: flex  }
 
 
 
