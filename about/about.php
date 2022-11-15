@@ -96,7 +96,7 @@
                    </ul>
 
                 <div class="row d-flex flex-wrap justify-content-center py-md-5 py-3">
-                        <div class="col-md-10 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
+                        <div class="col-md-10 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                                <div class="row">
                                      <div class="col-md-4 mb-3">
                                            <div class="intgrty w-100 d-block text-center">
