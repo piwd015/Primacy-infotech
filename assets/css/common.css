@@ -1667,7 +1667,7 @@ a:hover.ins{background:#000; color:#fff;}
 a.ins i{font-size:20px; color:#fff;}
 a.youtb{background:#f70000; width:45px; height:40px; border-radius:100%; display:flex;
  justify-content:center; align-items:center; position:absolute; right:0px; left:0px;
- top:-10px; margin:0 auto;}
+ top:-15px; margin:0 auto;}
 a:hover.youtb{background:#000; color:#fff;}
 a.youtb i{font-size:20px; color:#fff;}
 
