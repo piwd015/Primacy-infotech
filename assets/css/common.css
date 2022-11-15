@@ -1649,12 +1649,15 @@ padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
 .intgrty strong{background:#ba151a; font-size:35px; color:#fff; height:55px; line-height:45px;}
 
 .team{}
-.team-circle{background:#094d72; width:80%; height:80%; border-radius:100%; padding:15px;
+.team-circle{ width:80%; height:80%; border-radius:100%; padding:15px;
  position:relative; margin:0 auto;}
 .team-circle img{width:100%; display:block; border-radius:100%;}
-a.fb{background:#38529a; width:50px; height:50px; border-radius:100%; display:flex;
-justify-content:center; align-items:center; position:absolute; left:0px; top:50%;}
-a.fb i{font-size:30px; color:#fff;}
+a.fb{background:#38529a; width:50px; height:40px; border-radius:100%; display:flex;
+justify-content:center; align-items:center; position:absolute; left:-20px; top:45%;}
+a.fb i{font-size:20px; color:#fff;}
+a.tw{background:#1bb1e4; width:50px; height:40px; border-radius:100%; display:flex;
+ justify-content:center; align-items:center; position:absolute; right:-20px; top:45%;}
+a.tw i{font-size:20px; color:#fff;}
 
 
 

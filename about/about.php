@@ -164,8 +164,9 @@
                    <div class="row">
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
-                                     <div class="team-circle">
+                                     <div class="team-circle" style="background:#f78b33;">
                                          <a href="#" class="fb" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                         <a href="#" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
                                          <img src="../assets/images/about/md.jpg" alt="">
                                      </div>
                                </div>
