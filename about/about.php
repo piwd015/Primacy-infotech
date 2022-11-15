@@ -86,10 +86,10 @@
 
     <section class="develp-Area wow slideInUp py-md-5" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
             <div class="container-fluid px-md-5">
-                    <h4 class="w-100 d-block text-center mb-4">Why We Exit</h4>
+                    <h4 class="w-100 d-block text-center mb-5">Why We Exit</h4>
                     <span class="d-block text-center">We, unlike robots, do not work only with our brains. We are humans with an uncanny love for
                         technology and immense love for solutions.</span>
-                   <ul class="crt-vlu w-100 d-block text-center pt-3">
+                   <ul class="crt-vlu w-100 d-block text-center pt-4">
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt=""> We create value</li>
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We innovate everyday</li>
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
