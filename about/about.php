@@ -170,9 +170,9 @@
                                          <a href="#" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
                                          <a href="#" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                          <img src="../assets/images/about/md.jpg" alt="">
-                                         <span class="w-100 d-block text-center pt-3">Motaleb Molla</span>
-                                         <dd class="w-100 d-block text-center pt-3">Managing Director</dd>
                                      </div>
+                                   <span class="w-100 d-block text-center pt-3">Motaleb Molla</span>
+                                   <dd class="w-100 d-block text-center pt-3">Managing Director</dd>
                                </div>
                          </div>
                    </div>
