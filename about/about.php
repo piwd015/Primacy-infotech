@@ -185,8 +185,8 @@
                                    <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                    <img src="../assets/images/about/md.jpg" alt="">
                                </div>
-                               <strong class="w-100 d-block text-center pt-4">Motaleb Molla</strong>
-                               <dd class="w-100 d-block text-center pt-1">Managing Director</dd>
+                               <strong class="w-100 d-block text-center pt-4">Kabir Hossain</strong>
+                               <dd class="w-100 d-block text-center pt-1">Founder and CEO</dd>
                            </div>
                        </div>
                          <div class="col-md-3">
@@ -198,13 +198,13 @@
                                    <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                    <img src="../assets/images/about/md.jpg" alt="">
                                </div>
-                               <strong class="w-100 d-block text-center pt-4">Motaleb Molla</strong>
-                               <dd class="w-100 d-block text-center pt-1">Managing Director</dd>
+                               <strong class="w-100 d-block text-center pt-4">Sudip Mondal</strong>
+                               <dd class="w-100 d-block text-center pt-1">Manager</dd>
                            </div>
                        </div>
                          <div class="col-md-3">
                            <div class="team w-100 d-block text-center">
-                               <div class="team-circle" style="background:#f78b33;">
+                               <div class="team-circle" style="background:#19e9ef;">
                                    <a href="https://www.facebook.com/primacyit/" class="fb" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                    <a href="https://twitter.com/primacyinfotech" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
                                    <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
