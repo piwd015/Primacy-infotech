@@ -95,10 +95,29 @@
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
 
+                <div class="row d-flex flex-wrap justify-content-center pt-4">
+                        <div class="col-md-10">
+                               <div class="row">
+                                     <div class="col-md-4">
+                                           <div class="intgrty w-100 d-block text-center">
+                                                 <img src="../assets/images/about/integrity.png" alt="">
+                                                 <strong class="w-100 d-block pt-3">Integrity</strong>
+                                           </div>
+                                     </div>
+                                       <div class="col-md-4">
+                                           <div class="intgrty w-100 d-block text-center">
+                                                  <img src="../assets/images/about/respect.png" alt="">
+                                                  <strong class="w-100 d-block pt-3">Respect</strong>
+                                           </div>
+                                       </div>
+                               </div>
+                        </div>
+                </div>
+
                    <div class="row d-flex flex-wrap justify-content-center pt-4">
                          <div class="col-md-10">
                                <div class="row">
-                                     <div class="col-md-4 col-6">
+                                     <div class="col-md-4 mb-3">
                                           <div class="exit-box">
                                                <h5><dd></dd>Mission</h5>
                                                 <p class="px-md-5 pt-4">To be amount top 10 global digital service companies
@@ -110,7 +129,7 @@
                                                </div>
                                           </div>
                                      </div>
-                                     <div class="col-md-4 col-6">
+                                     <div class="col-md-4 mb-3">
                                          <div class="exit-box">
                                              <h5><dd></dd>Vision</h5>
                                              <p class="px-md-5 pt-4">To make a digitally empowered world</p>
@@ -121,7 +140,7 @@
                                              </div>
                                          </div>
                                      </div>
-                                   <div class="col-md-4 col-6">
+                                   <div class="col-md-4 mb-3">
                                        <div class="exit-box">
                                            <h5><dd></dd>Motto</h5>
                                            <p class="px-md-5 pt-4">Create value, to be valued</p>
