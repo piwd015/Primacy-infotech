@@ -27,7 +27,7 @@
             </div>
     </section>
     <section class="develp-Area wow slideInUp py-md-0" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
-            <div class="container">
+            <div class="container-fluid">
                    <h2 class="w-100 d-block text-center pb-md-4 pb-2">Fact Sheet</h2>
                 <div class="row">
                       <div class="col-md-6">
