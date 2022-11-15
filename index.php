@@ -89,7 +89,7 @@
 
                     <div class="item" data-aos="fade-down">
 
-                         <section class="inovton-bg w-100 d-block">
+                         <section class="inovton-bg-02 w-100 d-block">
 
                                <div class="container-fluid">
 

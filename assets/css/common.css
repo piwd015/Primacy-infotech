@@ -1698,7 +1698,7 @@ padding:3px;}
  }
 }
 
-.inovton-bg-02 p{padding:10px 0px; line-height:20px;}
+.inovton-bg-02 p{font-size:15px; color: #fff; line-height: 25px; padding: 20px 60px;}
 
 .inovton-bg-02 h3{font-size:24px; color:#fff; padding:5px 0px; font-family: 'Oswald', sans-serif;
 
@@ -1706,15 +1706,17 @@ padding:3px;}
 
  letter-spacing:1px;}
 
-.inovton-bg-02 h2{font-size:24px; padding:5px 0px; font-family: 'Oswald', sans-serif;
+.inovton-bg-02 h2{font-size: 35px; color: #fff; font-weight: 600;}
 
- border-top:solid 1px #f17324;  border-bottom:solid 1px #f17324; margin:0px 0px 5px; font-weight:400;
+.inovton-bg-02 ul{margin:0px; padding-top:25px;}
 
- letter-spacing:1px;}
+.inovton-bg-02 ul li{display:inline-block; border-right:solid 2px #fff; padding:0px 10px;}
 
-.inovton-bg-02 ul{padding-top:0px;}
+.inovton-bg-02 ul li:last-child{border-right:none; padding-right:0px;}
 
-.inovton-bg-02 ul li a{font-size:13px;}
+.inovton-bg-02 ul li a{font-size:17px; color:#fff; text-transform:uppercase;}
+
+.inovton-bg-02 ul li a:hover{color:#ff6600; text-decoration:none;}
 
 
 
