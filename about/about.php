@@ -168,6 +168,7 @@
                                          <a href="#" class="fb" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                          <a href="#" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
                                          <a href="#" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
+                                         <a href="#" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                          <img src="../assets/images/about/md.jpg" alt="">
                                      </div>
                                </div>
