@@ -222,7 +222,7 @@
 
                                       <div class="row">
 
-                                            <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-01">
+                                            <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-02">
 
                                                   <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -256,7 +256,7 @@
 
                                             </div>
 
-                                          <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-01">
+                                          <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-02">
 
                                                 <div class="ecomrs-right-bg">                 
 
@@ -296,7 +296,7 @@
 
                                     <div class="row"> 
 
-                                          <div class="col-md-6 prod-pt animate fadeInLeftBig fade-sld-01">
+                                          <div class="col-md-6 prod-pt animate fadeInLeftBig fade-sld-02">
 
                                                 <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
 
@@ -310,7 +310,7 @@
 
                                           </div>                      
 
-                                          <div class="col-md-6 animate fadeInRightBig fade-sld-01">
+                                          <div class="col-md-6 animate fadeInRightBig fade-sld-02">
                                                 <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
 
                                           </div>
@@ -339,13 +339,13 @@
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row"> 
 
-                                          <div class="col-md-6">
+                                          <div class="col-md-6 animate fadeInLeftBig fade-sld-02">
 
                                                 <div class="mb-app-devlpr-Img"><img src="assets/images/mb-app-developer.png" alt=""></div>
 
                                           </div>
 
-                                          <div class="col-md-6 mobl-ap-pt">
+                                          <div class="col-md-6 mobl-ap-pt animate fadeInRightBig fade-sld-02">
 
                                                 <h2 class="w-100 d-block"><strong>Mobile App</strong><br/> Development</h2>
 
@@ -381,7 +381,7 @@
 
                                       <div class="row">
 
-                                            <div class="col-md-5 contArea-top-pt "> 
+                                            <div class="col-md-5 contArea-top-pt animate fadeInLeftBig fade-sld-02">
 
                                                  <div class="digitl">
 
@@ -404,7 +404,7 @@
 
                                             </div>
 
-                                          <div class="col-md-7 pr-md-0">                   
+                                          <div class="col-md-7 pr-md-0 animate fadeInRightBig fade-sld-02">
 
                                                <div class="digi-mrkt-right-bg">            
 
@@ -1198,7 +1198,7 @@
 
                           <div class="row">
 
-                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-03">
+                                <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-02">
 
                                       <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -1232,7 +1232,7 @@
 
                                 </div>
 
-                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-03">
+                                <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-02">
 
                                     <div class="ecomrs-right-bg">                 
 
@@ -1261,13 +1261,13 @@
                                 <div class="container-fluid">
                                         <div class="row">
 
-                                              <div class="col-md-6 animate fadeInLeftBig fade-sld-04">
+                                              <div class="col-md-6 animate fadeInLeftBig fade-sld-02">
 
                                                     <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
 
                                               </div>
 
-                                              <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-04">
+                                              <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-02">
 
                                                     <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
 
