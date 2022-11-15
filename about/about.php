@@ -95,7 +95,7 @@
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
 
-                <div class="row d-flex flex-wrap justify-content-center py-md-5 py-3">
+                <div class="row d-flex flex-wrap justify-content-center py-md-4 py-3">
                         <div class="col-md-10">
                                <div class="row">
                                      <div class="col-md-4 mb-3">
@@ -108,6 +108,12 @@
                                            <div class="intgrty w-100 d-block text-center">
                                                   <img src="../assets/images/about/respect.png" alt="">
                                                   <strong class="w-100 d-block pt-1 mt-2">Respect</strong>
+                                           </div>
+                                       </div>
+                                       <div class="col-md-4 mb-3">
+                                           <div class="intgrty w-100 d-block text-center">
+                                               <img src="../assets/images/about/commitment.png" alt="">
+                                               <strong class="w-100 d-block pt-1 mt-2">Commitment</strong>
                                            </div>
                                        </div>
                                </div>
