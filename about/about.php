@@ -223,17 +223,30 @@
                                             <dd style="background:#51737f;"><i class="fas fa-virus"></i></dd>
                                             <img src="../assets/images/about/member-01.jpg" alt="">
                                       </div>
+                                       <h5 class="w-100 d-block text-center pt-3" style="color:#51737f;">Suman Karmakar</h5>
+                                       <h6 class="w-100 d-block text-center pt-2">PHP Developer</h6>
                                 </div>
                           </div>
                           <div class="col-md-2">
-                              <div class="tem-membr">
-                                  <div class="tem-membr-bdr" style="border-color:#e53f27;">
-                                      <dd style="background:#e53f27;"><i class="fas fa-wreath"></i></dd>
-                                      <img src="../assets/images/about/member-02.jpg" alt="">
+                                  <div class="tem-membr">
+                                          <div class="tem-membr-bdr" style="border-color:#e53f27;">
+                                              <dd style="background:#e53f27;"><i class="fas fa-wreath"></i></dd>
+                                              <img src="../assets/images/about/member-02.jpg" alt="">
+                                          </div>
+                                          <h5 class="w-100 d-block text-center pt-3" style="color:#e53f27;">Raju Chakraborty</h5>
+                                          <h6 class="w-100 d-block text-center pt-2">Front End Developer</h6>
                                   </div>
-                              </div>
                           </div>
-                          <div class="col-md-2"></div>
+                          <div class="col-md-2">
+                                  <div class="tem-membr">
+                                      <div class="tem-membr-bdr" style="border-color:#25a3ba;">
+                                          <dd style="background:#25a3ba;"><i class="fas fa-wreath"></i></dd>
+                                          <img src="../assets/images/about/member-03.jpg" alt="">
+                                      </div>
+                                      <h5 class="w-100 d-block text-center pt-3" style="color:#25a3ba;">Ayushi</h5>
+                                      <h6 class="w-100 d-block text-center pt-2">Front End Developer</h6>
+                                  </div>
+                          </div>
                           <div class="col-md-2"></div>
                           <div class="col-md-2"></div>
                           <div class="col-md-2"></div>
