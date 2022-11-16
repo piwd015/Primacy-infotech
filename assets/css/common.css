@@ -1926,7 +1926,7 @@ z-index:100; position: relative;}
 
 .devlpr-bg h2{padding-bottom:10px;}
 
-a.app-serv{font-size:14px; padding:12px 30px; margin-top:0px; position:relative;
+a.app-serv{font-size:13px; padding:9px 20px 9px 10px; margin-top:0px; position:relative;
 
 top:-10px; left:-30px; background-size:11px 16px; text-decoration:none;}
 
@@ -2128,6 +2128,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .sMedia a.sMedia-icon{width:30px; height:30px; padding-top:6px;}
  a.sMedia-icon i{font-size:15px;}
  .tem-membr .tem-membr-bdr{width:95%;}
+ .tem-membr .tem-membr-bdr dd{right:-25px; bottom:-25px}
 }
 
 
