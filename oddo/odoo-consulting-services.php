@@ -86,7 +86,7 @@
                                         get the most out of the software to improve efficiency
                                         across your company.</p>
                               </div>
-                            <div class="col-md-6 pl-md-5">
+                            <div class="col-md-6 d-flex flex-wrap justify-content-center align-items-center">
                                 <img src="../assets/images/oddo/consultingImg-01.jpg" class="img-fluid" alt="">
                             </div>
                         </div>
