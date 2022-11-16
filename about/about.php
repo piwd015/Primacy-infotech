@@ -228,7 +228,7 @@
                           <div class="col-md-2">
                                 <div class="tem-membr">
                                       <div class="tem-membr-bdr" style="border-color:#51737f;">
-                                            <dd style="background:#51737f;"><i class="fas fa-virus"></i></dd>
+                                            <dd style="background:#51737f;"><img src="../assets/images/about/team-icon-01.png" alt=""></dd>
                                             <img src="../assets/images/about/member-01.jpg" alt="">
                                       </div>
                                        <h5 class="w-100 d-block text-center pt-3" style="color:#51737f;">Suman Karmakar</h5>
@@ -238,7 +238,7 @@
                           <div class="col-md-2">
                                   <div class="tem-membr">
                                           <div class="tem-membr-bdr" style="border-color:#e53f27;">
-                                              <dd style="background:#e53f27;"><i class="fas fa-wreath"></i></dd>
+                                              <dd style="background:#e53f27;"><img src="../assets/images/about/team-icon-02.png" alt=""></dd>
                                               <img src="../assets/images/about/member-02.jpg" alt="">
                                           </div>
                                           <h5 class="w-100 d-block text-center pt-3" style="color:#e53f27;">Raju Chakraborty</h5>
