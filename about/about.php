@@ -21,7 +21,7 @@
     <?php include '../include/header.php'; ?>
     <!--end fixed header-->
     <!-- header -->
-    <section class="w-100 d-block pt-0">
+    <section class="w-100 d-block pt-5">
             <div class="s-title mb-3">
                 <h2>About Us</h2>
             </div>
