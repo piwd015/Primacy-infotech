@@ -244,10 +244,19 @@
                                           <img src="../assets/images/about/member-03.jpg" alt="">
                                       </div>
                                       <h5 class="w-100 d-block text-center pt-3" style="color:#25a3ba;">Ayushi</h5>
-                                      <h6 class="w-100 d-block text-center pt-2">Front End Developer</h6>
+                                      <h6 class="w-100 d-block text-center pt-2">HR with </h6>
                                   </div>
                           </div>
-                          <div class="col-md-2"></div>
+                          <div class="col-md-2">
+                                  <div class="tem-membr">
+                                      <div class="tem-membr-bdr" style="border-color:#774e4c;">
+                                          <dd style="background:#774e4c;"><i class="fas fa-wreath"></i></dd>
+                                          <img src="../assets/images/about/member-04.jpg" alt="">
+                                      </div>
+                                      <h5 class="w-100 d-block text-center pt-3" style="color:#774e4c;">Ataur Rohaman</h5>
+                                      <h6 class="w-100 d-block text-center pt-2">UL/UX Developer</h6>
+                                  </div>
+                          </div>
                           <div class="col-md-2"></div>
                           <div class="col-md-2"></div>
                     </div>
