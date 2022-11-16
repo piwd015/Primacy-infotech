@@ -123,7 +123,7 @@
                    <div class="row d-flex flex-wrap justify-content-center pt-md-4">
                          <div class="col-md-10 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                                <div class="row">
-                                     <div class="col-md-4 mb-md-0 mb-5">
+                                     <div class="col-md-4 mb-md-0 mb-4">
                                           <div class="exit-box">
                                                <h5><dd></dd>Mission</h5>
                                                 <p class="px-md-5 pt-4">To be amount top 10 global digital service companies
@@ -135,7 +135,7 @@
                                                </div>
                                           </div>
                                      </div>
-                                     <div class="col-md-4 mb-md-0 mb-5">
+                                     <div class="col-md-4 mb-md-0 mb-4">
                                          <div class="exit-box">
                                              <h5><dd></dd>Vision</h5>
                                              <p class="px-md-5 pt-4">To make a digitally empowered world</p>
