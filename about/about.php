@@ -210,8 +210,8 @@
                                    <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                    <img src="../assets/images/about/sft-dev.jpg" alt="">
                                </div>
-                               <strong class="w-100 d-block text-center pt-4">Smritimay Debnath</strong>
-                               <dd class="w-100 d-block text-center pt-1">Software Developer</dd>
+                               <strong class="w-100 d-block text-center pt-4">Mokles Ahamed</strong>
+                               <dd class="w-100 d-block text-center pt-1">Area Manager</dd>
                            </div>
                        </div>
                    </div>
@@ -261,7 +261,7 @@
                             <div class="tem-membr">
                                 <div class="tem-membr-bdr" style="border-color:#774e4c;">
                                     <dd style="background:#774e4c;"><i class="fas fa-wreath"></i></dd>
-                                    <img src="../assets/images/about/member-04.jpg" alt="">
+                                    <img src="../assets/images/about/member-05.jpg" alt="">
                                 </div>
                                 <h5 class="w-100 d-block text-center pt-3" style="color:#774e4c;">Ataur Rohaman</h5>
                                 <h6 class="w-100 d-block text-center pt-0">UL/UX Developer</h6>
