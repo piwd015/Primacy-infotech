@@ -220,7 +220,7 @@
                           <div class="col-md-2">
                                 <div class="tem-membr">
                                       <div class="tem-membr-bdr">
-                                            <dd><i class="fa-brands fa-slack"></i></dd>
+                                            <dd><i class="fas fa-volleyball-ball"></i></dd>
                                             <img src="../assets/images/about/member-01.jpg" alt="">
                                       </div>
                                 </div>
