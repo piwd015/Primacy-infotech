@@ -165,14 +165,16 @@
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
                                          <div class="team-circle" style="background:#f78b33;">
-                                             <a href="https://www.facebook.com/primacyit/" class="fb" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                             <a href="https://twitter.com/primacyinfotech" class="tw" target="_blank"><i class="fab fa-twitter"></i></a>
-                                             <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="ins" target="_blank"><i class="fab fa-instagram"></i></a>
-                                             <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="youtb" target="_blank"><i class="fab fa-youtube"></i></a>
                                              <img src="../assets/images/about/md.jpg" alt="">
                                          </div>
                                        <strong class="w-100 d-block text-center pt-4">Motaleb Molla</strong>
                                        <dd class="w-100 d-block text-center pt-1">Managing Director</dd>
+                                       <div class="sMedia w-100 d-block text-center">
+                                           <a href="https://www.facebook.com/primacyit/" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                           <a href="https://twitter.com/primacyinfotech" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-twitter"></i></a>
+                                           <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-instagram"></i></a>
+                                           <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="sMedia-icon" target="_blank"><i class="fab fa-youtube"></i></a>
+                                       </div>
                                 </div>
                          </div>
                          <div class="col-md-3">
@@ -192,20 +194,32 @@
                        </div>
                          <div class="col-md-3">
                            <div class="team w-100 d-block text-center">
-                               <div class="team-circle" style="background:#014872;">
-                                   <img src="../assets/images/about/manager.jpg" alt="">
-                               </div>
-                               <strong class="w-100 d-block text-center pt-4">Sudip Mondal</strong>
-                               <dd class="w-100 d-block text-center pt-1">Manager</dd>
+                                   <div class="team-circle" style="background:#014872;">
+                                       <img src="../assets/images/about/manager.jpg" alt="">
+                                   </div>
+                                   <strong class="w-100 d-block text-center pt-4">Sudip Mondal</strong>
+                                   <dd class="w-100 d-block text-center pt-1">Manager</dd>
+                                   <div class="sMedia w-100 d-block text-center">
+                                       <a href="https://www.facebook.com/primacyit/" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                       <a href="https://twitter.com/primacyinfotech" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-twitter"></i></a>
+                                       <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-instagram"></i></a>
+                                       <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="sMedia-icon" target="_blank"><i class="fab fa-youtube"></i></a>
+                                   </div>
                            </div>
                        </div>
                          <div class="col-md-3">
                            <div class="team w-100 d-block text-center">
-                               <div class="team-circle" style="background:#19e9ef;">
-                                   <img src="../assets/images/about/sft-dev.jpg" alt="">
-                               </div>
-                               <strong class="w-100 d-block text-center pt-4">Mokles Ahamed</strong>
-                               <dd class="w-100 d-block text-center pt-1">Area Manager</dd>
+                                   <div class="team-circle" style="background:#19e9ef;">
+                                       <img src="../assets/images/about/sft-dev.jpg" alt="">
+                                   </div>
+                                   <strong class="w-100 d-block text-center pt-4">Mokles Ahamed</strong>
+                                   <dd class="w-100 d-block text-center pt-1">Area Manager</dd>
+                                   <div class="sMedia w-100 d-block text-center">
+                                       <a href="https://www.facebook.com/primacyit/" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                       <a href="https://twitter.com/primacyinfotech" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-twitter"></i></a>
+                                       <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-instagram"></i></a>
+                                       <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="sMedia-icon" target="_blank"><i class="fab fa-youtube"></i></a>
+                                   </div>
                            </div>
                        </div>
                    </div>
