@@ -259,12 +259,12 @@
                           </div>
                         <div class="col-md-2">
                             <div class="tem-membr">
-                                <div class="tem-membr-bdr" style="border-color:#774e4c;">
-                                    <dd style="background:#774e4c;"><i class="fas fa-wreath"></i></dd>
+                                <div class="tem-membr-bdr" style="border-color:#fc7f0f;">
+                                    <dd style="background:#fc7f0f;"><i class="fas fa-wreath"></i></dd>
                                     <img src="../assets/images/about/member-05.jpg" alt="">
                                 </div>
-                                <h5 class="w-100 d-block text-center pt-3" style="color:#774e4c;">Ataur Rohaman</h5>
-                                <h6 class="w-100 d-block text-center pt-0">UL/UX Developer</h6>
+                                <h5 class="w-100 d-block text-center pt-3" style="color:#fc7f0f;">Subendu chhatkit</h5>
+                                <h6 class="w-100 d-block text-center pt-0">Android Developer</h6>
                             </div>
                         </div>
                           <div class="col-md-2"></div>
