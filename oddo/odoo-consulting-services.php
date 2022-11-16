@@ -40,28 +40,56 @@
                       <div class="col-md-5">
                             <div class="row">
                                   <div class="col-md-6 col-6">
-                                        <a href="#" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Whats app</a>
+                                        <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Whats app</a>
                                   </div>
                                   <div class="col-md-6 col-6">
-                                      <a href="#" class="wp-app" target="_blank" style="background:#f47f2e;"><i class="fas fa-comment-dots"></i>Chat Now</a>
+                                      <a href="#" class="wp-app" target="_blank" style="background:#f47f2e;"><i class="fas fa-comment-dots mr-2"></i>Chat Now</a>
                                   </div>
                             </div>
                       </div>
                 </div>
             </div>
         </section>
-        <div class="container why-chs">
-            <h2 class="w-100 d-block text-center pb-4">WHY CHOOSE <strong>ODOO ERP IMPLEMENTATION?</strong></h2>
-            <div class="row">
-                <div class="col-lg-5 col-md-5">
-                    <div class="why-chooseImg"><img src="../assets/images/oddo/why-chooseImg.jpg" alt=""></div>
-                </div>
-                <div class="col-lg-7 col-md-7">
-                    <p>Implementing ERP in the right way is the key to successful business and this has to be done within the time and budget. No doubt, A successful ERP implementation solely depends on the implementation partner you choose for your business. We, at Primacy Infotech Pvt. Ltd., being an Odoo Gold Partner, offer complete and comprehensive Odoo implementation support to our client base with our team of experts – Odoo Techno-Functional Consultants/Subject Matter Experts and adhering to the Odoo implementation best practices.</p>
-                    <p>We understand your business first and then give the right solution that fits all your business needs. With strict adherence to the industry standard process and best practices, we align your business with the Out of the box features in Odoo resulting in least customisation to make the system more flexible and reliable with easy upgradation in the future. We have even managed some of the toughest implementations for the Reverse Engineering process for a Recycling/Manufacturing industry.</p>
-                </div>
-            </div>
-        </div>
+        <section class="w-100 d-block py-md-5 py-3">
+               <div class="container">
+                     <p class="d-block text-center px-md-5 px-0">
+                         Odoo is a management software that allows the user to manage the
+                         entire business operations to form a single platform. The design
+                         is sophisticated and the customization aspects can be trickier
+                         considering a layman's operations. Which brings to the Odoo
+                         consultants, the specialist in the field of Odoo who helps you
+                         in the design, development, and implementation of Odoo to your
+                         company. These consultants analyze your company's needs by obtaining
+                         inputs from the employees and the managers, design, and develop your
+                         Odoo platform to attribute to your company operations and implement it.
+                         They don't stop there; they train your employee on how to operate the
+                         platform and will be there with you for constant support and
+                         maintenance activities if any arises.</p>
+                        <div class="row">
+                              <div class="col-md-7">
+                                    <h2 class="hdr-txt d-block pb-4">Whu your company needs an odoo
+                                     consultant</h2>
+                                    <p class="d-block">The open-source software Odoo provides an
+                                        intuitive dashboard to store a collection of several
+                                        business-related applications and modules, including
+                                        those for sales management, CRM, HRMS, E-commerce,
+                                        warehouse management, and accounting. Odoo stands for
+                                        “on-demand open object.” Its premise is simple enough,
+                                        but actually figuring out the best ways to utilize Odoo
+                                        for your company can take some effort. With so much
+                                        opportunity available from one platform, it can feel
+                                        daunting for a business to get a handle on the best
+                                        ways Odoo can benefit their business. That’s why Odoo
+                                        consulting from Confianz Global Inc. is here to help.
+                                        Whether you’re brand new to Odoo or have been using it
+                                        for a while, our expert Odoo consultants can help you
+                                        get the most out of the software to improve efficiency
+                                        across your company.</p>
+                              </div>
+                            <div class="col-md-5"></div>
+                        </div>
+               </div>
+        </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
                 <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
