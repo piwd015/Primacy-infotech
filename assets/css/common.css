@@ -1653,10 +1653,10 @@ padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
 .team-circle img{width:100%; display:block; border-radius:100%;}
 .sMedia{}
 .sMedia a.sMedia-icon{background:#1bb1e4; width:40px; height:40px; border-radius:100%;
-display:inline-block; text-align:center; padding-top:15px;}
-.sMedia a:hover.sMedia-icon{border:solid 2px #1bb1e4; background:#fff; color:#38529a; width:38px; height:38px;}
+display:inline-block; text-align:center; padding-top:10px;}
+.sMedia a:hover.sMedia-icon{border:solid 2px #1bb1e4; background:#fff; color:#38529a; width:39px; height:39px;}
 a.sMedia-icon i{font-size:20px; color:#fff;}
-a:hover.sMedia-icon i{font-size:20px;color:#38529a;}
+a:hover.sMedia-icon i{font-size:17px;color:#38529a;}
 .team strong{font-size:20px; color:#000; text-transform:uppercase; font-weight:700;}
 .team dd{font-size:16px; color:#3b3b3b;}
 
