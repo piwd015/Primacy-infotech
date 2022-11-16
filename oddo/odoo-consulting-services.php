@@ -66,7 +66,7 @@
                          platform and will be there with you for constant support and
                          maintenance activities if any arises.</p>
                         <div class="row pt-md-4 pt-2">
-                              <div class="col-md-6">
+                              <div class="col-md-6 d-flex flex-wrap align-items-center">
                                     <h2 class="hdr-txt d-block pb-4">Why Odoo Consulting</h2>
                                     <p class="d-block text-justify">As an Odoo Accomplice,
                                         We Cybrosys commits to deliver the exact rules and
@@ -76,7 +76,7 @@
                                         and run all your business operations with in the
                                         given time frame.</p>
                               </div>
-                            <div class="col-md-6 d-flex flex-wrap justify-content-center align-items-center">
+                            <div class="col-md-6">
                                 <img src="../assets/images/oddo/consultingImg-01.jpg" class="img-fluid" alt="">
                             </div>
                         </div>
