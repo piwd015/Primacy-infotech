@@ -1093,28 +1093,18 @@ position: absolute;
 	height:30px;
 }
 .menu-icon{
-
-
-   
     cursor:pointer;
-    
     right:15px;
     bottom:15px;
-
 }
 
 .menu-icon.active{
     color:#fff;
      transition: .3s;
 transform: rotate(180deg);
-    
 }
-
-
-
 .menu-icon2{
     position:absolute;
-   
     cursor:pointer;
     box-sizing:border-box;
     right:10px;
@@ -1242,6 +1232,8 @@ span.icon:hover:before {
 }
 .six span.icon:hover:before{
 	content: 'Ecommerce';
+}
+.s-title::after{bottom:-10px;}
 }
 
 
