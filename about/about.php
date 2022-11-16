@@ -271,7 +271,7 @@
                                   <div class="tem-membr">
                                       <div class="tem-membr-bdr" style="border-color:#b31fb9;">
                                           <dd style="background:#b31fb9;"><i class="fas fa-wreath"></i></dd>
-                                          <img src="../assets/images/about/member-05.jpg" alt="">
+                                          <img src="../assets/images/about/member-06.jpg" alt="">
                                       </div>
                                       <h5 class="w-100 d-block text-center pt-3" style="color:#b31fb9;">Smritimay Debnath</h5>
                                       <h6 class="w-100 d-block text-center pt-0">Software Developer</h6>
