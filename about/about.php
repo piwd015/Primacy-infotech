@@ -220,7 +220,7 @@
                           <div class="col-md-2">
                                 <div class="tem-membr">
                                       <div class="tem-membr-bdr" style="border-color:#51737f;">
-                                            <dd style="background:##51737f;"><i class="fas fa-virus"></i></dd>
+                                            <dd style="background:#51737f;"><i class="fas fa-virus"></i></dd>
                                             <img src="../assets/images/about/member-01.jpg" alt="">
                                       </div>
                                 </div>
