@@ -228,7 +228,7 @@
                           <div class="col-md-2">
                               <div class="tem-membr">
                                   <div class="tem-membr-bdr" style="border-color:#e53f27;">
-                                      <dd style="background:#e53f27;"><i class="fas fa-tire"></i></dd>
+                                      <dd style="background:#e53f27;"><i class="fas fa-wreath"></i></dd>
                                       <img src="../assets/images/about/member-02.jpg" alt="">
                                   </div>
                               </div>
