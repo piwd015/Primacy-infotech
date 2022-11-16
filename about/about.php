@@ -223,7 +223,7 @@
                            </div>
                        </div>
                    </div>
-                <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">Our Team Member</h2>
+                <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-md-4 pb-2 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">Our Team Member</h2>
                     <div class="row pt-4 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                           <div class="col-md-2">
                                 <div class="tem-membr">
