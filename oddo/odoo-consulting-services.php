@@ -43,7 +43,7 @@
                                         <a href="#" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Whats app</a>
                                   </div>
                                   <div class="col-md-6 col-6">
-                                      <a href="#" class="wp-app" target="_blank" style="background:#f47f2e;"><i class="fab fa-rocketchat mr-2"></i>Chat Now</a>
+                                      <a href="#" class="wp-app" target="_blank" style="background:#f47f2e;"><i class="fas fa-comment-dots"></i>Chat Now</a>
                                   </div>
                             </div>
                       </div>
