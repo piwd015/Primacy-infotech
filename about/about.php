@@ -22,7 +22,7 @@
     <!--end fixed header-->
     <!-- header -->
     <section class="w-100 d-block pt-5">
-            <div class="s-title mb-3">
+            <div class="s-title mb-md-3 mb-5">
                 <h2>About Us</h2>
             </div>
     </section>
