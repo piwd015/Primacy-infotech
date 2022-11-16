@@ -11070,6 +11070,7 @@ footer,
 	.accordion-btn .accordion-icon{ margin-right:15px;}
 	.accordion-btn{padding:20px 15px 13px 15px;}
 	.accordion-item{margin-bottom:10px;}
+	.s-title::after{bottom:-10px;}
   .ecommerces_demo_page .container {
     padding: 0;
   }

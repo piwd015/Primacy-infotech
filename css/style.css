@@ -2748,7 +2748,7 @@ margin-left: -6px !important;
 @media only screen and (max-width:767px){
 .slideshow .slick-dots li{display:none;}
 .slideshow{display:none;}
-    .s-title::after{bottom:-10px;}
+
 }
 
 
