@@ -66,7 +66,7 @@
                          platform and will be there with you for constant support and
                          maintenance activities if any arises.</p>
                         <div class="row pt-md-4 pt-2">
-                              <div class="col-md-6 d-flex flex-wrap align-items-center">
+                              <div class="col-md-6 d-flex flex-wrap flex-column-reverse flex-md-row">
                                     <h2 class="hdr-txt d-block">Why Odoo Consulting</h2>
                                     <p class="d-block text-justify">As an Odoo Accomplice,
                                         We Cybrosys commits to deliver the exact rules and
@@ -171,33 +171,7 @@
                 </div>
             </div>
         </section>
-        <section class="grey-bg w-100 d-block py-md-5 py-3">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 h-100 d-flex align-self-center">
-                        <div class="comp-systm"><img src="../assets/images/oddo/comp-systm.png" alt=""></div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 prtns">
-                        <h2 class="d-block pb-md-3 pb-2">HOW WE CAN HELP AS AN ODOO READY PARTNER WITH IMPLEMENTING</h2>
-                        <p class="d-block pb-md-3 pb-2">>Odoo Partners are trained and have the experience and knowledge in implementing the Odoo ERP system successfully for their customers. They have to follow standards and best practices while implementing Odoo for their end customer.</p>
-                        <p class="d-block pb-md-3 pb-2">Compared to non-Odoo Partners, Odoo Partners have to always keep a high level of standards as they are answerable to Odoo Inc. in case of project failure
-                            or following bad programming practices. In such cases, Odoo has the right to question the Partner or help the customer to reduce any damages or even assign them to another Partner.
-                            But if your Odoo project is implemented by a third party non-partner, Odoo will not be able to provide much help, other than to advise you to work with an identified Partner.</p>
-                        <p class="d-block pb-md-3	 pb-2">Only Odoo Partners have access to the Odoo Enterprise code from Github and all the latest bug fixes. Odoo Enterprise has better features and support than the Community version of Odoo.
-                            Odoo Enterprise comes with support and free upward data migration when there is a major version release. Also, Odoo Enterprise users get to use the add-on modules and have the ability to use the Mobile
-                            Applications available on the Google Play Store.</p>
-                        <ul class="w-100 d-block">
-                            <li class="pb-2"><dd class="mr-2"></dd>Odoo Partners have a direct relationship with Odoo SA to escalate any bugs or get help whenever needed.</li>
-                            <li class="pb-2"><dd class="mr-2"></dd>Odoo Partners have access to weekly training webinars and access to all learning material.</li>
-                            <li class="pb-2"><dd class="mr-2"></dd>Odoo Partners have a dedicated US account manager from Odoo, Inc. in California.</li>
-                            <li class="pb-2"><dd class="mr-2"></dd>Yearly upgradation training from Odoo, SA.</li>
-                            <li class="pb-2"><dd class="mr-2"></dd>Ability to have bugs fixed for end customers on Enterprise licensing.</li>
-                            <li class="pb-2"><dd class="mr-2"></dd>Around the clock access to Odoo Knowledgebase.</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
+
         <section class="pt-md-5 pt-3 pb-md-0 pb-3">
             <div class="container">
                 <h2 class="hdr-txt w-100 d-block text-center pb-4">Our related <strong>Odoo ERP Implementation services</strong></h2>
