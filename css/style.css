@@ -2653,7 +2653,7 @@ margin-left: -6px !important;
 
 /* 767px */
 @media only screen and (max-width: 767px) {
-    .s-title::after{bottom:-10px;}
+
   .ecommerces_demo_page .container {
     padding: 0;
   }
@@ -2748,6 +2748,7 @@ margin-left: -6px !important;
 @media only screen and (max-width:767px){
 .slideshow .slick-dots li{display:none;}
 .slideshow{display:none;}
+    .s-title::after{bottom:-10px;}
 }
 
 
