@@ -66,8 +66,8 @@
                          platform and will be there with you for constant support and
                          maintenance activities if any arises.</p>
                         <div class="row">
-                              <div class="col-md-7">
-                                    <h2 class="hdr-txt d-block pb-4">Whu your company needs an odoo
+                              <div class="col-md-6">
+                                    <h2 class="display-4 d-block pb-4">Whu your company needs an odoo
                                      consultant</h2>
                                     <p class="d-block text-justify">The open-source software Odoo provides an
                                         intuitive dashboard to store a collection of several
@@ -86,7 +86,7 @@
                                         get the most out of the software to improve efficiency
                                         across your company.</p>
                               </div>
-                            <div class="col-md-5">
+                            <div class="col-md-6">
                                 <img src="../assets/images/oddo/consultingImg-01.jpg" class="img-fluid" alt="">
                             </div>
                         </div>
