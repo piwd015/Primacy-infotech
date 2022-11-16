@@ -40,9 +40,11 @@
                       <div class="col-md-5">
                             <div class="row">
                                   <div class="col-md-6 col-6">
-                                        <a href="#" class="wp-app" target="_blank"><i class="fab fa-whatsapp"></i> Whats app</a>
+                                        <a href="#" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Whats app</a>
                                   </div>
-                                  <div class="col-md-6 col-6"></div>
+                                  <div class="col-md-6 col-6">
+                                      <a href="#" class="wp-app" target="_blank" style="background:#f47f2e;"><i class="fab fa-rocketchat mr-2"></i>Chat Now</a>
+                                  </div>
                             </div>
                       </div>
                 </div>
