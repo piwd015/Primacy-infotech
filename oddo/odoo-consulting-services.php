@@ -65,26 +65,16 @@
                          They don't stop there; they train your employee on how to operate the
                          platform and will be there with you for constant support and
                          maintenance activities if any arises.</p>
-                        <div class="row">
+                        <div class="row pt-md-4 pt-2">
                               <div class="col-md-6">
-                                    <h2 class="hdr-txt d-block pb-4">Whu your company needs an odoo
-                                     consultant</h2>
-                                    <p class="d-block text-justify">The open-source software Odoo provides an
-                                        intuitive dashboard to store a collection of several
-                                        business-related applications and modules, including
-                                        those for sales management, CRM, HRMS, E-commerce,
-                                        warehouse management, and accounting. Odoo stands for
-                                        “on-demand open object.” Its premise is simple enough,
-                                        but actually figuring out the best ways to utilize Odoo
-                                        for your company can take some effort. With so much
-                                        opportunity available from one platform, it can feel
-                                        daunting for a business to get a handle on the best
-                                        ways Odoo can benefit their business. That’s why Odoo
-                                        consulting from Confianz Global Inc. is here to help.
-                                        Whether you’re brand new to Odoo or have been using it
-                                        for a while, our expert Odoo consultants can help you
-                                        get the most out of the software to improve efficiency
-                                        across your company.</p>
+                                    <h2 class="hdr-txt d-block pb-4">Why Odoo Consulting</h2>
+                                    <p class="d-block text-justify">As an Odoo Accomplice,
+                                        We Cybrosys commits to deliver the exact rules and
+                                        regulation to execute or to implement Odoo ERP in your
+                                        Business. We serve both Functional and Technical
+                                        Consulting which will help you to fix the issues
+                                        and run all your business operations with in the
+                                        given time frame.</p>
                               </div>
                             <div class="col-md-6 d-flex flex-wrap justify-content-center align-items-center">
                                 <img src="../assets/images/oddo/consultingImg-01.jpg" class="img-fluid" alt="">
