@@ -67,7 +67,7 @@
                          maintenance activities if any arises.</p>
                         <div class="row">
                               <div class="col-md-6">
-                                    <h2 class="display-4 d-block pb-4">Whu your company needs an odoo
+                                    <h2 class="hdr-txt d-block pb-4">Whu your company needs an odoo
                                      consultant</h2>
                                     <p class="d-block text-justify">The open-source software Odoo provides an
                                         intuitive dashboard to store a collection of several
