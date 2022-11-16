@@ -365,7 +365,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <ul>
                                                 <li><a href="../oddo/oddo-implementation"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
-                                                <li><a href="../oddo/odoo-erp"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
+                                                <li><a href="../oddo/odoo-consulting-services"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
                                                 <li><a href="../oddo/odoo-erp"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
                                                 <li><a href="../oddo/odoo-erp"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
                                                 <li><a href="../oddo/odoo-erp"><i class="icofont-test-tube-alt icofont-1x"></i>Odoo Integration</a></li>
