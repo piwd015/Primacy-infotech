@@ -248,7 +248,7 @@
                           <div class="col-md-2">
                                   <div class="tem-membr">
                                       <div class="tem-membr-bdr" style="border-color:#25a3ba;">
-                                          <dd style="background:#25a3ba;"><i class="fas fa-wreath"></i></dd>
+                                          <dd style="background:#25a3ba;"><img src="../assets/images/about/team-icon-03.png" alt=""></dd>
                                           <img src="../assets/images/about/member-03.jpg" alt="">
                                       </div>
                                       <h5 class="w-100 d-block text-center pt-3" style="color:#25a3ba;">Ayushi Kumari</h5>
