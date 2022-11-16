@@ -219,16 +219,16 @@
                     <div class="row">
                           <div class="col-md-2">
                                 <div class="tem-membr">
-                                      <div class="tem-membr-bdr">
-                                            <dd><i class="fas fa-volleyball-ball"></i></dd>
+                                      <div class="tem-membr-bdr" style="border-color:#51737f;">
+                                            <dd style="background:##51737f;"><i class="fas fa-virus"></i></dd>
                                             <img src="../assets/images/about/member-01.jpg" alt="">
                                       </div>
                                 </div>
                           </div>
                           <div class="col-md-2">
                               <div class="tem-membr">
-                                  <div class="tem-membr-bdr">
-                                      <dd><i class="fa-solid fa-grid-2"></i></dd>
+                                  <div class="tem-membr-bdr" style="border-color:#e53f27;">
+                                      <dd style="background:#e53f27;"><i class="fas fa-tire"></i></dd>
                                       <img src="../assets/images/about/member-02.jpg" alt="">
                                   </div>
                               </div>
