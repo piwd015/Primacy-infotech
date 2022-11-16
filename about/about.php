@@ -90,8 +90,8 @@
                     <span class="d-block text-center">We, unlike robots, do not work only with our brains. We are humans with an uncanny love for
                         technology and immense love for solutions.</span>
                    <ul class="crt-vlu w-100 d-block text-center pt-5">
-                        <li><img src="../assets/images/about/create-value.png" class="mr-1" alt=""> We create value</li>
-                        <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We innovate everyday</li>
+                        <li class="pb-md-0 pb-3"><img src="../assets/images/about/create-value.png" class="mr-1" alt=""> We create value</li>
+                        <li class="pb-md-0 pb-3"><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We innovate everyday</li>
                         <li><img src="../assets/images/about/create-value.png" class="mr-1" alt="">We love technology</li>
                    </ul>
 
