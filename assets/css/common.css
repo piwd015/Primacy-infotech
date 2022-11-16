@@ -1748,10 +1748,10 @@ padding:3px;}
 .tem-membr{}
 .tem-membr .tem-membr-bdr{border:solid 6px #51737f; border-radius:20px; position:relative;}
 .tem-membr .tem-membr-bdr img{width:100%; display:block; border-radius:20px;}
-.tem-membr .tem-membr-bdr dd{background:#51737f; border:solid 3px #51737f; width:40px;
-height:40px; border-radius:100%; display:flex; justify-content:center; align-items:center;
-position:absolute; right:0px; bottom:0px;}
-.tem-membr .tem-membr-bdr dd i{font-size:20px; color:#fff;}
+.tem-membr .tem-membr-bdr dd{background:#51737f; border:solid 3px #51737f; width:50px;
+height:50px; border-radius:100%; display:flex; justify-content:center; align-items:center;
+position:absolute; right:-20px; bottom:-20px;}
+.tem-membr .tem-membr-bdr dd i{font-size:30px; color:#fff;}
 
 
 
