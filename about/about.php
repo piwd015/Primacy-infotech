@@ -268,7 +268,7 @@
                         <div class="col-md-2">
                             <div class="tem-membr">
                                 <div class="tem-membr-bdr" style="border-color:#fc7f0f;">
-                                    <dd style="background:#fc7f0f;"><i class="fas fa-wreath"></i></dd>
+                                    <dd style="background:#fc7f0f;"><img src="../assets/images/about/team-icon-05.png" alt=""></dd>
                                     <img src="../assets/images/about/member-05.jpg" alt="">
                                 </div>
                                 <h5 class="w-100 d-block text-center pt-3" style="color:#fc7f0f;">Subendu chhatkit</h5>
