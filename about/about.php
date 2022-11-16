@@ -216,7 +216,7 @@
                        </div>
                    </div>
                 <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4">Our Team Member</h2>
-                    <div class="row">
+                    <div class="row pt-4">
                           <div class="col-md-2">
                                 <div class="tem-membr">
                                       <div class="tem-membr-bdr" style="border-color:#51737f;">
