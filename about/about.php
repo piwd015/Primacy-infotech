@@ -120,7 +120,7 @@
                         </div>
                 </div>
 
-                   <div class="row d-flex flex-wrap justify-content-center pt-4">
+                   <div class="row d-flex flex-wrap justify-content-center pt-md-4">
                          <div class="col-md-10 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                                <div class="row">
                                      <div class="col-md-4 mb-3">
@@ -162,7 +162,7 @@
                    </div>
                    <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">Our Team Management</h2>
                    <div class="row pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
-                         <div class="col-md-3">
+                         <div class="col-md-3 mb-md-0 mb-3">
                                <div class="team w-100 d-block text-center">
                                          <div class="team-circle" style="background:#f78b33;">
                                              <img src="../assets/images/about/md.jpg" alt="">
@@ -177,7 +177,7 @@
                                        </div>
                                 </div>
                          </div>
-                         <div class="col-md-3">
+                         <div class="col-md-3 mb-md-0 mb-3">
                            <div class="team w-100 d-block text-center">
                                <div class="team-circle" style="background:#a327a4;">
                                    <img src="../assets/images/about/ceo.jpg" alt="">
