@@ -69,7 +69,7 @@
                               <div class="col-md-7">
                                     <h2 class="hdr-txt d-block pb-4">Whu your company needs an odoo
                                      consultant</h2>
-                                    <p class="d-block">The open-source software Odoo provides an
+                                    <p class="d-block text-justify">The open-source software Odoo provides an
                                         intuitive dashboard to store a collection of several
                                         business-related applications and modules, including
                                         those for sales management, CRM, HRMS, E-commerce,
@@ -86,7 +86,9 @@
                                         get the most out of the software to improve efficiency
                                         across your company.</p>
                               </div>
-                            <div class="col-md-5"></div>
+                            <div class="col-md-5">
+                                <img src="../assets/images/oddo/consultingImg-01.png" class="img-fluid" alt="">
+                            </div>
                         </div>
                </div>
         </section>
