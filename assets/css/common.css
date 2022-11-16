@@ -2076,8 +2076,6 @@ ul.cont-info li i{font-size:15px; top:4px;}
 
 .neon{font-size:40px;}
 
-
-
 .digitl h2{font-size:35px;}
 
 .digitl h3{font-size:25px;}
@@ -2116,6 +2114,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .inovton-bg-02 h2{font-size: 20px;}
  .inovton-bg-02 ul li{padding:0px 10px;}
  .inovton-bg-02 ul li a{font-size:14px;}
+ .s-title::after{bottom:-10px;}
 }
 
 
