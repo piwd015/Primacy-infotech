@@ -87,7 +87,7 @@
                                         across your company.</p>
                               </div>
                             <div class="col-md-5">
-                                <img src="../assets/images/oddo/consultingImg-01.png" class="img-fluid" alt="">
+                                <img src="../assets/images/oddo/consultingImg-01.jpg" class="img-fluid" alt="">
                             </div>
                         </div>
                </div>
