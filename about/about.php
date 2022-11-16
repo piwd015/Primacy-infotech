@@ -160,7 +160,7 @@
                                </div>
                          </div>
                    </div>
-                   <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4">Our Team Member</h2>
+                   <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4">Our Team Management</h2>
                    <div class="row pt-3 wow slideInDown" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                          <div class="col-md-3">
                                <div class="team w-100 d-block text-center">
@@ -215,6 +215,29 @@
                            </div>
                        </div>
                    </div>
+                <h2 class="w-100 d-block text-center pt-md-5 pt-4 pb-4">Our Team Member</h2>
+                    <div class="row">
+                          <div class="col-md-2">
+                                <div class="tem-membr">
+                                      <div class="tem-membr-bdr">
+                                            <dd><i class="fa-brands fa-slack"></i></dd>
+                                            <img src="../assets/images/about/member-01.jpg" alt="">
+                                      </div>
+                                </div>
+                          </div>
+                          <div class="col-md-2">
+                              <div class="tem-membr">
+                                  <div class="tem-membr-bdr">
+                                      <dd><i class="fa-solid fa-grid-2"></i></dd>
+                                      <img src="../assets/images/about/member-02.jpg" alt="">
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="col-md-2"></div>
+                          <div class="col-md-2"></div>
+                          <div class="col-md-2"></div>
+                          <div class="col-md-2"></div>
+                    </div>
             </div>
     </section>
     <!-- footer -->
