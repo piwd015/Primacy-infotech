@@ -1233,7 +1233,6 @@ span.icon:hover:before {
 .six span.icon:hover:before{
 	content: 'Ecommerce';
 }
-.s-title::after{bottom:-10px;}
 }
 
 
@@ -1255,7 +1254,7 @@ i.fas.fa-mobile-alt {
 }
 /*=======meeee======*/
 @media all and (max-width: 767px) {
-
+    .s-title::after{bottom:-10px;}
   footer{
       display:none;
   }
