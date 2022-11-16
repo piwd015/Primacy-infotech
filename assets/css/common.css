@@ -1649,9 +1649,14 @@ padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
 .intgrty strong{background:#ba151a; font-size:35px; color:#fff; height:55px; line-height:45px;}
 
 .team{}
-.team-circle{ width:80%; height:80%; border-radius:100%; padding:15px;
- position:relative; margin:0 auto;}
+.team-circle{ width:80%; height:80%; border-radius:100%; padding:15px; margin:0 auto;}
 .team-circle img{width:100%; display:block; border-radius:100%;}
+.sMedia{}
+.sMedia a.sMedia-icon{background:#1bb1e4; width:40px; height:40px; border-radius:100%; display:flex;
+ justify-content:center; align-items:center;}
+.sMedia a:hover.sMedia-icon{border:solid 2px #1bb1e4; background:#fff; color:#38529a; width:40px; height:40px;}
+a.sMedia-icon i{font-size:20px; color:#fff;}
+
 a.fb{background:#38529a; width:45px; height:40px; border-radius:100%; display:flex;
 justify-content:center; align-items:center; position:absolute; left:-15px; top:45%;}
 a:hover.fb{background:#000; color:#fff;}
