@@ -224,7 +224,7 @@
                                             <img src="../assets/images/about/member-01.jpg" alt="">
                                       </div>
                                        <h5 class="w-100 d-block text-center pt-3" style="color:#51737f;">Suman Karmakar</h5>
-                                       <h6 class="w-100 d-block text-center pt-2">PHP Developer</h6>
+                                       <h6 class="w-100 d-block text-center pt-0">PHP Developer</h6>
                                 </div>
                           </div>
                           <div class="col-md-2">
@@ -234,7 +234,7 @@
                                               <img src="../assets/images/about/member-02.jpg" alt="">
                                           </div>
                                           <h5 class="w-100 d-block text-center pt-3" style="color:#e53f27;">Raju Chakraborty</h5>
-                                          <h6 class="w-100 d-block text-center pt-2">Front End Developer</h6>
+                                          <h6 class="w-100 d-block text-center pt-0">Front End Developer</h6>
                                   </div>
                           </div>
                           <div class="col-md-2">
@@ -244,7 +244,7 @@
                                           <img src="../assets/images/about/member-03.jpg" alt="">
                                       </div>
                                       <h5 class="w-100 d-block text-center pt-3" style="color:#25a3ba;">Ayushi</h5>
-                                      <h6 class="w-100 d-block text-center pt-2">HR with </h6>
+                                      <h6 class="w-100 d-block text-center pt-0">HR with </h6>
                                   </div>
                           </div>
                           <div class="col-md-2">
@@ -254,7 +254,7 @@
                                           <img src="../assets/images/about/member-04.jpg" alt="">
                                       </div>
                                       <h5 class="w-100 d-block text-center pt-3" style="color:#774e4c;">Ataur Rohaman</h5>
-                                      <h6 class="w-100 d-block text-center pt-2">UL/UX Developer</h6>
+                                      <h6 class="w-100 d-block text-center pt-0">UL/UX Developer</h6>
                                   </div>
                           </div>
                           <div class="col-md-2"></div>
