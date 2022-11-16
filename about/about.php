@@ -170,9 +170,9 @@
                                        <strong class="w-100 d-block text-center pt-4">Motaleb Molla</strong>
                                        <dd class="w-100 d-block text-center pt-1">Managing Director</dd>
                                        <div class="sMedia w-100 d-block text-center">
-                                           <a href="https://www.facebook.com/primacyit/" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                           <a href="https://twitter.com/primacyinfotech" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-twitter"></i></a>
-                                           <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="sMedia-icon mr-2" target="_blank"><i class="fab fa-instagram"></i></a>
+                                           <a href="https://www.facebook.com/primacyit/" class="sMedia-icon mr-md-2 mr-1" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                           <a href="https://twitter.com/primacyinfotech" class="sMedia-icon mr-md-2 mr-1" target="_blank"><i class="fab fa-twitter"></i></a>
+                                           <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" class="sMedia-icon mr-md-2 mr-1" target="_blank"><i class="fab fa-instagram"></i></a>
                                            <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" class="sMedia-icon" target="_blank"><i class="fab fa-youtube"></i></a>
                                        </div>
                                 </div>
