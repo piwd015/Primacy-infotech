@@ -146,7 +146,7 @@
                                              </div>
                                          </div>
                                      </div>
-                                   <div class="col-md-4">
+                                   <div class="col-md-4 mb-md-0 mb-4">
                                        <div class="exit-box">
                                            <h5><dd></dd>Motto</h5>
                                            <p class="px-md-5 pt-4">Create value, to be valued</p>
