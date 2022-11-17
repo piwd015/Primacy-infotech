@@ -87,7 +87,7 @@
 
                     <!-- Banner section -->
 
-                    <div class="item">
+                    <div class="item" data-aos="fade-down">
                         <section class="inovton-bg w-100 d-block">
                                <div class="container-fluid">
                                      <div class="col-md-12 px-md-0 pt-1">
@@ -134,9 +134,7 @@
                     <div class="item">
 
                         <section class="product-bg-hm pag-hd w-100 d-block" id="#section02">
-
                              <div class="container-fluid">
-
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                           <div class="col-md-6">
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
@@ -187,7 +185,7 @@
 
                                       <div class="row">
 
-                                            <div class="col-md-7 contArea-top-pt animate fadeInLeftBig fade-sld-02">
+                                            <div class="col-md-7 contArea-top-pt">
 
                                                   <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
 
@@ -221,7 +219,7 @@
 
                                             </div>
 
-                                          <div class="col-md-5 pr-md-0 animate fadeInRightBig fade-sld-02">
+                                          <div class="col-md-5 pr-md-0">
 
                                                 <div class="ecomrs-right-bg">                 
 
@@ -261,7 +259,7 @@
 
                                     <div class="row"> 
 
-                                          <div class="col-md-6 prod-pt animate fadeInLeftBig fade-sld-02">
+                                          <div class="col-md-6 prod-pt">
 
                                                 <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
 
@@ -275,7 +273,7 @@
 
                                           </div>                      
 
-                                          <div class="col-md-6 animate fadeInRightBig fade-sld-02">
+                                          <div class="col-md-6">
                                                 <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
 
                                           </div>
@@ -304,13 +302,13 @@
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row"> 
 
-                                          <div class="col-md-6 animate fadeInLeftBig fade-sld-02">
+                                          <div class="col-md-6">
 
                                                 <div class="mb-app-devlpr-Img"><img src="assets/images/mb-app-developer.png" alt=""></div>
 
                                           </div>
 
-                                          <div class="col-md-6 mobl-ap-pt animate fadeInRightBig fade-sld-02">
+                                          <div class="col-md-6 mobl-ap-pt">
 
                                                 <h2 class="w-100 d-block"><strong>Mobile App</strong><br/> Development</h2>
 
@@ -346,7 +344,7 @@
 
                                       <div class="row">
 
-                                            <div class="col-md-5 contArea-top-pt animate fadeInLeftBig fade-sld-02">
+                                            <div class="col-md-5 contArea-top-pt">
 
                                                  <div class="digitl">
 
@@ -369,7 +367,7 @@
 
                                             </div>
 
-                                          <div class="col-md-7 pr-md-0 animate fadeInRightBig fade-sld-02">
+                                          <div class="col-md-7 pr-md-0">
 
                                                <div class="digi-mrkt-right-bg">            
 
