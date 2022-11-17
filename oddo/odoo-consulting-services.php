@@ -101,7 +101,7 @@
                                       <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/idea.png" class="mr-2" alt="">Ideal for companies in any industry</div>
                                       <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/module.png" class="mr-2" alt="">Over 10,000 customizable modules</div>
                                       <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/cost.png" class="mr-2" alt="">Affordable per-user cost and
-                                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licensing</div>
+                                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licensing</div>
                                </div>
                                <div class="col-md-2"></div>
                                <div class="col-md-5"></div>
