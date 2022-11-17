@@ -1756,7 +1756,10 @@ a.wp-app i{display:inline-block; font-size:19px; color:#fff; position:relative; 
  padding: 20px 0 10px; position: relative;}
 .switchng h2{font-size:40px; color:#fff; position:relative;}
 .switchng h2:after{content:""; width:7%; height:3px; position:absolute; left:0px; right:0px;
-bottom:0px; margin:0 auto; background:#5e5e5e;}
+bottom:0px; margin:0 auto; background:#434343;}
+.switchng p{ font-size:15px; color:#fff;}
+.switchng-box{background:#fff; border-radius:8px; font-size: 17px; color:#000;}
+.switchng-box img{width:60px; display:inline-block;}
 
 @media only screen and (max-width:990px){
 

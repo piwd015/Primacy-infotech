@@ -81,7 +81,25 @@
         </section>
         <section class="switchng w-100 d-block">
                   <div class="container">
-                        <h2 class="w-100 d-block text-center pb-4">Why <strong>Companies</strong> are Switching to <strong>Odoo</strong></h2>
+                         <h2 class="w-100 d-block text-center pb-3 mb-5">Why <strong>Companies</strong> are Switching to <strong>Odoo</strong></h2>
+                         <div class="row">
+                               <div class="col-md-6">
+                                   <p class="d-block text-justify">Companies looking for an ERP solution are quickly making the switch to Odoo to boost productivity, increase sales, and better manage operations across their company. With Odoo, you can manage all aspects of your
+                                       organization from one simple, user-friendly dashboard. This gives everyone in the company access to all of the tools, applications, and modules they need to successfully do their job.</p>
+                               </div>
+                               <div class="col-md-6">
+                                    <p class="d-block text-justify">Odoo works for all departments of companies of all types of industries, including
+                                       warehousing, sales, human resources, accounting, HR, e-commerce, and more. It
+                                       currently has over 2 million users across the world, making it among the most popular and affordable open-source ERP solutions available on the market.</p>
+                               </div>
+                         </div>
+                         <div class="row">
+                               <div class="col-md-5">
+                                    <div class="switchng-box w-100 d-block py-3 px-4"><img src="../assets/images/oddo/interface.png" alt="">Easy to use interface</div>
+                               </div>
+                               <div class="col-md-2"></div>
+                               <div class="col-md-5"></div>
+                         </div>
                   </div>
         </section>
         <section class="features w-100 d-block">
