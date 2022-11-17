@@ -35,17 +35,11 @@
     <div class="page-body mb-5">
         <section class="odo-consul-bnr">
             <div class="container">
-                  <h1 class="w-100 d-block text-center py-md-5 py-3">Odoo Consulting Services</h1>
+                  <h1 class="w-100 d-block text-center pt-5 pb-2">Odoo Consulting Services</h1>
+                   <h4 class="w-100 d-block text-center pb-md-5 pb-3">An Experienced Odoo Consultant at your service!</h4>
                 <div class="row d-flex flex-wrap justify-content-center">
-                      <div class="col-md-5">
-                            <div class="row">
-                                  <div class="col-md-6 col-6">
-                                        <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Whats app</a>
-                                  </div>
-                                  <div class="col-md-6 col-6">
-                                      <a href="#" class="wp-app" target="_blank" style="background:#f47f2e;"><i class="fas fa-comment-dots mr-2"></i>Chat Now</a>
-                                  </div>
-                            </div>
+                      <div class="col-md-4">
+                           <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Talk to our experts</a>
                       </div>
                 </div>
             </div>
@@ -81,6 +75,11 @@
                             </div>
                         </div>
                </div>
+        </section>
+        <section class="switchng w-100 d-block">
+                  <div class="container">
+                        <h2 class="w-100 d-block text-center pb-4">Why <strong>Companies</strong> are Switching to <strong>Odoo</strong></h2>
+                  </div>
         </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
