@@ -79,7 +79,7 @@
                         </div>
                </div>
         </section>
-        <section class="switchng w-100 d-block">
+        <section class="switchng w-100 d-block py-md-5 py-3">
                   <div class="container">
                          <h2 class="w-100 d-block text-center pb-3 mb-5">Why <strong>Companies</strong> are Switching to <strong>Odoo</strong></h2>
                          <div class="row">
@@ -103,7 +103,9 @@
                                       <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/cost.png" class="mr-2" alt="">Affordable per-user cost and
                                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licensing</div>
                                </div>
-                               <div class="col-md-2"></div>
+                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
+                                   <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
+                               </div>
                                <div class="col-md-5">
                                       <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/solution.png" class="mr-2" alt="">Access Odoo's web-based solution from anywhere at any time</div>
                                       <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/workflow.png" class="mr-2" alt="">Simplify your company's workflow across departments</div>
