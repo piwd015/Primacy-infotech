@@ -95,11 +95,11 @@
                          </div>
                          <div class="row">
                                <div class="col-md-5">
-                                      <div class="switchng-box w-100 d-block py-3 px-3 mb-4"><img src="../assets/images/oddo/interface.png" class="mr-2" alt="">Easy to use interface</div>
-                                      <div class="switchng-box w-100 d-block py-3 px-3 mb-4"><img src="../assets/images/oddo/users-globally.png" class="mr-2" alt="">Over 2 million users globally</div>
-                                      <div class="switchng-box w-100 d-block py-3 px-3 mb-4"><img src="../assets/images/oddo/improve.png" class="mr-2" alt="">Improve sales and productivity</div>
-                                      <div class="switchng-box w-100 d-block py-3 px-3 mb-4"><img src="../assets/images/oddo/idea.png" class="mr-2" alt="">Ideal for companies in any industry</div>
-                                      <div class="switchng-box w-100 d-block py-3 px-3 mb-4"><img src="../assets/images/oddo/module.png" class="mr-2" alt="">Over 10,000 customizable modules</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/interface.png" class="mr-2" alt="">Easy to use interface</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/users-globally.png" class="mr-2" alt="">Over 2 million users globally</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/improve.png" class="mr-2" alt="">Improve sales and productivity</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/idea.png" class="mr-2" alt="">Ideal for companies in any industry</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/module.png" class="mr-2" alt="">Over 10,000 customizable modules</div>
                                </div>
                                <div class="col-md-2"></div>
                                <div class="col-md-5"></div>
