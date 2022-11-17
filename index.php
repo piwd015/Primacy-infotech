@@ -87,7 +87,7 @@
 
                     <!-- Banner section -->
 
-                    <div class="item" data-aos="fade-down">
+                    <div class="item">
                         <section class="inovton-bg w-100 d-block">
                                <div class="container-fluid">
                                      <div class="col-md-12 px-md-0 pt-1">
@@ -138,7 +138,7 @@
                              <div class="container-fluid">
 
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                                          <div class="col-md-6 animate fadeInLeftBig fade-sld-01">
+                                          <div class="col-md-6">
                                                 <div class="prod-hmImg"><img src="assets/images/prod-hmImg.png" alt=""></div>
                                                 <div class="col-md-12 prod-odoo-pl">
                                                       <div class="prod-odoo"><img src="assets/images/prod-oddo.png" alt=""></div>
@@ -148,7 +148,7 @@
                                                 </div>
                                           </div>
 
-                                          <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-01">
+                                          <div class="col-md-6 prod-pt">
                                                 <h2 class="w-100">Odoo ERP</h2>
                                                 <h3 class="w-100">What is Odoo ERP</h3>
                                                 <p>THE BEST USER FRIENDLY ERP - ODOO ERP,
