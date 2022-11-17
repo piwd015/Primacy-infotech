@@ -23,8 +23,8 @@
 <!-- End Google Tag Manager -->
 </head>
 <body>
-<div id="particles-js"></div>
-<div class="count-particles"></div>
+<!--<div id="particles-js"></div>-->
+<!--<div class="count-particles"></div>-->
 <!--My fixed header-->
 <div class="top-bar">
     <div class="c-mob2">
