@@ -39,7 +39,7 @@
                    <h4 class="w-100 d-block text-center pb-md-5 pb-3">An Experienced Odoo Consultant at your service!</h4>
                 <div class="row d-flex flex-wrap justify-content-center">
                       <div class="col-md-4">
-                           <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank" style="background:#25d366;"><i class="fab fa-whatsapp mr-2"></i>Talk to our experts</a>
+                           <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank"><i class="fab fa-whatsapp mr-2"></i>Talk to our experts</a>
                       </div>
                 </div>
             </div>
