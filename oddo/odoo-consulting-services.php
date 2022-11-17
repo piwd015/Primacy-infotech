@@ -104,7 +104,13 @@
                                           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licensing</div>
                                </div>
                                <div class="col-md-2"></div>
-                               <div class="col-md-5"></div>
+                               <div class="col-md-5">
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/solution.png" class="mr-2" alt="">Access Odoo's web-based solution from anywhere at any time</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/workflow.png" class="mr-2" alt="">Simplify your company's workflow across departments</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/improve.png" class="mr-2" alt="">Full suite of business modules and applications</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/idea.png" class="mr-2" alt="">Easy to manage all your business processes</div>
+                                      <div class="switchng-box w-100 d-block py-4 px-3 mb-4"><img src="../assets/images/oddo/module.png" class="mr-2" alt="">Fastest growing open-source ERP system</div>
+                               </div>
                          </div>
                   </div>
         </section>
