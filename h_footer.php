@@ -495,7 +495,13 @@ $('.carousel-main').owlCarousel({
     AOS.init();
 
 </script>
-
+<script>
+    $(window).on('load',function(){
+        setTimeout(function(){ // allowing 3 secs to fade out loader
+            $('.page-loader').fadeOut('slow');
+        },3500);
+    });
+</script>
 
 <noscript><img height="1" width="1" style="display:none"
 
