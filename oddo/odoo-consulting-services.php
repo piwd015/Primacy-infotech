@@ -62,13 +62,13 @@
                         <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-4 pt-2">
                               <div class="col-md-6 d-flex flex-wrap align-items-center">
                                     <h2 class="hdr-txt d-block pt-md-0 pt-3">LOOKING FOR A DEPENDABLE ODOO CONSULTING SOLUTION?</h2>
-                                    <p class="d-block text-justify">We At Primacy Infotech Provide The
+                                    <p class="d-block text-md-justify">We At Primacy Infotech Provide The
                                         Best Consulting Services Using The Latest Techniques To
                                         Implement Odoo ERP Into Your Business. To Help You Get
                                         The Desired Results, We Will Provide You With A Dedicated
                                         Consultant. The Consultant Will Give You A Short Brief
                                         On Your Odoo Implementation Project.</p>
-                                     <p class="d-block text-justify">Our Consultants Have Worked
+                                     <p class="d-block text-md-justify">Our Consultants Have Worked
                                          With Clients From All Across The Globe. With This, You
                                          Can Get The Best Consulting Services For Your Business
                                          Growth.</p>
