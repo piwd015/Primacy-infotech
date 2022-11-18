@@ -61,7 +61,7 @@
                          maintenance activities if any arises.</p>
                         <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-4 pt-2">
                               <div class="col-md-6">
-                                    <h2 class="hdr-txt d-block">LOOKING FOR A DEPENDABLE ODOO CONSULTING SOLUTION?</h2>
+                                    <h2 class="hdr-txt d-block pt-md-0 pt-3">LOOKING FOR A DEPENDABLE ODOO CONSULTING SOLUTION?</h2>
                                     <p class="d-block text-justify">We At Primacy Infotech Provide The
                                         Best Consulting Services Using The Latest Techniques To
                                         Implement Odoo ERP Into Your Business. To Help You Get
