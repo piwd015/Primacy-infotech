@@ -1856,7 +1856,7 @@ a.odo-aps{padding: 12px 15px; font-size: 14px;}
 
 .odo-intgr h2{font-size:20px;}
 
-.time-lin-box{width:100%; margin-bottom:50px;}
+.time-lin-box{width:100%; margin-bottom:0px;}
 
 .time-lin-box i{padding:0px; height:35px;}
 
@@ -1868,11 +1868,11 @@ a.odo-aps{padding: 12px 15px; font-size: 14px;}
 
 .time-lin-box .time-Cont-Area-box img{width:80%; margin:0 auto;}
 
-.time-lin-box .time-Cont-Area-box p{font-size:12.50px; left:5%; top:32%; padding:0px 55px;}
+.time-lin-box .time-Cont-Area-box p{font-size:12.50px; left:5%; top:18%; padding:0px 55px;}
 
-.odo-faq h2{font-size:17px;}
+.odo-faq h2{font-size:15px;}
 
-.odo-faq h2 dd{width:30px;}
+.odo-faq h2 dd{width:20px; position: relative; top:3px;}
 
 .accordion-head h3{font-size:14px;}
 
