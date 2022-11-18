@@ -34,7 +34,7 @@
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="odo-consul-bnr pt-md-0 pt-5">
-            <div class="container">
+            <div class="container pt-md-5">
                   <h1 class="w-100 d-block text-center pt-5 pb-2">Odoo Consulting Services</h1>
                    <h4 class="w-100 d-block text-center pb-md-5 pb-1">An Experienced Odoo Consultant at your service!</h4>
                 <div class="row d-flex flex-wrap justify-content-center">
