@@ -100,7 +100,7 @@
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" alt="">Improve sales and productivity</div>
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/idea.png" alt="">Ideal for companies in any industry</div>
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/module.png" alt="">Over 10,000 customizable modules</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/cost.png" alt="" style="top:30px;">Affordable per-user cost and licensing</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/cost.png" alt="" style="top:26px;">Affordable per-user cost and licensing</div>
                                </div>
                                <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
                                    <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
