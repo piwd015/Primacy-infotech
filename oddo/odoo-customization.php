@@ -35,14 +35,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
-                        <h1>The Best User Friendly  ERP - Odoo ERP</h1>
+                        <h1>Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
                         <ul class="d-block pl-0 py-md-4">
-                            <li>7 Million users around the Globe,</li>
-                            <li>Fully Integrated Software</li>
-                            <li>Impressive User Interface</li>
-                            <li>34,000+ supporting add-ons <br>available from the Odoo apps store</li>
-                            <li>Single tool for any kind of business</li>
-                            <li>Cost effective Solution for SME to <br> Multinational Company</li>
+                            <li>Highly Experienced Odoo Developers</li>
+                            <li>Bug Free Odoo ERP Code</li>
+                            <li>Ontime ERP Project Delivery</li>
+                            <li>Upgrade Your Existing ERP</li>
+                            <li>Add New Funtionality To Your Business Process</li>
+                            <li>Increase your Productivity and Improve your Workflow</li>
                         </ul>
                         <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
                     </div>
