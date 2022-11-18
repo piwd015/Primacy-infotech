@@ -32,89 +32,76 @@
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
-                        <h1>Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
-                        <ul class="d-block pl-0 py-md-4">
-                            <li>Highly Experienced Odoo Developers</li>
-                            <li>Bug Free Odoo ERP Code</li>
-                            <li>Ontime ERP Project Delivery</li>
-                            <li>Upgrade Your Existing ERP</li>
-                            <li>Add New Funtionality To Your<br/> Business Process</li>
-                            <li>Increase your Productivity and Improve<br/> your Workflow</li>
-                        </ul>
-                        <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
+               <div class="container">
+                    <div class="row">
+                            <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
+                                <h1>Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
+                                <ul class="d-block pl-0 py-md-4">
+                                    <li>Highly Experienced Odoo Developers</li>
+                                    <li>Bug Free Odoo ERP Code</li>
+                                    <li>Ontime ERP Project Delivery</li>
+                                    <li>Upgrade Your Existing ERP</li>
+                                    <li>Add New Funtionality To Your<br/> Business Process</li>
+                                    <li>Increase your Productivity and<br/> Improve your Workflow</li>
+                                </ul>
+                                <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="consl-fm w-100 d-block p-4">
+                                    <h2 class="w-100 d-block text-center">Get Free Consultation</h2>
+                                    <form action="" method="post" id="con_form">
+                                        <div class="form-group position-relative">
+                                            <i class="far fa-user"></i>
+                                            <input type="text" class="form-control consl-field" placeholder="Name" name="name" id="Name" required>
+                                        </div>
+                                        <div class="form-group position-relative">
+                                            <i class="far fa-envelope"></i>
+                                            <input type="email" class="form-control consl-field" placeholder="Email" id="Email" name="email" onkeyup="isEmail($(this).val())" required>
+                                            <p id="err_mail" style="font-size:11px; color:red; display:none">* Please enter proper email.</p>
+                                        </div>
+                                        <div class="form-group position-relative">
+                                            <i class="fas fa-mobile-alt"></i>
+                                            <input type="text" class="form-control consl-field phone_form ckckphn" placeholder="Phone" id="Ph" name="phone" oninput="this.value=this.value.replace(/[^0-9]/g,'');" onkeyup="phonenumber(this)" maxlength="10" required>
+                                            <p id="err_phone" style="font-size:11px; color:red; display:none">* Please input 10 digit mobile no.</p>
+                                            <p id="err_phone1" style="font-size:11px; color:red; display:none">* Please enter proper mobile no.</p>
+                                        </div>
+                                        <div class="form-group position-relative">
+                                            <i class="far fa-comment"></i>
+                                            <textarea class="form-control consl-txt-area" rows="0" placeholder="Message" id="comment" name="comment"></textarea>
+                                        </div>
+                                        <!-- <div class="form-check">
+                                               <input type="checkbox" class="form-check-input" id="exampleCheck1" name="termcheck" value="Yes" required>
+                                               <label class="form-check-label pl-3" for="exampleCheck1">Check here to indicate that you agree with our Privacy Policy and Terms of Use</label>
+                                         </div>-->
+                                        <div class="form-group position-relative pt-3 mb-0">
+                                            <button type="submit" name="oddoconsult" class="btn sub-Btn w-100 oddoconsult">Submit </button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
-                        <div class="consl-fm w-100 d-block p-4">
-                            <h2 class="w-100 d-block text-center">Get Free Consultation</h2>
-                            <form action="" method="post" id="con_form">
-                                <div class="form-group position-relative">
-                                    <i class="far fa-user"></i>
-                                    <input type="text" class="form-control consl-field" placeholder="Name" name="name" id="Name" required>
-                                </div>
-                                <div class="form-group position-relative">
-                                    <i class="far fa-envelope"></i>
-                                    <input type="email" class="form-control consl-field" placeholder="Email" id="Email" name="email" onkeyup="isEmail($(this).val())" required>
-                                    <p id="err_mail" style="font-size:11px; color:red; display:none">* Please enter proper email.</p>
-                                </div>
-                                <div class="form-group position-relative">
-                                    <i class="fas fa-mobile-alt"></i>
-                                    <input type="text" class="form-control consl-field phone_form ckckphn" placeholder="Phone" id="Ph" name="phone" oninput="this.value=this.value.replace(/[^0-9]/g,'');" onkeyup="phonenumber(this)" maxlength="10" required>
-                                    <p id="err_phone" style="font-size:11px; color:red; display:none">* Please input 10 digit mobile no.</p>
-                                    <p id="err_phone1" style="font-size:11px; color:red; display:none">* Please enter proper mobile no.</p>
-                                </div>
-                                <div class="form-group position-relative">
-                                    <i class="far fa-comment"></i>
-                                    <textarea class="form-control consl-txt-area" rows="0" placeholder="Message" id="comment" name="comment"></textarea>
-                                </div>
-                                <!-- <div class="form-check">
-                                       <input type="checkbox" class="form-check-input" id="exampleCheck1" name="termcheck" value="Yes" required>
-                                       <label class="form-check-label pl-3" for="exampleCheck1">Check here to indicate that you agree with our Privacy Policy and Terms of Use</label>
-                                 </div>-->
-                                <div class="form-group position-relative pt-3 mb-0">
-                                    <button type="submit" name="oddoconsult" class="btn sub-Btn w-100 oddoconsult">Submit </button>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
+               </div>
         </section>
         <section class="w-100 d-block py-md-5 py-3">
             <div class="container">
-                <p class="d-block text-center px-md-5 px-0">
-                    Odoo is a management software that allows the user to manage the
-                    entire business operations to form a single platform. The design
-                    is sophisticated and the customization aspects can be trickier
-                    considering a layman's operations. Which brings to the Odoo
-                    consultants, the specialist in the field of Odoo who helps you
-                    in the design, development, and implementation of Odoo to your
-                    company. These consultants analyze your company's needs by obtaining
-                    inputs from the employees and the managers, design, and develop your
-                    Odoo platform to attribute to your company operations and implement it.
-                    They don't stop there; they train your employee on how to operate the
-                    platform and will be there with you for constant support and
-                    maintenance activities if any arises.</p>
-                <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-4 pt-2">
-                    <div class="col-md-6 d-flex flex-wrap align-items-center">
-                        <h2 class="hdr-txt d-block pt-md-0 pt-3">LOOKING FOR A DEPENDABLE ODOO CONSULTING SOLUTION?</h2>
-                        <p class="d-block text-md-justify">We At Primacy Infotech Provide The
-                            Best Consulting Services Using The Latest Techniques To
-                            Implement Odoo ERP Into Your Business. To Help You Get
-                            The Desired Results, We Will Provide You With A Dedicated
-                            Consultant. The Consultant Will Give You A Short Brief
-                            On Your Odoo Implementation Project.</p>
-                        <p class="d-block text-md-justify">Our Consultants Have Worked
-                            With Clients From All Across The Globe. With This, You
-                            Can Get The Best Consulting Services For Your Business
-                            Growth.</p>
-                    </div>
-                    <div class="col-md-6">
-                        <img src="../assets/images/oddo/consultingImg-01.jpg" class="img-fluid" alt="">
-                    </div>
-                </div>
+                  <div class="col-md-7">
+                        <h2 class="hdr-txt d-block pb-md-4 pb-2">Odoo Customization</h2>
+                         <p class="d-block text-md-justify">An enterprise application must go by
+                             client's way. Customization provides that personalized experience
+                             in an application focusing on the client’s requirements and ideas.
+                             Odoo provides a fully functional package to meet up an enterprise
+                             requirement, but there will be always an extra required by the
+                             clients. At Cybrosys Technologies we analyze your requirement on t
+                             he additional needs and there by setting the right strategy for
+                             fulfilling the functionalities. We deliver high end customization
+                             services so that customers get the full benefit of using their
+                             application, there by achieving the business goals. Extending
+                             Odoo's modular approach, our technical team assist you to achieve
+                             your all desired needs.</p>
+                  </div>
+                  <div class="col-md-5">
+                         <img src="../assets/images/oddo/customizationImg.jpg" class="img-fluid" alt="">
+                  </div>
             </div>
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
