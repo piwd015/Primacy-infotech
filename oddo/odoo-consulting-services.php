@@ -371,7 +371,7 @@
                            </div>
                               <div class="col-md-3">
                                <div class="need-oddo-box p-3">
-                                   <img src="../assets/images/oddo/business-analysis.png" alt="">
+                                   <img src="../assets/images/oddo/business-practice.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Best business practice</h4>
                                    <p class="d-block text-center">You may be falling in profits
                                        and productivity, but Odoo consultants can bring the
