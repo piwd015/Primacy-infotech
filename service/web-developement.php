@@ -43,8 +43,7 @@
 					<div class="banner-content bnr-cont-mt">
 						<div class="ovh">
 							<h2 class="title wow slideInUpBig" data-wow-duration=".65s"  data-wow-delay=".1s"><span class="logo-color">ONE OF THE BEST WEB DEVELOPMENT</span> COMPANY<br/><span class="logo-color-red">Primacy Infotech</span></h2>
-                            <p class="d-block">we have a phased approach to our web design projects which ensures all aspects of creating a high-performance website are effectively considered.
-                                We have a highly skilled in-house team with a diverse skill set ensuring we’re able to provide a specialist for each stage of your web project.</p>
+                            <p class="d-block">Web designing is one of the main services provided by our company as we are known for our excellent web designing services. We have a highly skilled in-house team with a diverse skill set ensuring we’re able to provide a specialist for each stage of your web project.</p>
 						</div>
 						<div class="ovh">
 							<span class="sub-title wow slideInUpBig" data-wow-duration=".65s" data-wow-delay=".3s">  </span>
