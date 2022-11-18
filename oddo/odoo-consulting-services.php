@@ -337,6 +337,29 @@
                 </div>
             </div>
         </section>
+        <section class="need-odoo-bg py-md-5 py-3">
+            <div class="container">
+                <h2 class="w-100 d-block text-center pb-4">Need for Odoo Consultants?</h2>
+                <div class="conslt-box w-100 d-block p-4">
+                       <div class="row">
+                             <div class="col-md-3">
+                                 <div class="need-oddo-box">
+                                       <img src="../assets/images/oddo/business-analysis.png" alt="">
+                                       <h4 class="w-100 d-block text-center py-4">Exact business analysis</h4>
+                                       <p class="d-block">An Odoo consultant is well experienced
+                                           providing them with exact business analysis. Moreover,
+                                           Odoo consultants are updated resource persons in Odoo,
+                                           new business standards, and technological aspects of
+                                           the world. Additionally, they understand the business
+                                           flow and topology of employment in a company therefore
+                                           making the planning and development operations to be
+                                           done with ease.</p>
+                                 </div>
+                             </div>
+                       </div>
+                </div>
+            </div>
+        </section>
         <section class="w-100 d-block" id="implementationprocess">
             <div class="container">
                 <h2 class="hdr-txt w-100 d-block text-center pb-md-5 pb-2">Our <strong>Odoo</strong> ERP <strong>Implementation</strong> Process</h2>

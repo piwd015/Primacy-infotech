@@ -247,7 +247,7 @@ text-align:left;}
 
 background-size:100% 100%;}
 
-.odo-intgr h2{font-size:25px; color:#000; font-weight:300; text-transform:uppercase;}
+.odo-intgr h2{font-size:35px; color:#000; font-weight:300; text-transform:uppercase;}
 
 .odo-intgr h2 strong{display:inline-block; font-weight:900;}
 
@@ -1748,18 +1748,28 @@ a.wp-app{width:100%; height:55px; border-radius:3px; text-align:center; line-hei
  font-size:18px; color:#fff; display: block; background:#03305a;}
 a:hover.wp-app{background:#f47f2e; color:#fff;}
 a.wp-app i{display:inline-block; font-size:19px; color:#fff; position:relative; top:2px;}
-.hdr-txt{font-size:40px; color:#000; font-family:'Oswald', sans-serif;
+.hdr-txt{font-size:35px; color:#000; font-family:'Oswald', sans-serif;
  text-transform:uppercase; font-weight:600;}
 
 .switchng{background-color: transparent; background-image: linear-gradient(120deg,#7c3e6c 50%,#03305a 50%);
  transition: background .3s,border .3s,border-radius .3s,box-shadow .3s; margin-top: 0; margin-bottom: 0;
  padding: 20px 0 10px; position: relative;}
-.switchng h2{font-size:40px; color:#fff; position:relative;}
+.switchng h2{font-size:35px; color:#fff; position:relative; text-transform:uppercase;}
 .switchng h2:after{content:""; width:7%; height:3px; position:absolute; left:0px; right:0px;
 bottom:0px; margin:0 auto; background:#ff6700;}
 .switchng p{ font-size:17px; color:#fff;}
 .switchng-box{background:#fff; border-radius:8px; font-size: 20px; color:#000;}
 .switchng-box img{width:40px; display:inline-block;}
+
+.need-odoo-bg{background:url("../images/oddo/need-odoo-bg.jpg") no-repeat center top;
+width: 100%; height:600px; background-size:100% 100%;}
+.need-odoo-bg h2{font-size:35px; color:#fff; text-transform:uppercase;}
+.conslt-box{background:#c8c8c8; border-radius:5px;}
+.need-oddo-box{background:#000; box-shadow:-2px 0px 14px 0px rgba(186,20,25,0.6);
+border-radius:10px;}
+.need-oddo-box img{width: 60px; display:block; margin:0 auto;}
+.need-oddo-box h4{font-size:22px; color:#fff; font-weight:700;}
+.need-oddo-box p{font-size:16px; color:#fff;}
 
 @media only screen and (max-width:990px){
 
