@@ -72,13 +72,6 @@
 }
 
 </style>
-    <!-- PAGE LOADER : PLACE RIGHT AFTER BODY TAG -->
-    <div class="page-loader">
-        <div class="spinner"></div>
-        <div class="txt">Cargando<br>vacaciones</div>
-    </div>
-    <!-- PAGE LOADER END : PLACE RIGHT AFTER BODY TAG -->
-
     <?php include 'h_header.php'; ?>
 
 <!--end fixed header-->

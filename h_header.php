@@ -23,6 +23,12 @@
 <!-- End Google Tag Manager -->
 </head>
 <body>
+<!-- PAGE LOADER : PLACE RIGHT AFTER BODY TAG -->
+<div class="page-loader">
+    <div class="spinner"></div>
+    <div class="txt">Cargando<br>vacaciones</div>
+</div>
+<!-- PAGE LOADER END : PLACE RIGHT AFTER BODY TAG -->
 <div id="particles-js"></div>
 <div class="count-particles"></div>
 <!--My fixed header-->
