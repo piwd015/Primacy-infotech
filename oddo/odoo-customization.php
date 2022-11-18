@@ -108,38 +108,25 @@
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
             <div class="container">
-                <h2 class="w-100 d-block text-center pb-3 mb-5">Why <strong>Companies</strong> are Switching to <strong>Odoo</strong></h2>
-                <div class="row">
-                    <div class="col-md-6">
-                        <p class="d-block text-justify">Companies looking for an ERP solution are quickly making the switch to Odoo to boost productivity, increase sales, and better manage operations across their company. With Odoo, you can manage all aspects of your
-                            organization from one simple, user-friendly dashboard. This gives everyone in the company access to all of the tools, applications, and modules they need to successfully do their job.</p>
-                    </div>
-                    <div class="col-md-6">
-                        <p class="d-block text-justify">Odoo works for all departments of companies of all types of industries, including
-                            warehousing, sales, human resources, accounting, HR, e-commerce, and more. It
-                            currently has over 3 million users across the world, making it among the most popular and affordable open-source ERP solutions available on the market.</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-5">
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/interface.png" alt="">Easy to use interface</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" alt="">Over 7 million users globally</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" alt="">Improve sales and productivity</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/idea.png" alt="">Ideal for companies in any industry</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/module.png" alt="">Over 37,000 customizable modules</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/cost.png" alt="" style="top:26px;">Affordable per-user cost and licensing</div>
-                    </div>
-                    <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
-                        <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-md-5">
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/solution.png" style="top:26px;" alt="">Access Odoo's web-based solution from anywhere at any time</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" style="top:26px;" alt="">Simplify your company's workflow across departments</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-module.png" style="top:26px;" alt="">Full suite of business modules and applications</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-process.png" style="top:26px;" alt="">Easy to manage all your business processes</div>
-                        <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/fast-growing.png" style="top:26px;" alt="">Fastest growing open-source ERP system</div>
-                    </div>
-                </div>
+                  <h2 class="w-100 d-block text-center pb-3 mb-5">A GLIMPSE OF OUR <strong>ODOO CUSTOMIZATION</strong> SOLUTIONS</h2>
+                  <div class="row">
+                         <div class="col-md-3">
+                               <div class="customz-box p-md-4 p-2">
+                                      <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                                      <h2 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h2>
+                                      <p class="d-block text-justify">With The Help Of A
+                                          Customer-Relationship Management Tool, You Can Create
+                                          A Healthy And Personal Relationship With Your Customers.
+                                          This Tool Automates Tasks Like Sending Emails And
+                                          Converting Leads Into Customers. Our Experienced Odoo
+                                          Developers Can Help You Organize Your CRM Flow By
+                                          Customizing Odoo’s Stock CRM Function To Your Website.</p>
+                               </div>
+                         </div>
+                         <div class="col-md-3"></div>
+                         <div class="col-md-3"></div>
+                         <div class="col-md-3"></div>
+                  </div>
             </div>
         </section>
         <section class="need-odoo-bg py-md-5 py-3">
