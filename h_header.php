@@ -22,12 +22,6 @@
     })(window,document,'script','dataLayer','GTM-MK4D3K');</script>
 <!-- End Google Tag Manager -->
 
-
-<!--<div class="page-loader">-->
-<!--    <div class="spinner"></div>-->
-<!--    <div class="txt">Cargando<br>vacaciones</div>-->
-<!--</div>-->
-
 </head>
 <body>
 <div id="particles-js"></div>
