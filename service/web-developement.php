@@ -40,7 +40,7 @@
 		<div class="container-fluid pl-md-5">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-7">
-					<div class="banner-content">
+					<div class="banner-content bnr-cont-mt">
 						<div class="ovh">
 							<h2 class="title wow slideInUpBig" data-wow-duration=".65s"  data-wow-delay=".1s"><span class="logo-color">ONE OF THE BEST WEB DEVELOPMENT</span> COMPANY<br/><span class="logo-color-red">Primacy Infotech</span></h2>
                             <p class="d-block">we have a phased approach to our web design projects which ensures all aspects of creating a high-performance website are effectively considered.
