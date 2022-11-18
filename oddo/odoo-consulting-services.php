@@ -90,16 +90,16 @@
                                <div class="col-md-6">
                                     <p class="d-block text-justify">Odoo works for all departments of companies of all types of industries, including
                                        warehousing, sales, human resources, accounting, HR, e-commerce, and more. It
-                                       currently has over 2 million users across the world, making it among the most popular and affordable open-source ERP solutions available on the market.</p>
+                                       currently has over 3 million users across the world, making it among the most popular and affordable open-source ERP solutions available on the market.</p>
                                </div>
                          </div>
                          <div class="row">
                                <div class="col-md-5">
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/interface.png" alt="">Easy to use interface</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" alt="">Over 2 million users globally</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" alt="">Over 7 million users globally</div>
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" alt="">Improve sales and productivity</div>
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/idea.png" alt="">Ideal for companies in any industry</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/module.png" alt="">Over 10,000 customizable modules</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/module.png" alt="">Over 37,000 customizable modules</div>
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/cost.png" alt="" style="top:26px;">Affordable per-user cost and licensing</div>
                                </div>
                                <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
@@ -114,6 +114,67 @@
                                </div>
                          </div>
                   </div>
+        </section>
+        <section class="need-odoo-bg py-md-5 py-3">
+            <div class="container-fluid px-md-5 px-3">
+                <h2 class="w-100 d-block text-center pb-md-4 pb-2">Need for Odoo Consultants?</h2>
+                <div class="conslt-box w-100 d-block p-md-4 p-3">
+                    <div class="row">
+                        <div class="col-md-3 mb-md-0 mb-3">
+                            <div class="need-oddo-box p-3">
+                                <img src="../assets/images/oddo/business-analysis.png" alt="">
+                                <h4 class="w-100 d-block text-center pt-3 pb-2">Exact business analysis</h4>
+                                <p class="d-block text-center">An Odoo consultant is well experienced
+                                    providing them with exact business analysis. Moreover,
+                                    Odoo consultants are updated resource persons in Odoo,
+                                    new business standards, and technological aspects of
+                                    the world. Additionally, they understand the business
+                                    flow and topology of employment in a company therefore
+                                    making the planning and development operations to be
+                                    done with ease.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 mb-md-0 mb-3">
+                            <div class="need-oddo-box p-3">
+                                <img src="../assets/images/oddo/mapping.png" alt="">
+                                <h4 class="w-100 d-block text-center pt-3 pb-2">Mapping your needs with Odoo</h4>
+                                <p class="d-block text-center">Odoo consultants are experts in
+                                    the field with abundant experience and skills to tackle the
+                                    barriers of your business operation in Odoo. Moreover, they
+                                    can synchronize and map Odoo to be operational as per your
+                                    standard of business needs. Additionally, these people
+                                    expertise in Odoo customization which helps the users to run
+                                    Odoo as per their terminologies.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 mb-md-0 mb-3">
+                            <div class="need-oddo-box p-3">
+                                <img src="../assets/images/oddo/business-practice.png" alt="">
+                                <h4 class="w-100 d-block text-center pt-3 pb-2">Best business practice</h4>
+                                <p class="d-block text-center">You may be falling in profits
+                                    and productivity, but Odoo consultants can bring the
+                                    rightful operational model of Odoo for you which can be
+                                    the right leap for your company growth. Moreover, the
+                                    right business practices in Odoo for the company operations
+                                    can simplify the tasks, reduce the budgets spent, improve
+                                    productivity and the standards of income generation.</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 mb-md-0 mb-1">
+                            <div class="need-oddo-box p-3">
+                                <img src="../assets/images/oddo/hassle.png" alt="">
+                                <h4 class="w-100 d-block text-center pt-3 pb-2">Hassle-free implementation</h4>
+                                <p class="d-block text-center">An Odoo consultant will take
+                                    care of the design, development and implementation of
+                                    the platform as per your business standards to your
+                                    company without bothering you. Furthermore, these are
+                                    done with utmost precision and configuration to avoid
+                                    failures during implementation and operation.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
@@ -333,160 +394,6 @@
                                     <img src="../assets/images/oddo/healthcare.png" alt=""><span class="w-100 d-block text-center pt-3">Healthcare</span>
                            </div>
                     </div> -->
-                </div>
-            </div>
-        </section>
-        <section class="need-odoo-bg py-md-5 py-3">
-            <div class="container-fluid px-md-5 px-3">
-                <h2 class="w-100 d-block text-center pb-md-4 pb-2">Need for Odoo Consultants?</h2>
-                <div class="conslt-box w-100 d-block p-md-4 p-3">
-                       <div class="row">
-                              <div class="col-md-3 mb-md-0 mb-3">
-                                 <div class="need-oddo-box p-3">
-                                       <img src="../assets/images/oddo/business-analysis.png" alt="">
-                                       <h4 class="w-100 d-block text-center pt-3 pb-2">Exact business analysis</h4>
-                                       <p class="d-block text-center">An Odoo consultant is well experienced
-                                           providing them with exact business analysis. Moreover,
-                                           Odoo consultants are updated resource persons in Odoo,
-                                           new business standards, and technological aspects of
-                                           the world. Additionally, they understand the business
-                                           flow and topology of employment in a company therefore
-                                           making the planning and development operations to be
-                                           done with ease.</p>
-                                 </div>
-                             </div>
-                              <div class="col-md-3 mb-md-0 mb-3">
-                                    <div class="need-oddo-box p-3">
-                                   <img src="../assets/images/oddo/mapping.png" alt="">
-                                   <h4 class="w-100 d-block text-center pt-3 pb-2">Mapping your needs with Odoo</h4>
-                                   <p class="d-block text-center">Odoo consultants are experts in
-                                       the field with abundant experience and skills to tackle the
-                                       barriers of your business operation in Odoo. Moreover, they
-                                       can synchronize and map Odoo to be operational as per your
-                                       standard of business needs. Additionally, these people
-                                       expertise in Odoo customization which helps the users to run
-                                       Odoo as per their terminologies.</p>
-                               </div>
-                              </div>
-                              <div class="col-md-3 mb-md-0 mb-3">
-                               <div class="need-oddo-box p-3">
-                                   <img src="../assets/images/oddo/business-practice.png" alt="">
-                                   <h4 class="w-100 d-block text-center pt-3 pb-2">Best business practice</h4>
-                                   <p class="d-block text-center">You may be falling in profits
-                                       and productivity, but Odoo consultants can bring the
-                                       rightful operational model of Odoo for you which can be
-                                       the right leap for your company growth. Moreover, the
-                                       right business practices in Odoo for the company operations
-                                       can simplify the tasks, reduce the budgets spent, improve
-                                       productivity and the standards of income generation.</p>
-                               </div>
-                           </div>
-                              <div class="col-md-3 mb-md-0 mb-1">
-                               <div class="need-oddo-box p-3">
-                                   <img src="../assets/images/oddo/hassle.png" alt="">
-                                   <h4 class="w-100 d-block text-center pt-3 pb-2">Hassle-free implementation</h4>
-                                   <p class="d-block text-center">An Odoo consultant will take
-                                       care of the design, development and implementation of
-                                       the platform as per your business standards to your
-                                       company without bothering you. Furthermore, these are
-                                       done with utmost precision and configuration to avoid
-                                       failures during implementation and operation.</p>
-                               </div>
-                           </div>
-                       </div>
-                </div>
-            </div>
-        </section>
-        <section class="w-100 d-block" id="implementationprocess">
-            <div class="container">
-                <h2 class="hdr-txt w-100 d-block text-center pb-md-5 pb-2">Our <strong>Odoo</strong> ERP <strong>Implementation</strong> Process</h2>
-                <div class="col-md-12 d-flex flex-wrap justify-content-center">
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/understand-icon.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center ">Requirement<br/>Understand</span>
-                            <img src="../assets/images/oddo/big-arrow-01.png" alt="">
-                        </div>
-                        <dd style="background:#436fe0;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center">Please fill your respective details in the attached TAX sheet whose salary mandat</p>
-                            <img src="../assets/images/oddo/step-01-curbe-box.png">
-                        </div>
-                    </div>
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/analizing-icon.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center ">Analizing &<br/> Documentation</span>
-                            <img src="../assets/images/oddo/big-arrow-02.png" alt="">
-                        </div>
-                        <dd style="background:#a85ee6;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center">We analyze and document of current data, software process
-                                and spreadsheets</p>
-                            <img src="../assets/images/oddo/step-02-curbe-box.png">
-                        </div>
-                    </div>
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/data-import.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center ">Recomendation<br/> & Data import</span>
-                            <img src="../assets/images/oddo/big-arrow-03.png" alt="">
-                        </div>
-                        <dd style="background:#43aee0;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center" style="font-size:12.50px">We recommend the right process to implement Odoo specific
-                                to your business</p>
-                            <img src="../assets/images/oddo/step-03-curbe-box.png">
-                        </div>
-                    </div>
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/customization-icon-02.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center ">Development<br/>& Customization</span>
-                            <img src="../assets/images/oddo/big-arrow-04.png" alt="">
-                        </div>
-                        <dd style="background:#67e5ec;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center" style="font-size:12.50px">Please fill your respective details in the attached TAX sheet whose salary mandat</p>
-                            <img src="../assets/images/oddo/step-04-curbe-box.png">
-                        </div>
-                    </div>
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/training-icon-02.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center" style="top:42%">Training</span>
-                            <img src="../assets/images/oddo/big-arrow-05.png" alt="">
-                        </div>
-                        <dd style="background:#e56c82;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center" style="top:25%;">We train your team onsite or offsiye.</p>
-                            <img src="../assets/images/oddo/step-05-curbe-box.png">
-                        </div>
-                    </div>
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/testing-icon.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center" style="top:42%">QA Testing</span>
-                            <img src="../assets/images/oddo/big-arrow-06.png" alt="">
-                        </div>
-                        <dd style="background:#f3860f;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center">QA Testing User Testing and Beta Testing</p>
-                            <img src="../assets/images/oddo/step-06-curbe-box.png">
-                        </div>
-                    </div>
-                    <div class="time-lin-box position-relative">
-                        <i><img src="../assets/images/oddo/go-live-icon.png" alt=""></i>
-                        <div class="time-arrow">
-                            <span class="w-100 d-block text-center" style="top:42%">Go Live</span>
-                            <img src="../assets/images/oddo/big-arrow-07.png" alt="">
-                        </div>
-                        <dd style="background:#d91a1e;"></dd>
-                        <div class="time-Cont-Area-box">
-                            <p class="d-block text-center">We provide ongoing support and maintenance</p>
-                            <img src="../assets/images/oddo/step-07-curbe-box.png">
-                        </div>
-                    </div>
                 </div>
             </div>
         </section>
