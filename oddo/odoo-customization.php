@@ -41,8 +41,8 @@
                             <li>Bug Free Odoo ERP Code</li>
                             <li>Ontime ERP Project Delivery</li>
                             <li>Upgrade Your Existing ERP</li>
-                            <li>Add New Funtionality To Your Business Process</li>
-                            <li>Increase your Productivity and Improve your Workflow</li>
+                            <li>Add New Funtionality To Your<br/> Business Process</li>
+                            <li>Increase your Productivity and Improve<br/> your Workflow</li>
                         </ul>
                         <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
                     </div>
