@@ -21,14 +21,15 @@
         'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-MK4D3K');</script>
 <!-- End Google Tag Manager -->
+
+<!-- PAGE LOADER : PLACE RIGHT AFTER BODY TAG -->
+<div class="page-loader">
+    <div class="spinner"></div>
+    <div class="txt">Cargando<br>vacaciones</div>
+</div>
+<!-- PAGE LOADER END : PLACE RIGHT AFTER BODY TAG -->
 </head>
 <body>
-<!-- PAGE LOADER : PLACE RIGHT AFTER BODY TAG -->
-<!--<div class="page-loader">-->
-<!--    <div class="spinner"></div>-->
-<!--    <div class="txt">Cargando<br>vacaciones</div>-->
-<!--</div>-->
-<!-- PAGE LOADER END : PLACE RIGHT AFTER BODY TAG -->
 <div id="particles-js"></div>
 <div class="count-particles"></div>
 <!--My fixed header-->
