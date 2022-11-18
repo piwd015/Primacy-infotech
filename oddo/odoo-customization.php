@@ -20,26 +20,64 @@
     <meta property="og:url" content="index.html">
     <meta property="og:site_name" content="Primacy Infotech">
     <meta name="format-detection" content="telephone=no">
-    <style>
-        @media only screen and (max-width:767px) {
-            .oddo-imple-bnr {
-                margin-top: 50px;
-            }
-        }
-    </style>
     <!-- ------start header section------- -->
     <?php include '../include/header.php'; ?>
     <link rel="stylesheet" type="text/css" href="../assets/css/common.css">
     <script type="text/javascript" src="../assets/js/customize.js"></script>
+    <style>
+        @media only screen and (max-width:767px) {
+            .oddo-imple-bnr {margin-top: 50px;}
+        }
+    </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="odo-consul-bnr pt-md-0 pt-5">
-            <div class="container pt-md-5">
-                <h1 class="w-100 d-block text-center pt-5 pb-2">Odoo Consulting Services</h1>
-                <h4 class="w-100 d-block text-center pb-md-5 pb-1">An Experienced Odoo Consultant at your service!</h4>
-                <div class="row d-flex flex-wrap justify-content-center">
-                    <div class="col-md-3">
-                        <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank"><i class="fab fa-whatsapp mr-2"></i>Talk to our experts</a>
+        <section class="oddo-imple-bnr">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
+                        <h1>The Best User Friendly  ERP - Odoo ERP</h1>
+                        <ul class="d-block pl-0 py-md-4">
+                            <li>7 Million users around the Globe,</li>
+                            <li>Fully Integrated Software</li>
+                            <li>Impressive User Interface</li>
+                            <li>34,000+ supporting add-ons <br>available from the Odoo apps store</li>
+                            <li>Single tool for any kind of business</li>
+                            <li>Cost effective Solution for SME to <br> Multinational Company</li>
+                        </ul>
+                        <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
+                    </div>
+                    <div class="col-lg-4 col-md-4">
+                        <div class="consl-fm w-100 d-block p-4">
+                            <h2 class="w-100 d-block text-center">Get Free Consultation</h2>
+                            <form action="" method="post" id="con_form">
+                                <div class="form-group position-relative">
+                                    <i class="far fa-user"></i>
+                                    <input type="text" class="form-control consl-field" placeholder="Name" name="name" id="Name" required>
+                                </div>
+                                <div class="form-group position-relative">
+                                    <i class="far fa-envelope"></i>
+                                    <input type="email" class="form-control consl-field" placeholder="Email" id="Email" name="email" onkeyup="isEmail($(this).val())" required>
+                                    <p id="err_mail" style="font-size:11px; color:red; display:none">* Please enter proper email.</p>
+                                </div>
+                                <div class="form-group position-relative">
+                                    <i class="fas fa-mobile-alt"></i>
+                                    <input type="text" class="form-control consl-field phone_form ckckphn" placeholder="Phone" id="Ph" name="phone" oninput="this.value=this.value.replace(/[^0-9]/g,'');" onkeyup="phonenumber(this)" maxlength="10" required>
+                                    <p id="err_phone" style="font-size:11px; color:red; display:none">* Please input 10 digit mobile no.</p>
+                                    <p id="err_phone1" style="font-size:11px; color:red; display:none">* Please enter proper mobile no.</p>
+                                </div>
+                                <div class="form-group position-relative">
+                                    <i class="far fa-comment"></i>
+                                    <textarea class="form-control consl-txt-area" rows="0" placeholder="Message" id="comment" name="comment"></textarea>
+                                </div>
+                                <!-- <div class="form-check">
+                                       <input type="checkbox" class="form-check-input" id="exampleCheck1" name="termcheck" value="Yes" required>
+                                       <label class="form-check-label pl-3" for="exampleCheck1">Check here to indicate that you agree with our Privacy Policy and Terms of Use</label>
+                                 </div>-->
+                                <div class="form-group position-relative pt-3 mb-0">
+                                    <button type="submit" name="oddoconsult" class="btn sub-Btn w-100 oddoconsult">Submit </button>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
