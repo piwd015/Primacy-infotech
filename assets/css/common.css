@@ -2156,7 +2156,10 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  a.sMedia-icon i{font-size:15px;}
  .tem-membr .tem-membr-bdr{width:95%;}
  .tem-membr .tem-membr-bdr dd{right:-25px; bottom:-25px}
- .odo-consul-bnr h1{}
+ .odo-consul-bnr h1{ font-size:30px;}
+ .odo-consul-bnr h4{font-size:17px;}
+ a.wp-app{width: 70%; height: 45px; line-height: 45px; font-size: 16px; margin: 0 auto;}
+ .odo-consul-bnr{height:300px;}
 }
 
 

@@ -36,7 +36,7 @@
         <section class="odo-consul-bnr pt-md-0 pt-5">
             <div class="container">
                   <h1 class="w-100 d-block text-center pt-5 pb-2">Odoo Consulting Services</h1>
-                   <h4 class="w-100 d-block text-center pb-md-5 pb-3">An Experienced Odoo Consultant at your service!</h4>
+                   <h4 class="w-100 d-block text-center pb-md-5 pb-1">An Experienced Odoo Consultant at your service!</h4>
                 <div class="row d-flex flex-wrap justify-content-center">
                       <div class="col-md-3">
                            <a href="https://api.whatsapp.com/send?phone=919088015865" class="wp-app" target="_blank"><i class="fab fa-whatsapp mr-2"></i>Talk to our experts</a>
