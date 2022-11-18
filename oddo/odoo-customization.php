@@ -125,28 +125,24 @@
                          </div>
                          <div class="col-md-6">
                               <div class="customz-box p-md-4 p-2 mb-4">
-                                  <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                                  <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
-                                  <p class="d-block text-justify">With The Help Of A
-                                      Customer-Relationship Management Tool, You Can Create
-                                      A Healthy And Personal Relationship With Your Customers.
-                                      This Tool Automates Tasks Like Sending Emails And
-                                      Converting Leads Into Customers. Our Experienced Odoo
-                                      Developers Can Help You Organize Your CRM Flow By
-                                      Customizing Odoo’s Stock CRM Function To Your Website.</p>
+                                  <div class="customz-boxImg"><img src="../assets/images/oddo/report.png" alt=""></div>
+                                  <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Report Customization</h5>
+                                  <p class="d-block text-justify">One Of The Most Important
+                                      Segments Of A Business Enterprise Is Reporting. It Plays
+                                      An Essential Role In Making Strategic Decisions Regarding
+                                      The Future Of Business. At Uncanny, We Will Help You To
+                                      Customize Your Existing Reports And Create New Reports
+                                      According To Your Business Requirements.</p>
                               </div>
                       </div>
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-2 mb-4">
                                <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                               <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
-                               <p class="d-block text-justify">With The Help Of A
-                                  Customer-Relationship Management Tool, You Can Create
-                                  A Healthy And Personal Relationship With Your Customers.
-                                  This Tool Automates Tasks Like Sending Emails And
-                                  Converting Leads Into Customers. Our Experienced Odoo
-                                  Developers Can Help You Organize Your CRM Flow By
-                                  Customizing Odoo’s Stock CRM Function To Your Website.</p>
+                               <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Invoice Customization</h5>
+                               <p class="d-block text-justify">Generally, Businesses Have Their
+                                   Individual Invoice Templates. We At Uncanny Can Help You With
+                                   The Modification Of The Odoo Stock Template. We Ensure That
+                                   All The Modifications Are According To Your Business Needs.</p>
                               </div>
                          </div>
                          <div class="col-md-6">
