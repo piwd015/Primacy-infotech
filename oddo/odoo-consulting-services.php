@@ -358,7 +358,7 @@
                              </div>
                               <div class="col-md-3">
                                <div class="need-oddo-box p-3">
-                                   <img src="../assets/images/oddo/business-analysis.png" alt="">
+                                   <img src="../assets/images/oddo/mapping.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Mapping your needs with Odoo</h4>
                                    <p class="d-block text-center">Odoo consultants are experts in
                                        the field with abundant experience and skills to tackle the
