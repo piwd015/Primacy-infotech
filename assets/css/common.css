@@ -1767,9 +1767,9 @@ width: 100%; height:100%; background-size:100% 100%;}
 .conslt-box{background:#c8c8c8; border-radius:5px;}
 .need-oddo-box{background:#000; box-shadow:-2px 0px 14px 0px rgba(186,20,25,0.6);
 border-radius:10px;}
-.need-oddo-box img{width: 60px; display:block; margin:0 auto;}
-.need-oddo-box h4{font-size:20px; color:#fff; font-weight:700;}
-.need-oddo-box p{font-size:15px; color:#fff;}
+.need-oddo-box img{width: 40px; display:block; margin:0 auto;}
+.need-oddo-box h4{font-size:18px; color:#fff; font-weight:700;}
+.need-oddo-box p{font-size:14px; color:#fff;}
 
 @media only screen and (max-width:990px){
 

@@ -345,7 +345,7 @@
                              <div class="col-md-3">
                                  <div class="need-oddo-box p-3">
                                        <img src="../assets/images/oddo/business-analysis.png" alt="">
-                                       <h4 class="w-100 d-block text-center py-4">Exact business analysis</h4>
+                                       <h4 class="w-100 d-block text-center py-3">Exact business analysis</h4>
                                        <p class="d-block text-center">An Odoo consultant is well experienced
                                            providing them with exact business analysis. Moreover,
                                            Odoo consultants are updated resource persons in Odoo,
