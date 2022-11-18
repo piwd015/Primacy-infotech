@@ -1832,7 +1832,7 @@ padding:20px; margin:0 auto;}
  }
 }
 
-.bnr-cont-mt{margin-top:-35%;}
+.bnr-cont-mt{margin-top:-35%!important;}
 
 
 @media only screen and (max-width:990px){
