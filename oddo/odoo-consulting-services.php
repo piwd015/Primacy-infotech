@@ -338,10 +338,10 @@
         </section>
         <section class="need-odoo-bg py-md-5 py-3">
             <div class="container-fluid px-md-5 px-3">
-                <h2 class="w-100 d-block text-center pb-4">Need for Odoo Consultants?</h2>
-                <div class="conslt-box w-100 d-block p-4">
+                <h2 class="w-100 d-block text-center pb-md-4 pb-2">Need for Odoo Consultants?</h2>
+                <div class="conslt-box w-100 d-block p-md-4 p-3">
                        <div class="row">
-                              <div class="col-md-3">
+                              <div class="col-md-3 mb-md-0 mb-3">
                                  <div class="need-oddo-box p-3">
                                        <img src="../assets/images/oddo/business-analysis.png" alt="">
                                        <h4 class="w-100 d-block text-center pt-3 pb-2">Exact business analysis</h4>
@@ -355,8 +355,8 @@
                                            done with ease.</p>
                                  </div>
                              </div>
-                              <div class="col-md-3">
-                               <div class="need-oddo-box p-3">
+                              <div class="col-md-3 mb-md-0 mb-3">
+                                    <div class="need-oddo-box p-3">
                                    <img src="../assets/images/oddo/mapping.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Mapping your needs with Odoo</h4>
                                    <p class="d-block text-center">Odoo consultants are experts in
@@ -367,8 +367,8 @@
                                        expertise in Odoo customization which helps the users to run
                                        Odoo as per their terminologies.</p>
                                </div>
-                           </div>
-                              <div class="col-md-3">
+                              </div>
+                              <div class="col-md-3 mb-md-0 mb-3">
                                <div class="need-oddo-box p-3">
                                    <img src="../assets/images/oddo/business-practice.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Best business practice</h4>
@@ -381,7 +381,7 @@
                                        productivity and the standards of income generation.</p>
                                </div>
                            </div>
-                              <div class="col-md-3">
+                              <div class="col-md-3 mb-md-0 mb-3">
                                <div class="need-oddo-box p-3">
                                    <img src="../assets/images/oddo/hassle.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Hassle-free implementation</h4>
