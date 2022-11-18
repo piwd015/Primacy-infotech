@@ -137,7 +137,7 @@
                       </div>
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-2 mb-4">
-                               <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                               <div class="customz-boxImg"><img src="../assets/images/oddo/invoice.png" alt=""></div>
                                <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Invoice Customization</h5>
                                <p class="d-block text-justify">Generally, Businesses Have Their
                                    Individual Invoice Templates. We At Uncanny Can Help You With
@@ -148,14 +148,14 @@
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-2 mb-4">
                               <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                              <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
-                              <p class="d-block text-justify">With The Help Of A
-                                  Customer-Relationship Management Tool, You Can Create
-                                  A Healthy And Personal Relationship With Your Customers.
-                                  This Tool Automates Tasks Like Sending Emails And
-                                  Converting Leads Into Customers. Our Experienced Odoo
-                                  Developers Can Help You Organize Your CRM Flow By
-                                  Customizing Odoo’s Stock CRM Function To Your Website.</p>
+                              <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo POS Customization</h5>
+                              <p class="d-block text-justify">Talking About Point Of Sales,
+                                  Receipts Can Be Printed With The Help Of A Basic Desktop
+                                  And Printer. But, According To Globally Accepted Standards,
+                                  It Is Essential To Use Specific Printers. These Printers
+                                  Are None Other Than The Receipt Printers. Our Seasoned Team
+                                  Can Customize Odoo’s Stock Printed Slip To Match Your Receipt
+                                  Template.</p>
                           </div>
                       </div>
                   </div>
