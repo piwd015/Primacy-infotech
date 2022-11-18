@@ -59,8 +59,8 @@
                          They don't stop there; they train your employee on how to operate the
                          platform and will be there with you for constant support and
                          maintenance activities if any arises.</p>
-                        <div class="row pt-md-4 pt-2">
-                              <div class="col-md-6 d-flex flex-wrap flex-column-reverse flex-md-row">
+                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-4 pt-2">
+                              <div class="col-md-6">
                                     <h2 class="hdr-txt d-block">LOOKING FOR A DEPENDABLE ODOO CONSULTING SOLUTION?</h2>
                                     <p class="d-block text-justify">We At Primacy Infotech Provide The
                                         Best Consulting Services Using The Latest Techniques To
