@@ -113,7 +113,7 @@
                          <div class="col-md-6">
                                <div class="customz-box p-md-4 p-2 mb-4">
                                       <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                                      <h2 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h2>
+                                      <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
                                       <p class="d-block text-justify">With The Help Of A
                                           Customer-Relationship Management Tool, You Can Create
                                           A Healthy And Personal Relationship With Your Customers.
@@ -124,35 +124,35 @@
                                </div>
                          </div>
                          <div class="col-md-6">
+                              <div class="customz-box p-md-4 p-2 mb-4">
+                                  <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                                  <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
+                                  <p class="d-block text-justify">With The Help Of A
+                                      Customer-Relationship Management Tool, You Can Create
+                                      A Healthy And Personal Relationship With Your Customers.
+                                      This Tool Automates Tasks Like Sending Emails And
+                                      Converting Leads Into Customers. Our Experienced Odoo
+                                      Developers Can Help You Organize Your CRM Flow By
+                                      Customizing Odoo’s Stock CRM Function To Your Website.</p>
+                              </div>
+                      </div>
+                         <div class="col-md-6">
                           <div class="customz-box p-md-4 p-2 mb-4">
-                              <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                              <h2 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h2>
-                              <p class="d-block text-justify">With The Help Of A
+                               <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                               <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
+                               <p class="d-block text-justify">With The Help Of A
                                   Customer-Relationship Management Tool, You Can Create
                                   A Healthy And Personal Relationship With Your Customers.
                                   This Tool Automates Tasks Like Sending Emails And
                                   Converting Leads Into Customers. Our Experienced Odoo
                                   Developers Can Help You Organize Your CRM Flow By
                                   Customizing Odoo’s Stock CRM Function To Your Website.</p>
-                          </div>
-                      </div>
+                              </div>
+                         </div>
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-2 mb-4">
                               <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                              <h2 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h2>
-                              <p class="d-block text-justify">With The Help Of A
-                                  Customer-Relationship Management Tool, You Can Create
-                                  A Healthy And Personal Relationship With Your Customers.
-                                  This Tool Automates Tasks Like Sending Emails And
-                                  Converting Leads Into Customers. Our Experienced Odoo
-                                  Developers Can Help You Organize Your CRM Flow By
-                                  Customizing Odoo’s Stock CRM Function To Your Website.</p>
-                          </div>
-                      </div>
-                         <div class="col-md-6">
-                          <div class="customz-box p-md-4 p-2 mb-4">
-                              <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                              <h2 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h2>
+                              <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
                               <p class="d-block text-justify">With The Help Of A
                                   Customer-Relationship Management Tool, You Can Create
                                   A Healthy And Personal Relationship With Your Customers.
