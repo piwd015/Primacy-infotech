@@ -384,7 +384,7 @@
                            </div>
                               <div class="col-md-3">
                                <div class="need-oddo-box p-3">
-                                   <img src="../assets/images/oddo/business-analysis.png" alt="">
+                                   <img src="../assets/images/oddo/hassle.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Hassle-free implementation</h4>
                                    <p class="d-block text-center">An Odoo consultant will take
                                        care of the design, development and implementation of
