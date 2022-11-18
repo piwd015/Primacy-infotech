@@ -106,11 +106,11 @@
                                    <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
                                </div>
                                <div class="col-md-5">
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/solution.png" alt="">Access Odoo's web-based solution from anywhere at any time</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" alt="">Simplify your company's workflow across departments</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-module.png" alt="">Full suite of business modules and applications</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-process.png" alt="">Easy to manage all your business processes</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/fast-growing.png" alt="">Fastest growing open-source ERP system</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/solution.png" style="top:26px;" alt="">Access Odoo's web-based solution from anywhere at any time</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" style="top:26px;" alt="">Simplify your company's workflow across departments</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-module.png" style="top:26px;" alt="">Full suite of business modules and applications</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-process.png" style="top:26px;" alt="">Easy to manage all your business processes</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/fast-growing.png" style="top:26px;" alt="">Fastest growing open-source ERP system</div>
                                </div>
                          </div>
                   </div>
