@@ -147,7 +147,7 @@
                          </div>
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-2 mb-4">
-                              <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                              <div class="customz-boxImg"><img src="../assets/images/oddo/pos.png" alt=""></div>
                               <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo POS Customization</h5>
                               <p class="d-block text-justify">Talking About Point Of Sales,
                                   Receipts Can Be Printed With The Help Of A Basic Desktop
