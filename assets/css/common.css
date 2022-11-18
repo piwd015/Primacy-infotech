@@ -1830,7 +1830,7 @@ border-radius:10px; height:405px;}
 
 .tabs li:hover{width:46%;}
 
-.hdr-txt{font-size:20px;}
+.hdr-txt{font-size:20px; padding-top:20px;}
 
 .tab-content h2{font-size:20px;}
 
@@ -1860,11 +1860,11 @@ a.odo-aps{padding: 12px 15px; font-size: 14px;}
 
 .time-lin-box i{padding:0px; height:35px;}
 
-.time-lin-box .time-arrow span{font-size:17px; top:50px;}
+.time-lin-box .time-arrow span{font-size:17px; top:35px;}
 
 .time-lin-box .time-Cont-Area-box{bottom:-5px;}
 
-.time-lin-box dd{height:50px; top:37%;}
+.time-lin-box dd{height:38px; top:35%;}
 
 .time-lin-box .time-Cont-Area-box img{width:80%; margin:0 auto;}
 
@@ -2169,6 +2169,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .indus-logo{height: 120px; padding:20px 5px 0px;}
  .need-odoo-bg h2{font-size:25px;}
  .need-oddo-box{height:auto;}
+ .time-lin-box .time-arrow{top:5px;}
 }
 
 
