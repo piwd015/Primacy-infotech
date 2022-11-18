@@ -2163,8 +2163,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .odo-consul-bnr{height:300px;}
  .switchng h2{font-size:20px;}
  .switchng h2:after{width:18%;}
- .switchng-box{font-size:17px;}
- .switchng-box img{width:30px;}
+ .switchng-box{font-size:17px; padding-left:45px; padding-right:10px;}
+ .switchng-box img{width:30px; left:10px; top:15px}
 }
 
 
