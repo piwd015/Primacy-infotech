@@ -33,7 +33,7 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="odo-consul-bnr">
+        <section class="odo-consul-bnr pt-md-0 pt-5">
             <div class="container">
                   <h1 class="w-100 d-block text-center pt-5 pb-2">Odoo Consulting Services</h1>
                    <h4 class="w-100 d-block text-center pb-md-5 pb-3">An Experienced Odoo Consultant at your service!</h4>
