@@ -338,7 +338,7 @@
             </div>
         </section>
         <section class="need-odoo-bg py-md-5 py-3">
-            <div class="container">
+            <div class="container-fluid">
                 <h2 class="w-100 d-block text-center pb-4">Need for Odoo Consultants?</h2>
                 <div class="conslt-box w-100 d-block p-4">
                        <div class="row">
