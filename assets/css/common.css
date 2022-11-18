@@ -1788,6 +1788,17 @@ padding:20px; margin:0 auto;}
  z-index: 1000;
 }
 
+.page-loader .txt {
+ color: #666;
+ text-align: center;
+ top: 40%;
+ position: relative;
+ text-transform: uppercase;
+ letter-spacing: 0.3rem;
+ font-weight: bold;
+ line-height: 1.5;
+}
+
 /* SPINNER ANIMATION */
 .spinner {
  position: relative;
