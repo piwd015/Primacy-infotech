@@ -95,23 +95,22 @@
                          </div>
                          <div class="row">
                                <div class="col-md-5">
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/interface.png" class="mr-md-2 mr-1" alt="">Easy to use interface</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" class="mr-md-2 mr-1" alt="">Over 2 million users globally</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" class="mr-md-2 mr-1" alt="">Improve sales and productivity</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/idea.png" class="mr-md-2 mr-1" alt="">Ideal for companies in any industry</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/module.png" class="mr-md-2 mr-1" alt="">Over 10,000 customizable modules</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/cost.png" class="mr-md-2 mr-1" alt="">Affordable per-user cost and
-                                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licensing</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/interface.png" alt="">Easy to use interface</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" alt="">Over 2 million users globally</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" alt="">Improve sales and productivity</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/idea.png" alt="">Ideal for companies in any industry</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/module.png" alt="">Over 10,000 customizable modules</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/cost.png" alt="">Affordable per-user cost and licensing</div>
                                </div>
                                <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
                                    <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
                                </div>
                                <div class="col-md-5">
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/solution.png" class="mr-2" alt="">Access Odoo's web-based solution from anywhere at any time</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" class="mr-2" alt="">Simplify your company's workflow across departments</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-module.png" class="mr-2" alt="">Full suite of business modules and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;applications</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-process.png" class="mr-2" alt="">Easy to manage all your business &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;processes</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/fast-growing.png" class="mr-2" alt="">Fastest growing open-source ERP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;system</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/solution.png" alt="">Access Odoo's web-based solution from anywhere at any time</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" alt="">Simplify your company's workflow across departments</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-module.png" alt="">Full suite of business modules and applications</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/business-process.png" alt="">Easy to manage all your business processes</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/fast-growing.png" alt="">Fastest growing open-source ERP system</div>
                                </div>
                          </div>
                   </div>
