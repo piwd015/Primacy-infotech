@@ -381,7 +381,7 @@
                                        productivity and the standards of income generation.</p>
                                </div>
                            </div>
-                              <div class="col-md-3 mb-md-0 mb-3">
+                              <div class="col-md-3 mb-md-0 mb-1">
                                <div class="need-oddo-box p-3">
                                    <img src="../assets/images/oddo/hassle.png" alt="">
                                    <h4 class="w-100 d-block text-center pt-3 pb-2">Hassle-free implementation</h4>
