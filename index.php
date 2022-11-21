@@ -1388,7 +1388,7 @@
 
                                                       <div class="ceo"><img src="assets/images/ceo.png" alt="">
 
-                                                      <span>Kabir Hussain</span>
+                                                      <span>Kabir Hossain</span>
 
                                                       <dd>Founder and CEO</dd>
 
