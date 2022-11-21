@@ -473,6 +473,14 @@
                                         <div><div class="client-box"><img src="assets/images/client-logo-05.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-12.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-13.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-14.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-15.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-16.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-17.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-18.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-19.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-20.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-21.png" alt=""></div></div>
 
                                   </div>
 
