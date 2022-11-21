@@ -55,12 +55,27 @@
 
   gtag('config', 'UA-110654741-8');
 </script>
+
+
 </head>
 
 
 <!-- Mirrored from primacyinfotech.com/our-portfolios.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Jan 2020 10:54:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <body data-spy="scroll" data-target=".navbar">
+
+<!--
+
+        <div id="loading">
+
+		  <img id="loading-image" src="assets/images/ajax-loader.gif" alt="Loading..." />
+
+		</div>
+
+-->
+
+
+
 <!--callback requset popup-->
 
 	<!-- Modal --> 
@@ -250,13 +265,181 @@
   </div>
 
 </div>
+
 <!--end model-->
 
-<!-- ------start header section------- -->
-<?php include '../include/header.php'; ?>
-<link rel="stylesheet" type="text/css" href="../assets/css/common.css">
-<script type="text/javascript" src="../assets/js/customize.js"></script>
-<!-- ------end header section------- -->
+<!--
+
+	<header class="header">
+
+		<nav class="navbar navbar-expand-lg fixed-top" id="main-nav">
+
+			<div class="container">
+
+				<a class="navbar-brand" href="#">
+
+					<img class="white-logo" src="assets/images/logo-p.png" alt="logo">
+
+					<img class="color-logo" src="assets/images/logo-p.png" alt="logo">
+
+				</a>
+
+				<button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#main-nav-collapse" aria-controls="main-nav-collapse" aria-expanded="false" aria-label="Toggle navigation">
+
+					<span class="menu-toggle">
+
+                        <span class="hamburger">
+
+                            <span></span>
+
+                            <span></span>
+
+                            <span></span>
+
+                        </span>
+
+                        <span class="hamburger-cross">
+
+                            <span></span>
+
+                            <span></span>
+
+                        </span>
+
+                    </span>
+
+				</button>
+
+				<div class="collapse navbar-collapse order-3 order-lg-2" id="main-nav-collapse">
+
+					<ul class="navbar-nav ml-auto">
+
+						<li class="nav-item dropdown">
+
+                            <a class="nav-link " href="#banner"  aria-haspopup="true" aria-expanded="false">
+
+                                Home
+
+                            </a>
+
+                                                 </li>
+
+						<li class="nav-item">
+
+							<a class="nav-link nav-link-scroll" href="#feature">Features</a>
+
+						</li>
+
+						<li class="nav-item">
+
+							<a class="nav-link nav-link-scroll" href="#screenshot">Screenshots</a>
+
+						</li>
+
+						<li class="nav-item">
+
+							<a class="nav-link nav-link-scroll" href="#pricing">Pricing</a>
+
+						</li>
+
+
+
+						<li class="nav-item">
+
+							<a class="nav-link nav-link-scroll" href="#download">Download</a>
+
+						</li>
+
+					</ul>
+
+				</div>
+
+				<div class="nav-search order-2 order-lg-3">
+
+					<i class="fa fa-search"></i>
+
+				</div>
+
+			</div>
+
+		</nav>
+
+	</header>
+
+
+
+-->
+
+
+
+
+
+<!--My fixed header-->
+
+		<div class="top-bar">
+			<div class="c-mob2">
+				<ul class="c-mob-3">
+					<li><img src="../assets/images/inddd.png" alt="india"></li>
+					<li><a href="tel:+91 9088015866" class="">+91 9088015866</a></li>
+					<li><a href="tel:+91 9088015865" class="">/65</a></li>
+
+
+					<li><img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="canada"></li> &nbsp;
+					<li> <a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a></li>
+
+
+
+					<li><img width="16" height="11" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"></li> &nbsp;
+					<li><a href="tel:+88 01759787636" class="Blondie-email">+88 01759787636</a></li>
+				</ul>
+
+			</div>
+		</div>
+
+<div class="top">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 pic0"><a href="../index.php"><img src="../assets/images/logo-p.png" alt="primacy logo"></a></div>
+			<div class="col-md-7">
+<!--				<div class="col-md-12">-->
+					<div class="c-mob">
+						<div class="col-md-4">
+							<img src="../assets/images/inddd.png" alt="india">&nbsp;
+							<a href="tel:+91 9088015866" class="">+91 9088015866</a>
+							<a href="tel:+91 9088015865" class="">/65</a>
+						</div>
+						<div class="col-md-4">
+							<img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="canada"> &nbsp;
+							<a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a>
+
+						</div>
+						<div class="col-md-4">
+							<img width="16" height="11" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"> &nbsp;
+							<a href="tel:+88 01759787636" class="Blondie-email">+88 01759787636</a>
+
+						</div>
+					</div>
+<!--				</div>-->
+			</div>
+			<div class="col-md-2 dropdown ">
+				<button class="my-button my-button2 dropdown-toggle pull-right" type="button" data-toggle="dropdown"><i class="fas fa-globe"></i>&nbsp;Global
+
+					<span class="caret"></span></button>
+				<ul class="dropdown-menu pull-right">
+					<li><a href="https://www.primacyinfotech.in/"><span><img src="../assets/images/inddd.png" alt="india"> &nbsp;India</span></a></li>
+					<li><a href="https://ca.primacyinfotech.com/"><span><img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="india"> &nbsp;Canada</span></a></li>
+					<li><a href="http://bd.primacyinfotech.com/"><span><img width="16" height="11" src="../assets/images/bangladesh-flag-xs.png" alt="india"> &nbsp;Bangladesh</span></a></li>
+				</ul>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+
+<!--end fixed header-->
+	<!-- header -->
 
 
 
@@ -387,7 +570,7 @@ section{
 
 /*	end gallery */</style>
 
- <section class="portfolio mt-md-5 mt-3" id="portfolio">
+ <section class="portfolio" id="portfolio">
 
 	<div class="container">
 
@@ -602,7 +785,15 @@ section{
 	</div>
 
 </section>
-<!-- footer -->
+
+
+
+	<!-- footer -->
+
+
+
+
+
 
   <!--side menuu on desktop-->
 	  <div id="menuwrapper">
@@ -1180,12 +1371,49 @@ section{
 	<a href="tel:+919088015866" class="skype"><i class="fa fa-phone"></i></a>
 	<a href="mailto:info@primacyinfotech.com" class="phone"><i class="fa fa-envelope"></i></a>
 
+<!--	<a id="global-dropdown" href="#" class="phone">Global</a>-->
 
+<!--
+		<ul id="my-global" style="display:none;">
+		     <li><a href="https://wwww.primacyinfotech.in"><span><img src="images/inddd.png" alt="india"> &nbsp;India</span></a></li>
+			 <li><a href="https://wwww.primacyinfotech.in"><span><img width="16" height="11" src="images/canada-flag-xs.png" alt="india"> &nbsp;Canada</span></a></li>
+			<li><a href="https://wwww.primacyinfotech.in"><span><img width="16" height="11" src="images/bangladesh-flag-xs.png" alt="india"> &nbsp;Bangladesh</span></a>
+			</li>
+		</ul>
+-->
+
+
+<!--
+			<div class="dropup">
+    <button class="btn btn-default btn-danger btn-sm dropdown-toggle my-toogle" type="button" data-toggle="dropdown">Global
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu mena">
+      <li><a href="https://wwww.primacyinfotech.in"><span><img src="images/inddd.png" alt="india"> &nbsp;India</span></a></li>
+					  <li><a href="https://wwww.primacyinfotech.in"><span><img width="16" height="11" src="images/canada-flag-xs.png" alt="india"> &nbsp;Canada</span></a></li>
+					  <li><a href="https://wwww.primacyinfotech.in"><span><img width="16" height="11" src="images/bangladesh-flag-xs.png" alt="india"> &nbsp;Bangladesh</span></a></li>
+    </ul>
+  </div>
+-->
 
 
 </div>
 
+<!--mobile footer-->
 
+
+    <!---//Contact Request-->
+	<!---//Call Back Request-->
+
+<!---//Adword Lead Details-->
+
+
+
+
+
+    <!---//Contact Request-->
+	<!---//Call Back Request-->
+
+<!---//Adword Lead Details-->
 
 
 
@@ -1197,6 +1425,8 @@ section{
 
 
 <!--end-->
+
+
 	<script src="../assets/js/jquery-2.2.3.min.js"></script>
 	<script src="../assets/js/jquery.easing.min.js"></script>
 	<script src="../assets/js/popper.min.js"></script>
