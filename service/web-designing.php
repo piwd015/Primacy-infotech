@@ -45,7 +45,7 @@
 	
 
 
-<section class="home-1-banner main-banner bg-img bg-6 bnr-rsdpn" id="banner">
+<section class="home-1-banner main-banner bg-img bg-6 bnr-rsdpn pb-md-0 pb-5" id="banner">
 		<div class="container-fluid pl-md-5 pl-3">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-7 pt-5">
@@ -72,7 +72,7 @@
 	<section class="feature">
 		<div class="container-fluid pl-md-5 pl-3">
 			<div class="row justify-content-center">
-				<div class="col-lg-4">
+				<div class="col-lg-4 pt-md-0 pt-5 mt-md-0 mt-5">
 					<div class="icon-box style-boxed">
 						<div class="icon-box-icon">
 <!--							<i class="icofont-lens"></i>-->
