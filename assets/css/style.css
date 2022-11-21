@@ -11072,6 +11072,7 @@ footer,
 	.accordion-item{margin-bottom:10px;}
 	.s-title::after{bottom:-10px;}
 	.appImg{display:none!important;}
+	.appImg-02{bottom:0px!important;}
   .ecommerces_demo_page .container {
     padding: 0;
   }

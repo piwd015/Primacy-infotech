@@ -77,7 +77,7 @@
 
 					<img src="../assets/images/banner-mobile1.png" class="banner-img-1 appImg wow slideInUpAlt" data-wow-delay=".1s" alt="#primacy">
 
-					<img src="../assets/images/banner-mobile2.png" class="banner-img-2 wow slideInRightAlt" alt="#primacy">
+					<img src="../assets/images/banner-mobile2.png" class="banner-img-2 appImg-02 wow slideInRightAlt" alt="#primacy">
 
 				</div>
 
