@@ -491,7 +491,7 @@
     	 	    </div>     	   	    
       	   </div>
       </section>
-      <section class="w-100 d-block pt-md-0 pt-3" id="implementationprocess">
+      <section class="w-100 d-block pt-md-5 pt-3" id="implementationprocess">
       	       <div class="container">
                     <h2 class="hdr-txt w-100 d-block text-center pb-md-5 pb-2">Our <strong>Odoo</strong> ERP <strong>Implementation</strong> Process</h2>
                         <div class="col-md-12 d-flex flex-wrap justify-content-center">
@@ -528,7 +528,7 @@
                                     </div>
                                     <dd style="background:#43aee0;"></dd>
                                     <div class="time-Cont-Area-box">
-                                        <p class="d-block text-center" style="font-size:12.50px">We recommend the right process to implement Odoo specific
+                                        <p class="d-block text-center">We recommend the right process to implement Odoo specific
                                             to your business</p>
                                         <img src="../assets/images/oddo/step-03-curbe-box.png">
                                     </div>
@@ -541,7 +541,7 @@
                                     </div>
                                     <dd style="background:#67e5ec;"></dd>
                                     <div class="time-Cont-Area-box">
-                                        <p class="d-block text-center" style="font-size:12.50px">Please fill your respective details in the attached TAX sheet whose salary mandat</p>
+                                        <p class="d-block text-center">Please fill your respective details in the attached TAX sheet whose salary mandat</p>
                                         <img src="../assets/images/oddo/step-04-curbe-box.png">
                                     </div>
                                 </div>
@@ -553,7 +553,7 @@
                                     </div>
                                     <dd style="background:#e56c82;"></dd>
                                     <div class="time-Cont-Area-box">
-                                        <p class="d-block text-center" style="top:25%;">We train your team onsite or offsiye.</p>
+                                        <p class="d-block text-center">We train your team onsite or offsiye.</p>
                                         <img src="../assets/images/oddo/step-05-curbe-box.png">
                                     </div>
                                 </div>
