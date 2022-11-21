@@ -516,7 +516,7 @@
                                     </div>
                                     <dd style="background:#43aee0;"></dd>
                                     <div class="time-Cont-Area-box">
-                                        <p class="d-block text-center" style="font-size:12.50px">We recommend the right process to implement Odoo specific
+                                        <p class="d-block text-center">We recommend the right process to implement Odoo specific
                                             to your business</p>
                                         <img src="../assets/images/oddo/step-03-curbe-box.png">
                                     </div>
@@ -529,7 +529,7 @@
                                     </div>
                                     <dd style="background:#67e5ec;"></dd>
                                     <div class="time-Cont-Area-box">
-                                        <p class="d-block text-center" style="font-size:12.50px">Please fill your respective details in the attached TAX sheet whose salary mandat</p>
+                                        <p class="d-block text-center">Please fill your respective details in the attached TAX sheet whose salary mandat</p>
                                         <img src="../assets/images/oddo/step-04-curbe-box.png">
                                     </div>
                                 </div>
