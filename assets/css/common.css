@@ -1837,11 +1837,11 @@ padding:20px; margin:0 auto;}
 
 .prtns ul li{line-height:20px;}
 
-.tabs li.current{width:46%;}
+.tabs li.current{width:45%;}
 
-.tabs li{width:46%; margin-bottom:25px; margin-right:10px;}
+.tabs li{width:45%; margin-bottom:25px; margin-right:10px;}
 
-.tabs li:hover{width:46%;}
+.tabs li:hover{width:45%;}
 
 .hdr-txt{font-size:20px; padding-top:20px;}
 
