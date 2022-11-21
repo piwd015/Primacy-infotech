@@ -572,7 +572,7 @@ ul.wld-flg li img{width:100%; display:block;}
 
 .flag-lgo-sps{padding-top:65px;}
 
-.flag-logo-pt{position:relative; top:-5px;}
+.flag-logo-pt{position:relative; top:-8px;}
 
 
 
@@ -1779,10 +1779,9 @@ padding:20px; margin:0 auto;}
 .customz-box .customz-boxImg img{width:40px; display:block;}
 .customz-box h5{font-size:17px; color:#ff6500; text-transform:uppercase; font-weight:600;}
 .customz-box > p{font-size:15px; color:#000;}
-
-
-
 .bnr-cont-mt{margin-top:-25%!important;}
+
+
 
 
 @media only screen and (max-width:990px){
@@ -2071,7 +2070,7 @@ ul.client-box li{display:inline-block; float:none;}
 
 .flag-lgo-sps{padding-top:5px;}
 
-.flag-logo-pt{padding-top:0px; position:relative; top:-3px;}
+.flag-logo-pt{padding-top:0px; position:relative; top:-8px;}
 
 ul.s-Media{margin:15px 0px;}
 
