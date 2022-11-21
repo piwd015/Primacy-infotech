@@ -471,6 +471,8 @@
                                         <div><div class="client-box"><img src="assets/images/client-logo-04.png" alt=""></div></div>
 
                                         <div><div class="client-box"><img src="assets/images/client-logo-05.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-12.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-13.png" alt=""></div></div>
 
                                   </div>
 
