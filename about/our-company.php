@@ -52,7 +52,7 @@
 
       <br/><br/><br/>
   <section>
-	<div class="s-title">
+	<div class="s-title mb-md-5 mb-3">
 
 			<h2>Our Company</h2>
 
