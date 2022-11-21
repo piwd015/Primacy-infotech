@@ -39,7 +39,7 @@
 <section class="home-1-banner main-banner bg-img bg-6 pb-0 mb-0" id="banner">
 		<div class="container-fluid pl-md-5">
 			<div class="row align-items-center">
-				<div class="col-lg-6 col-md-7 pt-md-0 pt-5">
+				<div class="col-lg-6 col-md-7 pt-md-0 pt-4">
 					<div class="banner-content bnr-cont-mt">
 						<div class="ovh">
 							<h2 class="title wow slideInUpBig" data-wow-duration=".65s"  data-wow-delay=".1s"><span class="logo-color">ONE OF THE BEST WEB DEVELOPMENT</span> COMPANY<br/><span class="logo-color-red">Primacy Infotech</span></h2>
