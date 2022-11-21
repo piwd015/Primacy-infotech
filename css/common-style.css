@@ -71,10 +71,7 @@ i.icofont-2x {
     padding: 0 20px;
 
     text-transform: uppercase;
-
-		
-
-		    font-weight: 700;
+        font-weight: 700;
 
     height: 40px;
 
@@ -83,6 +80,7 @@ i.icofont-2x {
     overflow: hidden;
 
     z-index: 0;
+        width: fit-content!important;
 
 }
 
