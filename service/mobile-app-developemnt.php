@@ -75,7 +75,7 @@
 
 				<div class="col-lg-5 col-md-3 offset-lg-1 offset-md-2 banner-img-wrapper mb-ap-bnr">
 
-					<img src="../assets/images/banner-mobile1.png" class="banner-img-1 wow slideInUpAlt" data-wow-delay=".1s" alt="#primacy">
+					<img src="../assets/images/banner-mobile1.png" class="banner-img-1 appImg wow slideInUpAlt" data-wow-delay=".1s" alt="#primacy">
 
 					<img src="../assets/images/banner-mobile2.png" class="banner-img-2 wow slideInRightAlt" alt="#primacy">
 

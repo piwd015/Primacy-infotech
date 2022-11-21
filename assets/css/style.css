@@ -11071,6 +11071,7 @@ footer,
 	.accordion-btn{padding:20px 15px 13px 15px;}
 	.accordion-item{margin-bottom:10px;}
 	.s-title::after{bottom:-10px;}
+	.appImg{display:none;}
   .ecommerces_demo_page .container {
     padding: 0;
   }
