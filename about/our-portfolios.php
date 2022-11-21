@@ -387,7 +387,7 @@ section{
 
 /*	end gallery */</style>
 
- <section class="portfolio" id="portfolio">
+ <section class="portfolio pt-md-5 pt-4" id="portfolio">
 
 	<div class="container">
 
