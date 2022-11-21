@@ -498,7 +498,6 @@
                                         <div><div class="client-box"><img src="assets/images/client-logo-22.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-23.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-24.png" alt=""></div></div>
-                                        <div><div class="client-box"><img src="assets/images/client-logo-24.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-25.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-26.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-27.png" alt=""></div></div>
