@@ -501,6 +501,9 @@
                                         <div><div class="client-box"><img src="assets/images/client-logo-25.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-26.png" alt=""></div></div>
                                         <div><div class="client-box"><img src="assets/images/client-logo-27.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-28.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-29.png" alt=""></div></div>
+                                        <div><div class="client-box"><img src="assets/images/client-logo-30.png" alt=""></div></div>
 
                                   </div>                                              
 
