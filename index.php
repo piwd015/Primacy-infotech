@@ -788,6 +788,14 @@
 
                                         </ul>
 
+                                       <ul class="cont-info w-100 d-block">
+
+                                           <h3 class="d-block pb-2"><img src="images/uk-flag-xs.png" alt="United Kingdom">UK Office</h3>
+
+                                           <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>103, City Gate House, Forestgate London E7 9HZ</li>
+
+                                       </ul>
+
                                         <ul class="cont-info w-100 d-block pb-2">
 
                                             <h3 class="d-block pb-2"><img src="images/canada-flag-xs.png" alt="canada">Canada Office</h3>  
@@ -807,14 +815,6 @@
                                             <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>24, Dr. Nawab Ali Tower, 2nd floor, Purana Paltan, Dhaka-1000</li>
 
                                             <li class="pb-2"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+88 01759787636">+88 01759787636</a></li>
-
-                                        </ul>
-
-                                        <ul class="cont-info w-100 d-block">
-
-                                            <h3 class="d-block pb-2"><img src="images/uk-flag-xs.png" alt="United Kingdom">UK Office</h3>  
-
-                                            <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>103, City Gate House, Forestgate London E7 9HZ</li>
 
                                         </ul>
 
