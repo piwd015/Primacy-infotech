@@ -131,8 +131,8 @@
                    <div class="container">
                          <div class="row">
                                 <div class="col-md-3">
-                                      <div class="why-us-box w-100 d-block position-relative px-3
-                                      py-4">
+                                      <div class="why-us-box w-100 d-block position-relative
+                                      px-md-4 px-2 py-md-5 py-3">
                                             <div class="why-us-box-ico position-absolute"></div>
                                             <h4 class="d-block pb-2">Full-Service Digital</h4>
                                             <span class="d-block">One house for the complete digital solution
