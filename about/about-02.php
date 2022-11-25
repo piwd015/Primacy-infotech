@@ -259,6 +259,33 @@
                                                 Word of Mouth, References.</p>
                                         </div>
                                </div>
+                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                        <div class="glns-box">
+                                            <h4 class="d-block pb-2">Super Team</h4>
+                                            <p class="d-block">At least 3x more
+                                                productive</p>
+                                        </div>
+                                </div>
+                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                        <div class="glns-box">
+                                            <h4 class="d-block pb-2">Perceived As</h4>
+                                            <p class="d-block">Innovation Outsourcing
+                                                Partner, Strategic
+                                                Digital Partner</p>
+                                        </div>
+                                </div>
+                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                        <div class="glns-box">
+                                            <h4 class="d-block pb-2">Project Ticket Size</h4>
+                                            <p class="d-block">$15-$100K</p>
+                                        </div>
+                                </div>
+                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                        <div class="glns-box">
+                                            <h4 class="d-block pb-2">Relationship Value</h4>
+                                            <p class="d-block">$50K -$2m per annum</p>
+                                        </div>
+                                </div>
                         </div>
                    </div>
             </section>
