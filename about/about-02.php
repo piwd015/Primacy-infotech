@@ -78,7 +78,7 @@
                                 </div>
                                 <div class="col-md-8">
                                      <h2 class="pb-md-3 pb-1">Vision</h2>
-                                      <h4 class="d-block pb-md-3 pb-1">Lorem ipsum dolor sit amet,
+                                      <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
                                        <p class="d-block text-justify">Lorem ipsum dolor sit amet,
                                           consectetur adipiscing elit, sed do eiusmod tempor
@@ -100,10 +100,10 @@
             </section>
             <section class="w-100 d-block py-md-5 py-3">
                    <div class="container">
-                <div class="row vs-md">
+                        <div class="row vs-md">
                         <div class="col-md-8">
                               <h2 class="d-block pb-md-3 pb-1">Vision</h2>
-                              <h4 class="d-block pb-md-3 pb-1">Lorem ipsum dolor sit amet,
+                              <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                 consectetur adipiscing elit, sed do eiusmod tempor</h4>
                                 <p class="d-block text-justify">Lorem ipsum dolor sit amet,
                                 consectetur adipiscing elit, sed do eiusmod tempor
@@ -124,7 +124,7 @@
                             <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
                         </div>
                 </div>
-            </div>
+                   </div>
            </section>
     </div>
 
