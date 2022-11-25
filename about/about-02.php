@@ -128,7 +128,7 @@
            </section>
             <section class="w-100 d-block why-us pt-0">
                    <div class="container">
-                        <h2 class="w-100 d-block pb-3">Why Us</h2>
+                        <h2 class="w-100 d-block pb-5">Why Us</h2>
                          <div class="row">
                                 <div class="col-md-3">
                                       <div class="why-us-box w-100 d-block position-relative
