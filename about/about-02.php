@@ -70,10 +70,10 @@
                                incididunt ut labore et dolore magna aliqua.</p>
                     </div>
            </section>
-            <section class="w-100 d-block pt-md-5">
+            <section class="w-100 d-block pt-md-5 pb-0">
                    <div class="container">
                          <div class="row vs-md">
-                                <div class="col-md-4">
+                                <div class="col-md-4 d-flex flex-wrap align-items-center">
                                     <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-8">
@@ -120,7 +120,7 @@
                                         ultrices gravida. Risus commodo viverra maecenas
                                         accumsan lacus vel facilisis. Lorem </p>
                             </div>
-                                <div class="col-md-4">
+                                <div class="col-md-4 d-flex flex-wrap align-items-center">
                                     <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
                                 </div>
                           </div>
