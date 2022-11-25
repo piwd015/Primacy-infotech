@@ -1782,7 +1782,7 @@ padding:20px; margin:0 auto;}
 .bnr-cont-mt{margin-top:-25%!important;}
 
 .aboutImg-01{background:url("../images/about/aboutImg-01.jpg") no-repeat center top;
- width: 100%; height:50vh; background-size:100% 100%; display:flex; justify-content:center;
+ width: 100%; height:70vh; background-size:100% 100%; display:flex; justify-content:center;
 align-items:center;}
 .aboutImg-01 h1{font-size:55px; color:#f5db01; font-weight:700; text-transform:uppercase;}
 .aboutImg-01 h1 span{color:#fff; font-weight:400;}
