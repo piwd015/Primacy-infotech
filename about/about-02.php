@@ -132,7 +132,7 @@
                          <div class="row">
                                 <div class="col-md-3">
                                       <div class="why-us-box w-100 d-block position-relative
-                                      px-md-4 px-2 py-md-5 py-3">
+                                            px-md-4 px-2 py-md-5 py-3">
                                             <div class="why-us-box-ico position-absolute"></div>
                                             <h4 class="d-block pb-2">Full-Service Digital</h4>
                                             <span class="d-block">One house for the complete digital solution
@@ -142,9 +142,42 @@
                                           <div class="why-us-box-ico-bt position-absolute"></div>
                                       </div>
                                 </div>
-                                <div class="col-md-3"></div>
-                                <div class="col-md-3"></div>
-                                <div class="col-md-3"></div>
+                                <div class="col-md-3">
+                                        <div class="why-us-box w-100 d-block position-relative
+                                                px-md-4 px-2 py-md-5 py-3">
+                                                <div class="why-us-box-ico position-absolute"></div>
+                                                <h4 class="d-block pb-2">Full-Service Digital</h4>
+                                                <span class="d-block">One house for the complete digital solution
+                                                    which lowers cost and enables total ownership of
+                                                    the project with superior quality and timely
+                                                    delivery.</span>
+                                                <div class="why-us-box-ico-bt position-absolute"></div>
+                                        </div>
+                                </div>
+                                <div class="col-md-3">
+                                        <div class="why-us-box w-100 d-block position-relative
+                                                px-md-4 px-2 py-md-5 py-3">
+                                                <div class="why-us-box-ico position-absolute"></div>
+                                                <h4 class="d-block pb-2">Full-Service Digital</h4>
+                                                <span class="d-block">One house for the complete digital solution
+                                                    which lowers cost and enables total ownership of
+                                                    the project with superior quality and timely
+                                                    delivery.</span>
+                                                 <div class="why-us-box-ico-bt position-absolute"></div>
+                                        </div>
+                                </div>
+                                <div class="col-md-3">
+                                        <div class="why-us-box w-100 d-block position-relative
+                                            px-md-4 px-2 py-md-5 py-3">
+                                           <div class="why-us-box-ico position-absolute"></div>
+                                           <h4 class="d-block pb-2">Full-Service Digital</h4>
+                                           <span class="d-block">One house for the complete digital solution
+                                                which lowers cost and enables total ownership of
+                                                the project with superior quality and timely
+                                                delivery.</span>
+                                           <div class="why-us-box-ico-bt position-absolute"></div>
+                                      </div>
+                                </div>
                          </div>
                    </div>
             </section>
