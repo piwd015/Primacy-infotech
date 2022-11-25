@@ -70,7 +70,7 @@
                                incididunt ut labore et dolore magna aliqua.</p>
                     </div>
            </section>
-            <section class="w-100 d-block py-md-5 py-3">
+            <section class="w-100 d-block pt-md-5 pt-2">
                    <div class="container">
                          <div class="row vs-md">
                                 <div class="col-md-4">
@@ -98,32 +98,32 @@
                              </div>
                       </div>
             </section>
-            <section class="w-100 d-block py-md-5 py-3">
+            <section class="w-100 d-block pt-md-5 pt-3">
                    <div class="container">
-                        <div class="row vs-md">
-                        <div class="col-md-8">
-                              <h2 class="d-block pb-md-3 pb-1">Vision</h2>
-                              <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
-                                consectetur adipiscing elit, sed do eiusmod tempor</h4>
-                                <p class="d-block text-justify">Lorem ipsum dolor sit amet,
-                                consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Quis
-                                ipsum suspendisse ultrices gravida. Risus commodo
-                                viverra maecenas accumsan lacus vel facilisis. Lorem
-                                ipsum dolor sit amet, consectetur adipiscing elit,
-                                sed do eiusmod tempor incididunt ut labore et dolore
-                                magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                                Risus commodo viverra maecenas accumsan lacus vel
-                                facilisis. Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor incididunt ut
-                                labore et dolore magna aliqua. Quis ipsum suspendisse
-                                ultrices gravida. Risus commodo viverra maecenas
-                                accumsan lacus vel facilisis. Lorem </p>
-                    </div>
-                        <div class="col-md-4">
-                            <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
-                        </div>
-                </div>
+                          <div class="row vs-md">
+                                <div class="col-md-8">
+                                      <h2 class="d-block pb-md-3 pb-1">Mission</h2>
+                                      <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
+                                        consectetur adipiscing elit, sed do eiusmod tempor</h4>
+                                        <p class="d-block text-justify">Lorem ipsum dolor sit amet,
+                                        consectetur adipiscing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Quis
+                                        ipsum suspendisse ultrices gravida. Risus commodo
+                                        viverra maecenas accumsan lacus vel facilisis. Lorem
+                                        ipsum dolor sit amet, consectetur adipiscing elit,
+                                        sed do eiusmod tempor incididunt ut labore et dolore
+                                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                                        Risus commodo viverra maecenas accumsan lacus vel
+                                        facilisis. Lorem ipsum dolor sit amet, consectetur
+                                        adipiscing elit, sed do eiusmod tempor incididunt ut
+                                        labore et dolore magna aliqua. Quis ipsum suspendisse
+                                        ultrices gravida. Risus commodo viverra maecenas
+                                        accumsan lacus vel facilisis. Lorem </p>
+                            </div>
+                                <div class="col-md-4">
+                                    <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
+                                </div>
+                          </div>
                    </div>
            </section>
     </div>
