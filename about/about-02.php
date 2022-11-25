@@ -70,7 +70,7 @@
                                incididunt ut labore et dolore magna aliqua.</p>
                     </div>
            </section>
-            <section class="w-100 d-block pt-md-5 pt-2">
+            <section class="w-100 d-block pt-md-5">
                    <div class="container">
                          <div class="row vs-md">
                                 <div class="col-md-4">
