@@ -1794,7 +1794,7 @@ align-items:center;}
 
 .vs-md{}
 .vs-md h2{font-size:85px; color:#000; font-weight:700; text-transform:uppercase;}
-.vs-md h4{font-size:835px; color:#000; text-transform:uppercase;}
+.vs-md h4{font-size:35px; color:#000; text-transform:uppercase;}
 .vs-md p{font-size:15px; color:#000;}
 
 @media only screen and (max-width:990px){
