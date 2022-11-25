@@ -182,6 +182,18 @@
                          </div>
                    </div>
             </section>
+            <section class="delivered-bg">
+                  <div class="container">
+                        <div class="row">
+                              <div class="col-md-5 position-relative">
+                                    <div class="lpt">
+                                          <img src="../assets/images/about/laptop.png" alt="">
+                                    </div>
+                              </div>
+                              <div class="col-md-7"></div>
+                        </div>
+                  </div>
+            </section>
     </div>
 
     <!-- footer -->
