@@ -37,7 +37,7 @@
                  <div class="container-fluid">
                        <h1 class="w-100 d-block text-center">Lorem ipsum<br/>
                        <span class="w-100 d-block text-center"><strong>consectetur</strong></span><br/>
-                           <span><strong>sed do</strong> eiusmod tempor</span>
+                           <span class="w-100 d-block text-center"><strong>sed do</strong> eiusmod tempor</span>
                        </h1>
                  </div>
           </section>
