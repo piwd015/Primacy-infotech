@@ -80,7 +80,7 @@
                                      <h2 class="pb-md-3 pb-1">Vision</h2>
                                       <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
-                                </div>              <p class="d-block text-justify">Lorem ipsum dolor sit amet,
+                                       <p class="d-block text-justify">Lorem ipsum dolor sit amet,
                                           consectetur adipiscing elit, sed do eiusmod tempor
                                           incididunt ut labore et dolore magna aliqua. Quis
                                           ipsum suspendisse ultrices gravida. Risus commodo
