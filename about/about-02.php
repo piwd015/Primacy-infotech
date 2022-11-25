@@ -33,7 +33,12 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-
+          <section class="aboutImg-01">
+                 <div class="container-fluid">
+                       <h1 class="w-100 d-block text-center">Lorem ipsum<br/>
+                       <span class="w-100 d-block text-center">consectetur</span></h1>
+                 </div>
+          </section>
     </div>
 
     <!-- footer -->
