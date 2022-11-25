@@ -100,8 +100,9 @@
             </section>
             <section class="w-100 d-block py-md-5 py-3">
             <div class="container">
-                <div class="row vs-md">
+                <div class="row">
                         <div class="col-md-4">
+                            <div class="vs-md w-100 d-block">
                           <h2 class=""w-100 d-block pb-md-3 pb-1">Vision</h2>
                           <h4 class="w-100 d-block pb-md-3 pb-1">Lorem ipsum dolor sit amet,
                             consectetur adipiscing elit, sed do eiusmod tempor</h4>
@@ -119,6 +120,7 @@
                             labore et dolore magna aliqua. Quis ipsum suspendisse
                             ultrices gravida. Risus commodo viverra maecenas
                             accumsan lacus vel facilisis. Lorem </p>
+                            </div>
                     </div>
                         <div class="col-md-4">
                             <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
