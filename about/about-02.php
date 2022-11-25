@@ -126,6 +126,26 @@
                           </div>
                    </div>
            </section>
+            <section class="w-100 d-block py-md-5 py-3 why-us">
+                   <h2 class="d-block pb-3">Why Us</h2>
+                   <div class="container">
+                         <div class="row">
+                                <div class="col-md-3">
+                                      <div class="why-us-box w-100 d-block position-relative">
+                                            <div class="why-us-box-ico"></div>
+                                            <h4 class="d-block pb-2">Full-Service Digital</h4>
+                                            <span class="d-block">One house for the complete digital solution
+                                                which lowers cost and enables total ownership of
+                                                the project with superior quality and timely
+                                                delivery.</span>
+                                      </div>
+                                </div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                                <div class="col-md-3"></div>
+                         </div>
+                   </div>
+            </section>
     </div>
 
     <!-- footer -->
