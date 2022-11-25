@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="../assets/css/common.css">
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
-    <div class="page-body mb-5">
+    <div class="page-body">
             <section class="aboutImg-01">
                  <div class="container-fluid">
                        <h1 class="w-100 d-block text-center">Lorem ipsum<br/>
@@ -42,7 +42,7 @@
                        </h1>
                  </div>
              </section>
-             <section class="aboutImg-02 w-100 d-block pt-md-5 pt-3 px-md-4 px-3">
+            <section class="aboutImg-02 w-100 d-block pt-md-5 pt-3 px-md-4 px-3">
                     <div class="container">
                           <h2 class="d-block pb-md-3 pb-1">About Us</h2>
                           <h3 class="d-block pb-md-4 pb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -70,6 +70,34 @@
                                incididunt ut labore et dolore magna aliqua.</p>
                     </div>
            </section>
+            <section class="w-100 d-block">
+                   <div class="container">
+                         <div class="row vs-md">
+                                <div class="col-md-4">
+                                    <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
+                                </div>
+                                <div class="col-md-4">
+                                     <h2 class="d-block pb-md-3 pb-1">Vision</h2>
+                                      <h4 class="d-block pb-md-3 pb-1">Lorem ipsum dolor sit amet,
+                                        consectetur adipiscing elit, sed do eiusmod tempor</h4>
+                                      <p class="d-block text-justify">Lorem ipsum dolor sit amet,
+                                          consectetur adipiscing elit, sed do eiusmod tempor
+                                          incididunt ut labore et dolore magna aliqua. Quis
+                                          ipsum suspendisse ultrices gravida. Risus commodo
+                                          viverra maecenas accumsan lacus vel facilisis. Lorem
+                                          ipsum dolor sit amet, consectetur adipiscing elit,
+                                          sed do eiusmod tempor incididunt ut labore et dolore
+                                          magna aliqua. Quis ipsum suspendisse ultrices gravida.
+                                          Risus commodo viverra maecenas accumsan lacus vel
+                                          facilisis. Lorem ipsum dolor sit amet, consectetur
+                                          adipiscing elit, sed do eiusmod tempor incididunt ut
+                                          labore et dolore magna aliqua. Quis ipsum suspendisse
+                                          ultrices gravida. Risus commodo viverra maecenas
+                                          accumsan lacus vel facilisis. Lorem </p>
+                                </div>
+                         </div>
+                   </div>
+            </section>
     </div>
 
     <!-- footer -->
