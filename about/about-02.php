@@ -190,7 +190,10 @@
                                           <img src="../assets/images/about/laptop.png" alt="">
                                     </div>
                               </div>
-                              <div class="col-md-7"></div>
+                              <div class="col-md-7">
+                                    <h2 class="d-block pb-3">We Deliver <strong>90-100 Web &
+                                            Mobile Projects</strong> per Year</h2>
+                              </div>
                         </div>
                   </div>
             </section>
