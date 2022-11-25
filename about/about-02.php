@@ -126,7 +126,7 @@
                           </div>
                    </div>
            </section>
-            <section class="w-100 d-block why-us py-0">
+            <section class="w-100 d-block why-us pt-0">
                    <div class="container">
                         <h2 class="w-100 d-block pb-3">Why Us</h2>
                          <div class="row">
