@@ -198,6 +198,22 @@
                         </div>
                   </div>
             </section>
+            <section class="w-100 d-block">
+                   <div class="container">
+                        <h2 class="abut-hdr-txt w-100 d-block text-center pb-md-4 pb-2"></h2>
+                        <div class="row">
+                              <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                     <div class="glns-box">
+                                            <h4 class="d-block pb-3">Core Services</h4>
+                                            <p class="d-block">Digital Consulting, Web
+                                             Apps, Mobile Apps,
+                                             Digital Marketing,
+                                             Analytics, Cloud Infra</p>
+                                     </div>
+                              </div>
+                        </div>
+                   </div>
+            </section>
     </div>
 
     <!-- footer -->
