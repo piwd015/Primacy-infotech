@@ -33,7 +33,7 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-          <section class="aboutImg-01">
+            <section class="aboutImg-01">
                  <div class="container-fluid">
                        <h1 class="w-100 d-block text-center">Lorem ipsum<br/>
                        <span class="w-100 d-block text-center"><strong>consectetur</strong><br/>
@@ -41,7 +41,35 @@
                        </span>
                        </h1>
                  </div>
-          </section>
+             </section>
+             <section class="aboutImg-02 w-100 d-block py-md-5 py-3 px-md-4 px-3">
+                    <div class="container-fluid">
+                          <h2 class="d-block pb-3">About Us</h2>
+                          <h3 class="d-block pb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                              sed do eiusmod tempor incididunt ut labore et dolore
+                              magna aliqua.</h3>
+                           <p class="d-block text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                               Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
+                               maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
+                               consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                               labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                               gravida. Risus commodo viverra maecenas accumsan lacus vel
+                               facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                               Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
+                               maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
+                               consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                               labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
+                               gravida. Risus commodo viverra maecenas accumsan lacus vel
+                               facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing
+                               elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                               aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
+                               viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor
+                               sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                               incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+           </section>
     </div>
 
     <!-- footer -->
