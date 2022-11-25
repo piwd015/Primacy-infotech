@@ -1808,8 +1808,8 @@ top:-40px; margin:0 auto; border-radius:5px;}
  bottom:-40px; margin:0 auto; border-radius:5px;}
 
 .delivered-bg{background:url("../images/about/delivered-bg.jpg") repeat-y 0 0; width:100%;
-height: 350px; background-size:100% 100%;}
-.lpt{width:70%; position:absolute; left:0px; top:0px;}
+height: 320px; background-size:100% 100%;}
+.lpt{width:100%; position:absolute; left:0px; top:0px; z-index:10;}
 .lpt img{width:100%; display:block;}
 
 @media only screen and (max-width:990px){
