@@ -139,6 +139,7 @@
                                                 which lowers cost and enables total ownership of
                                                 the project with superior quality and timely
                                                 delivery.</span>
+                                          <div class="why-us-box-ico position-absolute"></div>
                                       </div>
                                 </div>
                                 <div class="col-md-3"></div>
