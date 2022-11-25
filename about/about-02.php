@@ -43,7 +43,7 @@
                  </div>
              </section>
              <section class="aboutImg-02 w-100 d-block py-md-5 py-3 px-md-4 px-3">
-                    <div class="container-fluid">
+                    <div class="container">
                           <h2 class="d-block pb-3">About Us</h2>
                           <h3 class="d-block pb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                               sed do eiusmod tempor incididunt ut labore et dolore

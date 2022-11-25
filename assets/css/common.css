@@ -1787,7 +1787,7 @@ align-items:center;}
 .aboutImg-01 h1{font-size:75px; color:#f5db01; font-weight:700; text-transform:uppercase;}
 .aboutImg-01 h1 span{color:#fff; font-weight:400;}
 .aboutImg-02{background:url("../images/about/aboutImg-02.jpg") no-repeat center top;
- background-size:100% 100%;}
+ background-size:100% 100%; height:80vh;}
 .aboutImg-02 h2{font-size:55px; color:#fff; font-weight:700; text-transform:uppercase}
 .aboutImg-02 h3{font-size:30px; color:#fff; text-transform:uppercase}
 .aboutImg-02 p{font-size:15px; color:#fff;}
