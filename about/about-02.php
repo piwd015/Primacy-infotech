@@ -42,10 +42,10 @@
                        </h1>
                  </div>
              </section>
-             <section class="aboutImg-02 w-100 d-block py-md-5 py-3 px-md-4 px-3">
+             <section class="aboutImg-02 w-100 d-block pt-md-5 pt-3 px-md-4 px-3">
                     <div class="container">
-                          <h2 class="d-block pb-3">About Us</h2>
-                          <h3 class="d-block pb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                          <h2 class="d-block pb-md-3 pb-1">About Us</h2>
+                          <h3 class="d-block pb-md-4 pb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                               sed do eiusmod tempor incididunt ut labore et dolore
                               magna aliqua.</h3>
                            <p class="d-block text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
