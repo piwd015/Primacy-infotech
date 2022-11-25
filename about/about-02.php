@@ -182,7 +182,7 @@
                          </div>
                    </div>
             </section>
-            <section class="delivered-bg my-md-5 my-3">
+            <section class="delivered-bg">
                   <div class="container">
                         <div class="row">
                               <div class="col-md-5 position-relative">
