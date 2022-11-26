@@ -23,13 +23,17 @@
 <!-- End Google Tag Manager -->
 
 <style>
-    .drop-list{
-        display: flex;
-    }
-    .drop-list .dropdown{
-        padding:10px;
-    }
+
 </style>
+<script>
+$(document).ready(function() {
+$(".slidingDiv").hide();
+$(".show_hide").show();
+$('.show_hide').click(function() {
+    $("slidingDiv").slideToggle();
+});
+});
+</script>
 
 </head>
 <body>
@@ -75,21 +79,13 @@
             </div>
             <div class="col-md-2 col-12">
                 <div class="header-top-right d-block text-right">
-                    <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
-                    <a href="#"><img src="assets/images/globe.png" alt=""></a>
-                    <div class="drop-list">
-                        <!-- Primary Dropdown -->
-                        <div class="dropdown">
-                            <button class="btn btn-primary btn-lg dropdown-toggle" type="button"  data-toggle="dropdown">
-                                Products
-                            </button>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Product 01</a>
-                                <a class="dropdown-item" href="#">Product 02</a>
-                                <a class="dropdown-item" href="#">Product 03</a>
-                            </div>
+                        <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
+                        <a href="#"><img src="assets/images/globe.png" alt=""></a>
+                        <a href="#" class="show_hide"><img src="image.jpg"></a>
+                        <div class="slidingDiv">
+                            <h2>Title</h2>
+                            <p>text</p>
                         </div>
-                    </div>
                 </div>
             </div>
             <div class="col-md-1 tgl-mt hd-menu" >
