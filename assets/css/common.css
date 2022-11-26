@@ -1857,167 +1857,86 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 
 
 @media only screen and (max-width:767px){
-
 .oddo-imple-bnr{background-size:cover; padding:20px 0px 20px; height:auto!important;}
-
 .oddo-imple-bnr h1{font-size:22px;}
-
 .oddo-imple-bnr li{font-size:16px; background-size:25px 25px; padding:0px 0px 10px 32px;}
-
 .oddo-imple-bnr a{font-size:14px; padding:10px;}
-
 .consl-fm .sub-Btn{padding:12px 20px; background-size:8px 18px; background-position:90% 17px;}
-
 .why-chs{padding:20px 0px;}
-
 .why-chs h2{font-size:22px;}
-
 .odo-fturs{height:100px; padding-left:27%;}
-
 .odo-fturs .fturs-icon-bg{width:100px; height:100px; top:0px;}
-
 .odo-fturs .fturs-icon-bg dd img{width:50px;}
-
 .odo-fturs h2{font-size:13px; padding-left:10px;}
-
 .odo-fturs ul li{font-size:14px;}
-
 .futr-txt{font-size:15px; font-weight:400; margin-top: 20px;}
-
 .comp-hdr{font-size:20px; padding:0px 20px;}
-
 .comp-hdr::after{width:12%; top:15%;}
-
 .comprImg{width:90%; margin:20px auto;}
-
 .prtns ul li{line-height:20px;}
-
 .tabs li.current{width:45%;}
-
 .tabs li{width:45%; margin-bottom:25px; margin-right:10px; font-size:12px;}
-
 .tabs li:hover{width:45%;}
-
 .hdr-txt{font-size:20px; padding-top:20px;}
-
 .tab-content h2{font-size:20px;}
-
 a.odo-aps{padding: 12px 15px; font-size: 14px;}
-
 .odo-srvs-box{padding:10px; height:260px;}
-
 .odo-srvs-box h4{font-size:14px;}
-
 .odo-srvs-box img{width:60px; height:60px;}
-
 .odo-srvs-box p{font-size:14px;}
-
 .odo-srvs h2{font-size:20px;}
-
 .odo-srvs h3{font-size:20px;}
-
 .erp-imp{padding:25px 0px;}
-
 .erp-imp h2{font-size:22px;}
-
 .erp-imp h2 strong{font-size:22px;}
-
 .odo-intgr h2{font-size:20px;}
-
 .time-lin-box{width:100%; margin-bottom:30px;}
-
 .time-lin-box i{padding:0px; height:29px;}
-
 .time-lin-box .time-arrow span{font-size:17px; top:48px;}
-
 .time-lin-box .time-Cont-Area-box{bottom:-5px;}
-
 .time-lin-box dd{height:38px; top:37%;}
-
 .time-lin-box .time-Cont-Area-box img{width:80%; margin:0 auto;}
-
 .time-lin-box .time-Cont-Area-box p{font-size:12.50px; left:5%; top:35%; padding:0px 55px;}
-
 .odo-faq h2{font-size:16px; padding: 10px 0px;}
-
 .odo-faq h2 dd{width:20px; position: relative; top:3px;}
-
 .accordion-head h3{font-size:14px;}
-
 .accordion-head i{font-size:1.80em; top:10px; right:-15px;}
-
 .odo-faq .card-header{margin-bottom:0px;}
-
 .devlpr-bg h2 br{display:none;}
-
 .pag-hd{height:auto!important;}
-
 .about-bg{padding:0px 0px 20px;}
-
 .about-top-right{position:relative; top:-55px;}
-
 .about-top-right img{width:12%;}
-
 .header-top-right{position:relative; top:0px; padding-top:5px; padding-right:15px; width:50%;}
-
 .header-top-right img{width:17%;}
-
 .about-bg p{padding-bottom:7px;}
-
 .about-bg a{margin-top:10px; font-size:14px; padding:7px 0px 7px 15px; width:110px;
-
 background-size:9px 12px;}
-
 .about-bg a:hover{background-size:9px 12px;}
-
 .pic0 img{margin:2px 0px 0px 0px;}
-
 .top{height:50px;}
-
 .product-bg-hm h2{font-size:30px; padding-bottom:0px;}
-
 .product-bg-hm h3{font-size:18px; padding-bottom:10px;}
-
 .product-bg-hm p{padding-bottom:15px;}
-
 .ceo{padding-top:20px; margin:0 auto; width:60%;}
-
 .prod-hmImg{width:95%; margin:20px auto; float: none;}
-
 .prod-odoo{float:none; margin:0 auto;}
-
 a.prtnr-btn{float:none; margin:10px auto;}
-
 .prod-pt{padding-top:0%;}
-
 .about-right-bg{height:47vh;}
-
 .logo-box{width:42%; margin:10px; height:60px; position:relative; z-index:110;}
-
 a.get-strtd{font-size:15px; width:210px; height:45px; line-height:45px; float:left;
-
 position:relative; z-index:110;}
-
 .ecomrs-bg{background-size:45% 10%;}
-
 .ecomrsImg{float:none; margin:0 auto; position:relative; top:40px;}
-
 .product-bg-hm{padding:0px 0px 30px;}
-
 .ecomrs-right-bg{background-position:100% 0px; background-size:60% 60%;
-
 bottom:-15px; height:auto; padding-bottom:120px;}
-
 .ecomrs-bg{ padding:20px 0px 10px; }
-
 .ecomrs-bg p{padding:0px 0px 10px 0px; font-size:14px;}
-
 .devlpr-bg-top{height:10vh; background-size:70% 100%;}
-
 .app-devlpr-Img{width:70%; left:0px; right:0px; margin:0 auto; top:-25px;
-
 z-index:100; position: relative;}
-
 .devlpr-bg h2{font-size:22px;}
 
 .devlpr-bg h2{padding-bottom:10px;}
@@ -2239,6 +2158,10 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .need-oddo-box{height:auto;}
  .time-lin-box .time-arrow{top:5px;}
  .accordion-head h3 img{top:0px;}
+ .aboutImg-01{height:80vh; padding-top:32%;}
+ .aboutImg-02{height:auto; padding-bottom:10px;}
+ .aboutImg-02 h2{font-size:30px;}
+ .aboutImg-02 h3{font-size:20px;}
 }
 
 
