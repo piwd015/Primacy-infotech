@@ -177,11 +177,11 @@
                          </div>
                    </div>
             </section>
-            <section class="w-100 d-block why-us pt-0">
+            <section class="w-100 d-block why-us pt-md-0 pt-3">
                    <div class="container">
-                        <h2 class="w-100 d-block pb-5">Why Us</h2>
+                        <h2 class="w-100 d-block pb-md-5 pb-2">Why Us</h2>
                          <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-md-3 col-6 mb-md-0 mb-3">
                                       <div class="why-us-box w-100 d-block position-relative
                                             px-md-4 px-2 py-md-5 py-3">
                                             <div class="why-us-box-ico position-absolute"></div>
@@ -193,7 +193,7 @@
                                           <div class="why-us-box-ico-bt position-absolute"></div>
                                       </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 col-6 mb-md-0 mb-3">
                                         <div class="why-us-box w-100 d-block position-relative
                                                 px-md-4 px-2 py-md-5 py-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
@@ -206,7 +206,7 @@
                                                 <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 col-6 mb-md-0 mb-3">
                                         <div class="why-us-box w-100 d-block position-relative
                                                 px-md-4 px-2 py-md-5 py-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
@@ -218,7 +218,7 @@
                                                  <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 col-6 mb-md-0 mb-3">
                                         <div class="why-us-box w-100 d-block position-relative
                                             px-md-4 px-2 py-md-5 py-3">
                                            <div class="why-us-box-ico position-absolute"></div>
