@@ -289,6 +289,36 @@
                         </div>
                    </div>
             </section>
+            <section class="count-bg w-100 d-block py-md-5 py-3">
+                   <div class="container">
+                         <div class="row">
+                                 <div class="col-md-3">
+                                      <div class="count-box w-100">
+                                           <h2>400+</h2>
+                                           <span>Total Clients</span>
+                                      </div>
+                                 </div>
+                                 <div class="col-md-3">
+                                       <div class="count-box w-100">
+                                           <h2>550+</h2>
+                                           <span>App & Website Completed</span>
+                                       </div>
+                                 </div>
+                                 <div class="col-md-3">
+                                     <div class="count-box w-100">
+                                         <h2>200+</h2>
+                                         <span>Sucessfully Run</span>
+                                     </div>
+                                 </div>
+                                 <div class="col-md-3">
+                                     <div class="count-box w-100">
+                                         <h2>200%</h2>
+                                         <span>Return Customer</span>
+                                     </div>
+                                 </div>
+                         </div>
+                   </div>
+            </section>
     </div>
 
     <!-- footer -->
