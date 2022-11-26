@@ -34,7 +34,7 @@
             <li><a href="tel:+91 9088015866" class="">+91 9088015866</a></li>
             <li class="mr-2"><a href="tel:+91 9088015865" class="">/65</a></li>
             <li><img width="16" height="11" src="assets/images/canada-flag-xs.png" class="cotnt-flg" alt="canada"></li>
-            <li class="mr-2"><a href="tel:+442045772363" class="Blondie-email">+442045772363</a></li>
+            <li class="mr-2"><a href="tel:+442045772363" class="Blondie-email">+44 2045772363</a></li>
             <li><img width="16" height="11" src="assets/images/bangladesh-flag-xs.png" class="cotnt-flg" alt="bangladesh"></li>
             <li><a href="tel:+88 01759787636" class="Blondie-email">+88 01759787636</a></li>
         </ul>
@@ -53,7 +53,7 @@
                         </div>
                         <div class="col-md-4">
                             <img width="16" height="11" src="assets/images/uk-flag-icon.png" alt="canada">
-                            <a href="tel:+442045772363" class="Blondie-email">+442045772363</a>
+                            <a href="tel:+442045772363" class="Blondie-email">+44 2045772363</a>
                         </div>
 
                         <div class="col-md-4">
