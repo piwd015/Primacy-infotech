@@ -140,12 +140,10 @@
                                      commodo viverra maecenas accumsan lacus vel facilisis.</p>
                           </div>
                          <div class="row">
-                                 <div class="col-md-3 col-6 mb-3">
-                                       <a href="#" class="wedo-circle"></a>
+                                 <div class="wedo">
+                                        <a href="#" class="wedo-circle"></a>
+                                        <span class="w-100 d-block text-center">Web Development</span>
                                  </div>
-                                 <div class="col-md-3 col-6 mb-3"></div>
-                                 <div class="col-md-3 col-6 mb-3"></div>
-                                 <div class="col-md-3 col-6 mb-3"></div>
                          </div>
                    </div>
             </section>
