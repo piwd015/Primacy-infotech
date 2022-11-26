@@ -141,23 +141,23 @@
                           </div>
                          <div class="row">
                                  <div class="wedo">
-                                        <a href="#" class="wedo-circle"></a>
+                                        <a href="#" class="wedo-circle"><i class="icofont-code icofont-1x"></i></a>
                                         <span class="w-100 d-block text-center pt-3">Web Development</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="#" class="wedo-circle"></a>
+                                     <a href="#" class="wedo-circle"><i class="icofont-dashboard-web icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-3">Web Designing</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="#" class="wedo-circle"></a>
+                                     <a href="#" class="wedo-circle"><i class="icofont-brand-android-robot icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-3">App Development</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="#" class="wedo-circle"></a>
+                                     <a href="#" class="wedo-circle"><i class="icofont-automation icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-3">Digital Marketing</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="#" class="wedo-circle"></a>
+                                     <a href="#" class="wedo-circle"><i class="icofont-computer icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-3">CRM & ERP Development</span>
                                  </div>
                                  <div class="wedo">
