@@ -120,7 +120,7 @@
                                         ultrices gravida. Risus commodo viverra maecenas
                                         accumsan lacus vel facilisis. Lorem </p>
                             </div>
-                                <div class="col-md-4 d-flex flex-wrap align-items-center">
+                                <div class="col-md-4 d-flex flex-wrap justify-content-center align-items-center">
                                     <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
                                 </div>
                           </div>
