@@ -126,6 +126,27 @@
                           </div>
                    </div>
            </section>
+            <section class="wedo-bg">
+                   <div class="container">
+                          <div class="col-md-7 col-12 pb-3">
+                                 <h2 class="d-block pb-2">What we do</h2>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                     sed do eiusmod tempor incididunt ut labore et dolore magna
+                                     aliqua. Quis ipsum suspendisse ultrices gravida. Risus
+                                     commodo viverra maecenas accumsan lacus vel facilisis.
+                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                     sed do eiusmod tempor incididunt ut labore et dolore magna
+                                     aliqua. Quis ipsum suspendisse ultrices gravida. Risus
+                                     commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                          </div>
+                         <div class="row">
+                                 <div class="col-md-3 col-6 mb-3"></div>
+                                 <div class="col-md-3 col-6 mb-3"></div>
+                                 <div class="col-md-3 col-6 mb-3"></div>
+                                 <div class="col-md-3 col-6 mb-3"></div>
+                         </div>
+                   </div>
+            </section>
             <section class="w-100 d-block why-us pt-0">
                    <div class="container">
                         <h2 class="w-100 d-block pb-5">Why Us</h2>
