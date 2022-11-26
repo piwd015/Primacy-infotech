@@ -185,7 +185,7 @@
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-2 py-md-5 py-3">
                                             <div class="why-us-box-ico position-absolute"></div>
-                                            <h4 class="d-block pb-2">Full-Service Digital</h4>
+                                            <h4 class="d-block pb-md-2">Full-Service Digital</h4>
                                             <span class="d-block">One house for the complete digital solution
                                                 which lowers cost and enables total ownership of
                                                 the project with superior quality and timely
@@ -197,7 +197,7 @@
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-2 py-md-5 py-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
-                                                <h4 class="d-block pb-2">Enterprise-
+                                                <h4 class="d-block pb-md-2">Enterprise-
                                                     Grade</h4>
                                                 <span class="d-block">Successful track record of
                                                     delivering mission-critical, scalable, digital
@@ -210,7 +210,7 @@
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-2 py-md-5 py-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
-                                                <h4 class="d-block pb-2">Born Digital</h4>
+                                                <h4 class="d-block pb-md-2">Born Digital</h4>
                                                 <span class="d-block">Since 1997, we have been
                                                     offering new-age digital solutions to keep
                                                     your business digitally advanced and
@@ -220,9 +220,9 @@
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-3">
                                         <div class="why-us-box d-block position-relative
-                                            px-md-4 px-2 py-md-5 py-3">
+                                            px-md-4 px-3 py-md-5 py-4">
                                            <div class="why-us-box-ico position-absolute"></div>
-                                           <h4 class="d-block pb-2">Agile by Design</h4>
+                                           <h4 class="d-block pb-md-2">Agile by Design</h4>
                                            <span class="d-block">We are a small company with huge
                                                capabilities. We have retained our agility through
                                                our unique company culture and a flat organizational
