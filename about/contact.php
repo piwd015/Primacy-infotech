@@ -93,11 +93,11 @@
     <section class="h4-contact s-padding bg-color" id="contact">
 
         <div class="container">
-                <div class="s-title">
+                <div class="s-title mb-4">
                     <h2>Get  In touch</h2>
                 </div>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-8">
 
                     <div class="iconic-contact-info">
 
@@ -158,7 +158,7 @@
                     </div>
 
                 </div>
-                <div class="col-md-6 ">
+                <div class="col-md-4 ">
 
                     <br/><br/><br/>
 

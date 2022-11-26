@@ -9495,11 +9495,10 @@ footer,
 
 
 .f-contact-list{
-
 	list-style: none;
-
-	color: #202020; 
-
+	color: #202020;
+	width:50%;
+	float:left;
 }
 
 
