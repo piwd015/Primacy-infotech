@@ -294,26 +294,26 @@
                          <div class="row">
                                  <div class="col-md-3">
                                       <div class="count-box w-100">
-                                           <h2>400+</h2>
-                                           <span>Total Clients</span>
+                                           <h2 class="w-100 d-block text-center pb-2">400+</h2>
+                                           <span class="w-100 d-block text-center">Total Clients</span>
                                       </div>
                                  </div>
                                  <div class="col-md-3">
                                        <div class="count-box w-100">
-                                           <h2>550+</h2>
-                                           <span>App & Website Completed</span>
+                                           <h2 class="w-100 d-block text-center pb-2">550+</h2>
+                                           <span class="w-100 d-block text-center">App & Website Completed</span>
                                        </div>
                                  </div>
                                  <div class="col-md-3">
                                      <div class="count-box w-100">
-                                         <h2>200+</h2>
-                                         <span>Sucessfully Run</span>
+                                         <h2 class="w-100 d-block text-center pb-2">200+</h2>
+                                         <span class="w-100 d-block text-center">Sucessfully Run</span>
                                      </div>
                                  </div>
                                  <div class="col-md-3">
                                      <div class="count-box w-100">
-                                         <h2>200%</h2>
-                                         <span>Return Customer</span>
+                                         <h2 class="w-100 d-block text-center pb-2">200%</h2>
+                                         <span class="w-100 d-block text-center">Return Customer</span>
                                      </div>
                                  </div>
                          </div>
