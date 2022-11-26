@@ -101,11 +101,7 @@
                     <div class="iconic-contact-info">
 
                         <div class="contact-info-head">
-
                             <h2>Contact Information</h2>
-
-
-
                         </div>
 
                         <ul class="f-contact-list d-inline-block">
@@ -124,7 +120,16 @@
 
                         </ul>
 
-                        <br/>
+                        <ul class="f-contact-list d-inline-block">
+
+                            <li><span><img src="../assets/images/inddd.png" alt="india"></span><span>UK Office</span></li>
+
+                            <li> <span><i class="fa fa-map-marker"></i>
+                            </span>103, City Gate House, Forestgate London E7 9HZ</li>
+                            <li><span><i class="fa fa-volume-control-phone" ></i></span> +44 2045772363</li>
+                            <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
+
+                        </ul>
 
                         <ul class="f-contact-list d-inline-block">
                             <li><span><img style="width:20px;" src="../assets/images/canada-flag-xs.png" alt="canada"></span><span>Canada Office</span></li>                            <li> <span><i class="fa fa-map-marker"></i>
