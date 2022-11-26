@@ -93,7 +93,7 @@
                                                              <li><a href="#"><img src="assets/images/canada-flag-icon.png"></a></li>
                                                              <li><a href="#"><img src="assets/images/uk-flag-icon.png"></a></li>
                                                              <li><a href="#"><img src="assets/images/indian-flag.png"></a></li>
-                                                             <li><a href="#"><img src="assets/images/bangladesh-flag-xs.png"></a></li>
+                                                             <li><a href="https://primacyinfotechltd.com/" target="_blank"><img src="assets/images/bangladesh-flag-xs.png"></a></li>
                                                          </ul>
                                                     </div>
                                              </div>
