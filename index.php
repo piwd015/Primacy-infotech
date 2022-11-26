@@ -928,9 +928,10 @@
                                                 <img src="images/india-map.png" alt="">
 
                                                  <span>India Office</span>
-
-                                                 <p>601,Webel Tower I ,BN-4,<br/>Sector V, Salt Lake,<br/> Kolkata-91,WB,India</p>
-
+<!--                                                 <p>601,Webel Tower I ,BN-4,<br/>Sector V, Salt Lake,<br/> Kolkata-91,WB,India</p>-->
+                                                 <p>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
+                                                     Number 18, Sector 5, Bidhan Nagar, North Twenty Four Parganas,
+                                                     West Bengal, 700091</p>
                                           </div>
 
                                           <div class="addres w-100 d-block">
