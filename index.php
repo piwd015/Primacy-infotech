@@ -802,7 +802,7 @@
 
                                             <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>656 Full Moon Circle Mississauga ON</li>
 
-                                            <li class="pb-2"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+1 6474908004">+1 6474908004</a></li>
+                                            <li class="pb-2"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+442045772363">+442045772363</a></li>
 
                                             <li class="pb-2"><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@primacyinfotech.com">info@primacyinfotech.com</a></li>
 
