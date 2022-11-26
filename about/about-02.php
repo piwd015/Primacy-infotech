@@ -126,7 +126,7 @@
                           </div>
                    </div>
            </section>
-            <section class="wedo-bg">
+            <section class="wedo-bg pt-md-5 pt-3">
                    <div class="container">
                           <div class="col-md-7 col-12 pb-3">
                                  <h2 class="d-block pb-2">What we do</h2>
@@ -140,7 +140,9 @@
                                      commodo viverra maecenas accumsan lacus vel facilisis.</p>
                           </div>
                          <div class="row">
-                                 <div class="col-md-3 col-6 mb-3"></div>
+                                 <div class="col-md-3 col-6 mb-3">
+                                       <a href="#" class="wedo-circle"></a>
+                                 </div>
                                  <div class="col-md-3 col-6 mb-3"></div>
                                  <div class="col-md-3 col-6 mb-3"></div>
                                  <div class="col-md-3 col-6 mb-3"></div>
