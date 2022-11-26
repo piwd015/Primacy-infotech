@@ -22,6 +22,15 @@
     })(window,document,'script','dataLayer','GTM-MK4D3K');</script>
 <!-- End Google Tag Manager -->
 
+<style>
+    .drop-list{
+        display: flex;
+    }
+    .drop-list .dropdown{
+        padding:10px;
+    }
+</style>
+
 </head>
 <body>
 <div id="particles-js"></div>
@@ -68,6 +77,19 @@
                 <div class="header-top-right d-block text-right">
                     <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
                     <a href="#"><img src="assets/images/globe.png" alt=""></a>
+                    <div class="drop-list">
+                        <!-- Primary Dropdown -->
+                        <div class="dropdown">
+                            <button class="btn btn-primary btn-lg dropdown-toggle" type="button"  data-toggle="dropdown">
+                                Products
+                            </button>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="#">Product 01</a>
+                                <a class="dropdown-item" href="#">Product 02</a>
+                                <a class="dropdown-item" href="#">Product 03</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="col-md-1 tgl-mt hd-menu" >
