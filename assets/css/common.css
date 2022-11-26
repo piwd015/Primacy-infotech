@@ -1803,7 +1803,7 @@ align-items:center;}
 .why-us-box h4{font-size:28px; color:#e80404;}
 .why-us-box span{font-size:17px; color:#212121;}
 .why-us-box .why-us-box-ico{width:70px; height:60px; background:#fff; left:0px; right:0px;
-top:-40px; margin:0 auto; border-radius:5px;}
+top:-40px; margin:0 auto; border-radius:5px; border:solid 1px #878787; border-radius:4px;}
 .why-us-box .why-us-box-ico-bt{width:70px; height:60px; background:#fff; left:0px; right:0px;
  bottom:-40px; margin:0 auto; border-radius:5px;}
 
