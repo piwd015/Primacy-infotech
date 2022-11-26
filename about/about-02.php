@@ -129,7 +129,7 @@
             <section class="wedo-bg pt-md-5 pt-3">
                    <div class="container">
                           <div class="row">
-                                  <div class="col-md-7 col-12 pb-3">
+                                  <div class="col-md-7 col-12 pb-md-3">
                                          <h2 class="d-block pb-md-2">What we do</h2>
                                          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                              sed do eiusmod tempor incididunt ut labore et dolore magna
