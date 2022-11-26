@@ -141,7 +141,7 @@
                           </div>
                          <div class="row pt-3">
                                  <div class="wedo">
-                                        <a href="../service/web-developement" class="wedo-circle"><i class="icofont-code icofont-1x"></i></a>
+                                        <a href="../service/web-developement" class="wedo-circle"><i class="icofont-web"></i></a>
                                         <span class="w-100 d-block text-center pt-3">Web Development</span>
                                  </div>
                                  <div class="wedo">
