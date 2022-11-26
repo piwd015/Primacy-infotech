@@ -76,11 +76,11 @@
                                 <div class="col-md-4 d-flex flex-wrap align-items-center">
                                     <img src="../assets/images/about/vision-icon.png" class="img-fluid" alt="">
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-8 pt-md-0 pt-2">
                                      <h2 class="pb-md-3 pb-1">Vision</h2>
                                       <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
-                                       <p class="d-block text-justify">Lorem ipsum dolor sit amet,
+                                       <p class="d-block text-md-justify">Lorem ipsum dolor sit amet,
                                           consectetur adipiscing elit, sed do eiusmod tempor
                                           incididunt ut labore et dolore magna aliqua. Quis
                                           ipsum suspendisse ultrices gravida. Risus commodo
@@ -100,12 +100,12 @@
             </section>
             <section class="w-100 d-block pt-md-5 pt-3">
                    <div class="container">
-                          <div class="row vs-md">
+                          <div class="row vs-md d-flex flex-wrap flex-column-reverse flex-md-row">
                                 <div class="col-md-8">
                                       <h2 class="d-block pb-md-3 pb-1">Mission</h2>
                                       <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
-                                        <p class="d-block text-justify">Lorem ipsum dolor sit amet,
+                                        <p class="d-block text-md-justify">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Quis
                                         ipsum suspendisse ultrices gravida. Risus commodo
