@@ -77,7 +77,7 @@
                                     <img src="../assets/images/about/vision-icon.png" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-8 pt-md-0 pt-2">
-                                     <h2 class="pb-md-3 pb-1">Vision</h2>
+                                     <h2 class="pb-md-3 pb-1 d-block text-md-left text-center">Vision</h2>
                                       <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
                                        <p class="d-block text-md-justify">Lorem ipsum dolor sit amet,
