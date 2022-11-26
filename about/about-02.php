@@ -48,7 +48,7 @@
                           <h3 class="d-block pb-md-4 pb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                               sed do eiusmod tempor incididunt ut labore et dolore
                               magna aliqua.</h3>
-                           <p class="d-block text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                           <p class="d-block text-md-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                                Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
                                maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
