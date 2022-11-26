@@ -152,27 +152,27 @@
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/mobile-app-developemnt" class="wedo-circle"><i class="icofont-brand-android-robot icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">App Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">App Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/digital-marketing" class="wedo-circle"><i class="icofont-automation icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">Digital Marketing</span>
+                                     <span class="w-100 d-block text-center pt-md-3">Digital Marketing</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/crm-erp-portal-development" class="wedo-circle"><i class="icofont-computer icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">CRM & ERP Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">CRM & ERP Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/ui-ux-desing" class="wedo-circle"><i class="icofont-penalty-card icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">UL/UX Developer</span>
+                                     <span class="w-100 d-block text-center pt-md-3">UL/UX Developer</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/mlm-software-development.php" class="wedo-circle"><i class="icofont-company icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">MLM Software Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">MLM Software Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/health-care-mangment" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">Healthcare Portal Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">Healthcare Portal Development</span>
                                  </div>
                          </div>
                    </div>
