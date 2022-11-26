@@ -1833,7 +1833,7 @@ height:600px; background-size:100% 100%;}
 .wedo-bg h2{font-size:55px; color:#fff; font-weight:700; text-transform:uppercase;}
 .wedo-bg p{font-size:15px; color:#fff;}
 
-.wedo{display:inline-block; margin:6px auto 10px; width:12%; height:120px;}
+.wedo{display:inline-block; margin:6px auto 10px; width:11%; height:120px;}
 a.wedo-circle{width:95%; height:100%; border:solid 5px #fff; margin:0 auto;
  background: linear-gradient(176deg, rgba(247,52,58,1) 0%, rgba(248,56,46,1) 0%,
  rgba(247,27,130,1) 51%, rgba(246,13,166,1) 100%); display:flex; justify-content:center;
