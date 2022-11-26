@@ -102,7 +102,7 @@
                    <div class="container">
                           <div class="row vs-md d-flex flex-wrap flex-column-reverse flex-md-row">
                                 <div class="col-md-8 pt-md-0 pt-2">
-                                      <h2 class="d-block pb-md-3 pb-1">Mission</h2>
+                                      <h2 class="d-block pb-md-3 pb-1 d-block text-md-left text-center">Mission</h2>
                                       <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
                                         <p class="d-block text-md-justify">Lorem ipsum dolor sit amet,
@@ -128,16 +128,18 @@
            </section>
             <section class="wedo-bg pt-md-5 pt-3">
                    <div class="container">
-                          <div class="col-md-7 col-12 pb-3">
-                                 <h2 class="d-block pb-2">What we do</h2>
-                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                     sed do eiusmod tempor incididunt ut labore et dolore magna
-                                     aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                                     commodo viverra maecenas accumsan lacus vel facilisis.
-                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                     sed do eiusmod tempor incididunt ut labore et dolore magna
-                                     aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                                     commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                          <div class="row">
+                                  <div class="col-md-7 col-12 pb-3">
+                                         <h2 class="d-block pb-md-2">What we do</h2>
+                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                             sed do eiusmod tempor incididunt ut labore et dolore magna
+                                             aliqua. Quis ipsum suspendisse ultrices gravida. Risus
+                                             commodo viverra maecenas accumsan lacus vel facilisis.
+                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                             sed do eiusmod tempor incididunt ut labore et dolore magna
+                                             aliqua. Quis ipsum suspendisse ultrices gravida. Risus
+                                             commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                  </div>
                           </div>
                          <div class="row pt-3">
                                  <div class="wedo">
