@@ -282,11 +282,6 @@
 
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235937.63868858447!2d88.28082453154677!3d22.4844547317285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027522c42a16d3%3A0x5f4853eaae388bc1!2sPRIMACY%20INFOTECH%20PRIVATE%20LIMITED!5e0!3m2!1sen!2sin!4v1656065107913!5m2!1sen!2sin" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
-
-
-
-
                     </div>
 
 				</div>
@@ -295,7 +290,7 @@
 
 					<div id="map">
 
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.240798880797!2d90.41272571493356!3d23.77443808457755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7781f3be20d%3A0xf9635ddc7adb789b!2sAotrek%20Tourism%20Ltd!5e0!3m2!1sen!2sin!4v1587886020563!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.240798880797!2d90.41272571493356!3d23.77443808457755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7781f3be20d%3A0xf9635ddc7adb789b!2sAotrek%20Tourism%20Ltd!5e0!3m2!1sen!2sin!4v1587886020563!5m2!1sen!2sin" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 
 
