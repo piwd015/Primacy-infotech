@@ -142,35 +142,35 @@
                          <div class="row">
                                  <div class="wedo">
                                         <a href="#" class="wedo-circle"></a>
-                                        <span class="w-100 d-block text-center pt-2">Web Development</span>
+                                        <span class="w-100 d-block text-center pt-3">Web Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">Web Designing</span>
+                                     <span class="w-100 d-block text-center pt-3">Web Designing</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">App Development</span>
+                                     <span class="w-100 d-block text-center pt-3">App Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">Digital Marketing</span>
+                                     <span class="w-100 d-block text-center pt-3">Digital Marketing</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">CRM & ERP Development</span>
+                                     <span class="w-100 d-block text-center pt-3">CRM & ERP Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">UL/UX Developer</span>
+                                     <span class="w-100 d-block text-center pt-3">UL/UX Developer</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">MLM Software Development</span>
+                                     <span class="w-100 d-block text-center pt-3">MLM Software Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="#" class="wedo-circle"></a>
-                                     <span class="w-100 d-block text-center pt-2">Healthcare Portal Development</span>
+                                     <span class="w-100 d-block text-center pt-3">Healthcare Portal Development</span>
                                  </div>
                          </div>
                    </div>
