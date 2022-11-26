@@ -92,7 +92,7 @@
 
     <section class="h4-contact s-padding bg-color" id="contact">
 
-        <div class="container-fluid px-md-5">
+        <div class="container">
                 <div class="s-title">
                     <h2>Get  In touch</h2>
                 </div>
