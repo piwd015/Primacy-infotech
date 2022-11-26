@@ -135,21 +135,9 @@
                         <br/>
 
                         <ul class="f-contact-list">
-
-                            <li><span><img style="width:20px;" src="../assets/images/canada-flag-xs.png" alt="canada"></span><span>Canada Office</span></li>
-
-
-
-                            <li> <span><i class="fa fa-map-marker"></i>
-
-</span>656 Full Moon Circle Mississauga ON</li>
-
-
-
-                            <li><span><i class="fa fa-volume-control-phone" ></i></span>+442045772363</li>
-
+                            <li><span><img style="width:20px;" src="../assets/images/canada-flag-xs.png" alt="canada"></span><span>Canada Office</span></li>                            <li> <span><i class="fa fa-map-marker"></i>
+                             </span>656 Full Moon Circle Mississauga ON</li>
                             <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
-
                         </ul>
 
 
