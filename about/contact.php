@@ -93,18 +93,11 @@
     <section class="h4-contact s-padding bg-color" id="contact">
 
         <div class="container">
-
-
-
                 <div class="s-title">
-
                     <h2>Get  In touch</h2>
-
                 </div>
-
             <div class="row">
-
-                <div class="col-md-4 offset-md-1 ">
+                <div class="col-md-6">
 
                     <div class="iconic-contact-info">
 
@@ -165,7 +158,6 @@
                     </div>
 
                 </div>
-
                 <div class="col-md-6 ">
 
                     <br/><br/><br/>
@@ -275,15 +267,8 @@
                     </form>
 
                 </div>
-
-
-
-
-
             </div>
-
         </div>
-
     </section>
 
 	
