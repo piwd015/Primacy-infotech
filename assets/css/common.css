@@ -2158,7 +2158,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .need-oddo-box{height:auto;}
  .time-lin-box .time-arrow{top:5px;}
  .accordion-head h3 img{top:0px;}
- .aboutImg-01{height:80vh; padding-top:32%;}
+ .aboutImg-01{height:auto; padding-top:32%; padding-bottom:10px;}
+ .aboutImg-01 h1{font-size: 30px;}
  .aboutImg-02{height:auto; padding-bottom:10px;}
  .aboutImg-02 h2{font-size:30px;}
  .aboutImg-02 h3{font-size:20px;}
