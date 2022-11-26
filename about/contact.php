@@ -146,7 +146,7 @@
 
 
 
-                            <li><span><i class="fa fa-volume-control-phone" ></i></span>+1 6474908004</li>
+                            <li><span><i class="fa fa-volume-control-phone" ></i></span>+442045772363</li>
 
                             <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
 
