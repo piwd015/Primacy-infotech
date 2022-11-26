@@ -200,7 +200,7 @@
             </section>
             <section class="w-100 d-block">
                    <div class="container">
-                        <h2 class="abut-hdr-txt w-100 d-block text-center pb-md-4 pb-2"></h2>
+                        <h2 class="abut-hdr-txt w-100 d-block text-center pb-md-4 pb-2">Two Decades At Glance</h2>
                         <div class="row">
                                <div class="col-md-3 col-6 mb-md-4 mb-2">
                                      <div class="glns-box">
