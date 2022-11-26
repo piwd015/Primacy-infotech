@@ -90,8 +90,8 @@
 
 	<!-- header -->
     <section class="h4-contact s-padding bg-color pt-md-5 pt-3 pb-3" id="contact">
-        <div class="container">
-                <div class="s-title mb-5 pt-md-5 pt-3">
+        <div class="container pt-md-5 pt-3">
+                <div class="s-title mb-5 pt-md-3">
                     <h2>Get  In touch</h2>
                 </div>
             <div class="row">
