@@ -181,8 +181,8 @@
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2">Why Us</h2>
                          <div class="row">
-                                <div class="col-md-3 col-6 mb-md-0 mb-3">
-                                      <div class="why-us-box w-100 d-block position-relative
+                                <div class="col-md-3 mb-md-0 mb-3">
+                                      <div class="why-us-box d-block position-relative
                                             px-md-4 px-2 py-md-5 py-3">
                                             <div class="why-us-box-ico position-absolute"></div>
                                             <h4 class="d-block pb-2">Full-Service Digital</h4>
@@ -193,8 +193,8 @@
                                           <div class="why-us-box-ico-bt position-absolute"></div>
                                       </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-0 mb-3">
-                                        <div class="why-us-box w-100 d-block position-relative
+                                <div class="col-md-3 mb-md-0 mb-3">
+                                        <div class="why-us-box d-block position-relative
                                                 px-md-4 px-2 py-md-5 py-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
                                                 <h4 class="d-block pb-2">Enterprise-
@@ -206,8 +206,8 @@
                                                 <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-0 mb-3">
-                                        <div class="why-us-box w-100 d-block position-relative
+                                <div class="col-md-3 mb-md-0 mb-3">
+                                        <div class="why-us-box d-block position-relative
                                                 px-md-4 px-2 py-md-5 py-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
                                                 <h4 class="d-block pb-2">Born Digital</h4>
@@ -218,8 +218,8 @@
                                                  <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-0 mb-3">
-                                        <div class="why-us-box w-100 d-block position-relative
+                                <div class="col-md-3 mb-md-0 mb-3">
+                                        <div class="why-us-box d-block position-relative
                                             px-md-4 px-2 py-md-5 py-3">
                                            <div class="why-us-box-ico position-absolute"></div>
                                            <h4 class="d-block pb-2">Agile by Design</h4>
