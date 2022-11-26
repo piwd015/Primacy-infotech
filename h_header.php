@@ -67,7 +67,12 @@
                 <div class="col-md-2 col-12">
                      <div class="header-top-right d-block text-right">
                         <a href="https://api.whatsapp.com/send?phone=919088015865" target="_blank"><img src="assets/images/whatsapp-icon.png" alt=""></a>
-                           <a href="#"><img src="assets/images/globe.png" alt=""></a>
+                           <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img src="assets/images/globe.png" alt=""></a>
+                         <div class="dropdown-menu">
+                             <a class="dropdown-item" href="#">Normal</a>
+                             <a class="dropdown-item active" href="#">Active</a>
+                             <a class="dropdown-item disabled" href="#">Disabled</a>
+                         </div>
                      </div>
                 </div>
                 <div class="col-md-1 tgl-mt hd-menu" >
