@@ -169,7 +169,7 @@
                                      <span class="w-100 d-block text-center pt-3">MLM Software Development</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="../service/health-care-mangment" class="wedo-circle"><i class="icofont-company icofont-1x"></i></a>
+                                     <a href="../service/health-care-mangment" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
                                      <span class="w-100 d-block text-center pt-3">Healthcare Portal Development</span>
                                  </div>
                          </div>
