@@ -89,7 +89,7 @@
 <!--end fixed header-->
 
 	<!-- header -->
-    <section class="h4-contact s-padding bg-color py-md-0 py-3" id="contact">
+    <section class="h4-contact s-padding bg-color pt-md-5 pt-3 pb-3" id="contact">
 
         <div class="container">
                 <div class="s-title mb-5">
