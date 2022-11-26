@@ -271,7 +271,7 @@
 
 			<div class="s-title mb-md-5 mb-3">
 
-				<h2>Our location</h2>
+				<h2 class="w-100 d-block text-center">Our location</h2>
 
 			</div>
 
