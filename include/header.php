@@ -240,7 +240,7 @@
 
             <li><img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="canada"></li> &nbsp;
 
-            <li> <a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a></li>
+            <li> <a href="tel:+442045772363" class="Blondie-email">+442045772363</a></li>
 
             <li><img width="16" height="11" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"></li> &nbsp;
 
@@ -263,7 +263,7 @@
                     </div>
                     <div class="col-md-4">
                         <img width="16" height="11" src="../assets/images/canada-flag-xs.png" alt="canada">
-                        <a href="tel:+16474908004" class="Blondie-email">+1 6474908004</a>
+                        <a href="tel:+442045772363" class="Blondie-email">+442045772363</a>
                     </div>
 
                     <div class="col-md-4">
