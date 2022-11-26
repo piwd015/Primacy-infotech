@@ -74,7 +74,7 @@
                    <div class="container">
                          <div class="row vs-md">
                                 <div class="col-md-4 d-flex flex-wrap align-items-center">
-                                    <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
+                                    <img src="../assets/images/about/vision-icon.png" class="img-fluid" alt="">
                                 </div>
                                 <div class="col-md-8">
                                      <h2 class="pb-md-3 pb-1">Vision</h2>
