@@ -1822,7 +1822,7 @@ color:#000; font-weight:600;}
 
 .count-bg{background:#2c2c2c;}
 .count-box{border:solid 6px #878585; border-radius:15px; background:#2c2c2c; height:288px;
- display:flex; justify-content:center; align-items:center;}
+ display:flex; align-items:center;}
 .count-box h2{ font-size:50px; color:#ffff00;}
 .count-box span{font-size:20px; color:#d3d3d2;}
 
