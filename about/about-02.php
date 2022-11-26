@@ -141,14 +141,14 @@
                                              commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                   </div>
                           </div>
-                         <div class="row pt-3">
+                         <div class="row pt-md-3">
                                  <div class="wedo">
                                         <a href="../service/web-developement" class="wedo-circle"><i class="icofont-web"></i></a>
-                                        <span class="w-100 d-block text-center pt-3">Web Development</span>
+                                        <span class="w-100 d-block text-center pt-md-3">Web Development</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/web-designing" class="wedo-circle"><i class="icofont-dashboard-web icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-3">Web Designing</span>
+                                     <span class="w-100 d-block text-center pt-md-3">Web Designing</span>
                                  </div>
                                  <div class="wedo">
                                      <a href="../service/mobile-app-developemnt" class="wedo-circle"><i class="icofont-brand-android-robot icofont-1x"></i></a>
