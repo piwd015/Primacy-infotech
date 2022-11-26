@@ -107,7 +107,9 @@
 
                             <li> <span><i class="fa fa-map-marker"></i>
 
-                            </span>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>
+                            </span>Webel Tower I,601, 91,5, Magnacon, Street
+                                Number 18, Sector 5, Bidhan Nagar, North Twenty Four Parganas,
+                                West Bengal, 700091</li>
 
 
 
