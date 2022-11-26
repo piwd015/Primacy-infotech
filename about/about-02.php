@@ -144,6 +144,18 @@
                                         <a href="#" class="wedo-circle"></a>
                                         <span class="w-100 d-block text-center">Web Development</span>
                                  </div>
+                                 <div class="wedo">
+                                     <a href="#" class="wedo-circle"></a>
+                                     <span class="w-100 d-block text-center">Web Designing</span>
+                                 </div>
+                                 <div class="wedo">
+                                     <a href="#" class="wedo-circle"></a>
+                                     <span class="w-100 d-block text-center">App Development</span>
+                                 </div>
+                                 <div class="wedo">
+                                     <a href="#" class="wedo-circle"></a>
+                                     <span class="w-100 d-block text-center">Digital Marketing</span>
+                                 </div>
                          </div>
                    </div>
             </section>
