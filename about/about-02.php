@@ -139,7 +139,7 @@
                                      aliqua. Quis ipsum suspendisse ultrices gravida. Risus
                                      commodo viverra maecenas accumsan lacus vel facilisis.</p>
                           </div>
-                         <div class="row">
+                         <div class="row pt-3">
                                  <div class="wedo">
                                         <a href="#" class="wedo-circle"><i class="icofont-code icofont-1x"></i></a>
                                         <span class="w-100 d-block text-center pt-3">Web Development</span>
@@ -161,11 +161,11 @@
                                      <span class="w-100 d-block text-center pt-3">CRM & ERP Development</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="#" class="wedo-circle"></a>
+                                     <a href="#" class="wedo-circle"><i class="icofont-penalty-card icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-3">UL/UX Developer</span>
                                  </div>
                                  <div class="wedo">
-                                     <a href="#" class="wedo-circle"></a>
+                                     <a href="#" class="wedo-circle"><i class="icofont-company icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-3">MLM Software Development</span>
                                  </div>
                                  <div class="wedo">
