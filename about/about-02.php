@@ -185,7 +185,7 @@
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-md-5 pt-4">
                                             <div class="why-us-box-ico position-absolute"></div>
-                                            <img src="../assets/images/about/service-digital,png"  alt="">
+                                            <img src="../assets/images/about/service-digital.png"  alt="">
                                           <h4 class="d-block pb-md-2">Full-Service Digital</h4>
                                             <span class="d-block">One house for the complete digital solution
                                                 which lowers cost and enables total ownership of
