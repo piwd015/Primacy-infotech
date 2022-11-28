@@ -344,28 +344,28 @@
                         </div>
                    </div>
             </section>
-            <!--<section class="count-bg w-100 d-block py-md-5 py-3">
+            <section class="count-bg w-100 d-block py-md-5 py-3">
                    <div class="container">
                          <div class="row">
-                                 <div class="col-md-3 col-6 mb-md-0 mb-3">
-                                      <div class="count-box w-100" data-aos="flip-left">
+                                 <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-up">
+                                      <div class="count-box w-100">
                                            <h2 class="w-100 d-block text-center">400+</h2>
                                            <span class="w-100 d-block text-center">Total Clients</span>
                                       </div>
                                  </div>
-                                 <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="flip-right">
+                                 <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-down">
                                        <div class="count-box w-100">
                                            <h2 class="w-100 d-block text-center">550+</h2>
                                            <span class="w-100 d-block text-center">App & Website Completed</span>
                                        </div>
                                  </div>
-                                 <div class="col-md-3 col-6" data-aos="fade-down">
+                                 <div class="col-md-3 col-6" data-aos="fade-up">
                                      <div class="count-box w-100">
                                          <h2 class="w-100 d-block text-center">200+</h2>
                                          <span class="w-100 d-block text-center">Sucessfully Run</span>
                                      </div>
                                  </div>
-                                 <div class="col-md-3 col-6" data-aos="fade-left">
+                                 <div class="col-md-3 col-6" data-aos="fade-down">
                                      <div class="count-box w-100">
                                          <h2 class="w-100 d-block text-center">200%</h2>
                                          <span class="w-100 d-block text-center">Return Customer</span>
@@ -373,7 +373,7 @@
                                  </div>
                          </div>
                    </div>
-            </section>-->
+            </section>
     </div>
 
     <!-- footer -->
