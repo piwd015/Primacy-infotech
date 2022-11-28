@@ -562,9 +562,9 @@
 
 		<section class="partners s-padding bg-color">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
-			<div class="s-title">
+			<div class="s-title mb-5">
 
 				<h2><span class="logo-color">O</span>ur Partners</h2>
 
@@ -646,7 +646,7 @@
 
 	<section class="fun-fact s-padding bg-img bg-1">
 		<div class="overlay"></div>
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 			<div class="row">
 				<div class="col-md-3 col-sm-3">
 					<div class="counter-item boxed-style">
