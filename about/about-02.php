@@ -222,7 +222,7 @@
                                  <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-md-5 pt-4">
                                      <div class="why-us-box-ico position-absolute"></div>
-                                     <h4 class="d-block pb-md-2">Born Digital</h4>
+                                     <h4 class="d-block pb-md-2">Agile by Design</h4>
                                      <span class="d-block">We are a small company with huge
                                              capabilities. We have retained our agility through
                                              our unique company culture and a flat organizational
