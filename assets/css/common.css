@@ -1802,10 +1802,10 @@ align-items:center;}
 .why-us-box{width:100%; border:solid 1px #969595; border-radius: 25px; height:100%; min-height:300px;}
 .why-us-box h4{font-size:28px; color:#e80404;}
 .why-us-box span{font-size:17px; color:#212121;}
-.why-us-box .why-us-box-ico{width:70px; height:60px; background:#fff; left:0px; right:0px;
-top:-40px; margin:0 auto; border-radius:5px; border:solid 1px #878787;}
-.why-us-box .why-us-box-ico-bt{width:70px; height:60px; background:#fff; left:0px; right:0px;
- bottom:-40px; margin:0 auto; border-radius:5px; border:solid 1px #878787;}
+.why-us-box .why-us-box-ico{width:70px; height:5px; background:#fff; left:0px; right:0px;
+top:-5px; margin:0 auto; border-radius:5px; border:solid 1px #878787;}
+.why-us-box .why-us-box-ico-bt{width:70px; height:5px; background:#fff; left:0px; right:0px;
+ bottom:-5px; margin:0 auto; border-radius:5px; border:solid 1px #878787;}
 
 .delivered-bg{background:url("../images/about/delivered-bg.jpg") repeat-y 0 0; width:100%;
 height: 260px; background-size:100% 100%; margin: 80px 0px;}
@@ -2174,6 +2174,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .why-us-box{width:80%; height:auto; margin:0 auto;}
  .why-us-box h4{font-size:20px; padding-top:20%;}
  .why-us-box span{font-size:14px;}
+ .why-us-box .why-us-box-ico{width:60px; height:50px; top:-25px;}
+ .why-us-box .why-us-box-ico-bt{width:60px; height:50px; top:-25px;}
 }
 
 
