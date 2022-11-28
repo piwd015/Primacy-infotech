@@ -268,72 +268,72 @@
                                             <p class="d-block">75% Tech, 25% Marketing</p>
                                         </div>
                                 </div>
-                               <div class="col-md-3 col-6 mb-md-4 mb-2">
+                               <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Industries Served</h4>
+                                            <h4 class="d-block pb-md-2">Industries Served</h4>
                                             <p class="d-block">75% Tech, 25% Marketing</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                     <div class="glns-box">
-                                        <h4 class="d-block pb-2">Projects Delivered</h4>
+                                        <h4 class="d-block pb-md-2">Projects Delivered</h4>
                                         <p class="d-block">3000+</p>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Hours Delivered</h4>
+                                            <h4 class="d-block pb-md-2">Hours Delivered</h4>
                                             <p class="d-block">2,250,000 Hours and
                                                 counting</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Proud of</h4>
+                                            <h4 class="d-block pb-md-2">Proud of</h4>
                                             <p class="d-block">75% of Business comes from
                                                 existing clients.</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Lean Organization</h4>
+                                            <h4 class="d-block pb-md-2">Lean Organization</h4>
                                             <p class="d-block">Only three levels of
                                                 hierarchy including top
                                                 management.
                                                 Empowered team.</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Current Sales Channel</h4>
+                                            <h4 class="d-block pb-md-2">Current Sales Channel</h4>
                                             <p class="d-block">Inbound –Online, Events,
                                                 Word of Mouth, References.</p>
                                         </div>
                                </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Super Team</h4>
+                                            <h4 class="d-block pb-md-2">Super Team</h4>
                                             <p class="d-block">At least 3x more
                                                 productive</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Perceived As</h4>
+                                            <h4 class="d-block pb-md-2">Perceived As</h4>
                                             <p class="d-block">Innovation Outsourcing
                                                 Partner, Strategic
                                                 Digital Partner</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Project Ticket Size</h4>
+                                            <h4 class="d-block pb-md-2">Project Ticket Size</h4>
                                             <p class="d-block">$15-$100K</p>
                                         </div>
                                 </div>
-                                <div class="col-md-3 col-6 mb-md-4 mb-2">
+                                <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Relationship Value</h4>
+                                            <h4 class="d-block pb-md-2">Relationship Value</h4>
                                             <p class="d-block">$50K -$2m per annum</p>
                                         </div>
                                 </div>
