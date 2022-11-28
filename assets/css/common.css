@@ -1803,9 +1803,9 @@ align-items:center;}
 .why-us-box h4{font-size:28px; color:#e80404;}
 .why-us-box span{font-size:17px; color:#212121;}
 .why-us-box .why-us-box-ico{width:70px; height:5px; background:#fff; left:0px; right:0px;
-top:-5px; margin:0 auto; border-radius:5px; border:solid 1px #878787;}
+top:-5px; margin:0 auto;}
 .why-us-box .why-us-box-ico-bt{width:70px; height:5px; background:#fff; left:0px; right:0px;
- bottom:-5px; margin:0 auto; border-radius:5px; border:solid 1px #878787;}
+ bottom:-5px; margin:0 auto;}
 
 .delivered-bg{background:url("../images/about/delivered-bg.jpg") repeat-y 0 0; width:100%;
 height: 260px; background-size:100% 100%; margin: 80px 0px;}
