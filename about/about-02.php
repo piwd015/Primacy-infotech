@@ -343,13 +343,13 @@
             <section class="count-bg w-100 d-block py-md-5 py-3">
                    <div class="container">
                          <div class="row">
-                                 <div class="col-md-3">
+                                 <div class="col-md-3 col-6">
                                       <div class="count-box w-100">
                                            <h2 class="w-100 d-block text-center">400+</h2>
                                            <span class="w-100 d-block text-center">Total Clients</span>
                                       </div>
                                  </div>
-                                 <div class="col-md-3">
+                                 <div class="col-md-3 col-6">
                                        <div class="count-box w-100">
                                            <h2 class="w-100 d-block text-center">550+</h2>
                                            <span class="w-100 d-block text-center">App & Website Completed</span>

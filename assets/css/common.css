@@ -2171,8 +2171,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .wedo{width:30%; height:90px; margin: 0px auto 40px;}
  .wedo span{font-size: 14px;}
  .why-us h2{font-size:30px;}
- .why-us-box{width:80%; height:auto; margin:0 auto;}
- .why-us-box h4{font-size:20px; padding-top:20%;}
+ .why-us-box{width:80%; margin:0 auto; min-height:auto; padding-bottom: 20px;}
+ .why-us-box h4{font-size:20px; padding-top:10%;}
  .why-us-box span{font-size:14px;}
  .why-us-box .why-us-box-ico{width:60px; height:50px; top:-25px;}
  .why-us-box .why-us-box-ico-bt{width:60px; height:50px; top:-25px;}
