@@ -692,7 +692,7 @@
 
 	
 
-		<section class="testimonial s-padding bg-color">
+		<section class="testimonial s-padding bg-color pb-3">
 		<div class="bg-text">Feedback</div>
 		<div class="container-fluid px-md-5 px-3">
 			<div class="s-title mb-5">
