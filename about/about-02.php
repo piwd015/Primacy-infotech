@@ -183,7 +183,7 @@
                          <div class="row">
                                 <div class="col-md-3 mb-md-0 mb-5">
                                       <div class="why-us-box d-block position-relative
-                                            px-md-4 px-3 py-md-5 py-4">
+                                            px-md-4 px-3 pt-md-5 pt-4">
                                             <div class="why-us-box-ico position-absolute"></div>
                                             <h4 class="d-block pb-md-2">Full-Service Digital</h4>
                                             <span class="d-block">One house for the complete digital solution
@@ -195,7 +195,7 @@
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5">
                                         <div class="why-us-box d-block position-relative
-                                                px-md-4 px-3 py-md-5 py-4">
+                                                px-md-4 px-3 pt-md-5 pt-4">
                                                 <div class="why-us-box-ico position-absolute"></div>
                                                 <h4 class="d-block pb-md-2">Enterprise-
                                                     Grade</h4>
@@ -208,7 +208,7 @@
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5">
                                         <div class="why-us-box d-block position-relative
-                                                px-md-4 px-3 py-md-5 py-4">
+                                                px-md-4 px-3 pt-md-5 pt-4">
                                                 <div class="why-us-box-ico position-absolute"></div>
                                                 <h4 class="d-block pb-md-2">Born Digital</h4>
                                                 <span class="d-block">Since 1997, we have been
@@ -220,7 +220,7 @@
                                 </div>
                                 <div class="col-md-3">
                                         <div class="why-us-box d-block position-relative
-                                            px-md-4 px-3 py-md-5 py-4">
+                                            px-md-4 px-3 pt-md-5 pt-4">
                                            <div class="why-us-box-ico position-absolute"></div>
                                            <h4 class="d-block pb-md-2">Agile by Design</h4>
                                            <span class="d-block">We are a small company with huge
