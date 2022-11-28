@@ -49,7 +49,7 @@
 
 				<div class="col-lg-6 col-md-7">
 
-					<div class="banner-content">
+					<div class="banner-content mt-3">
 
 						<div class="">
 
