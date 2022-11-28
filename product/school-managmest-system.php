@@ -560,7 +560,7 @@
 
 
 
-		<section class="partners s-padding bg-color">
+		<section class="partners s-padding bg-color pb-md-5 pb-3">
 
 		<div class="container-fluid px-md-5 px-3">
 
@@ -644,7 +644,7 @@
 
 	</section><!-- partners -->
 
-	<section class="fun-fact s-padding bg-img bg-1 pb-3">
+	<section class="fun-fact s-padding bg-img bg-1">
 		<div class="overlay"></div>
 		<div class="container-fluid px-md-5 px-3">
 			<div class="row">
