@@ -74,13 +74,13 @@
                    <div class="container">
                          <div class="row vs-md">
                                 <div class="col-md-4 d-flex flex-wrap align-items-center">
-                                    <img src="../assets/images/about/vision-icon.png" class="img-fluid" alt="">
+                                    <img src="../assets/images/about/vision-icon.png" class="img-fluid" data-aos="zoom-in" alt="">
                                 </div>
                                 <div class="col-md-8 pt-md-0 pt-2">
-                                     <h2 class="pb-md-3 pb-1 d-block text-md-left text-center">Vision</h2>
-                                      <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
+                                     <h2 class="pb-md-3 pb-1 d-block text-md-left text-center" data-aos="fade-left">Vision</h2>
+                                      <h4 class="d-block pb-md-4 pb-1" data-aos="fade-up">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
-                                       <p class="d-block text-md-justify">Lorem ipsum dolor sit amet,
+                                       <p class="d-block text-md-justify" data-aos="fade-up">Lorem ipsum dolor sit amet,
                                           consectetur adipiscing elit, sed do eiusmod tempor
                                           incididunt ut labore et dolore magna aliqua. Quis
                                           ipsum suspendisse ultrices gravida. Risus commodo
