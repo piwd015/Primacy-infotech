@@ -41,17 +41,7 @@
 
 <!--end fixed header-->
 	<!-- header -->
-
-	
-
-
-
-
-
-
-
-
-	<section class="home-5-banner bg-img main-banner" id="banner">
+	<section class="home-5-banner bg-img main-banner py-5" id="banner">
 
 		<div class="container-fluid px-md-5 px-3">
 
