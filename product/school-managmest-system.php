@@ -49,9 +49,9 @@
 
 				<div class="col-lg-6 col-md-7">
 
-					<div class="banner-content bnr-cnt">
+					<div class="banner-content">
 
-						<div class="">
+						<div class="bnr-cnt">
 
 							<h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We are known to be the trusted brand, which provides with hardy, flexible , tested and the accurate software for  management of school. The rates of school management software is starting from  Rs 20,999. <span class="logo-color">School Management</span> System.</h2> 
 
