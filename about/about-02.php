@@ -183,7 +183,7 @@
                          <div class="row">
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-up" data-aos-duration="3000">
                                       <div class="why-us-box d-block position-relative
-                                            px-md-4 px-3 pt-md-5 pt-4">
+                                            px-md-4 px-3 pt-3">
                                             <div class="why-us-box-ico position-absolute"></div>
                                           <img src="../assets/images/about/service-digital.png" alt="">
                                           <h4 class="d-block pb-md-2">Full-Service Digital</h4>
@@ -196,8 +196,9 @@
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                         <div class="why-us-box d-block position-relative
-                                                px-md-4 px-3 pt-md-5 pt-4">
+                                                px-md-4 px-3 pt-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
+                                                <img src="../assets/images/about/service-digital.png" alt="">
                                                 <h4 class="d-block pb-md-2">Enterprise-
                                                     Grade</h4>
                                                 <span class="d-block">Successful track record of
