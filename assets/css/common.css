@@ -2180,6 +2180,11 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .lpt{width:50%; left:0px; top:-60px; right:0px; margin:0 auto;}
  .delivered-bg a{border-radius:4px; padding:5px 20px; font-size:17px; position:relative;
   left: 0px; top: -20px;}
+ .delivered-bg{margin: 80px 0px 10px;}
+ .delivered-bg h2{font-size:22px;}
+ .abut-hdr-txt{30px;}
+ .glns-box h4{font-size:16px;}
+ .glns-box p{font-size:14px;}
 }
 
 

@@ -253,18 +253,18 @@
                    <div class="container">
                         <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2">Two Decades At Glance</h2>
                         <div class="row">
-                               <div class="col-md-3 col-6 mb-md-4 mb-2">
+                               <div class="col-md-3 col-6 mb-md-4">
                                      <div class="glns-box">
-                                            <h4 class="d-block pb-2">Core Services</h4>
+                                            <h4 class="d-block pb-md-2">Core Services</h4>
                                             <p class="d-block">Digital Consulting, Web
                                              Apps, Mobile Apps,
                                              Digital Marketing,
                                              Analytics, Cloud Infra</p>
                                      </div>
                               </div>
-                               <div class="col-md-3 col-6 mb-md-4 mb-2">
+                               <div class="col-md-3 col-6 mb-md-4">
                                         <div class="glns-box">
-                                            <h4 class="d-block pb-2">Business Distribution</h4>
+                                            <h4 class="d-block pb-md-2">Business Distribution</h4>
                                             <p class="d-block">75% Tech, 25% Marketing</p>
                                         </div>
                                 </div>
