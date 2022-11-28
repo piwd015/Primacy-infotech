@@ -387,16 +387,10 @@
 	
 
 	<section class="faq-sec s-padding bg-color" id="faq">
-
 		<div class="s-title">
-
 			<h2>Frequently Asked</h2>
-
-<!--			<p>Ut totam hymenaeos a quasi enim, duis erat mollitia, pellentesque ac metus!</p>-->
-
 		</div>
-
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
