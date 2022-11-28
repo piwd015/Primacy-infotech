@@ -319,7 +319,7 @@
 
 		<div class="container-fluid px-md-5 px-3 pt-5">
 
-			<div class="row align-items-center">
+			<div class="row align-items-center pt-md-5 pt-3">
 
 				<div class="col-lg-5">
 
