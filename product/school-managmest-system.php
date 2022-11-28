@@ -394,7 +394,7 @@
 
 			<div class="row">
 
-				<div class="col-md-5">
+				<div class="col-md-5 px-md-4">
 
 					<div class="faq-sec-img">
 
