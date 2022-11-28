@@ -237,14 +237,14 @@
                   <div class="container">
                         <div class="row">
                               <div class="col-md-5 position-relative">
-                                    <div class="lpt">
+                                    <div class="lpt" data-aos="zoom-in-down">
                                           <img src="../assets/images/about/laptop.png" alt="">
                                     </div>
                               </div>
                               <div class="col-md-7 pt-md-0 pt-5 mt-md-0 mt-4">
-                                    <h2 class="d-block pb-4">We Deliver <strong>90-100 Web &
+                                    <h2 class="d-block pb-4" data-aos="fade-left">We Deliver <strong>90-100 Web &
                                             Mobile Projects</strong> per Year</h2>
-                                     <a href="#">Start Now</a>
+                                     <a href="#" data-aos="fade-left">Start Now</a>
                               </div>
                         </div>
                   </div>
