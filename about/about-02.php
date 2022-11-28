@@ -218,7 +218,7 @@
                                                  <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-5">
+                                <div class="col-md-3">
                                  <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-md-5 pt-4">
                                      <div class="why-us-box-ico position-absolute"></div>
@@ -241,7 +241,7 @@
                                           <img src="../assets/images/about/laptop.png" alt="">
                                     </div>
                               </div>
-                              <div class="col-md-7">
+                              <div class="col-md-7 pt-md-0 pt-5 mt-md-0 mt-4">
                                     <h2 class="d-block pb-4">We Deliver <strong>90-100 Web &
                                             Mobile Projects</strong> per Year</h2>
                                      <a href="#">Start Now</a>

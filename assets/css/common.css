@@ -2176,6 +2176,10 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .why-us-box span{font-size:14px;}
  .why-us-box .why-us-box-ico{width:60px; height:50px; top:-25px;}
  .why-us-box .why-us-box-ico-bt{width:60px; height:50px; top:-25px;}
+ .delivered-bg{height:auto;}
+ .lpt{width:50%; left:0px; top:-60px; right:0px; margin:0 auto;}
+ .delivered-bg a{border-radius:4px; padding:5px 20px; font-size:17px; position:relative;
+  left: 0px; top: -20px;}
 }
 
 
