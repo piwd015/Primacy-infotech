@@ -251,8 +251,8 @@
             </section>
             <section class="w-100 d-block">
                    <div class="container">
-                        <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2">Two Decades At Glance</h2>
-                        <div class="row">
+                        <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2" data-aos="fade-up">Two Decades At Glance</h2>
+                        <div class="row" data-aos="fade-down">
                                <div class="col-md-3 col-6 mb-md-4">
                                      <div class="glns-box">
                                             <h4 class="d-block pb-md-2">Core Services</h4>
@@ -344,24 +344,24 @@
                    <div class="container">
                          <div class="row">
                                  <div class="col-md-3 col-6 mb-md-0 mb-3">
-                                      <div class="count-box w-100">
+                                      <div class="count-box w-100" data-aos="fade-right">
                                            <h2 class="w-100 d-block text-center">400+</h2>
                                            <span class="w-100 d-block text-center">Total Clients</span>
                                       </div>
                                  </div>
-                                 <div class="col-md-3 col-6 mb-md-0 mb-3">
+                                 <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-up">
                                        <div class="count-box w-100">
                                            <h2 class="w-100 d-block text-center">550+</h2>
                                            <span class="w-100 d-block text-center">App & Website Completed</span>
                                        </div>
                                  </div>
-                                 <div class="col-md-3 col-6">
+                                 <div class="col-md-3 col-6" data-aos="fade-down">
                                      <div class="count-box w-100">
                                          <h2 class="w-100 d-block text-center">200+</h2>
                                          <span class="w-100 d-block text-center">Sucessfully Run</span>
                                      </div>
                                  </div>
-                                 <div class="col-md-3 col-6">
+                                 <div class="col-md-3 col-6" data-aos="fade-left">
                                      <div class="count-box w-100">
                                          <h2 class="w-100 d-block text-center">200%</h2>
                                          <span class="w-100 d-block text-center">Return Customer</span>
