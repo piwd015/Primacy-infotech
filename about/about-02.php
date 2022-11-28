@@ -181,7 +181,7 @@
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
                          <div class="row">
-                                <div class="col-md-3 mb-md-0 mb-5">
+                                <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-up" data-aos-duration="3000">
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-md-5 pt-4">
                                             <div class="why-us-box-ico position-absolute"></div>
@@ -193,7 +193,7 @@
                                           <div class="why-us-box-ico-bt position-absolute"></div>
                                       </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-5">
+                                <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-md-5 pt-4">
                                                 <div class="why-us-box-ico position-absolute"></div>
@@ -206,7 +206,7 @@
                                                 <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-5">
+                                <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-up" data-aos-duration="3000">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-md-5 pt-4">
                                                 <div class="why-us-box-ico position-absolute"></div>
@@ -218,17 +218,17 @@
                                                  <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-5">
-                                 <div class="why-us-box d-block position-relative
-                                                px-md-4 px-3 pt-md-5 pt-4">
-                                     <div class="why-us-box-ico position-absolute"></div>
-                                     <h4 class="d-block pb-md-2">Agile by Design</h4>
-                                     <span class="d-block">We are a small company with huge
-                                             capabilities. We have retained our agility through
-                                             our unique company culture and a flat organizational
-                                             structure.</span>
-                                     <div class="why-us-box-ico-bt position-absolute"></div>
-                                 </div>
+                                <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
+                                     <div class="why-us-box d-block position-relative
+                                                    px-md-4 px-3 pt-md-5 pt-4">
+                                         <div class="why-us-box-ico position-absolute"></div>
+                                         <h4 class="d-block pb-md-2">Agile by Design</h4>
+                                         <span class="d-block">We are a small company with huge
+                                                 capabilities. We have retained our agility through
+                                                 our unique company culture and a flat organizational
+                                                 structure.</span>
+                                         <div class="why-us-box-ico-bt position-absolute"></div>
+                                     </div>
                              </div>
                          </div>
                    </div>
