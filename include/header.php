@@ -10,6 +10,7 @@
 <link rel="stylesheet" href="../assets/css/home-5-style.css"><!--ecom-->
 <link rel="stylesheet" href="../assets/css/common.css">
 <link rel="stylesheet" href="../assets/css/timeline.css">
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 <link rel="stylesheet" href="../assets/css/responsive.css">
 <link rel="stylesheet" href="../assets/css/pistore.css"><!--pistore-->
 <link rel="stylesheet" href="../assets/css/style.css"><!--web design & development-->
