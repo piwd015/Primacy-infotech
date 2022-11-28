@@ -223,10 +223,10 @@
                                                 px-md-4 px-3 pt-md-5 pt-4">
                                      <div class="why-us-box-ico position-absolute"></div>
                                      <h4 class="d-block pb-md-2">Born Digital</h4>
-                                     <span class="d-block">Since 1997, we have been
-                                                    offering new-age digital solutions to keep
-                                                    your business digitally advanced and
-                                                    sustainable to the uncertain challenges.</span>
+                                     <span class="d-block">We are a small company with huge
+                                             capabilities. We have retained our agility through
+                                             our unique company culture and a flat organizational
+                                             structure.</span>
                                      <div class="why-us-box-ico-bt position-absolute"></div>
                                  </div>
                              </div>
