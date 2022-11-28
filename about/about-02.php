@@ -212,7 +212,7 @@
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
-                                                 <img src="../assets/images/about/service-digital.png" alt="">
+                                                 <img src="../assets/images/about/born-digital.png" alt="">
                                                 <h4 class="d-block pb-md-2">Born Digital</h4>
                                                 <span class="d-block">Since 1997, we have been
                                                     offering new-age digital solutions to keep
@@ -225,7 +225,7 @@
                                      <div class="why-us-box d-block position-relative
                                                     px-md-4 px-3 pt-3">
                                          <div class="why-us-box-ico position-absolute"></div>
-                                         <img src="../assets/images/about/service-digital.png" alt="">
+                                         <img src="../assets/images/about/agile-design.png" alt="">
                                          <h4 class="d-block pb-md-2">Agile by Design</h4>
                                          <span class="d-block">We are a small company with huge
                                                  capabilities. We have retained our agility through
