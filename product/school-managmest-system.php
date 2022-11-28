@@ -388,15 +388,13 @@
 
 	<section class="faq-sec s-padding bg-color" id="faq">
 		<div class="s-title">
-			<h2>Frequently Asked</h2>
+			<h2 class="w-100 d-block text-center">Frequently Asked</h2>
 		</div>
 		<div class="container-fluid px-md-5 px-3">
 
-			<div class="row align-items-center">
+			<div class="row">
 
-			<div class="offset-lg-1"></div>
-
-				<div class="col-lg-5">
+				<div class="col-lg-6">
 
 					<div class="faq-sec-img">
 
