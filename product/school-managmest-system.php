@@ -404,7 +404,7 @@
 
 				</div>
 
-				<div class="col-md-7 px-md-4">
+				<div class="col-md-7">
 
 					<div class="accordion" id="iconicAccordion">
 
