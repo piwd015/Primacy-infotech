@@ -695,7 +695,7 @@
 		<section class="testimonial s-padding bg-color">
 		<div class="bg-text">Feedback</div>
 		<div class="container-fluid px-md-5 px-3">
-			<div class="s-title">
+			<div class="s-title mb-5">
 				<h2><span class="logo-color">W</span>hat Customer Says</h2>
 				<p></p>
 			</div>
@@ -838,9 +838,9 @@
 	</section><!-- testimonial -->
 
       <section class="h4-contact s-padding bg-color" id="contact">
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 			<div class="row">
-				<div class="col-md-4 offset-md-1 ">
+				<div class="col-md-7">
 					<div class="iconic-contact-info">
 						<div class="contact-info-head">
 							<h2>Contact Information</h2>
@@ -877,8 +877,7 @@
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-6 ">
-						<br/><br/><br/>
+				<div class="col-md-5">
 					<form class="contact-form" method="post">
 						<div class="form-row">
 							<div class="form-group col-md-6">
