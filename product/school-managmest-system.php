@@ -394,9 +394,9 @@
 
 			<div class="row">
 
-				<div class="col-md-5 px-md-4">
+				<div class="col-md-5">
 
-					<div class="faq-sec-img">
+					<div class="faq-sec-img mx-0">
 
 						<img class="wow slideInLeft" src="../assets/images/school-software.gif" alt="school">
 
