@@ -386,7 +386,7 @@
 
 	
 
-	<section class="faq-sec s-padding bg-color ml-0 pb-md-5 pb-3" id="faq">
+	<section class="faq-sec s-padding bg-color ml-0 pb-3" id="faq">
 		<div class="s-title mb-5">
 			<h2 class="w-100 d-block text-center pt-md-5 pt-3">Frequently Asked</h2>
 		</div>
