@@ -36,7 +36,7 @@
             <section class="aboutImg-01" data-aos="fade-down">
                  <div class="container-fluid">
                        <h1 class="w-100 d-block text-center" data-aos="fade-left">Lorem ipsum<br/>
-                       <span class="w-100 d-block text-center" data-aos="fade-right"><strong>consectetur</strong><br/>
+                       <span class="w-100 d-block text-center" data-aos="fade-up"><strong>consectetur</strong><br/>
                            <strong>sed do</strong> eiusmod tempor
                        </span>
                        </h1>
