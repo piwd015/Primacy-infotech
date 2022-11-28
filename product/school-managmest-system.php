@@ -317,7 +317,7 @@
 
 	<section class="about s-padding pt-5">
 
-		<div class="container-fluid px-md-5 px-3">
+		<div class="container-fluid px-md-5 px-3 pt-5">
 
 			<div class="row align-items-center">
 
