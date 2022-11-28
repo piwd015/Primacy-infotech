@@ -218,14 +218,18 @@
                                                  <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3">
-                                        <div class="why-us-box d-block position-relative
-                                            px-md-4 px-3 pt-md-5 pt-4">
-                                           <div class="why-us-box-ico position-absolute"></div>
-
-                                           <div class="why-us-box-ico-bt position-absolute"></div>
-                                      </div>
-                                </div>
+                                <div class="col-md-3 mb-md-0 mb-5">
+                                 <div class="why-us-box d-block position-relative
+                                                px-md-4 px-3 pt-md-5 pt-4">
+                                     <div class="why-us-box-ico position-absolute"></div>
+                                     <h4 class="d-block pb-md-2">Born Digital</h4>
+                                     <span class="d-block">Since 1997, we have been
+                                                    offering new-age digital solutions to keep
+                                                    your business digitally advanced and
+                                                    sustainable to the uncertain challenges.</span>
+                                     <div class="why-us-box-ico-bt position-absolute"></div>
+                                 </div>
+                             </div>
                          </div>
                    </div>
             </section>
