@@ -162,24 +162,24 @@
                                      <a href="../service/crm-erp-portal-development" class="wedo-circle"><i class="icofont-computer icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">CRM & ERP Development</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/ui-ux-desing" class="wedo-circle"><i class="icofont-penalty-card icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">UL/UX Developer</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/mlm-software-development.php" class="wedo-circle"><i class="icofont-company icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">MLM Software Development</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/health-care-mangment" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Healthcare Portal Development</span>
                                  </div>
                          </div>
                    </div>
             </section>
-            <section class="w-100 d-block why-us pt-md-0 pt-3">
+            <section class="w-100 d-block why-us pt-md-5 pt-3">
                    <div class="container">
-                        <h2 class="w-100 d-block pb-md-5 pb-2">Why Us</h2>
+                        <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
                          <div class="row">
                                 <div class="col-md-3 mb-md-0 mb-5">
                                       <div class="why-us-box d-block position-relative
@@ -218,15 +218,15 @@
                                                  <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 mb-md-0 mb-5">
                                  <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-md-5 pt-4">
                                      <div class="why-us-box-ico position-absolute"></div>
-                                     <h4 class="d-block pb-md-2">Agile by Design</h4>
-                                     <span class="d-block">We are a small company with huge
-                                         capabilities. We have retained our agility through
-                                         our unique company culture and a flat organizational
-                                         structure.</span>
+                                     <h4 class="d-block pb-md-2">Born Digital</h4>
+                                     <span class="d-block">Since 1997, we have been
+                                                    offering new-age digital solutions to keep
+                                                    your business digitally advanced and
+                                                    sustainable to the uncertain challenges.</span>
                                      <div class="why-us-box-ico-bt position-absolute"></div>
                                  </div>
                              </div>
