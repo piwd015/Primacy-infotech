@@ -355,13 +355,13 @@
                                            <span class="w-100 d-block text-center">App & Website Completed</span>
                                        </div>
                                  </div>
-                                 <div class="col-md-3">
+                                 <div class="col-md-3 col-6">
                                      <div class="count-box w-100">
                                          <h2 class="w-100 d-block text-center">200+</h2>
                                          <span class="w-100 d-block text-center">Sucessfully Run</span>
                                      </div>
                                  </div>
-                                 <div class="col-md-3">
+                                 <div class="col-md-3 col-6">
                                      <div class="count-box w-100">
                                          <h2 class="w-100 d-block text-center">200%</h2>
                                          <span class="w-100 d-block text-center">Return Customer</span>
