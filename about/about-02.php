@@ -102,10 +102,10 @@
                    <div class="container">
                           <div class="row vs-md d-flex flex-wrap flex-column-reverse flex-md-row">
                                 <div class="col-md-8 pt-md-0 pt-2">
-                                      <h2 class="d-block pb-md-3 pb-1 d-block text-md-left text-center">Mission</h2>
-                                      <h4 class="d-block pb-md-4 pb-1">Lorem ipsum dolor sit amet,
+                                      <h2 class="d-block pb-md-3 pb-1 d-block text-md-left text-center" data-aos="fade-right">Mission</h2>
+                                      <h4 class="d-block pb-md-4 pb-1" data-aos="fade-up">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor</h4>
-                                        <p class="d-block text-md-justify">Lorem ipsum dolor sit amet,
+                                        <p class="d-block text-md-justify" data-aos="fade-up">Lorem ipsum dolor sit amet,
                                         consectetur adipiscing elit, sed do eiusmod tempor
                                         incididunt ut labore et dolore magna aliqua. Quis
                                         ipsum suspendisse ultrices gravida. Risus commodo
@@ -121,7 +121,7 @@
                                         accumsan lacus vel facilisis. Lorem </p>
                             </div>
                                 <div class="col-md-4 d-flex flex-wrap justify-content-center align-items-center">
-                                    <img src="../assets/images/about/mission-icon.png" class="img-fluid" alt="">
+                                    <img src="../assets/images/about/mission-icon.png" class="img-fluid" data-aos="zoom-in-up" alt="">
                                 </div>
                           </div>
                    </div>
@@ -130,8 +130,8 @@
                    <div class="container">
                           <div class="row">
                                   <div class="col-md-7 col-12 pb-md-3">
-                                         <h2 class="d-block pb-md-2">What we do</h2>
-                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                                         <h2 class="d-block pb-md-2" data-aos="fade-down">What we do</h2>
+                                         <p data-aos="fade-down">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                                              sed do eiusmod tempor incididunt ut labore et dolore magna
                                              aliqua. Quis ipsum suspendisse ultrices gravida. Risus
                                              commodo viverra maecenas accumsan lacus vel facilisis.
@@ -142,23 +142,23 @@
                                   </div>
                           </div>
                          <div class="row pt-md-3">
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                         <a href="../service/web-developement" class="wedo-circle"><i class="icofont-web"></i></a>
                                         <span class="w-100 d-block text-center pt-md-3">Web Development</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/web-designing" class="wedo-circle"><i class="icofont-dashboard-web icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Web Designing</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/mobile-app-developemnt" class="wedo-circle"><i class="icofont-brand-android-robot icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">App Development</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/digital-marketing" class="wedo-circle"><i class="icofont-automation icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Digital Marketing</span>
                                  </div>
-                                 <div class="wedo">
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/crm-erp-portal-development" class="wedo-circle"><i class="icofont-computer icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">CRM & ERP Development</span>
                                  </div>
