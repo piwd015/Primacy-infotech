@@ -210,7 +210,7 @@
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-up" data-aos-duration="3000">
                                         <div class="why-us-box d-block position-relative
-                                                px-md-4 px-3 pt-md-5 pt-4">
+                                                px-md-4 px-3 pt-3">
                                                 <div class="why-us-box-ico position-absolute"></div>
                                                  <img src="../assets/images/about/service-digital.png" alt="">
                                                 <h4 class="d-block pb-md-2">Born Digital</h4>
@@ -344,7 +344,7 @@
                         </div>
                    </div>
             </section>
-            <section class="count-bg w-100 d-block py-md-5 py-3">
+            <!--<section class="count-bg w-100 d-block py-md-5 py-3">
                    <div class="container">
                          <div class="row">
                                  <div class="col-md-3 col-6 mb-md-0 mb-3">
@@ -373,7 +373,7 @@
                                  </div>
                          </div>
                    </div>
-            </section>
+            </section>-->
     </div>
 
     <!-- footer -->
