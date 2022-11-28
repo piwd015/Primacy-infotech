@@ -645,7 +645,7 @@
 	</section><!-- partners -->
 
 	<section class="fun-fact s-padding bg-img bg-1">
-		<div class="overlay"></div>
+<!--		<div class="overlay"></div>-->
 		<div class="container-fluid px-md-5 px-3">
 			<div class="row">
 				<div class="col-md-3 col-sm-3">
