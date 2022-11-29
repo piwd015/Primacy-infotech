@@ -130,7 +130,7 @@
                              </span>656 Full Moon Circle Mississauga ON</li>
                             <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
                         </ul>
-                        <ul class="f-contact-list d-inline-block position-relative cont-bd-pt">
+                        <ul class="f-contact-list d-inline-block">
 
                             <li><span><img style="width:20px;" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"></span><span>Bangladesh Office</span></li>
                             <li><span><i class="fa fa-map-marker"></i>
