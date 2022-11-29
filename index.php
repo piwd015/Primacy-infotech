@@ -929,10 +929,10 @@
                                                 <img src="images/india-map.png" alt="">
 
                                                  <span>India Office</span>
-<!--                                                 <p>601,Webel Tower I ,BN-4,<br/>Sector V, Salt Lake,<br/> Kolkata-91,WB,India</p>-->
-                                                 <p>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
+                                                 <p>601,Webel Tower I ,BN-4,<br/>Sector V, Salt Lake,<br/> Kolkata-91,WB,India</p>
+                                                 <!--<p>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
                                                      Number 18, Sector 5, Bidhan Nagar, North Twenty Four Parganas,
-                                                     West Bengal, 700091</p>
+                                                     West Bengal, 700091</p>-->
                                           </div>
 
                                           <div class="addres w-100 d-block">
@@ -1697,10 +1697,10 @@
                                         <ul class="cont-info w-100 d-block pb-2">
 
                                             <h3 class="d-block pb-2"><img src="images/inddd.png" alt="india">India Office</h3>
-<!--                                            <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>-->
-                                            <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
+                                            <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>
+                                            <!--<li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
                                                 Number 18, Sector 5, Bidhan Nagar, North Twenty Four Parganas,
-                                                West Bengal, 700091</li>
+                                                West Bengal, 700091</li>-->
 
                                             <li class="pb-2"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+919088015866">+91 9088015866</a></li>
 
