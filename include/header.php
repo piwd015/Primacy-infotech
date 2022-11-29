@@ -281,7 +281,7 @@
                     <a href="#"><img src="../assets/images/globe.png" alt=""></a>
                 </div>
             </div>
-            <div class="col-md-1 tgl-mt hd-menu">
+            <div class="col-md-1 tgl-mt hd-menu pt-2">
                 <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
                 <div id="myCanvs" class="overlay2">
                     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
