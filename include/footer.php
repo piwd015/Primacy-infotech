@@ -23,7 +23,8 @@
                                                     <div class="addres w-100 d-block ftr-map-pt">
                                                         <img src="../images/uk-map.png" alt="">
                                                         <span>UK Office</span>
-                                                        <p>103, City Gate House, Forestgate London E7 9HZ</p>
+                                                        <p>Suit 63  24-28 St.Leonards Road, SL4 3BB - Windsor
+                                                            Berkshire (GB)<br/>United Kingdom</p>
                                                  </div>
                                             </div>
                                             <div class="col-md-5">
