@@ -1730,7 +1730,8 @@
 
                                             <h3 class="d-block pb-2"><img src="images/uk-flag-xs.png" alt="United Kingdom">UK Office</h3> 
 
-                                            <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>103, City Gate House,<br/> Forestgate London E7 9HZ</li>
+                                            <li class="pb-2"><i class="fa fa-map-marker" aria-hidden="true"></i>Suit 63  24-28 St.Leonards Road,
+                                                SL4 3BB - Windsor Berkshire (GB) United Kingdom</li>
                                             <li class="pb-2"><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+442045772363">+44 2045772363</a></li>
                                             <li class="pb-2"><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@primacyinfotech.com">info@primacyinfotech.com</a></li>
 
@@ -1872,7 +1873,8 @@
 
                                        <span>UK Office</span>
 
-                                       <p>103, City Gate House, Forestgate London E7 9HZ</p>
+                                       <p>Suit 63  24-28 St.Leonards Road, SL4 3BB - Windsor
+                                           Berkshire (GB) United Kingdom</p>
 
                                   </div>
 
