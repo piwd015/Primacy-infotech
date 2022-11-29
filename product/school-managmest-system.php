@@ -111,7 +111,7 @@
 
 		<div class="container-fluid px-md-5 px-3">
 
-				<div class="s-title">
+				<div class="s-title mb-5">
 
 					<h2><span class="logo-color">W</span>HY CHOOSE US?</h2>
 
