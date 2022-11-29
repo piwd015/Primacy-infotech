@@ -53,7 +53,7 @@
 
 						<div class="bnr-cnt">
 
-							<h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We are known to be the trusted brand, which provides with hardy, flexible , tested and the accurate software for  management of school. The rates of school management software is starting from  Rs 20,999. <span class="logo-color">School Management</span> System.</h2> 
+							<h2 class="title wow fadeInUp" data-wow-duration=".65s"  data-wow-delay=".1s">We are known to be the trusted brand, which provides with hardy, flexible , tested and the accurate software for  management of school. The rates of school management software is starting from  Rs 20,999. <span class="logo-color">School Management</span> System.</h2>
 
 
 
@@ -107,7 +107,7 @@
 
 	
 
-		<section class="feature">
+		<section class="feature pt-md-5 pt-3">
 
 		<div class="container-fluid px-md-5 px-3">
 
@@ -687,11 +687,6 @@
 			</div>
 		</div>
 	</section><!-- fun-fact -->
-	
-	
-
-	
-
 		<section class="testimonial s-padding bg-color pb-md-5 pb-3">
 		<div class="bg-text">Feedback</div>
 		<div class="container-fluid px-md-5 px-3">
