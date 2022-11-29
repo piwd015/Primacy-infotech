@@ -104,12 +104,12 @@
                         <ul class="f-contact-list d-inline-block">
 
                             <li><span><img src="../assets/images/inddd.png" alt="india"></span><span>India Office</span></li>
-<!--                            <li> <span><i class="fa fa-map-marker"></i>-->
-<!--                            </span>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>-->
                             <li> <span><i class="fa fa-map-marker"></i>
+                            </span>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>
+                            <!--<li> <span><i class="fa fa-map-marker"></i>
                             </span>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
                                 Number 18, Sector 5, Bidhan Nagar, North Twenty Four Parganas,
-                                West Bengal, 700091</li>
+                                West Bengal, 700091</li>-->
                             <li><span><i class="fa fa-volume-control-phone" ></i></span> +91 9088015866,+91 9088015865</li>
 
                             <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
