@@ -237,9 +237,9 @@
                          </div>
                    </div>
             </section>
-            <section class="team-bg w-100 d-block py-md-4 py-3">
+            <section class="team-bg w-100 d-block py-md-5 py-3">
                    <div class="container">
-                        <div class="team-bg-wht py-md-4 py-3">
+                        <div class="team-bg-wht p-md-5 p-3">
                              <div class="row">
                               <div class="col-md-3 col-6 mb-3">
                                       <div class="content">
