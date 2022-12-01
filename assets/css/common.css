@@ -1923,7 +1923,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
  top: 20%;
 }
 
-.attorney-bnr-app{width:60%; position:absolute; right: 0px; top:-30px;}
+.attorney-bnr-app{width:50%; position:relative; float:right;}
 .attorney-bnr-app img{width:100%; display:block;}
 
 
