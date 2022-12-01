@@ -250,31 +250,6 @@
         <div class="clearfix"></div>
         <!-- ============================ Make Collaboration End ================================== -->
 
-        <!-- Strat Frontend-Design -->
-        <section class="frontend-design">
-        	<div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="col text-center">
-                            <div class="sec-heading mx-auto">
-                                <h2>Frontend Design</h2>
-                                <p>Unique shop design to make your business a true eCommerce platform</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-        		<div class="row">
-        			<div id="frontend" class="owl-carousel frontend">
-					    <div class="item"><img src="../assets/images/for-2.png" alt=""></div>
-					    <div class="item"><img src="../assets/images/for-1.png" alt=""></div>
-					    <div class="item"><img src="../assets/images/for-3.png" alt=""></div>
-					</div>
-        		</div>
-        		<!-- /.row -->
-        	</div>
-        	<!-- /.container -->
-        </section>
-        <!-- End Frontend-Design -->
 
          <!-- ============================ Benifits & Demo Features ================================== -->
         <section class="demo-sec sec_pad bg_grey" id="demo_view">
