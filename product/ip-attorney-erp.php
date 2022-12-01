@@ -35,7 +35,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8 col-md-8">
                           <div class="attorney-bnr-txt">
-                              <h1 class="d-block"><strong>IPGO – ERP Software for IP professionals</strong>
+                              <h1 class="d-block w-100"><strong>IPGO – ERP Software for IP professionals</strong>
                               <br/>IP made Easy & Perfect with IPGO</h1>
                               <p class="d-block">Intellectual Property Management software for
                                   forward thinking IP professionals.</p>
