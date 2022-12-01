@@ -235,7 +235,7 @@
                           <li class="tab" data-tab="tab-4"><i class='fab fa-app-store'></i>Oddo Integration<br/>& Data Migration</li>
                           <li class="tab" data-tab="tab-5"><i class='fab fa-app-store'></i> Oddo Support<br/>& Maintenance</li>
                     </ul>
-                    <div id="tab-1" class="tab-content current">
+                    <div id="tab-1" class="tab-content3 current">
                             <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Apps</strong></h2>
@@ -248,7 +248,7 @@
                                   </div>
                             </div>
                     </div>
-                    <div id="tab-2" class="tab-content d-none">
+                    <div id="tab-2" class="tab-content3">
                              <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>customization</strong></h2>
@@ -261,7 +261,7 @@
                                   </div>
                             </div>
                     </div>
-                    <div id="tab-3" class="tab-content d-none">
+                    <div id="tab-3" class="tab-content3">
                              <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Training</strong></h2>
@@ -274,7 +274,7 @@
                                   </div>
                              </div>
                     </div>
-                   <div id="tab-4" class="tab-content d-none">
+                   <div id="tab-4" class="tab-content3">
                            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Integration & Migration</strong></h2>
@@ -287,7 +287,7 @@
                                   </div>
                              </div>
                    </div>
-                   <div id="tab-5" class="tab-content d-none">
+                   <div id="tab-5" class="tab-content3">
                            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Support & Maintenance</strong></h2>

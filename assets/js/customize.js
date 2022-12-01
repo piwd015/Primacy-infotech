@@ -1,9 +1,9 @@
 
 $(document).ready(function(){
-  $('ul.tab li').click(function(){
+  $('ul.tabs li').click(function(){
     var tab_id= $(this).attr('data-tab');
-    $('ul.tab li').removeClass('current');
-    $('.tab-content').removeClass('current');
+    $('ul.tabs li').removeClass('current');
+    $('.tab-content3').removeClass('current');
     $(this).addClass('current');
     $("#"+tab_id).addClass('current');
 
