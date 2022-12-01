@@ -86,7 +86,7 @@
 
                     </div>
 
-                    <div class="col-lg-6 col-md-5">
+                    <div class="col-lg-6 col-md-5 position-relative">
                           <div class="attorney-bnr-app">
                                  <img src="../assets/images/and2.png" class=" wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
                           </div>
