@@ -1923,13 +1923,10 @@ a.wedo-circle i{font-size:50px; color:#fff;}
  top: 20%;
 }
 
-.fadeIn-left{
- left: 20%;
-}
+.attorney-bnr-app{width:40%;}
+.attorney-bnr-app img{width:100%; display:block;}
 
-.fadeIn-right{
- left: 80%;
-}
+
 
 /*-------------our team section-------------*/
 

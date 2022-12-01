@@ -87,11 +87,9 @@
                     </div>
 
                     <div class="col-lg-6 col-md-5 h3-banner-img-wrapper">
-
-                        <!--					<img class="lazy" data-src="../assets/images/and4.png" class="h3-banner-img-1 wow slideInDown" data-wow-delay=".1s" alt="ecommerce india">-->
-                        <!--					<img  src="../assets/images/and4.png" class="h3-banner-img-1 wow slideInDown"  alt="ecommerce india">-->
-
-                        <img src="../assets/images/and2.png" class="h3-banner-img-2 wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
+                          <div class="attorney-bnr-app">
+                                 <img src="../assets/images/and2.png" class="h3-banner-img-2 wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
+                          </div>
 
                     </div>
 
