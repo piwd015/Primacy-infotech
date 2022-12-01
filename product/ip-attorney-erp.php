@@ -37,6 +37,12 @@
                           <div class="attorney-bnr-txt">
                               <h1 class="d-block"><strong>IPGO – ERP Software for IP professionals</strong>
                               <br/>IP made Easy & Perfect with IPGO</h1>
+                              <p class="d-block">Intellectual Property Management software for
+                                  forward thinking IP professionals.</p>
+                              <p class="d-block">IPGO is a modern cloud-based Intellectual Property Management
+                                  Software for patent and trademark professionals which is
+                                  highly customizable, feature rich and has built in time
+                                  saving automation.</p>
                           </div>
                     </div>
                     <div class="col-lg-5 col-md-5">
