@@ -30,7 +30,7 @@
     <div id="main-wrapper">
 
         <!-- ============================ Hero Banner  Start================================== -->
-        <section class="home-3-banner main-banner" id="banner" style="height:92vh;">
+        <section class="home-3-banner main-banner pt-5" id="banner" style="height:92vh;">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-8 col-md-8">
