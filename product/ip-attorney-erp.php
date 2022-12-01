@@ -71,19 +71,10 @@
 
         <!-- ============================ Make Collaboration Start ================================== -->
         <section class="mission">
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-3 col-sm-12">
-                        <div class="mt-4">
-                            <h6 class="theme-cl">Our Service</h6>
-                            <h2>We Offer Your Needs</h2>
+                 <div class="container">
+                        <div class="col-md-12 pt-5">
+                               <h2 class="w-100 d-block text-center">Trademark & Patent Management Software for IP Law Firms in India</h2>
                         </div>
-                    </div>
-
-                    <div class="col-lg-9 col-md-9 col-sm-12">
-
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
@@ -206,10 +197,7 @@
                             </div>
 
                         </div>
-                    </div>
-                </div>
-
-            </div>
+                  </div>
         </section>
         <div class="clearfix"></div>
         <!-- ============================ Make Collaboration End ================================== -->
