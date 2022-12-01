@@ -148,7 +148,7 @@ padding: 35px 0px 0px;
 line-height:1.4;}
 
 .tab-content3{
- display:none;
+ display:inherit;
  padding: 35px 0px 0px;
  line-height:1.4;}
 
