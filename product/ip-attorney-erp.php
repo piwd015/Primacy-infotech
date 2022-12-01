@@ -30,8 +30,8 @@
     <div id="main-wrapper">
 
         <!-- ============================ Hero Banner  Start================================== -->
-        <section class="home-3-banner main-banner" id="banner">
-            <div class="container-fluid px-md-3">
+        <section class="home-3-banner main-banner attorney-bnr-hght" id="banner">
+            <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-7 col-md-7">
                           <div class="attorney-bnr-txt">
