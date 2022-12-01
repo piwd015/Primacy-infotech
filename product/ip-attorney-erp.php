@@ -5,47 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Ecommerce app development company in india| Readymade Ecommerce app Solution|Affordable Ecommerce App Development Company : Primacy Infotech </title>
-
     <meta name="description" content="Primacy Infotech is one of the best Ecommerce app development companies in India. Call us on 9088015866 to Get demo and prices." />
-
     <meta name="keywords" content=" Ecommerce app development, Ecommercemobile app development, flipkart clone app, readymade Ecommerce app, Ecommerce app development company india, grocery shopping app development, grocery app development company in kolkata." />
-
     <meta name="robots" content="index, follow">
-
     <meta name="language" content="EN">
-
     <meta name="organization" content="Primacy Infotech">
-
     <link rel="canonical" href="../index.php">
-
     <meta property="og:locale" content="en_US">
-
     <meta property="og:type" content="website">
-
     <meta property="og:title" content="Primacy Infitech Best website development company in kolkata">
-
     <meta property="og:description" content="Primacy Infotech- It is a website design and development company based in kolkata. We help small and mid sized company to achieve thier marketing goals. Call today - 9088015866">
-
-
     <meta property="og:url" content="http://primacyinfotech.com/">
-
     <meta property="og:site_name" content="Primacy Infotech">
-
     <meta name="format-detection" content="telephone=no">
     <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
-
-
-
     <?php include '../include/header.php'; ?>
-
     <link rel="stylesheet" href="../assets/css/plugins.css"><!--web design & development-->
     <link rel="stylesheet" href="../assets/css/pistore.css"><!--web design & development-->
     <link rel="stylesheet" href="../assets/css/styles_new.css"><!--web design & development-->
     <link rel="stylesheet" href="../css/common-style.css">
-
-
-  
-
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
