@@ -33,13 +33,13 @@
         <section class="home-3-banner main-banner" id="banner">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-7">
+                    <div class="col-lg-7 col-md-7">
                           <div class="attorney-bnr-txt">
                               <h1 class="d-block"><strong>IPGO – ERP Software for IP professionals</strong>
-                              <br/>>IP made Easy & Perfect with IPGO</h1>
+                              <br/>IP made Easy & Perfect with IPGO</h1>
                           </div>
                     </div>
-                    <div class="col-lg-6 col-md-5">
+                    <div class="col-lg-5 col-md-5">
                           <div class="attorney-bnr-app">
                                  <img src="../assets/images/and2.png" class=" wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
                           </div>
