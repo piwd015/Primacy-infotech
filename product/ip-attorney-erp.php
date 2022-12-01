@@ -30,7 +30,7 @@
     <div id="main-wrapper">
 
         <!-- ============================ Hero Banner  Start================================== -->
-        <section class="home-3-banner main-banner " id="banner">
+        <section class="home-3-banner main-bannerpt-5" id="banner">
 
             <div class="container">
 
@@ -90,7 +90,6 @@
                           <div class="attorney-bnr-app">
                                  <img src="../assets/images/and2.png" class=" wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
                           </div>
-
                     </div>
 
                 </div>
