@@ -72,7 +72,7 @@
         <!-- ============================ Make Collaboration Start ================================== -->
         <section class="mission">
                  <div class="container">
-                        <div class="col-md-12 pt-5">
+                        <div class="col-md-12 pt-3 pb-4">
                                <h2 class="w-100 d-block text-center">Trademark & Patent Management Software for IP Law Firms in India</h2>
                         </div>
                         <div class="row">
