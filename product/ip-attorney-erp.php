@@ -30,7 +30,7 @@
     <div id="main-wrapper">
 
         <!-- ============================ Hero Banner  Start================================== -->
-        <section class="home-3-banner main-banner pt-5" id="banner">
+        <section class="home-3-banner main-banner" id="banner">
 
             <div class="container">
 
