@@ -1925,7 +1925,8 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 
 .attorney-bnr-app{width:50%; position:relative; float:right;}
 .attorney-bnr-app img{width:100%; display:block;}
-
+.attorney-bnr-txt{}
+.attorney-bnr-txt h1{font-size:45px; color:#fff;}
 
 
 /*-------------our team section-------------*/

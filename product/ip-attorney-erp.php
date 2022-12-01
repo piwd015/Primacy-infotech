@@ -31,71 +31,21 @@
 
         <!-- ============================ Hero Banner  Start================================== -->
         <section class="home-3-banner main-banner" id="banner">
-
             <div class="container">
-
                 <div class="row align-items-center">
-
                     <div class="col-lg-6 col-md-7">
-
-                        <div class="banner-content banner-content2">
-
-                            <div class="ovh">
-
-                                <h3 class="title wow slideInDownBig" data-wow-duration=".65s" data-wow-delay=".1s">Launch Your Online Grocery Store Without Any Hassle! Our Package Start From <span class="hightlight-price">15000/*</span> <br>CALL-<span class="title-header"> <a href="tel:+91 9088015866" class="text-white">+91 9088015866</a> / <a href="tel:+91 9088015865" class="text-white">65</a> </span></h3>
-
-                            </div>
-
-                            <div class="ovh">
-
-                                <span class="sub-title wow slideInDownBig text-white" data-wow-duration=".65s" data-wow-delay=".3s">Grocery App Development – Get a readymade grocery app like Big Basket, Grofers and Spencer within 7 days. Primacy Infotech  introduces the ready-made mobile app solution for grocery stores. We have designed this mobile app solution with keeping in the mind the requirements of all sorts of grocery stores: Single Vendor, Multi Vendor and Multi Store. This app is a fully customizable solution which means it can be packaged for particular store, with Your brand name. </span>
-
-                            </div>
-
-                            <div class="btn-wrapper ovh">
-
-                                <button type="button" class="btn custom-btn slid-button mb " data-toggle="modal" data-target="#myModal_grocery" href="#">Get Started <i class="icon-layers"></i></button>
-
-
-
-                                <button type="button" class="btn custom-btn mb" data-toggle="modal" data-target="#callback" href="#" style="color: #fff"><i class="icon-phone"></i> Call Back Request</button>
-
-                                <!--
-
-                                <a class="btn store-btn fill-style wow slideInDownBig" data-wow-duration=".65s" data-wow-delay=".4s" href="#">
-
-
-
-                                <img src="../assets/images/gp.png" alt="google-play" height="50" width="50">
-
-    <span>Google Play</span></a>
-
-                                <a class="btn store-btn wow slideInDownBig" data-wow-duration=".65s" data-wow-delay=".6s"  href="#">
-
-                                <i class="icon-phone fa-3x"></i>
-
-
-
-                                <span>Call Back Now</span></a>
-
-    -->
-
-                            </div>
-
-                        </div>
-
+                          <div class="attorney-bnr-txt">
+                              <h1 class="d-block"><strong>IPGO – ERP Software for IP professionals</strong>
+                              <br/>>IP made Easy & Perfect with IPGO</h1>
+                          </div>
                     </div>
-
                     <div class="col-lg-6 col-md-5">
                           <div class="attorney-bnr-app">
                                  <img src="../assets/images/and2.png" class=" wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
                           </div>
                     </div>
-
                 </div>
-
             </div>
-
         </section>
         <!-- ============================ Hero Banner End ================================== -->
 
