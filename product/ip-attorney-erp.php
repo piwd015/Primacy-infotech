@@ -127,7 +127,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon5.png" class="img-responsive" alt="" />
+                                        <img src="../assets/images/product/deadline-management.png" class="img-responsive" alt="" />
                                     </div>
                                     <div class="large-features-2-detail">
                                         <h4>Deadline Management</h4>
@@ -142,7 +142,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon6.png" class="img-responsive" alt="" />
+                                        <img src="../assets/images/product/hearing-management.png" class="img-responsive" alt="" />
                                     </div>
                                     <div class="large-features-2-detail">
                                         <h4>Hearing Management</h4>
