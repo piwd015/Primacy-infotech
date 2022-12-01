@@ -244,21 +244,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-12">
-                                <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
-                                    <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
-                                    </div>
-                                    <div class="large-features-2-detail">
-                                        <h4>Task Management with Reminders</h4>
-                                        <p>IPGO has an integrated Task Management which can be used indepently, or can be linked with individual trademark or patent. It helps you assign important tasks to concerned person in your organization such as preparing and filing various forms, preparing replies, prepare and submit documents etc. This implies better office management and makes sure your daily tasks are well-managed and you don't lose on any important matter.
-                                            You can also attach one or more documents for each task, which serves as means of reference. The documents are stored on your own server and accessible only to the users who has the access rights, to make sure your confidential documents are always secured.
-                                            The task management system also equipped with advanced Reminders sections which makes sure you never forget important tasks assigned to you. It also allows you to set reminders in your Outlook, Lotus Nots, Google Calendar or any other scheduler you use.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                   </div>
         </section>
