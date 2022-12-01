@@ -79,7 +79,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon1.png" class="img-responsive" alt="" />
+                                        <img src="../assets/images/product/ip-management.png" class="img-responsive" alt="" />
                                     </div>
                                     <div class="large-features-2-detail">
                                         <h4>Total IP Management</h4>
@@ -91,7 +91,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon2.png" class="img-responsive" alt="" />
+                                        <img src="../assets/images/product/smart-dashboard.png" class="img-responsive" alt="" />
                                     </div>
                                     <div class="large-features-2-detail">
                                         <h4>Smart Dashboard</h4>
@@ -103,7 +103,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon3.png" class="img-responsive" alt="" />
+                                        <img src="../assets/images/product/client-management.png" class="img-responsive" alt="" />
                                     </div>
                                     <div class="large-features-2-detail">
                                         <h4>Clients & Associate Management</h4>
@@ -115,7 +115,7 @@
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
-                                        <img src="../assets/images/offer_icon4.png" class="img-responsive" alt="" />
+                                        <img src="../assets/images/product/cash-management.png" class="img-responsive" alt="" />
                                     </div>
                                     <div class="large-features-2-detail">
                                         <h4>Case Management</h4>
