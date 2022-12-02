@@ -8813,7 +8813,7 @@ button.owl-next {
 }
  @media only screen and (max-width: 600px) {
  section.mission {
-    display: none;
+    display: block;
 }
 .c-mob {
     font-family: 'Poppins', sans-serif;
