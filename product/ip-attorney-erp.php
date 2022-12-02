@@ -800,12 +800,12 @@
                 </div>
             </div>
             <section class="customer-logos slider">
-                <div class="slide"><img src="../assets/images/screen_1.jpg"></div>
-                <div class="slide"><img src="../assets/images/screen_2.jpg"></div>
-                <div class="slide"><img src="../assets/images/screen_3.jpg"></div>
-                <div class="slide"><img src="../assets/images/screen_1.jpg"></div>
-                <div class="slide"><img src="../assets/images/screen_2.jpg"></div>
-                <div class="slide"><img src="../assets/images/screen_3.jpg"></div>
+                <div class="slide"><img src="../assets/images/product/screen-1.jpg"></div>
+                <div class="slide"><img src="../assets/images/product/screen-2.jpg"></div>
+                <div class="slide"><img src="../assets/images/product/screen-3.jpg"></div>
+                <div class="slide"><img src="../assets/images/product/screen-4.jpg"></div>
+                <div class="slide"><img src="../assets/images/product/screen-5.jpg"></div>
+                <div class="slide"><img src="../assets/images/product/screen-6.jpg"></div>
             </section>
         </div>
 
