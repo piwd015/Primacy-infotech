@@ -2,7 +2,7 @@
 
 
 
-<section class="testimonial s-padding bg-color d-none d-md-block pb-0 pt-50">
+<section class="testimonial s-padding bg-color d-none d-md-block pb-0 pt-5">
 
     <div class="bg-text">Feedback</div>
 
