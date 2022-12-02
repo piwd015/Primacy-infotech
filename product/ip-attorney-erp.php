@@ -372,7 +372,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -384,7 +384,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -396,7 +396,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -408,7 +408,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
