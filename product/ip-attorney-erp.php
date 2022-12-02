@@ -1060,11 +1060,11 @@
                         <div class="pricing-tables-wrapper">
                             <ul class="nav nav-tabs pricing-tab" id="pricing-tab" role="tablist">
                                  <li class="nav-item">
-                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime (Host on Cloud Web Server )</a>
+                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson (Pay Per Use)</a>
+                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="pricing-tab-content">
