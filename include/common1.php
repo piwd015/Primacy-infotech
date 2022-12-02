@@ -296,7 +296,7 @@
 
         <div class="row">
 
-            <div class="col-md-4 offset-md-1 ">
+            <div class="col-md-7">
 
                 <div class="iconic-contact-info">
 
@@ -370,7 +370,7 @@
 
             </div>
 
-            <div class="col-md-6 ">
+            <div class="col-md-5 ">
 
                 <br/><br/><br/>
 
