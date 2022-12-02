@@ -259,7 +259,7 @@
 
                     <div class="col-lg-4 col-md-4">
 
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
 
                             <div class="icon-box-icon">
 
@@ -279,7 +279,7 @@
 
                         </div>
 
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp">
+                        <div class="icon-box awf-item wow slideInUp">
 
                             <div class="icon-box-icon">
 
@@ -298,7 +298,7 @@
 
                     <div class="col-lg-4 col-md-4">
 
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
 
                             <div class="icon-box-icon">
 
@@ -313,7 +313,7 @@
 
                         </div>
 
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp">
+                        <div class="icon-box awf-item wow slideInUp">
                             <div class="icon-box-icon">
                                 <i class="icon_headphones"></i>
                             </div>
@@ -335,7 +335,7 @@
                             </div>
                         </div>
 
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp">
+                        <div class="icon-box awf-item wow slideInUp">
                             <div class="icon-box-icon">
                                 <i class="icon_headphones"></i>
                             </div>
@@ -348,7 +348,7 @@
 
                     <!------>
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -360,7 +360,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -372,7 +372,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -384,7 +384,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -396,7 +396,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -408,7 +408,7 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box mb-md-4 mb-2 wow slideInUp" data-wow-delay=".1s">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
