@@ -513,7 +513,7 @@
 
                 <div class="row product_features">
                     <div class="col-lg-4 col-md-4 col-sm-12">
-                        <div class="sec-heading w-100 d-block text-center mx-auto">
+                        <div class="ipgo-app-hdr w-100 d-block text-center mx-auto">
                             <h2>Copyright Management System</h2>
                         </div>
                         <!-- Single Features -->
