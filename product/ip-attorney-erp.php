@@ -252,11 +252,9 @@
 
         <section class="h4-awesome-feature bg-color s-padding py-5">
             <div class="container">
-                <div class="s-title">
+                <div class="s-title mb-5">
                     <h2 class="wow">Trademark  Module </h2>
-
                 </div>
-
                 <div class="row align-items-center">
 
                     <div class="col-lg-4 col-md-4">
@@ -362,62 +360,67 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-
                         <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
-
                             <div class="icon-box-icon">
-
                                 <i class="icon_drawer_alt"></i>
-
                             </div>
-
                             <div class="icon-box-details">
-
-                                <h3 class="icon-box-title">Multi-language
-
-                                </h3>
-
-                                <p>This app would be open to customers, globally. So to make it easier for the customers, different language bar should be available. In order to meet the business requirement, blobal languages should be integrated. </p>
-
+                                <h3 class="icon-box-title">Trademark Renewal</h3>
+                                <p>Trademark renewal history with due date reminder</p>
                             </div>
-
                         </div>
-
-
-
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-
                         <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
-
                             <div class="icon-box-icon">
-
                                 <i class="icon_drawer_alt"></i>
-
                             </div>
-
                             <div class="icon-box-details">
-
-                                <h3 class="icon-box-title">Easy search
-
-                                </h3>
-
-                                <p>Easy search results are that platform where the search results would appear on the internet. </p>
-
+                                <h3 class="icon-box-title">Reports</h3>
+                                <p>Advanced reporting with state-of-the art search features</p>
                             </div>
-
                         </div>
-
                     </div>
 
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Deadline Management</h3>
+                                <p>Reminders for examination, renewal, opposition deadlines</p>
+                            </div>
+                        </div>
+                    </div>
 
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Clients & Associate Management</h3>
+                                <p>Clients and associates with multiple contacts per client</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Document Management</h3>
+                                <p>Document Management System for paperless management</p>
+                            </div>
+                        </div>
+                    </div>
                     <!-------->
-
                 </div>
-
             </div>
-
         </section>
 
         <!-- ============================ Benifits & Advance Features ================================== -->
