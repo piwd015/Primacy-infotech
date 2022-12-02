@@ -292,7 +292,7 @@
 
 <section class="h4-contact s-padding bg-color" id="contact">
 
-    <div class="container">
+    <div class="container-fluid px-md-5 px-3">
 
         <div class="row">
 
