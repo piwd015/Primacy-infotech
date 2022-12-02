@@ -1039,7 +1039,7 @@
         <div class="clearfix"></div>
         <!-- ============================ Features Start ================================== -->
 
-        <section class="pricing s-padding ecommerces_pricing" id="pricing">
+        <section class="pricing s-padding ecommerces_pricing pt-md-0 pt-3" id="pricing">
                 <div class="container-fluid px-md-5 px-3">
                       <div class="row d-flex flex-wrap justify-content-center">
                             <div class="col-md-11">
