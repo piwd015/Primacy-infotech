@@ -583,7 +583,9 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-12">
-
+                        <div class="ipgo-app-hdr mx-auto">
+                              <h2 class="w-100 d-block text-center pb-2">Industrial Design Management </h2>
+                        </div>
                         <!-- Single Features -->
                         <div class="veticle-features mb-4">
                             <div class="veticle-features-item">
