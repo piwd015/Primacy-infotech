@@ -531,7 +531,7 @@
                                     <img src="../assets/images/features_icon_2.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Custom Color <span>Option</span></h4>
+                                    <h4>Clients & Associate Management <span>Clients and associates with multiple contacts per client</span></h4>
                                 </div>
                             </div>
                         </div>
@@ -543,7 +543,7 @@
                                     <img src="../assets/images/features_icon_3.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Multi Currency <span>Option</span></h4>
+                                    <h4>Document Management <span>Document Management System for paperless management</span></h4>
                                 </div>
                             </div>
                         </div>
@@ -555,7 +555,7 @@
                                     <img src="../assets/images/features_icon_4.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Multi Shipping <span>Option</span></p>
+                                    <h4>Case Management <span>Manage all your copyright cases in a systematic manner</span></p>
                                 </div>
                             </div>
                         </div>
@@ -567,7 +567,7 @@
                                     <img src="../assets/images/features_icon_5.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Multi Vendor <span>System</span></p>
+                                    <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
                                 </div>
                             </div>
                         </div>
