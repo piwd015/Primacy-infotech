@@ -243,7 +243,7 @@
 
         <section class="h4-awesome-feature bg-color s-padding py-md-5">
             <div class="container-fluid px-md-5 px-3">
-                <div class="s-title mb-md-5 mb-3">
+                <div class="s-title my-md-5 my-3">
                     <h2 class="wow">Trademark  Module </h2>
                 </div>
                 <div class="row align-items-center">
