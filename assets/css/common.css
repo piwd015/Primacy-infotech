@@ -1938,6 +1938,12 @@ position:absolute; left:0px; right:0px; bottom:0px; margin: 0 auto;}
 .ipgo-appImg{width: 100%;}
 .ipgo-appImg img{width:100%; display:block; height:700px;}
 
+.onetm-clud{}
+.onetm-clud p{font-size:16px; color:#000;}
+.onetime-tbl .table th{font-size:18px; color:#ba1419; font-weight:600;}
+.onetime-tbl .table td{font-size:15px; color:#000;}
+.reponsive-table{width:100%!important; overflow-y:auto!important; overflow-x:auto!important;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){

@@ -1070,51 +1070,80 @@
                             <div class="tab-content" id="pricing-tab-content">
                                  <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
                                      <div class="row one_time">
-                                          <div class="col-md-12 ftco-animate fadeInUp ftco-animated mb-30">
-                                            <div class="pricing-entry pb-5 text-center">
-                                                <div>
-                                                    <h3 class="mb-4">Starter</h3>
-                                                    <p><span class="price">Rs 1,499/Mo for 6 Months = 8,994</span></p>
-                                                    <p><span class="price">Rs 999/Mo for 1 Year = 11,998</span></p>
-                                                </div>
-                                                <ul>
-                                                    <li>500 Products &amp; 2000 Customers</li>
-                                                    <li> Website, Admin &amp; <del> Multi- Vendor</del></li>
-
-                                                    <li>Branding, Custom icon, Logo, Splash screen</li>
-                                                    <li>App Analytics</li>
-                                                    <li>Free Payment Gateway Setup</li>
-                                                    <li>COD</li>
-                                                    <li>Online Payment - Credit, Debit, Net transfer, BHIM, UPI</li>
-                                                    <li>Push Notifications</li>
-                                                    <li>Easy and Quick Checkout</li>
-                                                    <li>Deal of the Day, Flash Deal</li>
-                                                    <li>Wishlist </li>
-                                                    <li>Promotional Coupons, Customer Reviews, Feedback, etc.</li>
-                                                    <li><del>Refer and Earn, Rewards</del></li>
-                                                    <li><del>Bulk Import / Export</del></li>
-                                                    <li><del>Bulk SMS - Custom SMS Templates</del></li>
-                                                    <li><del>Multi Admin Control</del></li>
-                                                    <li><del>Multi Language Options</del></li>
-                                                    <li><del>Multi Currencies</del></li>
-                                                    <li><del>Multi vendor / Saller </del></li>
-                                                    <li><del>Multi Shipping Method </del></li>
-                                                    <li><del>Social login Manager</del></li>
-                                                    <li><del>Role Manager</del></li>
-                                                    <li><del>Report Management</del></li>
-                                                    <li><del>Vendor Pay-out Managment</del></li>
-
-
-
-                                                    <li>
-                                                        <div class="pricing-validity btn alert alert-primary">
-                                                            <p style="color: #004085;"><b>Including Server and support<br></b></p>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                                <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
+                                              <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
+                                                    <div class="onetm-clud pb-5 text-center">
+                                                          <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
+                                                           <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
+                                                               we recommend to avail the hosted version, which not only saves
+                                                               your marginal cost per record, The biggest advantage of licensing
+                                                               IPGO is three are no user and data limited  . The prices mentioned
+                                                               below are one-time investment, there would be no annual maintenance
+                                                               or recurring charges to be paid.</p>
+                                                            <div class="reponsive-table">
+                                                                  <table class="table table-bordered">
+                                                                    <thead>
+                                                                            <tr>
+                                                                                <th valign="top" width="13%">Package</th>
+                                                                                <th valign="top" width="11%">Trademark Management</th>
+                                                                                <th valign="top" width="11%">Patent Management</th>
+                                                                                <th valign="top" width="11%">Copyright Management</th>
+                                                                                <th valign="top" width="11%">Design Management</th>
+                                                                                <th valign="top" width="11%">Document Management</th>
+                                                                                <th valign="top" width="11%">INVOICE Management</th>
+                                                                                <th valign="top" width="9%">CRM</th>
+                                                                                <th valign="top" width="12%">Price *</th>
+                                                                            </tr>
+                                                                    </thead>
+                                                                    <tbody>
+                                                                            <tr>
+                                                                                <td><strong>IPGO- Gold</strong></td>
+                                                                                <td><strong>YES</strong></td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>₹ 2,50,000/-</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td><strong>IPGO - Silver</strong></td>
+                                                                                <td><strong>YES</strong></td>
+                                                                                <td>No</td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>No</td>
+                                                                                <td>YES</td>
+                                                                                <td>YES</td>
+                                                                                <td>₹ 1,25,000/-</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td><strong>JSK IP Suite - Stater</strong></td>
+                                                                                <td><strong>YES</strong></td>
+                                                                                <td>No</td>
+                                                                                <td>No</td>
+                                                                                <td>YES</td>
+                                                                                <td>No</td>
+                                                                                <td>Yes</td>
+                                                                                <td>No</td>
+                                                                                <td>₹ 90,000/-</td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td><strong>JSK IP Suite - Basic</strong></td>
+                                                                                <td><strong>YES</strong></td>
+                                                                                <td>No</td>
+                                                                                <td>No</td>
+                                                                                <td>No</td>
+                                                                                <td>No</td>
+                                                                                <td>No</td>
+                                                                                <td>No</td>
+                                                                                <td>₹ 75,000/-</td>
+                                                                            </tr>
+                                                                      </tbody>
+                                                               </table>
+                                                            </div>
+                                                    </div>
                                             </div>
-                                        </div>
                                     </div>
 
 
