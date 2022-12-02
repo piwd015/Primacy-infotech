@@ -1936,7 +1936,7 @@ position:relative;}
 .ipgo-app-hdr h2:after{content:""; width:50px; height:2px; background:#f77d09;
 position:absolute; left:0px; right:0px; bottom:0px; margin: 0 auto;}
 .ipgo-appImg{width: 100%;}
-.ipgo-appImg img{width:100%; display:block; height: 100%; min-height:400px;}
+.ipgo-appImg img{width:100%; display:block; height:400px;}
 
 /*-------------our team section-------------*/
 
