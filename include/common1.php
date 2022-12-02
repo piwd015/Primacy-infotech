@@ -294,9 +294,10 @@
 
     <div class="container-fluid px-md-5 px-3">
 
-        <div class="row">
-
-            <div class="col-md-7">
+        <div class="row d-flex flex-wrap justify-content-center">
+               <div class="col-md-10">
+                    <div class="row">
+                           <div class="col-md-7">
 
                 <div class="iconic-contact-info">
 
@@ -369,8 +370,7 @@
                 </div>
 
             </div>
-
-            <div class="col-md-5 ">
+                           <div class="col-md-5 ">
 
                 <br/><br/><br/>
 
@@ -477,13 +477,8 @@
                 </form>
 
             </div>
-
-
-
-
-
+                     </div>
+               </div>
         </div>
-
     </div>
-
 </section>
