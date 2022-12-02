@@ -60,15 +60,6 @@
         <!-- ============================ Hero Banner End ================================== -->
 
 
-         <section class="header_tab_sec">
-            <ul class="tab_list">
-                <li><a href="#">Features</a></li>
-                <li><a href="#">Demo</a></li>
-                <li><a href="#">Our Package</a></li>
-
-            </ul>
-        </section>
-
         <!-- ============================ Make Collaboration Start ================================== -->
         <section class="mission pb-0">
                  <div class="container-fluid px-md-5 px-3">
