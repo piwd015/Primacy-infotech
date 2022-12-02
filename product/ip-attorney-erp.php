@@ -500,21 +500,22 @@
         <section>
             <div class="container ecommerces_features">
 
-                <div class="row">
-                    <div class="col-lg-12">
+
+                    <!--<div class="col-lg-12">
                         <div class="col text-center">
                             <div class="sec-heading mx-auto">
-                                <h2>Product App Features</h2>
+                                <h2>IPGO App Features</h2>
 
                             </div>
                         </div>
-                    </div>
-                </div>
+                    </div>-->
+
 
                 <div class="row product_features">
-
                     <div class="col-lg-4 col-md-4 col-sm-12">
-
+                        <div class="sec-heading w-100 d-block text-center mx-auto">
+                            <h2>Copyright Management System</h2>
+                        </div>
                         <!-- Single Features -->
                         <div class="veticle-features mb-4">
                             <div class="veticle-features-item">
