@@ -1040,292 +1040,166 @@
         <!-- ============================ Features Start ================================== -->
 
         <section class="pricing s-padding ecommerces_pricing" id="pricing">
-            <div class="container-fluid px-md-5 px-3">
-                <div class="row">
-                    <div class="col text-center">
-                        <div class="sec-heading mx-auto">
-                              <h2>Pricing Plans</h2>
-                              <p>IPGO  is developed for larger user base, from an individual
-                                  IP Attorney to a large IP Law Firm. We have adjusted the
-                                  packages and pricing of the Trademark Management and Patent
-                                  & Managent software’s according to your specific needs.</p>
-                               <p>IPGO is available as both Cloud onetime and SAAS versions.
-                                   The details of the same are as under. Please click on the
-                                   link to view the details.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="pricing-tables-wrapper">
-                            <ul class="nav nav-tabs pricing-tab" id="pricing-tab" role="tablist">
-                                 <li class="nav-item">
-                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime</a>
-                                </li>
+                <div class="container-fluid px-md-5 px-3">
+                      <div class="row d-flex flex-wrap justify-content-center">
+                            <div class="col-md-10">
+                                    <div class="col text-center">
+                                        <div class="sec-heading mx-auto">
+                                              <h2>Pricing Plans</h2>
+                                              <p>IPGO  is developed for larger user base, from an individual
+                                                  IP Attorney to a large IP Law Firm. We have adjusted the
+                                                  packages and pricing of the Trademark Management and Patent
+                                                  & Managent software’s according to your specific needs.</p>
+                                               <p>IPGO is available as both Cloud onetime and SAAS versions.
+                                                   The details of the same are as under. Please click on the
+                                                   link to view the details.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="pricing-tables-wrapper">
+                                            <ul class="nav nav-tabs pricing-tab" id="pricing-tab" role="tablist">
+                                                 <li class="nav-item">
+                                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime</a>
+                                                </li>
 
-                                <li class="nav-item">
-                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson</a>
-                                </li>
-                            </ul>
-                            <div class="tab-content" id="pricing-tab-content">
-                                 <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
-                                     <div class="row one_time">
-                                              <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
-                                                    <div class="onetm-clud pb-5 text-center">
-                                                          <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
-                                                           <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
-                                                               we recommend to avail the hosted version, which not only saves
-                                                               your marginal cost per record, The biggest advantage of licensing
-                                                               IPGO is three are no user and data limited  . The prices mentioned
-                                                               below are one-time investment, there would be no annual maintenance
-                                                               or recurring charges to be paid.</p>
-                                                            <div class="reponsive-table">
-                                                                  <table class="table table-bordered">
-                                                                    <thead>
-                                                                            <tr>
-                                                                                <th valign="top" width="13%">Package</th>
-                                                                                <th valign="top" width="11%">Trademark Management</th>
-                                                                                <th valign="top" width="11%">Patent Management</th>
-                                                                                <th valign="top" width="11%">Copyright Management</th>
-                                                                                <th valign="top" width="11%">Design Management</th>
-                                                                                <th valign="top" width="11%">Document Management</th>
-                                                                                <th valign="top" width="11%">INVOICE Management</th>
-                                                                                <th valign="top" width="9%">CRM</th>
-                                                                                <th valign="top" width="12%">Price *</th>
-                                                                            </tr>
-                                                                    </thead>
-                                                                    <tbody>
-                                                                            <tr>
-                                                                                <td><strong>IPGO- Gold</strong></td>
-                                                                                <td><strong>YES</strong></td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>₹ 2,50,000/-</td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td><strong>IPGO - Silver</strong></td>
-                                                                                <td><strong>YES</strong></td>
-                                                                                <td>No</td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>No</td>
-                                                                                <td>YES</td>
-                                                                                <td>YES</td>
-                                                                                <td>₹ 1,25,000/-</td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td><strong>JSK IP Suite - Stater</strong></td>
-                                                                                <td><strong>YES</strong></td>
-                                                                                <td>No</td>
-                                                                                <td>No</td>
-                                                                                <td>YES</td>
-                                                                                <td>No</td>
-                                                                                <td>Yes</td>
-                                                                                <td>No</td>
-                                                                                <td>₹ 90,000/-</td>
-                                                                            </tr>
-                                                                            <tr>
-                                                                                <td><strong>JSK IP Suite - Basic</strong></td>
-                                                                                <td><strong>YES</strong></td>
-                                                                                <td>No</td>
-                                                                                <td>No</td>
-                                                                                <td>No</td>
-                                                                                <td>No</td>
-                                                                                <td>No</td>
-                                                                                <td>No</td>
-                                                                                <td>₹ 75,000/-</td>
-                                                                            </tr>
-                                                                      </tbody>
-                                                               </table>
+                                                <li class="nav-item">
+                                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson</a>
+                                                </li>
+                                            </ul>
+                                            <div class="tab-content" id="pricing-tab-content">
+                                                 <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
+                                                     <div class="row one_time">
+                                                              <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
+                                                                    <div class="onetm-clud pb-5 text-center">
+                                                                          <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
+                                                                           <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
+                                                                               we recommend to avail the hosted version, which not only saves
+                                                                               your marginal cost per record, The biggest advantage of licensing
+                                                                               IPGO is three are no user and data limited  . The prices mentioned
+                                                                               below are one-time investment, there would be no annual maintenance
+                                                                               or recurring charges to be paid.</p>
+                                                                            <div class="reponsive-table">
+                                                                                  <table class="table table-bordered">
+                                                                                    <thead>
+                                                                                            <tr>
+                                                                                                <th valign="top" width="13%">Package</th>
+                                                                                                <th valign="top" width="11%">Trademark Management</th>
+                                                                                                <th valign="top" width="11%">Patent Management</th>
+                                                                                                <th valign="top" width="11%">Copyright Management</th>
+                                                                                                <th valign="top" width="11%">Design Management</th>
+                                                                                                <th valign="top" width="11%">Document Management</th>
+                                                                                                <th valign="top" width="11%">INVOICE Management</th>
+                                                                                                <th valign="top" width="9%">CRM</th>
+                                                                                                <th valign="top" width="12%">Price *</th>
+                                                                                            </tr>
+                                                                                    </thead>
+                                                                                    <tbody>
+                                                                                            <tr>
+                                                                                                <td><strong>IPGO- Gold</strong></td>
+                                                                                                <td><strong>YES</strong></td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>₹ 2,50,000/-</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td><strong>IPGO - Silver</strong></td>
+                                                                                                <td><strong>YES</strong></td>
+                                                                                                <td>No</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>No</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>₹ 1,25,000/-</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td><strong>JSK IP Suite - Stater</strong></td>
+                                                                                                <td><strong>YES</strong></td>
+                                                                                                <td>No</td>
+                                                                                                <td>No</td>
+                                                                                                <td>YES</td>
+                                                                                                <td>No</td>
+                                                                                                <td>Yes</td>
+                                                                                                <td>No</td>
+                                                                                                <td>₹ 90,000/-</td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td><strong>JSK IP Suite - Basic</strong></td>
+                                                                                                <td><strong>YES</strong></td>
+                                                                                                <td>No</td>
+                                                                                                <td>No</td>
+                                                                                                <td>No</td>
+                                                                                                <td>No</td>
+                                                                                                <td>No</td>
+                                                                                                <td>No</td>
+                                                                                                <td>₹ 75,000/-</td>
+                                                                                            </tr>
+                                                                                      </tbody>
+                                                                               </table>
+                                                                            </div>
+                                                                           <ul class="abut-onetm w-100 d-block pl-0">
+                                                                                 <h4 class="d-block pb-2">Notes about onetime version:</h4>
+                                                                                 <li class="pb-2">All packages contain one server license with unlimited users.</li>
+                                                                                 <li class="pb-2">We Provide 3 Months Free Support And 1 Year Bug Fixing </li>
+                                                                                 <li class="pb-2">Cloud server cost depend on your Realtime user</li>
+                                                                                 <li class="pb-2">All packages contain unlimited number of records, there is no limitation as to the number and size of records</li>
+                                                                           </ul>
+                                                                    </div>
                                                             </div>
                                                     </div>
-                                            </div>
-                                    </div>
+                                                </div>
 
+                                                <div class="tab-pane fade" id="monthly-pricing-tables" role="tabpanel" aria-labelledby="monthly-pricing">
+                                                   <div class="row">
+                                                        <div class="col-md-3 ftco-animate fadeInUp ftco-animated">
+                                                        </div>
 
-                                    <section class="pricing_slider">
-                                        <div class="pricing-entry pb-5 text-center">
-                                            <div>
-                                                <h3 class="mb-4">Starter</h3>
-                                                <p><span class="price">Rs 1,499/Mo for 6 Months = 8,994</span></p>
-                                                <p><span class="price">Rs 999/Mo for 1 Year = 11,998</span></p>
-                                            </div>
-                                            <ul>
-                                                <li>500 Products &amp; 2000 Customers</li>
-                                                <li> Website, Admin &amp; <del> Multi- Vendor</del></li>
+                                                        <div class="col-md-6 ftco-animate fadeInUp ftco-animated">
+                                                            <div class="pricing-entry pb-5 text-center">
+                                                                <div>
+                                                                    <h3 class="mb-4">Android App</h3>
+                                                                    <p><span class="price">Rs 10000 </span></p>
+                                                                </div>
+                                                                <div>
+                                                                    <h3 class="mb-4">Vendor App</h3>
+                                                                    <p><span class="price">Rs 10000 </span></p>
+                                                                </div>
+                                                                <div>
+                                                                    <h3 class="mb-4">IOS App</h3>
+                                                                    <p><span class="price">Rs 30000 </span></p>
+                                                                </div>
+                                                                <div>
+                                                                    <h3 class="mb-4">B2B Module</h3>
+                                                                    <p><span class="price">Rs 25000 </span></p>
+                                                                </div>
+                                                                <div>
+                                                                    <h3 class="mb-4">Per 500 Product</h3>
+                                                                    <p><span class="price">Rs 200/Mo </span></p>
+                                                                </div>
+                                                                <div>
+                                                                    <h3 class="mb-4">Per 500 Coustomer</h3>
+                                                                    <p><span class="price">Rs 300/Mo </span></p>
+                                                                </div>
 
-                                                <li>Branding, Custom icon, Logo, Splash screen</li>
-                                                <li>App Analytics</li>
-                                                <li>Free Payment Gateway Setup</li>
-                                                <li>COD</li>
-                                                <li>Online Payment - Credit, Debit, Net transfer, BHIM, UPI</li>
-                                                <li>Push Notifications</li>
-                                                <li>Easy and Quick Checkout</li>
-                                                <li>Deal of the Day, Flash Deal</li>
-                                                <li>Wishlist </li>
-                                                <li>Promotional Coupons, Customer Reviews, Feedback, etc.</li>
-                                                <li><del>Refer and Earn, Rewards</del></li>
-                                                <li><del>Bulk Import / Export</del></li>
-                                                <li><del>Bulk SMS - Custom SMS Templates</del></li>
-                                                <li><del>Multi Admin Control</del></li>
-                                                <li><del>Multi Language Options</del></li>
-                                                <li><del>Multi Currencies</del></li>
-                                                <li><del>Multi vendor / Saller </del></li>
-                                                <li><del>Multi Shipping Method </del></li>
-                                                <li><del>Social login Manager</del></li>
-                                                <li><del>Role Manager</del></li>
-                                                <li><del>Report Management</del></li>
-                                                <li><del>Vendor Pay-out Managment</del></li>
+                                                                <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
+                                                            </div>
+                                                        </div>
 
-
-
-                                                <li>
-                                                    <div class="pricing-validity btn alert alert-primary">
-                                                        <p style="color: #004085;"><b>Including Server and support<br></b></p>
+                                                        <div class="col-md-3 ftco-animate fadeInUp ftco-animated">
+                                                        </div>
                                                     </div>
-                                                </li>
-                                            </ul>
-                                            <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
-                                        </div>
+                                                </div>
 
-                                        <div class="pricing-entry pb-5 text-center">
-                                            <div>
-                                                <h3 class="mb-4">Professional</h3>
-
-                                                <p><span class="price">Rs 1,999/Mo for 6 Months = 11,994</span></p>
-                                                <p><span class="price">Rs 1,599/Mo for 1 Year = 19,188</span></p>
                                             </div>
-                                            <ul>
-                                                <li>1500 Products &amp; 4000 Customers</li>
-                                                <li> Website, Admin &amp;  Multi- Vendor</li>
-
-                                                <li>Branding, Custom icon, Logo, Splash screen</li>
-                                                <li>App Analytics</li>
-                                                <li>Free Payment Gateway Setup</li>
-                                                <li>COD</li>
-                                                <li>Online Payment - Credit, Debit, Net transfer, BHIM, UPI</li>
-                                                <li>Push Notifications</li>
-                                                <li>Easy and Quick Checkout</li>
-                                                <li>Deal of the Day, Flash Deal</li>
-                                                <li>Wishlist </li>
-                                                <li>Promotional Coupons, Customer Reviews, Feedback, etc.</li>
-                                                <li>Multi vendor / Saller </li>
-                                                <li>Refer and Earn, Rewards</li>
-                                                <li>Bulk Import / Export</li>
-                                                <li><del>Bulk SMS - Custom SMS Templates</del></li>
-                                                <li><del>Multi Admin Control</del></li>
-                                                <li><del>Multi Language Options</del></li>
-                                                <li><del>Multi Currencies</del></li>
-                                                <li><del>Multi Shipping Method </del></li>
-                                                <li><del>Social login Manager</del></li>
-                                                <li><del>Role Manager</del></li>
-                                                <li><del>Report Management</del></li>
-                                                <li><del>Vendor Pay-out Managment</del></li>
-
-                                                <div class="pricing-validity btn alert alert-primary">
-                                                    <p style="color: #004085;"><b> Including Server and support<br></b></p>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                            <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
-                                        </div>
-                                        <div class="pricing-entry pb-5 text-center">
-                                            <div>
-                                                <h3 class="mb-4">Advance</h3>
-                                                <p><span class="price">Rs 2,999/Mo for 6 Months = 17,994</span></p>
-                                                <p><span class="price">Rs 2,599/Mo for 1 Year = 31,188</span></p>
-                                            </div>
-                                            <ul>
-                                                <li>5000 Products &amp; Unlimited Customers</li>
-                                                <li> Website, Admin &amp;  Multi- Vendor</li>
-                                                <li>Branding, Custom icon, Logo, Splash screen</li>
-                                                <li>App Analytics</li>
-                                                <li>Free Payment Gateway Setup</li>
-                                                <li>COD</li>
-                                                <li>Online Payment - Credit, Debit, Net transfer, BHIM, UPI</li>
-                                                <li>Push Notifications</li>
-                                                <li>Easy and Quick Checkout</li>
-                                                <li>Deal of the Day, Flash Deal</li>
-                                                <li>Wishlist </li>
-                                                <li>Promotional Coupons, Customer Reviews, Feedback, etc.</li>
-                                                <li>Multi vendor / Saller </li>
-                                                <li>Refer and Earn, Rewards</li>
-                                                <li>Bulk Import / Export</li>
-                                                <li>Bulk SMS - Custom SMS Templates</li>
-                                                <li>Multi Admin Control</li>
-                                                <li>Multi Language Options</li>
-                                                <li>Multi Currencies</li>
-                                                <li>Multi Shipping Method </li>
-                                                <li>Social login Manager</li>
-                                                <li>Role Manager</li>
-                                                <li>Report Management</li>
-                                                <li>Vendor Pay-out Managment</li>
-                                                <li>
-                                                    <div class="pricing-validity btn alert alert-primary">
-                                                        <p style="color: #004085;"><b>Including Server and support<br></b></p>
-                                                    </div>
-                                                </li>
-                                            </ul>
-                                            <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
-                                        </div>
-                                      
-                                    </section>
-
-
-
-
-                                </div>
-
-                                <div class="tab-pane fade" id="monthly-pricing-tables" role="tabpanel" aria-labelledby="monthly-pricing">
-                                   <div class="row">
-                                        <div class="col-md-3 ftco-animate fadeInUp ftco-animated">
-                                        </div>
-
-                                        <div class="col-md-6 ftco-animate fadeInUp ftco-animated">
-                                            <div class="pricing-entry pb-5 text-center">
-                                                <div>
-                                                    <h3 class="mb-4">Android App</h3>
-                                                    <p><span class="price">Rs 10000 </span></p>
-                                                </div>
-                                                <div>
-                                                    <h3 class="mb-4">Vendor App</h3>
-                                                    <p><span class="price">Rs 10000 </span></p>
-                                                </div>
-                                                <div>
-                                                    <h3 class="mb-4">IOS App</h3>
-                                                    <p><span class="price">Rs 30000 </span></p>
-                                                </div>
-                                                <div>
-                                                    <h3 class="mb-4">B2B Module</h3>
-                                                    <p><span class="price">Rs 25000 </span></p>
-                                                </div>
-                                                <div>
-                                                    <h3 class="mb-4">Per 500 Product</h3>
-                                                    <p><span class="price">Rs 200/Mo </span></p>
-                                                </div>
-                                                <div>
-                                                    <h3 class="mb-4">Per 500 Coustomer</h3>
-                                                    <p><span class="price">Rs 300/Mo </span></p>
-                                                </div>
-
-                                                <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-3 ftco-animate fadeInUp ftco-animated">
                                         </div>
                                     </div>
-                                </div>
-                               
                             </div>
-                        </div>
-                    </div>
+                      </div>
                 </div>
-            </div>
         </section>
     </div>
     <!-- ============================================================== -->
