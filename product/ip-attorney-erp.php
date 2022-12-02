@@ -589,7 +589,7 @@
                                     <img src="../assets/images/features_icon_6.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Flexible Design<span>System</span></h4>
+                                    <h4>Design Management Software<span>A true and complete Design Management Software</span></h4>
                                 </div>
                             </div>
                         </div>
@@ -601,7 +601,7 @@
                                     <img src="../assets/images/features_icon_7.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Upgrading System<span>Content</span></p>
+                                    <h4>Clients & Associate Management<span>Clients and associates with multiple contacts per client</span></p>
                                 </div>
                             </div>
                         </div>
@@ -613,7 +613,7 @@
                                     <img src="../assets/images/features_icon_8.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Admin dashboard<span>System</span></p>
+                                    <h4>Document Management<span>Document Management System for paperless management</span></p>
                                 </div>
                             </div>
                         </div>
@@ -624,7 +624,7 @@
                                     <img src="../assets/images/features_icon_9.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Fully Customize<span>System</span></p>
+                                    <h4>Case Management<span>Manage all your design cases in a systematic manner</span></p>
                                 </div>
                             </div>
                         </div>
@@ -636,7 +636,18 @@
                                     <img src="../assets/images/features_icon_10.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>100% Unique <span>Content</span></p>
+                                    <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Single Features -->
+                        <div class="veticle-features mb-4">
+                            <div class="veticle-features-item">
+                                <div class="veticle-large-features-box">
+                                    <img src="../assets/images/features_icon_10.png" alt="features icon" />
+                                </div>
+                                <div class="veticle-features-content">
+                                    <h4>Task Management with Reminders<span>Tasks with reminders and Outlook/Google integration</span></p>
                                 </div>
                             </div>
                         </div>
