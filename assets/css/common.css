@@ -1946,7 +1946,7 @@ position:absolute; left:0px; right:0px; bottom:0px; margin: 0 auto;}
 ul.abut-onetm{}
 ul.abut-onetm h4{font-size:17px; color:#000; font-weight:700; text-align:left}
 ul.abut-onetm li{background:url("../images/about/bulet.png") no-repeat 0 0; display:block;
-font-size:16px; color:#000; text-align:left;}
+font-size:16px; color:#000; text-align:left; padding-left:15px;}
 
 /*-------------our team section-------------*/
 
