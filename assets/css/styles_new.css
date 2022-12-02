@@ -9340,7 +9340,7 @@ section {
 }
 
 @media (max-width: 767px) {
-    .main-banner h1{font-size:20px;}
+    .main-banner h1{font-size:20px; line-height:30px;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }
