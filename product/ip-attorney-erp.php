@@ -514,7 +514,7 @@
                 <div class="row product_features">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="ipgo-app-hdr w-100 d-block text-center mx-auto">
-                            <h2>Copyright Management System</h2>
+                            <h2>Copyright Management</h2>
                         </div>
                         <!-- Single Features -->
                         <div class="veticle-features mb-4">
