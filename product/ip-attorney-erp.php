@@ -1044,8 +1044,14 @@
                 <div class="row">
                     <div class="col text-center">
                         <div class="sec-heading mx-auto">
-                             <h2>Pricing Plans - Trademark and Patent Management Software Packages</h2>
-
+                              <h2>Pricing Plans</h2>
+                              <p>IPGO  is developed for larger user base, from an individual
+                                  IP Attorney to a large IP Law Firm. We have adjusted the
+                                  packages and pricing of the Trademark Management and Patent
+                                  & Managent software’s according to your specific needs.</p>
+                               <p>IPGO is available as both Cloud onetime and SAAS versions.
+                                   The details of the same are as under. Please click on the
+                                   link to view the details.</p>
                         </div>
                     </div>
                 </div>
@@ -1054,11 +1060,11 @@
                         <div class="pricing-tables-wrapper">
                             <ul class="nav nav-tabs pricing-tab" id="pricing-tab" role="tablist">
                                  <li class="nav-item">
-                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">SAAS</a>
+                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime (Host on Cloud Web Server )</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">Add on</a>
+                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson (Pay Per Use)</a>
                                 </li>
                             </ul>
                             <div class="tab-content" id="pricing-tab-content">

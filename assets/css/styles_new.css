@@ -8881,6 +8881,7 @@ section {
     line-height: 54px;
     margin-bottom: 28px;
 }
+     .marketplace_demo .sec-heading p{ font-size:15px; color:#000;}
 
 .marketplace_content .marketplace_list li {
     display: flex;
