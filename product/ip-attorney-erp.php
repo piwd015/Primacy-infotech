@@ -418,6 +418,79 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Data Management</h3>
+                                <p>Advanced data management for integrity and consistency</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Task Management with Reminders</h3>
+                                <p>Tasks with reminders and Outlook/Google integration</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Data Security</h3>
+                                <p>High-end user-level security with time and IP restrictions.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Trademark Agents Management</h3>
+                                <p>Manage Trademark Agents & Attorneys in your firm.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Form Generation</h3>
+                                <p>Automated Trademark Forms (TM-1, TM-12 etc.)</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Task Management with Reminders</h3>
+                                <p>Tasks with reminders and Outlook/Google integration</p>
+                            </div>
+                        </div>
+                    </div>
                     <!-------->
                 </div>
             </div>
