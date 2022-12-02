@@ -1040,7 +1040,7 @@
         <!-- ============================ Features Start ================================== -->
 
         <section class="pricing s-padding ecommerces_pricing" id="pricing">
-            <div class="container">
+            <div class="container-fluid px-md-5 px-3">
                 <div class="row">
                     <div class="col text-center">
                         <div class="sec-heading mx-auto">
