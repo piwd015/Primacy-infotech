@@ -297,79 +297,52 @@
         <div class="row d-flex flex-wrap justify-content-center">
                <div class="col-md-10">
                     <div class="row">
-                           <div class="col-md-7">
+                        <div class="col-md-7">
+                            <div class="iconic-contact-info">
 
-                <div class="iconic-contact-info">
+                                <div class="contact-info-head">
+                                    <h2>Contact Information</h2>
+                                </div>
+                                <ul class="f-contact-list d-inline-block">
 
-                    <div class="contact-info-head">
+                                    <li><span><img src="../assets/images/inddd.png" alt="india"></span><span>India Office</span></li>
+                                    <li> <span><i class="fa fa-map-marker"></i>
+                            </span>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>
+                                    <!--<li> <span><i class="fa fa-map-marker"></i>
+                                    </span>Paper Printed, Webel Tower I,601, 91,5, Magnacon, Street
+                                        Number 18, Sector 5, Bidhan Nagar, North Twenty Four Parganas,
+                                        West Bengal, 700091</li>-->
+                                    <li><span><i class="fa fa-volume-control-phone" ></i></span> +91 9088015866,+91 9088015865</li>
 
-                        <h2>Contact Information</h2>
+                                    <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
 
+                                </ul>
+                                <ul class="f-contact-list d-inline-block">
+                                    <li><span><img src="../assets/images/uk-flag-icon-02.png" alt="india"></span><span>UK Office</span></li>
+                                    <li> <span><i class="fa fa-map-marker"></i>
+                            </span>Suit 63  24-28 St.Leonards Road, SL4 3BB - Windsor
+                                        Berkshire (GB)
+                                        United Kingdom</li>
+                                    <li><span><i class="fa fa-volume-control-phone" ></i></span> +44 2045772363</li>
+                                    <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
 
+                                </ul>
+                                <ul class="f-contact-list d-inline-block">
+                                    <li><span><img style="width:20px;" src="../assets/images/canada-flag-xs.png" alt="canada"></span><span>Canada Office</span></li>                            <li> <span><i class="fa fa-map-marker"></i>
+                             </span>656 Full Moon Circle Mississauga ON</li>
+                                    <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
+                                </ul>
+                                <ul class="f-contact-list d-inline-block">
 
-                    </div>
+                                    <li><span><img style="width:20px;" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"></span><span>Bangladesh Office</span></li>
+                                    <li><span><i class="fa fa-map-marker"></i>
+                            </span>24, Dr. Nawab Ali Tower, 2nd floor, Purana Paltan, Dhaka-1000</li>
+                                    <li><span><i class="fa fa-volume-control-phone" ></i></span> +88 01759787636</li>
 
-                    <ul class="f-contact-list">
+                                </ul>
+                            </div>
 
-                        <li><span><img src="../assets/images/inddd.png" alt="india"></span><span>India Office</span></li>
-
-                        <li> <span><i class="fa fa-map-marker"></i>
-
-</span>601,Webel Tower I ,BN-4,Sector V,Salt Lake, Kolkata-91,WB,India</li>
-
-
-
-                        <li><span><i class="fa fa-volume-control-phone" ></i></span> +91 9088015866,+91 9088015865</li>
-
-                        <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
-
-                    </ul>
-
-                    <br/>
-
-                    <ul class="f-contact-list">
-
-                        <li><span><img style="width:20px;" src="../assets/images/canada-flag-xs.png" alt="canada"></span><span>Canada Office</span></li>
-
-
-
-                        <li> <span><i class="fa fa-map-marker"></i>
-
-</span>656 Full Moon Circle Mississauga ON</li>
-
-
-
-                        <li><span><i class="fa fa-volume-control-phone" ></i></span>+1 6474908004</li>
-
-                        <li><span><i class="fa fa-envelope"></i></span> info@primacyinfotech.com</li>
-
-                    </ul>
-
-
-
-                    <ul class="f-contact-list">
-
-                        <li><span><img style="width:20px;" src="../assets/images/bangladesh-flag-xs.png" alt="bangladesh"></span><span>Bangladesh Office</span></li>
-
-
-
-
-
-                        <li><span><i class="fa fa-map-marker"></i>
-
-</span>24, Dr. Nawab Ali Tower, 2nd floor, Purana Paltan, Dhaka-1000</li>
-
-
-
-                        <li><span><i class="fa fa-volume-control-phone" ></i></span> +88 01409350863</li>
-
-
-
-                    </ul>
-
-                </div>
-
-            </div>
+                        </div>
                            <div class="col-md-5 ">
 
                 <br/><br/><br/>
