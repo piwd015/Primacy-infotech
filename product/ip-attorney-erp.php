@@ -1068,7 +1068,7 @@
                                             </ul>
                                             <div class="tab-content" id="pricing-tab-content">
                                                  <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
-                                                     <div class="row one_time">
+                                                      <div class="row one_time">
                                                               <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
                                                                     <div class="onetm-clud pb-5 text-center">
                                                                           <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
@@ -1154,42 +1154,87 @@
                                                 </div>
 
                                                 <div class="tab-pane fade" id="monthly-pricing-tables" role="tabpanel" aria-labelledby="monthly-pricing">
-                                                   <div class="row">
-                                                        <div class="col-md-3 ftco-animate fadeInUp ftco-animated">
-                                                        </div>
-
-                                                        <div class="col-md-6 ftco-animate fadeInUp ftco-animated">
-                                                            <div class="pricing-entry pb-5 text-center">
-                                                                <div>
-                                                                    <h3 class="mb-4">Android App</h3>
-                                                                    <p><span class="price">Rs 10000 </span></p>
+                                                    <div class="row one_time">
+                                                        <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
+                                                            <div class="onetm-clud pb-5 text-center">
+                                                                <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
+                                                                <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
+                                                                    we recommend to avail the hosted version, which not only saves
+                                                                    your marginal cost per record, The biggest advantage of licensing
+                                                                    IPGO is three are no user and data limited  . The prices mentioned
+                                                                    below are one-time investment, there would be no annual maintenance
+                                                                    or recurring charges to be paid.</p>
+                                                                <div class="reponsive-table">
+                                                                    <table class="table table-bordered">
+                                                                        <thead>
+                                                                        <tr>
+                                                                            <th valign="top" width="13%">Package</th>
+                                                                            <th valign="top" width="11%">Trademark Management</th>
+                                                                            <th valign="top" width="11%">Patent Management</th>
+                                                                            <th valign="top" width="11%">Copyright Management</th>
+                                                                            <th valign="top" width="11%">Design Management</th>
+                                                                            <th valign="top" width="11%">Document Management</th>
+                                                                            <th valign="top" width="11%">INVOICE Management</th>
+                                                                            <th valign="top" width="9%">CRM</th>
+                                                                            <th valign="top" width="12%">Price *</th>
+                                                                        </tr>
+                                                                        </thead>
+                                                                        <tbody>
+                                                                        <tr>
+                                                                            <td><strong>IPGO- Gold</strong></td>
+                                                                            <td><strong>YES</strong></td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>₹ 2,50,000/-</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><strong>IPGO - Silver</strong></td>
+                                                                            <td><strong>YES</strong></td>
+                                                                            <td>No</td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>No</td>
+                                                                            <td>YES</td>
+                                                                            <td>YES</td>
+                                                                            <td>₹ 1,25,000/-</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><strong>JSK IP Suite - Stater</strong></td>
+                                                                            <td><strong>YES</strong></td>
+                                                                            <td>No</td>
+                                                                            <td>No</td>
+                                                                            <td>YES</td>
+                                                                            <td>No</td>
+                                                                            <td>Yes</td>
+                                                                            <td>No</td>
+                                                                            <td>₹ 90,000/-</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td><strong>JSK IP Suite - Basic</strong></td>
+                                                                            <td><strong>YES</strong></td>
+                                                                            <td>No</td>
+                                                                            <td>No</td>
+                                                                            <td>No</td>
+                                                                            <td>No</td>
+                                                                            <td>No</td>
+                                                                            <td>No</td>
+                                                                            <td>₹ 75,000/-</td>
+                                                                        </tr>
+                                                                        </tbody>
+                                                                    </table>
                                                                 </div>
-                                                                <div>
-                                                                    <h3 class="mb-4">Vendor App</h3>
-                                                                    <p><span class="price">Rs 10000 </span></p>
-                                                                </div>
-                                                                <div>
-                                                                    <h3 class="mb-4">IOS App</h3>
-                                                                    <p><span class="price">Rs 30000 </span></p>
-                                                                </div>
-                                                                <div>
-                                                                    <h3 class="mb-4">B2B Module</h3>
-                                                                    <p><span class="price">Rs 25000 </span></p>
-                                                                </div>
-                                                                <div>
-                                                                    <h3 class="mb-4">Per 500 Product</h3>
-                                                                    <p><span class="price">Rs 200/Mo </span></p>
-                                                                </div>
-                                                                <div>
-                                                                    <h3 class="mb-4">Per 500 Coustomer</h3>
-                                                                    <p><span class="price">Rs 300/Mo </span></p>
-                                                                </div>
-
-                                                                <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
+                                                                <ul class="abut-onetm w-100 d-block pl-0">
+                                                                    <h4 class="d-block pb-2">Notes about onetime version:</h4>
+                                                                    <li class="pb-2">All packages contain one server license with unlimited users.</li>
+                                                                    <li class="pb-2">We Provide 3 Months Free Support And 1 Year Bug Fixing </li>
+                                                                    <li class="pb-2">Cloud server cost depend on your Realtime user</li>
+                                                                    <li class="pb-2">All packages contain unlimited number of records, there is no limitation as to the number and size of records</li>
+                                                                </ul>
                                                             </div>
-                                                        </div>
-
-                                                        <div class="col-md-3 ftco-animate fadeInUp ftco-animated">
                                                         </div>
                                                     </div>
                                                 </div>

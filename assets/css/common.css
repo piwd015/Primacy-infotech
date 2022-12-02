@@ -1944,8 +1944,8 @@ position:absolute; left:0px; right:0px; bottom:0px; margin: 0 auto;}
 .onetime-tbl .table td{font-size:15px; color:#000;}
 .reponsive-table{width:100%!important; overflow-y:auto!important; overflow-x:auto!important;}
 ul.abut-onetm{}
-ul.abut-onetm h4{font-size:16px; color:#000; font-weight:700;}
-ul.abut-onetm li{background:url("../assets/images/about/bulet.png") no-repeat 0 0; display:block;
+ul.abut-onetm h4{font-size:17px; color:#000; font-weight:700; text-align:left}
+ul.abut-onetm li{background:url("../images/about/bulet.png") no-repeat 0 0; display:block;
 font-size:16px; color:#000; text-align:left;}
 
 /*-------------our team section-------------*/
