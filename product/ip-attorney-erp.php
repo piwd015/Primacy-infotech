@@ -900,7 +900,7 @@
                                         <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
                                             <div class="row align-items-center m-0">
                                                 <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/product/ipgo-app.png" class="img-fluid mx-auto" alt="">
+                                                    <img src="../assets/images/myy/undraw_statistic_chart_38b6.png" class="img-fluid mx-auto" alt="">
                                                 </div>
                                                 <div class="col-lg-6 col-md-6">
                                                     <h2>Admin Features</h2>
