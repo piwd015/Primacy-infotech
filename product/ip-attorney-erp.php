@@ -1044,7 +1044,7 @@
                 <div class="row">
                     <div class="col text-center">
                         <div class="sec-heading mx-auto">
-                            <h2>Our Package</h2>
+                             <h2>Pricing Plans - Trademark and Patent Management Software Packages</h2>
 
                         </div>
                     </div>
