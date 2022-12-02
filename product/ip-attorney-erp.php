@@ -250,7 +250,7 @@
         <div class="clearfix"></div>
         <!-- ============================ Make Collaboration End ================================== -->
 
-        <section class="h4-awesome-feature bg-color s-padding">
+        <section class="h4-awesome-feature bg-color s-padding py-5">
             <div class="container">
                 <div class="s-title">
                     <h2 class="wow">Trademark  Module </h2>
