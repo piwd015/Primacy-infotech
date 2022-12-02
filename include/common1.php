@@ -290,7 +290,7 @@
 
 </section><!-- testimonial -->
 
-<section class="h4-contact s-padding bg-color" id="contact pt-5">
+<section class="h4-contact s-padding bg-color" id="contact pt-3">
 
     <div class="container-fluid px-md-5 px-3">
 
