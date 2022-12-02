@@ -2,11 +2,11 @@
 
 
 
-<section class="testimonial s-padding bg-color d-none d-md-block pt-50">
+<section class="testimonial s-padding bg-color d-none d-md-block pb-0 pt-50">
 
     <div class="bg-text">Feedback</div>
 
-    <div class="container">
+    <div class="container-fluid px-md-5 px-3">
 
         <div class="s-title">
 
@@ -290,7 +290,7 @@
 
 </section><!-- testimonial -->
 
-<section class="h4-contact s-padding bg-color" id="contact">
+<section class="h4-contact s-padding bg-color" id="contact pt-5">
 
     <div class="container-fluid px-md-5 px-3">
 
