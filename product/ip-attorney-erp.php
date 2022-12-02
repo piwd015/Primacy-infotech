@@ -35,11 +35,11 @@
                 <div class="row align-items-center">
                     <div class="col-lg-8 col-md-8">
                           <div class="attorney-bnr-txt">
-                              <h1 class="d-block w-100 pb-3"><strong>IPGO – ERP Software for IP professionals</strong></h1>
-                              <span class="d-block w-100 pb-5">IP made Easy & Perfect with IPGO</span>
-                              <p class="d-block pb-2">Intellectual Property Management software for
+                              <h1 class="d-block w-100 pb-md-3"><strong>IPGO – ERP Software for IP professionals</strong></h1>
+                              <span class="d-block w-100 pb-md-5">IP made Easy & Perfect with IPGO</span>
+                              <p class="d-block pb-md-2 mb-2">Intellectual Property Management software for
                                   forward thinking IP professionals.</p>
-                              <p class="d-block pb-3">IPGO is a modern cloud-based Intellectual Property Management
+                              <p class="d-block pb-md-3 mb-2">IPGO is a modern cloud-based Intellectual Property Management
                                   Software for patent and trademark professionals which is
                                   highly customizable, feature rich and has built in time
                                   saving automation.</p>
