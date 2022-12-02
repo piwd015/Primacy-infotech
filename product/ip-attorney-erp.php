@@ -1042,7 +1042,7 @@
         <section class="pricing s-padding ecommerces_pricing" id="pricing">
                 <div class="container-fluid px-md-5 px-3">
                       <div class="row d-flex flex-wrap justify-content-center">
-                            <div class="col-md-10">
+                            <div class="col-md-11">
                                     <div class="col text-center">
                                         <div class="sec-heading mx-auto">
                                               <h2>Pricing Plans</h2>
