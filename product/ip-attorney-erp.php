@@ -513,8 +513,8 @@
                             <h2 class="w-100 d-block text-center pb-2">Copyright Management</h2>
                         </div>
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                 </div>
@@ -525,8 +525,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_2.png" alt="features icon" />
                                 </div>
@@ -537,8 +537,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_3.png" alt="features icon" />
                                 </div>
@@ -549,8 +549,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_4.png" alt="features icon" />
                                 </div>
@@ -561,8 +561,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_5.png" alt="features icon" />
                                 </div>
@@ -583,8 +583,8 @@
                               <h2 class="w-100 d-block text-center pb-2">Industrial Design Management </h2>
                         </div>
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_6.png" alt="features icon" />
                                 </div>
@@ -595,8 +595,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_7.png" alt="features icon" />
                                 </div>
@@ -607,8 +607,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_8.png" alt="features icon" />
                                 </div>
@@ -618,8 +618,8 @@
                             </div>
                         </div>
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_9.png" alt="features icon" />
                                 </div>
@@ -630,8 +630,8 @@
                         </div>
 
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_10.png" alt="features icon" />
                                 </div>
@@ -641,8 +641,8 @@
                             </div>
                         </div>
                         <!-- Single Features -->
-                        <div class="veticle-features mb-4">
-                            <div class="veticle-features-item">
+                        <div class="veticle-features mb-0">
+                            <div class="veticle-features-item mb-3">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_10.png" alt="features icon" />
                                 </div>
