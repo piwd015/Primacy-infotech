@@ -574,7 +574,7 @@
 
                     </div>
 
-                    <div class="col-md-4 d-flex flex-wrap justify-content-center">
+                    <div class="col-md-4 d-flex flex-wrap justify-content-center px-md-0">
                            <div class="ipgo-appImg">
                                  <img src="../assets/images/pistore.png" alt="">
                            </div>
