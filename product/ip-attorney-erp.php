@@ -250,6 +250,240 @@
         <div class="clearfix"></div>
         <!-- ============================ Make Collaboration End ================================== -->
 
+        <section class="h4-awesome-feature bg-color s-padding">
+            <div class="container">
+                <div class="s-title">
+                    <h2 class="wow">We offer Your Needs</h2>
+
+                </div>
+
+                <div class="row align-items-center">
+
+                    <div class="col-lg-4 col-md-4">
+
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_drawer_alt"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Multistore
+
+                                </h3>
+
+                                <p>This time-saving feature would make it easier for the people to look for their previous order. There are two extra features, one feature is that one can add more items and can remove items from the list of orders. </p>
+
+                            </div>
+
+                        </div>
+
+                        <div class="icon-box awf-item wow slideInUp">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_headphones"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Delivery on the scheduled time
+
+                                </h3>
+
+                                <p>The date of delivery can be fixed. The time of the delivery can also be fixed beforehand. It is fixed according to the convenience.
+
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_drawer_alt"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Notifications
+
+                                </h3>
+
+                                <p>Customers will receive certain alerts and push notifications, regarding a few things such as suppose their order is going to arrive. These can come through SMS and Emails. </p>
+
+                            </div>
+
+                        </div>
+
+                        <div class="icon-box awf-item wow slideInUp">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_headphones"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Special offers
+
+                                </h3>
+
+                                <p>Shoppers can receive all the offers which are available and which lead to ordering better things. Exclusive offers for online grocery are there.
+
+
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_drawer_alt"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Rating and the feedbacks
+
+                                </h3>
+
+                                <p>Customers can rate the feedback as well as add comments to it. Online grocery is available through this app. </p>
+
+                            </div>
+
+                        </div>
+
+                        <div class="icon-box awf-item wow slideInUp">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_headphones"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Tracking order feedback
+
+                                </h3>
+
+                                <p>Tracking of the order is very necessary. People track order profusely, as they wait for it to arrive as soon as possible. Online supermarket apps nowadays have a lot of features like online tracking of the order or checking up of the order status.
+
+
+
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!------>
+                    <div class="col-lg-4 col-md-4">
+
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_drawer_alt"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Registration
+
+                                </h3>
+
+                                <p>To buy product from the grocery app, one must register his or her name and create an account. The registration must be done with the help of social media platforms such as instagram and facebook. </p>
+
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_drawer_alt"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Multi-language
+
+                                </h3>
+
+                                <p>This app would be open to customers, globally. So to make it easier for the customers, different language bar should be available. In order to meet the business requirement, blobal languages should be integrated. </p>
+
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+
+                        <div class="icon-box awf-item wow slideInUp" data-wow-delay=".1s">
+
+                            <div class="icon-box-icon">
+
+                                <i class="icon_drawer_alt"></i>
+
+                            </div>
+
+                            <div class="icon-box-details">
+
+                                <h3 class="icon-box-title">Easy search
+
+                                </h3>
+
+                                <p>Easy search results are that platform where the search results would appear on the internet. </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-------->
+
+                </div>
+
+            </div>
+
+        </section>
 
         <!-- ============================ Benifits & Advance Features ================================== -->
         <section>

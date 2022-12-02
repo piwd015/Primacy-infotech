@@ -2888,14 +2888,9 @@ Unlimited products, unlimited customer</b>
 	<!-- about -->
 
 	<section class="h4-awesome-feature bg-color s-padding">
-
 		<div class="container">
-
 			<div class="s-title">
-
 				<h2 class="wow">We offer Your Needs</h2>
-
-				<!--				<p>Ut totam hymenaeos a quasi enim, duis erat mollitia, pellentesque ac metus!</p>-->
 
 			</div>
 
