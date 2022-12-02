@@ -1947,7 +1947,7 @@ ul.abut-onetm{}
 ul.abut-onetm h4{font-size:17px; color:#000; font-weight:700; text-align:left}
 ul.abut-onetm li{background:url("../images/about/bulet.png") no-repeat 0 7px; display:block;
 font-size:16px; color:#000; text-align:left; padding-left:12px;}
-.ipgo-bnrhght{}
+
 
 /*-------------our team section-------------*/
 
@@ -2300,6 +2300,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .count-box{height:120px; padding-top: 10%;}
  .main-banner h1{font-size:20px;}
  .attorney-bnr-txt span{font-size:20px; line-height:25px;}
+ .attorney-bnr-app{width:100%; float:none;}
 }
 
 
