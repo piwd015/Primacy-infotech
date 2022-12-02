@@ -1070,7 +1070,7 @@
                             <div class="tab-content" id="pricing-tab-content">
                                  <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
                                      <div class="row one_time">
-                                        <div class="col-md-4 ftco-animate fadeInUp ftco-animated mb-30">
+                                          <div class="col-md-12 ftco-animate fadeInUp ftco-animated mb-30">
                                             <div class="pricing-entry pb-5 text-center">
                                                 <div>
                                                     <h3 class="mb-4">Starter</h3>
@@ -1106,91 +1106,6 @@
 
 
 
-                                                    <li>
-                                                        <div class="pricing-validity btn alert alert-primary">
-                                                            <p style="color: #004085;"><b>Including Server and support<br></b></p>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                                <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4 ftco-animate fadeInUp ftco-animated mb-30">
-                                            <div class="pricing-entry pb-5 text-center">
-                                                <div>
-                                                    <h3 class="mb-4">Professional</h3>
-
-                                                    <p><span class="price">Rs 1,999/Mo for 6 Months = 11,994</span></p>
-                                                    <p><span class="price">Rs 1,599/Mo for 1 Year = 19,188</span></p>
-                                                </div>
-                                                <ul>
-                                                    <li>1500 Products &amp; 4000 Customers</li>
-                                                    <li> Website, Admin &amp;  Multi- Vendor</li>
-
-                                                    <li>Branding, Custom icon, Logo, Splash screen</li>
-                                                    <li>App Analytics</li>
-                                                    <li>Free Payment Gateway Setup</li>
-                                                    <li>COD</li>
-                                                    <li>Online Payment - Credit, Debit, Net transfer, BHIM, UPI</li>
-                                                    <li>Push Notifications</li>
-                                                    <li>Easy and Quick Checkout</li>
-                                                    <li>Deal of the Day, Flash Deal</li>
-                                                    <li>Wishlist </li>
-                                                    <li>Promotional Coupons, Customer Reviews, Feedback, etc.</li>
-                                                    <li>Multi vendor / Saller </li>
-                                                    <li>Refer and Earn, Rewards</li>
-                                                    <li>Bulk Import / Export</li>
-                                                    <li><del>Bulk SMS - Custom SMS Templates</del></li>
-                                                    <li><del>Multi Admin Control</del></li>
-                                                    <li><del>Multi Language Options</del></li>
-                                                    <li><del>Multi Currencies</del></li>
-                                                    <li><del>Multi Shipping Method </del></li>
-                                                    <li><del>Social login Manager</del></li>
-                                                    <li><del>Role Manager</del></li>
-                                                    <li><del>Report Management</del></li>
-                                                    <li><del>Vendor Pay-out Managment</del></li>
-
-                                                    <div class="pricing-validity btn alert alert-primary">
-                                                            <p style="color: #004085;"><b> Including Server and support<br></b></p>
-
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                                <p class="button text-center"><a data-toggle="modal" data-target="#getstarted" href="#" class="btn btn-primary px-4 py-3">Get Offer</a></p>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4 ftco-animate fadeInUp ftco-animated mb-30">
-                                            <div class="pricing-entry pb-5 text-center">
-                                                <div>
-                                                    <h3 class="mb-4">Advance</h3>
-                                                    <p><span class="price">Rs 2,999/Mo for 6 Months = 17,994</span></p>
-                                                    <p><span class="price">Rs 2,599/Mo for 1 Year = 31,188</span></p>
-                                                </div>
-                                                <ul>
-                                                    <li>5000 Products &amp; Unlimited Customers</li>
-                                                    <li> Website, Admin &amp;  Multi- Vendor</li>
-                                                    <li>Branding, Custom icon, Logo, Splash screen</li>
-                                                    <li>App Analytics</li>
-                                                    <li>Free Payment Gateway Setup</li>
-                                                    <li>COD</li>
-                                                    <li>Online Payment - Credit, Debit, Net transfer, BHIM, UPI</li>
-                                                    <li>Push Notifications</li>
-                                                    <li>Easy and Quick Checkout</li>
-                                                    <li>Deal of the Day, Flash Deal</li>
-                                                    <li>Wishlist </li>
-                                                    <li>Promotional Coupons, Customer Reviews, Feedback, etc.</li>
-                                                    <li>Multi vendor / Saller </li>
-                                                    <li>Refer and Earn, Rewards</li>
-                                                    <li>Bulk Import / Export</li>
-                                                    <li>Bulk SMS - Custom SMS Templates</li>
-                                                    <li>Multi Admin Control</li>
-                                                    <li>Multi Language Options</li>
-                                                    <li>Multi Currencies</li>
-                                                    <li>Multi Shipping Method </li>
-                                                    <li>Social login Manager</li>
-                                                    <li>Role Manager</li>
-                                                    <li>Report Management</li>
-                                                    <li>Vendor Pay-out Managment</li>
                                                     <li>
                                                         <div class="pricing-validity btn alert alert-primary">
                                                             <p style="color: #004085;"><b>Including Server and support<br></b></p>
