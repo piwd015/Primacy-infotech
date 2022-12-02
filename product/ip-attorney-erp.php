@@ -578,8 +578,8 @@
 
                     </div>
 
-                    <div class="col-lg-4 col-md-4 col-sm-12">
-                        <img src="../assets/images/pistore.png" class="img-fluid mx-auto" alt="">
+                    <div class="col-md-4 d-flex flex-wrap justify-content-center">
+                           <img src="../assets/images/pistore.png" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-4 col-md-4 col-sm-12">
