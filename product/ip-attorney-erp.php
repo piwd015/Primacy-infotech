@@ -523,7 +523,7 @@
                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                 </div>
                                 <div class="veticle-features-content">
-                                    <h4>Multiple Language <span>Support</span></h4>
+                                    <h4>Copyright Management System <span>A true and complete Copyright Management Software</span></h4>
                                 </div>
                             </div>
                         </div>
