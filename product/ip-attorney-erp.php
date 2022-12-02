@@ -788,7 +788,7 @@
         </section>
 
         <!-- ============================ Benifits & Advance Features ================================== -->
-        <div class="container">
+        <div class="container-fluid px-md-5 px-3">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="col text-center">
@@ -811,7 +811,7 @@
 
         <!-- ============================ Counter Start ================================== -->
         <section class="image-bg d-none d-md-block" style="background:#d34939 url(../assets/images/banner-55.png) no-repeat;">
-            <div class="container">
+            <div class="container-fluid px-md-5 px-3">
                 <div class="row">
                     <div class="col text-center">
                         <div class="sec-heading light mx-auto">
@@ -862,7 +862,7 @@
 
         <!-- ============================ Features Start ================================== -->
         <section class="pd-0 overlay-top">
-            <div class="container">
+            <div class="container-fluid px-md-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-md-10 col-sm-12">
                         <div class="row mrg-0 bg-white box-shadow pt-5 border--radius">
@@ -1040,7 +1040,7 @@
         <!-- ============================ Features Start ================================== -->
 
         <section class="pricing s-padding ecommerces_pricing" id="pricing">
-            <div class="container">
+            <div class="container-fluid px-md-5 px-3">
                 <div class="row">
                     <div class="col text-center">
                         <div class="sec-heading mx-auto">
