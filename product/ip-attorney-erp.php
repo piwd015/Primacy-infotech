@@ -498,9 +498,7 @@
 
         <!-- ============================ Benifits & Advance Features ================================== -->
         <section>
-            <div class="container ecommerces_features">
-
-
+            <div class="container-fluid px-md-5 px-3 ecommerces_features">
                     <!--<div class="col-lg-12">
                         <div class="col text-center">
                             <div class="sec-heading mx-auto">
@@ -509,8 +507,6 @@
                             </div>
                         </div>
                     </div>-->
-
-
                 <div class="row product_features">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="ipgo-app-hdr mx-auto">
