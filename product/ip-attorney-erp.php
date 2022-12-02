@@ -73,7 +73,7 @@
         <section class="mission">
                  <div class="container">
                         <div class="col-md-12 pt-3 pb-5">
-                               <h2 class="w-100 d-block text-center">Trademark & Patent Management Software for IP Law Firms in India</h2>
+                               <h2 class="w-100 d-block text-center">Patent Docketing Software</h2>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12">
@@ -253,7 +253,7 @@
         <section class="h4-awesome-feature bg-color s-padding">
             <div class="container">
                 <div class="s-title">
-                    <h2 class="wow">We offer Your Needs</h2>
+                    <h2 class="wow">Trademark  Module </h2>
 
                 </div>
 
@@ -271,11 +271,11 @@
 
                             <div class="icon-box-details">
 
-                                <h3 class="icon-box-title">Multistore
+                                <h3 class="icon-box-title">Trademark Management
 
                                 </h3>
 
-                                <p>This time-saving feature would make it easier for the people to look for their previous order. There are two extra features, one feature is that one can add more items and can remove items from the list of orders. </p>
+                                <p>A true and complete Trademark Management Software</p>
 
                             </div>
 
