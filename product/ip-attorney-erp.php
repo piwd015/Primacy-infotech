@@ -71,7 +71,7 @@
 
         <!-- ============================ Make Collaboration Start ================================== -->
         <section class="mission pb-0">
-                 <div class="container">
+                 <div class="container-fluid px-md-5 px-3">
                         <div class="col-md-12 pt-3 pb-5">
                                <h2 class="w-100 d-block text-center">Patent Docketing Software</h2>
                         </div>
