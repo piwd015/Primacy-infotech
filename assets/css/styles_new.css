@@ -9342,7 +9342,7 @@ section {
 @media (max-width: 767px) {
     .main-banner h1{font-size:20px; line-height:30px;}
     .large-features-2 .large-features-2-thumb{position:absolute; left:0px; right:0px;
-    margin:0 auto;}
+    margin:0 auto; top:-50px;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }
