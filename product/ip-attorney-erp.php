@@ -63,9 +63,7 @@
         <!-- ============================ Make Collaboration Start ================================== -->
         <section class="mission pb-0">
                  <div class="container-fluid px-md-5 px-3">
-                        <div class="col-md-12 pt-3 pb-5">
-                               <h2 class="ptnt-hdr w-100 d-block text-center">Patent Docketing Software</h2>
-                        </div>
+                               <h2 class="ptnt-hdr w-100 d-block text-center pt-3 pb-5">Patent Docketing Software</h2>
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
