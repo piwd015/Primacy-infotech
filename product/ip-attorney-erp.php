@@ -49,7 +49,7 @@
                             <button type="button" class="btn custom-btn mb" data-toggle="modal" data-target="#callback" href="#" style="color: #fff"><i class="icon-phone"></i> Call Back Request</button>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 mt-5">
+                    <div class="col-lg-4 col-md-4 mt-md-5">
                           <div class="attorney-bnr-app">
                                  <img src="../assets/images/and2.png" class=" wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
                           </div>
