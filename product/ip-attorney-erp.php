@@ -495,28 +495,34 @@
                             <div class="col-lg-12 col-md-12 col-sm-12">
                                 <div class="custom-tab icon-style">
                                     <ul class="nav nav-tabs" id="myTab" role="tablist">
-                                        <li class="nav-item trd-mrk-mdul">
+                                        <li class="nav-item">
                                             <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
                                                 <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
                                                 <h5>Trade Mark Module</h5>
                                             </a>
                                         </li>
-                                        <li class="nav-item trd-mrk-mdul">
+                                        <li class="nav-item">
                                             <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
                                                 <img src="../assets/images/customer.png" class="img-fluid" alt="">
                                                 <h5>Copyright Management</h5>
                                             </a>
                                         </li>
-                                        <li class="nav-item trd-mrk-mdul">
+                                        <li class="nav-item">
                                             <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
                                                 <img src="../assets/images/vendor.png" class="img-fluid" alt="">
                                                 <h5>Industrial Design Management</h5>
                                             </a>
                                         </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" id="keyword-nalysis-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
+                                                <img src="../assets/images/vendor.png" class="img-fluid" alt="">
+                                                <h5>Upcoming</h5>
+                                            </a>
+                                        </li>
                                     </ul>
                                     <div class="tab-content" id="myTabContent">
                                         <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
-                                            <div class="row align-items-center m-0 ecommerces_features">
+                                             <div class="row align-items-center m-0 ecommerces_features">
                                                     <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
                                                     <div class="col-lg-6 col-md-6">
                                                         <div class=" product_features">
@@ -558,7 +564,7 @@
                                                         <!-- Single Features -->
                                                     </div>
                                                 </div>
-                                            </div>
+                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
                                             <div class="row align-items-center m-0 ecommerces_features">
@@ -708,31 +714,50 @@
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
-
-                                            <div class="row align-items-center m-0">
+                                            <div class="row align-items-center m-0 ecommerces_features">
+                                                <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
                                                 <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_online_groceries_a02y.png" class="img-fluid mx-auto" alt="">
+                                                    <div class=" product_features">
+                                                        <div class="veticle-features mb-0">
+                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                <div class="veticle-large-features-box">
+                                                                    <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                </div>
+                                                                <div class="veticle-features-content">
+                                                                    <h4>Form Generation<span>Automated Trademark Forms (TM-1, TM-12 etc.)</span></h4>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- Single Features -->
+                                                        <div class="veticle-features mb-0">
+                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                <div class="veticle-large-features-box">
+                                                                    <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                </div>
+                                                                <div class="veticle-features-content">
+                                                                    <h4>Task Management with Reminders<span>Tasks with reminders and Outlook/Google integratio</span></h4>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-6">
-                                                    <h2>Android App Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>Selected Categories, Sub Categories and Products</li>
-                                                        <li>Product Search and Filter</li>
-                                                        <li>Product Details</li>
-                                                        <li>Add To Cart</li>
-                                                        <li>Basket Management</li>
-                                                        <li>Add To Cart</li>
-                                                        <li>Checkout Transaction</li>
-                                                        <li>Discount Products</li>
-                                                        <li>Coupon Discount</li>
-                                                        <li>Products Collection</li>
-                                                        <li>User Login, Register and Logout</li>
-                                                        <li>Multi-Language ( Build In 16 Languages )</li>
-                                                    </ul>
+                                                    <div class=" product_features">
+                                                        <div class="veticle-features float-left mb-0">
+                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                <div class="veticle-large-features-box">
+                                                                    <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                </div>
+                                                                <div class="veticle-features-content">
+                                                                    <h4>Trademark Watchers</h4>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- Single Features -->
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-
                                     </div>
                                 </div>
                             </div>
