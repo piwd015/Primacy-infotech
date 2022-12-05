@@ -82,7 +82,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/smart-dashboard.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Smart Dashboard</h4>
                                         <p>The dashboard (home page) of gives you the eagle-eye view of your IP Law practice. It provides the summary data per segment such as Trademark, Patent etc., reminder, deadlines, and tasks assigned to you. You can drill down to specific section by clicking on the relevant link.</p>
                                     </div>
@@ -94,7 +94,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/client-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Clients & Associate Management</h4>
                                         <p>Clients and associates are very important for IP Law firms, and IPGO provides an advanced client management feature to manage your clients and associates along with their departmental and divisional contacts. Clients are managed per case, and can be search in a robust and effective manner.</p>
                                     </div>
@@ -106,7 +106,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/cash-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Case Management</h4>
                                         <p>IPGO is developed as an ERP software solution for law firms, and meant to provide one-stop solution to all aspects of your IP Law practice. You can manage the lifeline of all your cases from search, application, examination, publication, oppositions, hearing, and renewals. You can also manage several kinds of proceedings per case along with their billing details.</p>
                                     </div>
