@@ -290,10 +290,8 @@
 
 </section><!-- testimonial -->
 
-<section class="h4-contact s-padding bg-color pt-5" id="contact">
-
+<section class="h4-contact s-padding bg-color py-md-5 py-0" id="contact">
     <div class="container-fluid px-md-5 px-3">
-
         <div class="row d-flex flex-wrap justify-content-center">
                <div class="col-md-10">
                     <div class="row">
@@ -343,7 +341,7 @@
                             </div>
 
                         </div>
-                           <div class="col-md-5 pt-md-5 pt-3">
+                           <div class="col-md-5 pt-md-5 pt-0">
                 <form class="contact-form" method="post">
 
                     <div class="form-row">
