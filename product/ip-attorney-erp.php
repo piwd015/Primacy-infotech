@@ -561,28 +561,70 @@
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_accept_tasks_po1c.png" class="img-fluid mx-auto" alt="">
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Customer/ User App Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>OTP ON LOGIN</li>
-                                                        <li>Home page : banner , product, deal , deal of the day , etc , category view , band view , Feature Product, Top Seller product , Latest Product, category wish product</li>
-                                                        <li>My Order- Ongoing Order, Canceled Order, Completed Order</li>
-                                                        <li>Cart  , offer , Wishlist</li>
-                                                        <li>Menu – All category</li>
-                                                        <li><li>Notification</li>
-                                                        <li>Chat</li>
-                                                        <li>Setting</li>
-                                                        <li>Support ticket , FAQ,</li>
-                                                        <li>Terms and condition , contract us  , About us Privacy polity</li>
-                                                        <li>Customer can transfer point</li>
-                                                        <li>Global banner and local banner view</li>
-                                                        <li>Point redeem limit</li>
-                                                    </ul>
-                                                </div>
+                                            <div class="row align-items-center m-0 ecommerces_features">
+                                                    <div class="col-lg-6 col-md-6">
+                                                          <div class="product_features">
+                                                              <!-- Single Features -->
+                                                              <div class="veticle-features mb-0">
+                                                                  <div class="veticle-features-item mb-3">
+                                                                      <div class="veticle-large-features-box">
+                                                                          <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                      </div>
+                                                                      <div class="veticle-features-content">
+                                                                          <h5>Copyright Management System <span>A true and complete Copyright Management Software</span></h5>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                              <!-- Single Features -->
+                                                              <div class="veticle-features mb-0">
+                                                                  <div class="veticle-features-item mb-3">
+                                                                      <div class="veticle-large-features-box">
+                                                                          <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                      </div>
+                                                                      <div class="veticle-features-content">
+                                                                          <h4>Clients & Associate Management <span>Clients and associates with multiple contacts per client</span></h4>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                              <!-- Single Features -->
+                                                              <div class="veticle-features mb-0">
+                                                                  <div class="veticle-features-item mb-3">
+                                                                      <div class="veticle-large-features-box">
+                                                                          <img src="../assets/images/features_icon_3.png" alt="features icon" />
+                                                                      </div>
+                                                                      <div class="veticle-features-content">
+                                                                          <h4>Document Management <span>Document Management System for paperless management</span></h4>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                          </div>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6">
+                                                        <div class="product_features">
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_4.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Case Management <span>Manage all your copyright cases in a systematic manner</span></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_5.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="email-marketing" role="tabpanel" aria-labelledby="email-marketing-tab">
