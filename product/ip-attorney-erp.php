@@ -30,7 +30,7 @@
     <div id="main-wrapper">
 
         <!-- ============================ Hero Banner  Start================================== -->
-        <section class="home-3-banner main-banner pt-5 ipgo-bnr-ht" id="banner"
+        <section class="home-6-banner main-banner pt-5 ipgo-bnr-ht" id="banner"
                  style="background url("../assets/images/ipgo-banner-bg.jpg") no-repeat">
             <div class="container">
                 <div class="row align-items-center">
