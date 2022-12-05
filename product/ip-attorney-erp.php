@@ -810,26 +810,19 @@
                                         <li class="nav-item">
                                             <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
                                                     <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
-                                                    <h5>Trade Mark</h5>
+                                                    <h5>Trade Mark Module</h5>
                                                 </a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
 													<img src="../assets/images/customer.png" class="img-fluid" alt="">
-													<h5>Customer App Features</h5>
+													<h5>Copyright Management</h5>
 												</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
                                                     <img src="../assets/images/vendor.png" class="img-fluid" alt="">
-                                                    <h5>Vendor Features</h5>
-                                                </a>
-                                        </li>
-                                       
-                                        <li class="nav-item">
-                                            <a class="nav-link" id="keyword-nalysis-tab" data-toggle="tab" href="#keyword-nalysis" role="tab" aria-controls="keyword-nalysis" aria-selected="false">
-                                                    <img src="../assets/images/android_icon.png" class="img-fluid" alt="">
-                                                    <h5>Android App Features</h5>
+                                                    <h5>Industrial Design Management</h5>
                                                 </a>
                                         </li>
                                     </ul>
