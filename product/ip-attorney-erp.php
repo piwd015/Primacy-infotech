@@ -1059,7 +1059,7 @@
                                                  <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
                                                       <div class="row one_time">
                                                               <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
-                                                                    <div class="onetm-clud pb-5 text-center">
+                                                                    <div class="onetm-clud pb-md-5 text-center">
                                                                           <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
                                                                            <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
                                                                                we recommend to avail the hosted version, which not only saves
@@ -1145,7 +1145,7 @@
                                                 <div class="tab-pane fade" id="monthly-pricing-tables" role="tabpanel" aria-labelledby="monthly-pricing">
                                                     <div class="row one_time">
                                                         <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
-                                                            <div class="onetm-clud pb-5 text-center">
+                                                            <div class="onetm-clud pb-md-5 text-center">
                                                                 <p class="d-block pb-2"><u>Pay only for as much as you use without worrying about installation and maintenance of the software.</u></p>
                                                                 <p class="d-block pb-3">IPGO is now available as a cloud application and you can use it without
                                                                     worrying about installation and maintenance of the software. We manage the software on
