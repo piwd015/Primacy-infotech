@@ -798,7 +798,7 @@
         </div>
 
         <!-- ============================ Counter Start ================================== -->
-        <section class="image-bg d-none d-md-block" style="background:#d34939 url(../assets/images/banner-55.png) no-repeat;">
+        <section class="image-bg" style="background:#d34939 url(../assets/images/banner-55.png) no-repeat;">
             <div class="container-fluid px-md-5 px-3">
                 <div class="row">
                     <div class="col text-center">
@@ -810,14 +810,14 @@
                 </div>
                 <div class="row">
 
-                    <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="col-md-3 col-6">
                         <div class="count-box text-center">
                             <h2 class="count">300</h2>
                             <h5>Total Clients</h5>
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="col-md-3 col-6">
                         <div class="count-box text-center">
                             <h2 class="count">625</h2>
                             <h5>Website Completed
@@ -825,7 +825,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="col-md-3 col-6">
                         <div class="count-box text-center">
                             <h2 class="count">310</h2>
                             <h5>Sucessfully Run
@@ -833,7 +833,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="col-md-3 col-6">
                         <div class="count-box text-center">
                             <h2 class="count">295<span>%</span></h2>
                             <h5>Return Customer
