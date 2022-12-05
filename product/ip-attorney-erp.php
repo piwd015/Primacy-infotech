@@ -498,41 +498,75 @@
                                         <li class="nav-item">
                                             <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
                                                 <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
-                                                <h5>Trade Mark Module</h5>
+                                                <h5>Trade Mark</h5>
                                             </a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
                                                 <img src="../assets/images/customer.png" class="img-fluid" alt="">
-                                                <h5>Copyright Management</h5>
+                                                <h5>Copyright</h5>
                                             </a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
                                                 <img src="../assets/images/vendor.png" class="img-fluid" alt="">
-                                                <h5>Industrial Management</h5>
+                                                <h5>Industrial</h5>
                                             </a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="keyword-nalysis-tab" data-toggle="tab" href="#keyword-nalysis" role="tab" aria-controls="keyword-nalysis" aria-selected="false">
                                                 <img src="../assets/images/vendor.png" class="img-fluid" alt="">
-                                                <h5>Upcoming</h5>
+                                                <h5>Patents</h5>
                                             </a>
                                         </li>
                                     </ul>
                                     <div class="tab-content" id="myTabContent">
                                         <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
                                              <div class="row align-items-center m-0 ecommerces_features">
-                                                    <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
+                                                    <h2 class="w-100 d-block text-center pb-3">Trademark Management System</h2>
                                                     <div class="col-lg-6 col-md-6">
                                                         <div class=" product_features">
+                                                                <!-- Single Features -->
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
                                                                         <div class="veticle-large-features-box">
                                                                             <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Form Generation<span>Automated Trademark Forms (TM-1, TM-12 etc.)</span></h4>
+                                                                            <h4>Trademark Management<span>A true and complete Trademark Management Software</span></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="veticle-large-features-box">
+                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4>Trademark Examination<span>Manage all trademark examination process details</span></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                !-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="veticle-large-features-box">
+                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4>Trademark Agents Management<span>Manage Trademark Agents & Attorneys in your firm.</span></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="veticle-large-features-box">
+                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4>Form Generation (Upcoming....)<span>Automated Trademark Forms (TM-1, TM-12 etc.)</span></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -543,25 +577,58 @@
                                                                             <img src="../assets/images/features_icon_2.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Task Management with Reminders<span>Tasks with reminders and Outlook/Google integratio</span></h4>
+                                                                            <h4>Task Management with Reminders (Upcoming....)<span>Tasks with reminders and Outlook/Google integratio</span></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                         </div>
                                                     </div>
-                                                <div class="col-lg-6 col-md-6">
+                                                    <div class="col-lg-6 col-md-6">
                                                     <div class=" product_features">
-                                                        <div class="veticle-features float-left mb-0">
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Trademark Registration<span>Manage trademark registration and publication</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Trademark Renewal<span>Trademark renewal history with due date reminder</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Trademark Publication<span>Manage Trademark Journal Publication details</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
                                                             <div class="veticle-features-item" style="justify-content:left;">
                                                                 <div class="veticle-large-features-box">
                                                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4>Trademark Watchers</h4>
+                                                                    <h4>Trademark Watchers (Upcoming....)</h4>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <!-- Single Features -->
                                                     </div>
                                                 </div>
                                              </div>
