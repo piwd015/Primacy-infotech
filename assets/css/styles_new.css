@@ -9346,6 +9346,10 @@ section {
     .ecommerces_features .veticle-features .veticle-features-content h4{font-size:15px;
         line-height:20px;}
     .ecommerces_features .veticle-features .veticle-features-content h4 span{font-size:15px;}
+    .ecommerces_features .veticle-features .veticle-features-content h5{font-size:15px;}
+    .ecommerces_features .veticle-features .veticle-features-content h5 span{font-size:14px;
+        line-height:18px;}
+    ul.list-style li{font-size:14px; padding-left:20px; margin-bottom:0.5em;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }
