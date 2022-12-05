@@ -227,7 +227,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail pt-md-0 pt-3">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Data Security</h4>
                                         <p>IPGO is secured by default and does not allow access to unauthorized users. The software provides state-of-the art User Management to manage access restrictions for each user. You can restrict any user (or all users) to access the software only during a specific time (e.g. office time), or from a specific IP address (e.g. your office IP address).</p>
                                     </div>

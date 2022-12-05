@@ -9461,7 +9461,7 @@ section {
         display: block;
     }
     .ecommerces_pricing .pricing-tables-wrapper .row.one_time {
-        display: none;
+        display: block;
     }
     .pricing.ecommerces_pricing .pricing-tables-wrapper .pricing-tab {
         margin-bottom: 0;
