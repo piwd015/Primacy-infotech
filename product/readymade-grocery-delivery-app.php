@@ -262,7 +262,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
 
 	<!-- banner -->
 
-	<div class="my-tab" id="my-tab">
+	<div class="my-tab" id="my-tab" style="z-index:100!important">
 
 		<div class="container">
 
