@@ -810,7 +810,7 @@
                                         <li class="nav-item">
                                             <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
                                                     <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
-                                                    <h5>Admin Features</h5>
+                                                    <h5>Trade Mark</h5>
                                                 </a>
                                         </li>
                                         <li class="nav-item">
