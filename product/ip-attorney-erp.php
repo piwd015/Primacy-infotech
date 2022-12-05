@@ -798,11 +798,11 @@
         </div>
 
         <!-- ============================ Counter Start ================================== -->
-        <section class="image-bg" style="background:#d34939 url(../assets/images/banner-55.png) no-repeat;">
+        <section class="image-bg py-md-5 py-3" style="background:#d34939 url(../assets/images/banner-55.png) no-repeat;">
             <div class="container-fluid px-md-5 px-3">
                 <div class="row">
                     <div class="col text-center">
-                        <div class="sec-heading light mx-auto">
+                        <div class="sec-heading light mx-auto mb-md-5 mb-0">
                             <h2>Our Success & Award</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
@@ -810,14 +810,14 @@
                 </div>
                 <div class="row">
 
-                    <div class="col-md-3 col-6 mb-3">
+                    <div class="col-md-3 col-6 mb-md-0 mb-2">
                         <div class="count-box text-center">
                             <h2 class="count">300</h2>
                             <h5>Total Clients</h5>
                         </div>
                     </div>
 
-                    <div class="col-md-3 col-6 mb-3">
+                    <div class="col-md-3 col-6 mb-md-0 mb-2">
                         <div class="count-box text-center">
                             <h2 class="count">625</h2>
                             <h5>Website Completed

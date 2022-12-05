@@ -9350,6 +9350,8 @@ section {
     .ecommerces_features .veticle-features .veticle-features-content h5 span{font-size:14px;
         line-height:18px;}
     ul.list-style li{font-size:14px; padding-left:20px; margin-bottom:0.5em;}
+    .count-box .count{font-size:1.5em;}
+    .count-box h5{font-size:15px; line-height:17px;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }
