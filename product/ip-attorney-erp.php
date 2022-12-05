@@ -807,19 +807,19 @@
                             <div class="col-lg-12 col-md-12 col-sm-12">
                                 <div class="custom-tab icon-style">
                                     <ul class="nav nav-tabs" id="myTab" role="tablist">
-                                        <li class="nav-item">
+                                        <li class="nav-item trd-mrk-mdul">
                                             <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
                                                     <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
                                                     <h5>Trade Mark Module</h5>
                                                 </a>
                                         </li>
-                                        <li class="nav-item">
+                                        <li class="nav-item trd-mrk-mdul">
                                             <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
 													<img src="../assets/images/customer.png" class="img-fluid" alt="">
 													<h5>Copyright Management</h5>
 												</a>
                                         </li>
-                                        <li class="nav-item">
+                                        <li class="nav-item trd-mrk-mdul">
                                             <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
                                                     <img src="../assets/images/vendor.png" class="img-fluid" alt="">
                                                     <h5>Industrial Design Management</h5>
