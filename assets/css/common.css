@@ -1950,7 +1950,7 @@ ul.abut-onetm li{background:url("../images/about/bulet.png") no-repeat 0 7px; di
 font-size:16px; color:#000; text-align:left; padding-left:12px;}
 .ptnt-hdr{font-size:35px; color:#003b77;}
 .prisn-pln{max-width:80%!important;}
-.trd-mrk-mdul{width:33%;}
+.trd-mrk-mdul{width:33%!important;}
 
 
 /*-------------our team section-------------*/
