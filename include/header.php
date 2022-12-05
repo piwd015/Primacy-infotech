@@ -445,14 +445,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-12">
+                            <div class="col-md-12 pr-3">
                                 <div class="row">
                                     <div class="col-md-2">
                                         <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/piapps.png" alt=""></a></div>
                                     </div>
-                                    <div class="col-md-2">
+                                    <!--<div class="col-md-2">
                                         <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/piresto-new.png" alt=""></a></div>
-                                    </div>
+                                    </div>-->
                                     <div class="col-md-2">
                                         <div class="piapps-logo"><a href="https://piapps.in/" target="_blank"><img src="../assets/images/pistore-new.png" alt=""></a></div>
                                     </div>
@@ -464,6 +464,9 @@
                                     </div>
                                     <div class="col-md-2">
                                         <div class="piapps-logo"><a href="/oddo/odoo-erp.php" target="_blank"><img src="../assets/images/odoo-logo.png" alt=""></a></div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <div class="piapps-logo"><a href="#" target="_blank"><img src="../assets/images/ipgo-logo.png" alt=""></a></div>
                                     </div>
                                 </div>
                             </div>
