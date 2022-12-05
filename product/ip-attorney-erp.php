@@ -252,9 +252,7 @@
                         <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
 
                             <div class="icon-box-icon">
-
-                                <i class="icon_drawer_alt"></i>
-
+                                   <img src="../assets/images/product/trademark-management.png" alt="">
                             </div>
 
                             <div class="icon-box-details">

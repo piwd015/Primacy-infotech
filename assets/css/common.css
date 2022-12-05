@@ -1960,6 +1960,8 @@ font-size:16px; color:#000; text-align:left; padding-left:12px;}
  background:url("../images/ipgo-banner-bg.jpg") no-repeat 0 0;
 }
 
+.icon-box .icon-box-icon{}
+.icon-box .icon-box-icon img{width:60px; display:block;}
 
 /*-------------our team section-------------*/
 
