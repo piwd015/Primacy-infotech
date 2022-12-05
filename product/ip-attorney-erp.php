@@ -485,6 +485,178 @@
             </div>
         </section>
 
+        <!-- ============================ Features Start ================================== -->
+        <section class="pd-0 overlay-top">
+            <div class="container-fluid px-md-5">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 col-md-10 col-sm-12">
+                        <div class="row mrg-0 bg-white box-shadow pt-5 border--radius">
+
+                            <div class="col-lg-12 col-md-12 col-sm-12">
+                                <div class="custom-tab icon-style">
+                                    <ul class="nav nav-tabs" id="myTab" role="tablist">
+                                        <li class="nav-item trd-mrk-mdul">
+                                            <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
+                                                <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
+                                                <h5>Trade Mark Module</h5>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item trd-mrk-mdul">
+                                            <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
+                                                <img src="../assets/images/customer.png" class="img-fluid" alt="">
+                                                <h5>Copyright Management</h5>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item trd-mrk-mdul">
+                                            <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
+                                                <img src="../assets/images/vendor.png" class="img-fluid" alt="">
+                                                <h5>Industrial Design Management</h5>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <div class="tab-content" id="myTabContent">
+                                        <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
+                                            <div class="row align-items-center m-0">
+                                                <div class="col-lg-6 col-md-6">
+                                                    <img src="../assets/images/myy/undraw_statistic_chart_38b6.png" class="img-fluid mx-auto" alt="">
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <h2>Admin Features</h2>
+                                                    <ul class="list-style style-1">
+                                                        <li>Dashboard : Total order static , Order Graph chart , Order number count</li>
+                                                        <li>Customer Order Manager : All order list , Order search order status maintain , View order info</li>
+                                                        <li>Brand : add and manage brand</li>
+                                                        <li>Category manager: Add and manage category , subcategory</li>
+                                                        <li>Attribute Manager : Add and manage Attribute</li>
+                                                        <li>Inhouse Product Manager : Add and Manage company’s own product</li>
+                                                        <li>Seller Product Manager : Add , Manage and approved Seller product</li>
+                                                        <li>Banner Manager : Add and manage multiple banner</li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <ul class="list-style style-1">
+                                                        <li>Coupon : add and manage coupon</li>
+                                                        <li>Push notification : send push notification</li>
+                                                        <li>Flash Deal : Add and manage Flash Deal</li>
+                                                        <li>Deal of the Day : Add and Manage Deal of the deal</li>
+                                                        <li>Feature Deal : Add and manage feature Deal</li>
+                                                        <li>Product Stock : View  All product stock</li>
+                                                        <li> Reviews : View Customer Review</li>
+                                                        <li>Wishlist : View all Wishlist</li>
+                                                        <li>Transaction : View Transaction</li>
+                                                        <li>Sellers : View and Manage sellers</li>
+                                                        <li>Sellers withdraw / pay-out</li>
+                                                        <li>Customer : View and Manage customer</li>
+                                                        <li>Settings</li>
+                                                        <li>Seller-settings : Seller commission setting and registration</li>
+                                                        <li>Payment-method : Manage Payment method</li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <ul class="list-style style-1">
+                                                        <li>Sms Gateway Setup</li>
+                                                        <li>Shipping Method</li>
+                                                        <li>Language Manager</li>
+                                                        <li>Social login Manager : Google and Facebook login manager </li>
+                                                        <li>Currency Manage</li>
+                                                        <li>Push Notification Setup Manager</li>
+                                                        <li>Page Manager : Terms and conditions, Privacy Policy, About Us, Help topic , Etc Page Manager</li>
+                                                        <li>Social Media Link manager</li>
+                                                        <li>Report</li>
+                                                        <li>Earning Report Overview</li>
+                                                        <li>Order Report Overview</li>
+                                                        <li>In-house product sale report</li>
+                                                        <li>Seller product sale report</li>
+                                                        <li>Role Manager : manage role of admin user</li>
+                                                        <li>Employee / Admin User :</li>
+                                                        <li>Manage Delivery partner</li>
+                                                        <li>Track order of vendor</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
+                                            <div class="row align-items-center m-0">
+                                                <div class="col-lg-6 col-md-6">
+                                                    <img src="../assets/images/myy/undraw_accept_tasks_po1c.png" class="img-fluid mx-auto" alt="">
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <h2>Customer/ User App Features</h2>
+                                                    <ul class="list-style style-1">
+                                                        <li>OTP ON LOGIN</li>
+                                                        <li>Home page : banner , product, deal , deal of the day , etc , category view , band view , Feature Product, Top Seller product , Latest Product, category wish product</li>
+                                                        <li>My Order- Ongoing Order, Canceled Order, Completed Order</li>
+                                                        <li>Cart  , offer , Wishlist</li>
+                                                        <li>Menu – All category</li>
+                                                        <li><li>Notification</li>
+                                                        <li>Chat</li>
+                                                        <li>Setting</li>
+                                                        <li>Support ticket , FAQ,</li>
+                                                        <li>Terms and condition , contract us  , About us Privacy polity</li>
+                                                        <li>Customer can transfer point</li>
+                                                        <li>Global banner and local banner view</li>
+                                                        <li>Point redeem limit</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="email-marketing" role="tabpanel" aria-labelledby="email-marketing-tab">
+                                            <div class="row align-items-center m-0">
+                                                <div class="col-lg-6 col-md-6">
+                                                    <img src="../assets/images/myy/undraw_web_shopping_dd4l.png" class="img-fluid mx-auto" alt="">
+
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <h2>Vendor / Seller web Features</h2>
+                                                    <ul class="list-style style-1">
+                                                        <li>Vendor Sign up</li>
+                                                        <li>Dashboard : Total order static , Order Graph chart , Order number count</li>
+                                                        <li>Customer Order Manager : All order list , Order search order status maintain , View order info</li>
+                                                        <li>Product Manager :single and bulk upload and manage</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
+
+                                            <div class="row align-items-center m-0">
+                                                <div class="col-lg-6 col-md-6">
+                                                    <img src="../assets/images/myy/undraw_online_groceries_a02y.png" class="img-fluid mx-auto" alt="">
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <h2>Android App Features</h2>
+                                                    <ul class="list-style style-1">
+                                                        <li>Selected Categories, Sub Categories and Products</li>
+                                                        <li>Product Search and Filter</li>
+                                                        <li>Product Details</li>
+                                                        <li>Add To Cart</li>
+                                                        <li>Basket Management</li>
+                                                        <li>Add To Cart</li>
+                                                        <li>Checkout Transaction</li>
+                                                        <li>Discount Products</li>
+                                                        <li>Coupon Discount</li>
+                                                        <li>Products Collection</li>
+                                                        <li>User Login, Register and Logout</li>
+                                                        <li>Multi-Language ( Build In 16 Languages )</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="clearfix"></div>
+        <!-- ============================ Features Start ================================== -->
+
         <!-- ============================ Benifits & Advance Features ================================== -->
         <section>
             <div class="container-fluid px-md-5 px-3 ecommerces_features">
@@ -1003,179 +1175,6 @@
                 </div>
             </div>
         </section>
-
-        <!-- ============================ Features Start ================================== -->
-        <section class="pd-0 overlay-top">
-            <div class="container-fluid px-md-5">
-                <div class="row justify-content-center">
-                    <div class="col-lg-12 col-md-10 col-sm-12">
-                        <div class="row mrg-0 bg-white box-shadow pt-5 border--radius">
-
-                            <div class="col-lg-12 col-md-12 col-sm-12">
-                                <div class="custom-tab icon-style">
-                                    <ul class="nav nav-tabs" id="myTab" role="tablist">
-                                        <li class="nav-item trd-mrk-mdul">
-                                            <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
-                                                    <img src="../assets/images/features_icon_8.png" class="img-fluid" alt="">
-                                                    <h5>Trade Mark Module</h5>
-                                                </a>
-                                        </li>
-                                        <li class="nav-item trd-mrk-mdul">
-                                            <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
-													<img src="../assets/images/customer.png" class="img-fluid" alt="">
-													<h5>Copyright Management</h5>
-												</a>
-                                        </li>
-                                        <li class="nav-item trd-mrk-mdul">
-                                            <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
-                                                    <img src="../assets/images/vendor.png" class="img-fluid" alt="">
-                                                    <h5>Industrial Design Management</h5>
-                                                </a>
-                                        </li>
-                                    </ul>
-                                    <div class="tab-content" id="myTabContent">
-                                        <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_statistic_chart_38b6.png" class="img-fluid mx-auto" alt="">
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Admin Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>Dashboard : Total order static , Order Graph chart , Order number count</li>
-                                                        <li>Customer Order Manager : All order list , Order search order status maintain , View order info</li>
-                                                        <li>Brand : add and manage brand</li>
-                                                        <li>Category manager: Add and manage category , subcategory</li>
-                                                        <li>Attribute Manager : Add and manage Attribute</li>
-                                                        <li>Inhouse Product Manager : Add and Manage company’s own product</li>
-                                                        <li>Seller Product Manager : Add , Manage and approved Seller product</li>
-                                                        <li>Banner Manager : Add and manage multiple banner</li>
-                                                        
-                                                    </ul>
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <ul class="list-style style-1">
-                                                        <li>Coupon : add and manage coupon</li>
-                                                        <li>Push notification : send push notification</li>
-                                                        <li>Flash Deal : Add and manage Flash Deal</li>
-                                                        <li>Deal of the Day : Add and Manage Deal of the deal</li>
-                                                        <li>Feature Deal : Add and manage feature Deal</li>
-                                                        <li>Product Stock : View  All product stock</li>
-                                                        <li> Reviews : View Customer Review</li>
-                                                        <li>Wishlist : View all Wishlist</li>
-                                                        <li>Transaction : View Transaction</li>
-                                                        <li>Sellers : View and Manage sellers</li>
-                                                        <li>Sellers withdraw / pay-out</li>
-                                                        <li>Customer : View and Manage customer</li>
-                                                        <li>Settings</li>
-                                                        <li>Seller-settings : Seller commission setting and registration</li>
-                                                        <li>Payment-method : Manage Payment method</li>
-                                                        
-                                                    </ul>
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <ul class="list-style style-1">
-                                                        <li>Sms Gateway Setup</li>
-                                                        <li>Shipping Method</li>
-                                                        <li>Language Manager</li>
-                                                        <li>Social login Manager : Google and Facebook login manager </li>
-                                                        <li>Currency Manage</li>
-                                                        <li>Push Notification Setup Manager</li>
-                                                        <li>Page Manager : Terms and conditions, Privacy Policy, About Us, Help topic , Etc Page Manager</li>
-                                                        <li>Social Media Link manager</li>
-                                                        <li>Report</li>
-                                                        <li>Earning Report Overview</li>
-                                                        <li>Order Report Overview</li>
-                                                        <li>In-house product sale report</li>
-                                                        <li>Seller product sale report</li>
-                                                        <li>Role Manager : manage role of admin user</li>
-                                                        <li>Employee / Admin User :</li>
-                                                        <li>Manage Delivery partner</li>
-                                                        <li>Track order of vendor</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_accept_tasks_po1c.png" class="img-fluid mx-auto" alt="">
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Customer/ User App Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>OTP ON LOGIN</li>
-                                                        <li>Home page : banner , product, deal , deal of the day , etc , category view , band view , Feature Product, Top Seller product , Latest Product, category wish product</li>
-                                                        <li>My Order- Ongoing Order, Canceled Order, Completed Order</li>
-                                                        <li>Cart  , offer , Wishlist</li>
-                                                        <li>Menu – All category</li>
-                                                        <li><li>Notification</li>
-                                                        <li>Chat</li>
-                                                        <li>Setting</li>
-                                                        <li>Support ticket , FAQ,</li>
-                                                        <li>Terms and condition , contract us  , About us Privacy polity</li>
-                                                        <li>Customer can transfer point</li>
-                                                        <li>Global banner and local banner view</li>
-                                                        <li>Point redeem limit</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="email-marketing" role="tabpanel" aria-labelledby="email-marketing-tab">
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_web_shopping_dd4l.png" class="img-fluid mx-auto" alt="">
-
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Vendor / Seller web Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>Vendor Sign up</li>
-                                                        <li>Dashboard : Total order static , Order Graph chart , Order number count</li>
-                                                        <li>Customer Order Manager : All order list , Order search order status maintain , View order info</li>
-                                                        <li>Product Manager :single and bulk upload and manage</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
-                                            
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_online_groceries_a02y.png" class="img-fluid mx-auto" alt="">
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Android App Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>Selected Categories, Sub Categories and Products</li>
-                                                        <li>Product Search and Filter</li>
-                                                        <li>Product Details</li>
-                                                        <li>Add To Cart</li>
-                                                        <li>Basket Management</li>
-                                                        <li>Add To Cart</li>
-                                                        <li>Checkout Transaction</li>
-                                                        <li>Discount Products</li>
-                                                        <li>Coupon Discount</li>
-                                                        <li>Products Collection</li>
-                                                        <li>User Login, Register and Logout</li>
-                                                        <li>Multi-Language ( Build In 16 Languages )</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <div class="clearfix"></div>
-        <!-- ============================ Features Start ================================== -->
-
 
     </div>
     <!-- ============================================================== -->
