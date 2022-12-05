@@ -517,8 +517,8 @@
                                     <div class="tab-content" id="myTabContent">
                                         <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
                                             <div class="row align-items-center m-0 ecommerces_features">
+                                                    <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
                                                     <div class="col-lg-6 col-md-6">
-                                                        <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
                                                         <div class=" product_features">
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
