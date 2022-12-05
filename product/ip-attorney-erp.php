@@ -783,49 +783,105 @@
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
                                             <div class="row align-items-center m-0 ecommerces_features">
                                                 <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
-                                                <p>IPGO - The Patent Docketing & Management Software is developed
+                                                <p class="w-100 d-block text-center">IPGO - The Patent Docketing & Management Software is developed
                                                     for IP Law Firms, Patent Agents and Attorneys in India, and it
                                                     handles all the patent tasks of your office, from prosecution to
                                                     litigation, from search, application, examination, publication and
                                                     oppositions.</p>
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class=" product_features">
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="veticle-large-features-box">
-                                                                    <img src="../assets/images/features_icon_1.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4>Form Generation<span>Automated Trademark Forms (TM-1, TM-12 etc.)</span></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Single Features -->
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="veticle-large-features-box">
-                                                                    <img src="../assets/images/features_icon_2.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4>Task Management with Reminders<span>Tasks with reminders and Outlook/Google integratio</span></h4>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Patent Management Software<span>A true and complete Patent Management Software</span></h4>
+                                                                    </div>
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Oppositions Management<span>Manage all your patent opposition proceedings</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Clients & Associate Management<span>Clients and associates with multiple contacts per client</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Centralized Data Management<span>Centralized data management for integrity and consistency</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class=" product_features">
-                                                        <div class="veticle-features float-left mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="veticle-large-features-box">
-                                                                    <img src="../assets/images/features_icon_1.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4>Trademark Watchers</h4>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                           <h4>PCT Import - From WIPO<span>Automatically import PCT Patent details from WIPO</span></h4>
+                                                                    </div>
                                                                 </div>
                                                             </div>
-                                                        </div>
-                                                        <!-- Single Features -->
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Form Generation<span>Automated Patent Forms - Form - 1, 3, 5 etc.</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Task Management with Reminders<span>Tasks with reminders and Outlook/Google integration</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Patent Agents Management<span>Manage Patent Agents & Attorneys in your firm.</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                     </div>
                                                 </div>
                                             </div>
