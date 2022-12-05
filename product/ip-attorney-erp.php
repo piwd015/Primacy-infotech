@@ -781,13 +781,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="col text-center">
-                        <div class="sec-heading mx-auto mb-md-5 mb-3">
+                        <div class="sec-heading mx-auto mb-0">
                             <h2>Apps Screenshot</h2>
                         </div>
                     </div>
                 </div>
             </div>
-            <section class="customer-logos slider">
+            <section class="customer-logos slider pt-3">
                 <div class="slide"><img src="../assets/images/product/screen-1.jpg"></div>
                 <div class="slide"><img src="../assets/images/product/screen-2.jpg"></div>
                 <div class="slide"><img src="../assets/images/product/screen-03.jpg"></div>
