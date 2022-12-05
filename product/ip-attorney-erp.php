@@ -245,7 +245,7 @@
                 <div class="s-title my-md-5 my-3">
                     <h2 class="wow">Special Features</h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row">
 
                     <div class="col-lg-4 col-md-4">
 
