@@ -562,6 +562,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
                                             <div class="row align-items-center m-0 ecommerces_features">
+                                                <h2 class="w-100 d-block text-center pb-3">Copyright Management System</h2>
                                                     <div class="col-lg-6 col-md-6">
                                                           <div class="product_features">
                                                               <!-- Single Features -->
@@ -571,7 +572,7 @@
                                                                           <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                       </div>
                                                                       <div class="veticle-features-content">
-                                                                          <h5>Copyright Management System <span>A true and complete Copyright Management Software</span></h5>
+                                                                          <h4>Copyright Management System <span>A true and complete Copyright Management Software</span></h4>
                                                                       </div>
                                                                   </div>
                                                               </div>
@@ -628,20 +629,48 @@
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="email-marketing" role="tabpanel" aria-labelledby="email-marketing-tab">
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_web_shopping_dd4l.png" class="img-fluid mx-auto" alt="">
-
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Vendor / Seller web Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>Vendor Sign up</li>
-                                                        <li>Dashboard : Total order static , Order Graph chart , Order number count</li>
-                                                        <li>Customer Order Manager : All order list , Order search order status maintain , View order info</li>
-                                                        <li>Product Manager :single and bulk upload and manage</li>
-                                                    </ul>
-                                                </div>
+                                            <div class="row align-items-center m-0 ecommerces_features">
+                                                    <h2 class="w-100 d-block text-center pb-3">Industrial Design Management System</h2>
+                                                    <div class="col-lg-6 col-md-6">
+                                                          <div class="product_features">
+                                                              <!-- Single Features -->
+                                                              <div class="veticle-features mb-0">
+                                                                  <div class="veticle-features-item mb-md-3 mb-1" style="justify-content:left;">
+                                                                      <div class="veticle-large-features-box">
+                                                                          <img src="../assets/images/features_icon_6.png" alt="features icon" />
+                                                                      </div>
+                                                                      <div class="veticle-features-content">
+                                                                          <h4>Design Management Software<span>A true and complete Design Management Software</span></h4>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                              <!-- Single Features -->
+                                                              <div class="veticle-features mb-0">
+                                                                  <div class="veticle-features-item mb-md-3 mb-1" style="justify-content:left;">
+                                                                      <div class="veticle-large-features-box">
+                                                                          <img src="../assets/images/features_icon_7.png" alt="features icon" />
+                                                                      </div>
+                                                                      <div class="veticle-features-content">
+                                                                          <h4>Clients & Associate Management<span>Clients and associates with multiple contacts per client</span></p>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                              <!-- Single Features -->
+                                                              <div class="veticle-features mb-0">
+                                                                  <div class="veticle-features-item mb-md-3 mb-1" style="justify-content:left;">
+                                                                      <div class="veticle-large-features-box">
+                                                                          <img src="../assets/images/features_icon_8.png" alt="features icon" />
+                                                                      </div>
+                                                                      <div class="veticle-features-content">
+                                                                          <h4>Document Management<span>Document Management System for paperless management</span></p>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                          </div>
+                                                    </div>
+                                                    <div class="col-lg-6 col-md-6">
+                                                           <div class="product_features"></div>
+                                                    </div>
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
