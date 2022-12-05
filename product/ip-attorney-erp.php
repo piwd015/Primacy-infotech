@@ -519,7 +519,7 @@
                                             <div class="col-md-12"> <h2>Upcoming</h2></div>
                                             <div class="row align-items-center m-0 ecommerces_features">
                                                     <div class=" product_features">
-                                                            <div class="veticle-features mb-0">
+                                                            <div class="veticle-features mb-0 d-inline-block">
                                                                 <div class="veticle-features-item mb-3">
                                                                     <div class="veticle-large-features-box">
                                                                         <img src="../assets/images/features_icon_1.png" alt="features icon" />
@@ -530,7 +530,7 @@
                                                                 </div>
                                                             </div>
                                                             <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
+                                                            <div class="veticle-features mb-0 d-inline-block">
                                                                 <div class="veticle-features-item mb-3">
                                                                     <div class="veticle-large-features-box">
                                                                         <img src="../assets/images/features_icon_2.png" alt="features icon" />
@@ -541,7 +541,7 @@
                                                                 </div>
                                                             </div>
                                                             <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
+                                                            <div class="veticle-features mb-0 d-inline-block">
                                                                 <div class="veticle-features-item mb-3">
                                                                     <div class="veticle-large-features-box">
                                                                         <img src="../assets/images/features_icon_3.png" alt="features icon" />
@@ -552,7 +552,7 @@
                                                                 </div>
                                                             </div>
                                                             <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
+                                                            <div class="veticle-features mb-0 d-inline-block">
                                                                 <div class="veticle-features-item mb-3">
                                                                     <div class="veticle-large-features-box">
                                                                         <img src="../assets/images/features_icon_4.png" alt="features icon" />
@@ -563,7 +563,7 @@
                                                                 </div>
                                                             </div>
                                                             <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
+                                                            <div class="veticle-features mb-0 d-inline-block">
                                                                 <div class="veticle-features-item mb-3">
                                                                     <div class="veticle-large-features-box">
                                                                         <img src="../assets/images/features_icon_5.png" alt="features icon" />
