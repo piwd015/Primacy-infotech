@@ -781,9 +781,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="col text-center">
-                        <div class="sec-heading mx-auto">
+                        <div class="sec-heading mx-auto mb-md-5 mb-3">
                             <h2>Apps Screenshot</h2>
-
                         </div>
                     </div>
                 </div>
