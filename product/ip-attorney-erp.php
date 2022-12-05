@@ -1033,7 +1033,7 @@
                       <div class="row d-flex flex-wrap justify-content-center">
                             <div class="col-md-11">
                                     <div class="col text-center">
-                                        <div class="sec-heading mx-auto prisn-pln">
+                                        <div class="sec-heading mx-auto prisn-pln mb-md-5 mb-0">
                                               <h2>Pricing Plans</h2>
                                               <p>IPGO  is developed for larger user base, from an individual
                                                   IP Attorney to a large IP Law Firm. We have adjusted the

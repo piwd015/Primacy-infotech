@@ -2305,6 +2305,10 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .attorney-bnr-app{width:100%; float:none;}
  .ptnt-hdr{font-size:20px;}
  .prisn-pln{max-width:100%!important;}
+ .onetime-tbl .table th{font-size:15px;}
+ .onetime-tbl .table td{font-size:13px;}
+ ul.abut-onetm h4{font-size:15px;}
+ ul.abut-onetm li{font-size:13px;}
 }
 
 
