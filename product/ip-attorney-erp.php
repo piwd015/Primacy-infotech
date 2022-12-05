@@ -435,10 +435,32 @@
                                                                             <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Trademark Watchers (Upcoming....)</h4>
+                                                                            <h4>Trademark Management<dd>A true and complete Trademark Management Software</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
+                                                                  <!-- Single Features -->
+                                                                  <div class="veticle-features float-left mb-0">
+                                                                      <div class="veticle-features-item" style="justify-content:left;">
+                                                                          <div class="veticle-large-features-box">
+                                                                              <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                          </div>
+                                                                          <div class="veticle-features-content">
+                                                                              <h4>Trademark Registration<dd>Manage trademark registration and publication</dd></h4>
+                                                                          </div>
+                                                                      </div>
+                                                                  </div>
+                                                                  <!-- Single Features -->
+                                                                  <div class="veticle-features float-left mb-0">
+                                                                      <div class="veticle-features-item" style="justify-content:left;">
+                                                                          <div class="veticle-large-features-box">
+                                                                              <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                          </div>
+                                                                          <div class="veticle-features-content">
+                                                                              <h4>Form Generation (Coming soon)<dd>Automated Trademark Forms (TM-1, TM-12 etc.)</dd></h4>
+                                                                          </div>
+                                                                      </div>
+                                                                  </div>
                                                           </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
