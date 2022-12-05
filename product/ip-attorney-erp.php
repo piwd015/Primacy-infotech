@@ -834,6 +834,50 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Case Management<span>Manage patent cases with effective patent life-cycle</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Hearing Management<span>Patent hearings with case details and documents</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Deadline Management<span>Patent deadlines - form filing, specification, examination</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Data Security<span>High-end user-level security with time and IP restrictions.</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-6">
@@ -857,6 +901,50 @@
                                                                     </div>
                                                                     <div class="veticle-features-content">
                                                                         <h4>Form Generation<span>Automated Patent Forms - Form - 1, 3, 5 etc.</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Document Management<span>Manage all your patent documents at one place</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Patent Tools & Resources<span>Tools & resources for your daily patent tasks.</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Patent Examination<span>Manage all aspects of patent examination proceedings</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features float-left mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Reports<span>Advanced patent reporting tools with export feature.</span></h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
