@@ -575,7 +575,49 @@
                                                         </div>
                                                     </div>
                                                     </div>
-                                               </div>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <ul class="list-style style-1">
+                                                        <li>Coupon : add and manage coupon</li>
+                                                        <li>Push notification : send push notification</li>
+                                                        <li>Flash Deal : Add and manage Flash Deal</li>
+                                                        <li>Deal of the Day : Add and Manage Deal of the deal</li>
+                                                        <li>Feature Deal : Add and manage feature Deal</li>
+                                                        <li>Product Stock : View  All product stock</li>
+                                                        <li> Reviews : View Customer Review</li>
+                                                        <li>Wishlist : View all Wishlist</li>
+                                                        <li>Transaction : View Transaction</li>
+                                                        <li>Sellers : View and Manage sellers</li>
+                                                        <li>Sellers withdraw / pay-out</li>
+                                                        <li>Customer : View and Manage customer</li>
+                                                        <li>Settings</li>
+                                                        <li>Seller-settings : Seller commission setting and registration</li>
+                                                        <li>Payment-method : Manage Payment method</li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6">
+                                                    <ul class="list-style style-1">
+                                                        <li>Sms Gateway Setup</li>
+                                                        <li>Shipping Method</li>
+                                                        <li>Language Manager</li>
+                                                        <li>Social login Manager : Google and Facebook login manager </li>
+                                                        <li>Currency Manage</li>
+                                                        <li>Push Notification Setup Manager</li>
+                                                        <li>Page Manager : Terms and conditions, Privacy Policy, About Us, Help topic , Etc Page Manager</li>
+                                                        <li>Social Media Link manager</li>
+                                                        <li>Report</li>
+                                                        <li>Earning Report Overview</li>
+                                                        <li>Order Report Overview</li>
+                                                        <li>In-house product sale report</li>
+                                                        <li>Seller product sale report</li>
+                                                        <li>Role Manager : manage role of admin user</li>
+                                                        <li>Employee / Admin User :</li>
+                                                        <li>Manage Delivery partner</li>
+                                                        <li>Track order of vendor</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
                                             <div class="row align-items-center m-0">
