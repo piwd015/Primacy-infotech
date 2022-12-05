@@ -343,10 +343,7 @@
                             </div>
 
                         </div>
-                           <div class="col-md-5 ">
-
-                <br/><br/><br/>
-
+                           <div class="col-md-5 pt-md-5 pt-3">
                 <form class="contact-form" method="post">
 
                     <div class="form-row">
