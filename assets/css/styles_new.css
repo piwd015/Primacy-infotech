@@ -9484,10 +9484,10 @@ section {
     }
 
     .ecommerces_features .row.product_features {
-        display: none;
+        display: block;
     }
     .ecommerces_features .features_slider {
-        display: block;
+        display: none;
     }
 
     .ecommerces_features {
@@ -9499,7 +9499,7 @@ section {
     }
     
     .modal_sec .modal-body form.form-horizontal .modal-footer button.btn.btn-success {
-        padding: 8px 0;
+        padding: 8px 15px;
     }
 
     .header_tab_sec {
