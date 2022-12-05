@@ -243,7 +243,7 @@
         <section class="h4-awesome-feature bg-color s-padding py-md-5">
             <div class="container-fluid px-md-5 px-3">
                 <div class="s-title my-md-5 my-3">
-                    <h2 class="wow">Future Highlight</h2>
+                    <h2 class="wow">Special Features</h2>
                 </div>
                 <div class="row align-items-center">
 
@@ -257,11 +257,11 @@
 
                             <div class="icon-box-details">
 
-                                <h3 class="icon-box-title">Trademark Management
+                                <h3 class="icon-box-title">Automation Certificate download form
+                                    government portal</h3>
 
-                                </h3>
-
-                                <p>A true and complete Trademark Management Software</p>
+                                <p>Automatic Certificate Download save lot of time so you can focus
+                                    more on what really matters</p>
 
                             </div>
 
@@ -270,14 +270,12 @@
                         <div class="icon-box trd-mrk-box wow slideInUp">
 
                             <div class="icon-box-icon">
-
-                                <i class="icon_headphones"></i>
-
+                                  <img src="../assets/images/product/trademark-management.png" alt="">
                             </div>
 
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Trademark Examination</h3>
-                                <p>Manage all trademark examination process details</p>
+                                <h3 class="icon-box-title">Auto reminder</h3>
+                                <p>Auto reminder take care of you all case on time.</p>
                             </div>
 
                         </div>
@@ -295,20 +293,11 @@
                             </div>
 
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Oppositions Management</h3>
-                                <p>Manage all your trademark opposition proceedings</p>
+                                <h3 class="icon-box-title">Get a bird's eye view</h3>
+                                <p>Real time data views give a high-level view of your practice so
+                                    you always know exactly what’s going on</p>
                             </div>
 
-                        </div>
-
-                        <div class="icon-box trd-mrk-box wow slideInUp">
-                            <div class="icon-box-icon">
-                                <i class="icon_headphones"></i>
-                            </div>
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Trademark Registration</h3>
-                                <p>Manage trademark registration and publication</p>
-                            </div>
                         </div>
                     </div>
 
@@ -318,8 +307,9 @@
                                 <i class="icon_drawer_alt"></i>
                             </div>
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Case Management</h3>
-                                <p>Manage trademark cases with trademark life-cycle</p>
+                                <h3 class="icon-box-title">Highly Customizable</h3>
+                                <p>Customizable workflows and layouts help you manage any type
+                                    of matter just as you'd like</p>
                             </div>
                         </div>
 
@@ -328,8 +318,8 @@
                                 <i class="icon_headphones"></i>
                             </div>
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Trademark Publication</h3>
-                                <p>Manage Trademark Journal Publication details</p>
+                                <h3 class="icon-box-title">Trademark Ownership Transfer</h3>
+                                <p>Transfer trademark Ownership to Another Person or Sell Any one</p>
                             </div>
                         </div>
                     </div>
@@ -341,8 +331,10 @@
                                 <i class="icon_drawer_alt"></i>
                             </div>
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Hearing Management</h3>
-                                <p>Trademark hearings with case details and documents</p>
+                                <h3 class="icon-box-title">Time saving Automation
+                                </h3>
+                                <p>Automations cut admin time so you can focus more on what
+                                    really matters</p>
                             </div>
                         </div>
                     </div>
@@ -353,8 +345,8 @@
                                 <i class="icon_drawer_alt"></i>
                             </div>
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Trademark Renewal</h3>
-                                <p>Trademark renewal history with due date reminder</p>
+                                <h3 class="icon-box-title">Name and Data Change History</h3>
+                                <p>Track history of every changes</p>
                             </div>
                         </div>
                     </div>
@@ -482,7 +474,7 @@
                     <!-------->
                 </div>
             </div>
-        </section>
+        </section>-->
 
         <!-- ============================ Features Start ================================== -->
         <section class="pd-0 overlay-top">
