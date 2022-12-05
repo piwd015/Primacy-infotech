@@ -510,7 +510,7 @@
                                         <li class="nav-item">
                                             <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
                                                 <img src="../assets/images/vendor.png" class="img-fluid" alt="">
-                                                <h5>Industrial Design Management</h5>
+                                                <h5>Industrial Management</h5>
                                             </a>
                                         </li>
                                         <li class="nav-item">
