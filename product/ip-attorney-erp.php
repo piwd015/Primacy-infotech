@@ -520,7 +520,7 @@
                                                     <div class="col-lg-6 col-md-6">
                                                         <h2>Upcoming</h2>
                                                         <div class=" product_features">
-                                                                <div class="veticle-features mb-0">
+                                                                <div class="veticle-features float-left mb-0">
                                                                     <div class="veticle-features-item">
                                                                         <div class="veticle-large-features-box">
                                                                             <img src="../assets/images/features_icon_1.png" alt="features icon" />
@@ -531,7 +531,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
+                                                                <div class="veticle-features float-left mb-0">
                                                                     <div class="veticle-features-item">
                                                                         <div class="veticle-large-features-box">
                                                                             <img src="../assets/images/features_icon_2.png" alt="features icon" />
@@ -545,7 +545,7 @@
                                                     </div>
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class=" product_features">
-                                                        <div class="veticle-features mb-0">
+                                                        <div class="veticle-features float-left mb-0">
                                                             <div class="veticle-features-item mb-3">
                                                                 <div class="veticle-large-features-box">
                                                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
