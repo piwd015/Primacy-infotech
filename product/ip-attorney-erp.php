@@ -297,21 +297,34 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4">
-
                         <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
-
                             <div class="icon-box-icon">
-
                                 <i class="icon_drawer_alt"></i>
-
                             </div>
-
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Get a bird's eye view</h3>
-                                <p>Real time data views give a high-level view of your practice so
-                                    you always know exactly what’s going on</p>
-                            </div>
+                                <h3 class="icon-box-title">Highly Customizable</h3>
+                                <p>Customizable workflows and layouts help you manage any type
+                                    of matter just as you'd like</p>                            </div>
 
+                        </div>
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Trademark Ownership Transfer</h3>
+                                <p>Transfer trademark Ownership to Another Person or Sell Any one</p>
+                            </div>
+                        </div>
+                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box-icon">
+                                <i class="icon_drawer_alt"></i>
+                            </div>
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Time saving Automation</h3>
+                                <p>Automations cut admin time so you can focus more on what
+                                    really matters</p>
+                            </div>
                         </div>
                     </div>
 
