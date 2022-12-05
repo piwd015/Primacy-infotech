@@ -239,7 +239,7 @@
         <div class="clearfix"></div>
         <!-- ============================ Make Collaboration End ================================== -->
 
-        <section class="h4-awesome-feature bg-color s-padding py-md-5 d-none">
+        <section class="h4-awesome-feature bg-color s-padding py-md-5">
             <div class="container-fluid px-md-5 px-3">
                 <div class="s-title my-md-5 my-3">
                     <h2 class="wow">Features Highlited</h2>
@@ -797,6 +797,213 @@
             </section>
         </div>
 
+        <section class="pricing s-padding ecommerces_pricing pt-md-0 pt-3 pb-0" id="pricing">
+            <div class="container-fluid px-md-5 px-3">
+                <div class="row d-flex flex-wrap justify-content-center">
+                    <div class="col-md-11">
+                        <div class="col text-center">
+                            <div class="sec-heading mx-auto prisn-pln mb-md-5 mb-0">
+                                <h2>Pricing Plans</h2>
+                                <p>IPGO  is developed for larger user base, from an individual
+                                    IP Attorney to a large IP Law Firm. We have adjusted the
+                                    packages and pricing of the Trademark Management and Patent
+                                    & Managent software’s according to your specific needs.</p>
+                                <p>IPGO is available as both Cloud onetime and SAAS versions.
+                                    The details of the same are as under. Please click on the
+                                    link to view the details.</p>
+                            </div>
+                        </div>
+                        <div class="col-12">
+                            <div class="pricing-tables-wrapper">
+                                <ul class="nav nav-tabs pricing-tab mb-2" id="pricing-tab" role="tablist">
+                                    <li class="nav-item">
+                                        <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime</a>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson</a>
+                                    </li>
+                                </ul>
+                                <div class="tab-content" id="pricing-tab-content">
+                                    <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
+                                        <div class="row one_time">
+                                            <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
+                                                <div class="onetm-clud pb-md-5 text-center">
+                                                    <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
+                                                    <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
+                                                        we recommend to avail the hosted version, which not only saves
+                                                        your marginal cost per record, The biggest advantage of licensing
+                                                        IPGO is three are no user and data limited  . The prices mentioned
+                                                        below are one-time investment, there would be no annual maintenance
+                                                        or recurring charges to be paid.</p>
+                                                    <div class="reponsive-table">
+                                                        <table class="table table-bordered">
+                                                            <thead>
+                                                            <tr>
+                                                                <th valign="top" width="13%">Package</th>
+                                                                <th valign="top" width="11%">Trademark Management</th>
+                                                                <th valign="top" width="11%">Patent Management</th>
+                                                                <th valign="top" width="11%">Copyright Management</th>
+                                                                <th valign="top" width="11%">Design Management</th>
+                                                                <th valign="top" width="11%">Document Management</th>
+                                                                <th valign="top" width="11%">INVOICE Management</th>
+                                                                <th valign="top" width="9%">CRM</th>
+                                                                <th valign="top" width="12%">Price *</th>
+                                                            </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr>
+                                                                <td><strong>IPGO- Gold</strong></td>
+                                                                <td><strong>YES</strong></td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>₹ 2,50,000/-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>IPGO - Silver</strong></td>
+                                                                <td><strong>YES</strong></td>
+                                                                <td>No</td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>No</td>
+                                                                <td>YES</td>
+                                                                <td>YES</td>
+                                                                <td>₹ 1,25,000/-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>JSK IP Suite - Stater</strong></td>
+                                                                <td><strong>YES</strong></td>
+                                                                <td>No</td>
+                                                                <td>No</td>
+                                                                <td>YES</td>
+                                                                <td>No</td>
+                                                                <td>Yes</td>
+                                                                <td>No</td>
+                                                                <td>₹ 90,000/-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>JSK IP Suite - Basic</strong></td>
+                                                                <td><strong>YES</strong></td>
+                                                                <td>No</td>
+                                                                <td>No</td>
+                                                                <td>No</td>
+                                                                <td>No</td>
+                                                                <td>No</td>
+                                                                <td>No</td>
+                                                                <td>₹ 75,000/-</td>
+                                                            </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                    <ul class="abut-onetm w-100 d-block pl-0">
+                                                        <h4 class="d-block pb-2">Notes about onetime version:</h4>
+                                                        <li class="pb-2">All packages contain one server license with unlimited users.</li>
+                                                        <li class="pb-2">We Provide 3 Months Free Support And 1 Year Bug Fixing </li>
+                                                        <li class="pb-2">Cloud server cost depend on your Realtime user</li>
+                                                        <li class="pb-2">All packages contain unlimited number of records, there is no limitation as to the number and size of records</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="tab-pane fade" id="monthly-pricing-tables" role="tabpanel" aria-labelledby="monthly-pricing">
+                                        <div class="row one_time">
+                                            <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
+                                                <div class="onetm-clud pb-md-5 text-center">
+                                                    <p class="d-block pb-2"><u>Pay only for as much as you use without worrying about installation and maintenance of the software.</u></p>
+                                                    <p class="d-block pb-3">IPGO is now available as a cloud application and you can use it without
+                                                        worrying about installation and maintenance of the software. We manage the software on
+                                                        our own cloud server, and also keep it up-to-date with latest updates. So you don't
+                                                        have to invest for your own server infrastructure, and worry about managing and
+                                                        maintaining the software on your server.</p>
+                                                    <p class="d-block pb-3">With the cloud version, you pay according
+                                                        to your requirements as to how many records you need.
+                                                        This means you can avail the software only for as much of
+                                                        trademarks or patents as you are handling. As your requirements
+                                                        grow in future, which we wish it would, you can easily and
+                                                        quickly upgrade your package any time.</p>
+                                                    <p class="d-block pb-0">The per-record/per-year prices for the cloud
+                                                        version are as under:</p>
+                                                    <div class="reponsive-table">
+                                                        <table class="table table-bordered">
+                                                            <thead>
+                                                            <tr>
+                                                                <th valign="top" width="10%">Package</th>
+                                                                <th valign="top" width="10%">Trademark</th>
+                                                                <th valign="top" width="10%">Patent</th>
+                                                                <th valign="top" width="10%">Copyright</th>
+                                                                <th valign="top" width="10%">Design</th>
+                                                                <th valign="top" width="10%">Documens</th>
+                                                                <th valign="top" width="10%">Invoice</th>
+                                                                <th valign="top" width="8%">CRM</th>
+                                                                <th valign="top" width="11%">Minimum Quality</th>
+                                                                <th valign="top" width="11%">Minimum Price</th>
+                                                            </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr>
+                                                                <td><strong>Starter Package</strong></td>
+                                                                <td>₹ 100/-</td>
+                                                                <td>₹ 800/-</td>
+                                                                <td>₹ 60/-</td>
+                                                                <td>₹ 60/-</td>
+                                                                <td>Free</td>
+                                                                <td>30</td>
+                                                                <td>20</td>
+                                                                <td>100</td>
+                                                                <td>₹ 15,000/-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Standard Package</strong></td>
+                                                                <td>₹ 80/-</td>
+                                                                <td>₹ 800/-</td>
+                                                                <td>₹ 50/-</td>
+                                                                <td>₹ 50/-</td>
+                                                                <td>Free</td>
+                                                                <td>25</td>
+                                                                <td>15</td>
+                                                                <td>250</td>
+                                                                <td>₹ 35,000/-</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td><strong>Premium Package</strong></td>
+                                                                <td>₹ 60/-</td>
+                                                                <td>₹ 700/-</td>
+                                                                <td>₹ 40/-</td>
+                                                                <td>₹ 40/-</td>
+                                                                <td>Free</td>
+                                                                <td>20</td>
+                                                                <td>10</td>
+                                                                <td>500</td>
+                                                                <td>₹ 60,000/-</td>
+                                                            </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                    <ul class="abut-onetm w-100 d-block pl-0">
+                                                        <h4 class="d-block pb-2">Notes about the cloud version:</h4>
+                                                        <li class="pb-2">The prices mentioned above are per-record per-year. For example, Trademark price for Standard Package is Rs. 80/- per trademark per year.</li>
+                                                        <li class="pb-2">The Document and Task modules are provided free-of-cost, and there are no charges for any number of documents or tasks stored.</li>
+                                                        <li class="pb-2">The minimum prices mentioned above are per-trademark cost multiplied with minimum quantity. The price may be higher if you also choose patent module.</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- ============================ Features Start ================================== -->
         <section class="pd-0 overlay-top">
             <div class="container-fluid px-md-5">
@@ -969,212 +1176,7 @@
         <div class="clearfix"></div>
         <!-- ============================ Features Start ================================== -->
 
-        <section class="pricing s-padding ecommerces_pricing pt-md-0 pt-3 pb-0" id="pricing">
-                <div class="container-fluid px-md-5 px-3">
-                      <div class="row d-flex flex-wrap justify-content-center">
-                            <div class="col-md-11">
-                                    <div class="col text-center">
-                                        <div class="sec-heading mx-auto prisn-pln mb-md-5 mb-0">
-                                              <h2>Pricing Plans</h2>
-                                              <p>IPGO  is developed for larger user base, from an individual
-                                                  IP Attorney to a large IP Law Firm. We have adjusted the
-                                                  packages and pricing of the Trademark Management and Patent
-                                                  & Managent software’s according to your specific needs.</p>
-                                               <p>IPGO is available as both Cloud onetime and SAAS versions.
-                                                   The details of the same are as under. Please click on the
-                                                   link to view the details.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-12">
-                                        <div class="pricing-tables-wrapper">
-                                            <ul class="nav nav-tabs pricing-tab mb-2" id="pricing-tab" role="tablist">
-                                                 <li class="nav-item">
-                                                    <a class="active" id="halfyearly-pricing" data-toggle="tab" href="#halfyearly-pricing-tables" role="tab">Onetime</a>
-                                                </li>
 
-                                                <li class="nav-item">
-                                                    <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson</a>
-                                                </li>
-                                            </ul>
-                                            <div class="tab-content" id="pricing-tab-content">
-                                                 <div class="tab-pane fade show active" id="halfyearly-pricing-tables" role="tabpanel" aria-labelledby="halfyearly-pricing">
-                                                      <div class="row one_time">
-                                                              <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
-                                                                    <div class="onetm-clud pb-md-5 text-center">
-                                                                          <p class="d-block pb-2"><u>IPGO Cloud Software  without restrictions on number of records</u></p>
-                                                                           <p class="d-block pb-3">If you are handling thousands of trademark and/or patent cases,
-                                                                               we recommend to avail the hosted version, which not only saves
-                                                                               your marginal cost per record, The biggest advantage of licensing
-                                                                               IPGO is three are no user and data limited  . The prices mentioned
-                                                                               below are one-time investment, there would be no annual maintenance
-                                                                               or recurring charges to be paid.</p>
-                                                                            <div class="reponsive-table">
-                                                                                  <table class="table table-bordered">
-                                                                                    <thead>
-                                                                                            <tr>
-                                                                                                <th valign="top" width="13%">Package</th>
-                                                                                                <th valign="top" width="11%">Trademark Management</th>
-                                                                                                <th valign="top" width="11%">Patent Management</th>
-                                                                                                <th valign="top" width="11%">Copyright Management</th>
-                                                                                                <th valign="top" width="11%">Design Management</th>
-                                                                                                <th valign="top" width="11%">Document Management</th>
-                                                                                                <th valign="top" width="11%">INVOICE Management</th>
-                                                                                                <th valign="top" width="9%">CRM</th>
-                                                                                                <th valign="top" width="12%">Price *</th>
-                                                                                            </tr>
-                                                                                    </thead>
-                                                                                    <tbody>
-                                                                                            <tr>
-                                                                                                <td><strong>IPGO- Gold</strong></td>
-                                                                                                <td><strong>YES</strong></td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>₹ 2,50,000/-</td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td><strong>IPGO - Silver</strong></td>
-                                                                                                <td><strong>YES</strong></td>
-                                                                                                <td>No</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>No</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>₹ 1,25,000/-</td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td><strong>JSK IP Suite - Stater</strong></td>
-                                                                                                <td><strong>YES</strong></td>
-                                                                                                <td>No</td>
-                                                                                                <td>No</td>
-                                                                                                <td>YES</td>
-                                                                                                <td>No</td>
-                                                                                                <td>Yes</td>
-                                                                                                <td>No</td>
-                                                                                                <td>₹ 90,000/-</td>
-                                                                                            </tr>
-                                                                                            <tr>
-                                                                                                <td><strong>JSK IP Suite - Basic</strong></td>
-                                                                                                <td><strong>YES</strong></td>
-                                                                                                <td>No</td>
-                                                                                                <td>No</td>
-                                                                                                <td>No</td>
-                                                                                                <td>No</td>
-                                                                                                <td>No</td>
-                                                                                                <td>No</td>
-                                                                                                <td>₹ 75,000/-</td>
-                                                                                            </tr>
-                                                                                      </tbody>
-                                                                               </table>
-                                                                            </div>
-                                                                           <ul class="abut-onetm w-100 d-block pl-0">
-                                                                                 <h4 class="d-block pb-2">Notes about onetime version:</h4>
-                                                                                 <li class="pb-2">All packages contain one server license with unlimited users.</li>
-                                                                                 <li class="pb-2">We Provide 3 Months Free Support And 1 Year Bug Fixing </li>
-                                                                                 <li class="pb-2">Cloud server cost depend on your Realtime user</li>
-                                                                                 <li class="pb-2">All packages contain unlimited number of records, there is no limitation as to the number and size of records</li>
-                                                                           </ul>
-                                                                    </div>
-                                                            </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="tab-pane fade" id="monthly-pricing-tables" role="tabpanel" aria-labelledby="monthly-pricing">
-                                                    <div class="row one_time">
-                                                        <div class="col-md-12 onetime-tbl ftco-animate fadeInUp ftco-animated mb-30">
-                                                            <div class="onetm-clud pb-md-5 text-center">
-                                                                <p class="d-block pb-2"><u>Pay only for as much as you use without worrying about installation and maintenance of the software.</u></p>
-                                                                <p class="d-block pb-3">IPGO is now available as a cloud application and you can use it without
-                                                                    worrying about installation and maintenance of the software. We manage the software on
-                                                                    our own cloud server, and also keep it up-to-date with latest updates. So you don't
-                                                                    have to invest for your own server infrastructure, and worry about managing and
-                                                                    maintaining the software on your server.</p>
-                                                                   <p class="d-block pb-3">With the cloud version, you pay according
-                                                                       to your requirements as to how many records you need.
-                                                                       This means you can avail the software only for as much of
-                                                                       trademarks or patents as you are handling. As your requirements
-                                                                       grow in future, which we wish it would, you can easily and
-                                                                       quickly upgrade your package any time.</p>
-                                                                <p class="d-block pb-0">The per-record/per-year prices for the cloud
-                                                                    version are as under:</p>
-                                                                <div class="reponsive-table">
-                                                                    <table class="table table-bordered">
-                                                                        <thead>
-                                                                        <tr>
-                                                                            <th valign="top" width="10%">Package</th>
-                                                                            <th valign="top" width="10%">Trademark</th>
-                                                                            <th valign="top" width="10%">Patent</th>
-                                                                            <th valign="top" width="10%">Copyright</th>
-                                                                            <th valign="top" width="10%">Design</th>
-                                                                            <th valign="top" width="10%">Documens</th>
-                                                                            <th valign="top" width="10%">Invoice</th>
-                                                                            <th valign="top" width="8%">CRM</th>
-                                                                            <th valign="top" width="11%">Minimum Quality</th>
-                                                                            <th valign="top" width="11%">Minimum Price</th>
-                                                                        </tr>
-                                                                        </thead>
-                                                                        <tbody>
-                                                                                <tr>
-                                                                                <td><strong>Starter Package</strong></td>
-                                                                                <td>₹ 100/-</td>
-                                                                                <td>₹ 800/-</td>
-                                                                                <td>₹ 60/-</td>
-                                                                                <td>₹ 60/-</td>
-                                                                                <td>Free</td>
-                                                                                <td>30</td>
-                                                                                <td>20</td>
-                                                                                <td>100</td>
-                                                                                <td>₹ 15,000/-</td>
-                                                                        </tr>
-                                                                                <tr>
-                                                                                    <td><strong>Standard Package</strong></td>
-                                                                                    <td>₹ 80/-</td>
-                                                                                    <td>₹ 800/-</td>
-                                                                                    <td>₹ 50/-</td>
-                                                                                    <td>₹ 50/-</td>
-                                                                                    <td>Free</td>
-                                                                                    <td>25</td>
-                                                                                    <td>15</td>
-                                                                                    <td>250</td>
-                                                                                    <td>₹ 35,000/-</td>
-                                                                                </tr>
-                                                                                <tr>
-                                                                                    <td><strong>Premium Package</strong></td>
-                                                                                    <td>₹ 60/-</td>
-                                                                                    <td>₹ 700/-</td>
-                                                                                    <td>₹ 40/-</td>
-                                                                                    <td>₹ 40/-</td>
-                                                                                    <td>Free</td>
-                                                                                    <td>20</td>
-                                                                                    <td>10</td>
-                                                                                    <td>500</td>
-                                                                                    <td>₹ 60,000/-</td>
-                                                                                </tr>
-                                                                        </tbody>
-                                                                    </table>
-                                                                </div>
-                                                                <ul class="abut-onetm w-100 d-block pl-0">
-                                                                    <h4 class="d-block pb-2">Notes about the cloud version:</h4>
-                                                                    <li class="pb-2">The prices mentioned above are per-record per-year. For example, Trademark price for Standard Package is Rs. 80/- per trademark per year.</li>
-                                                                    <li class="pb-2">The Document and Task modules are provided free-of-cost, and there are no charges for any number of documents or tasks stored.</li>
-                                                                    <li class="pb-2">The minimum prices mentioned above are per-trademark cost multiplied with minimum quantity. The price may be higher if you also choose patent module.</li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                            </div>
-                      </div>
-                </div>
-        </section>
     </div>
     <!-- ============================================================== -->
     <!-- End Wrapper -->
