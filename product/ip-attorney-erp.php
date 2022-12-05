@@ -783,6 +783,11 @@
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
                                             <div class="row align-items-center m-0 ecommerces_features">
                                                 <h2 class="w-100 d-block text-center pb-3">Upcoming</h2>
+                                                <p>IPGO - The Patent Docketing & Management Software is developed
+                                                    for IP Law Firms, Patent Agents and Attorneys in India, and it
+                                                    handles all the patent tasks of your office, from prosecution to
+                                                    litigation, from search, application, examination, publication and
+                                                    oppositions.</p>
                                                 <div class="col-lg-6 col-md-6">
                                                     <div class=" product_features">
                                                         <div class="veticle-features mb-0">
