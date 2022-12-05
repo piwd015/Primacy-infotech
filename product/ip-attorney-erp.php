@@ -242,7 +242,7 @@
         <section class="h4-awesome-feature bg-color s-padding py-md-5">
             <div class="container-fluid px-md-5 px-3">
                 <div class="s-title my-md-5 my-3">
-                    <h2 class="wow">Features Highlited</h2>
+                    <h2 class="wow">Future Highlight</h2>
                 </div>
                 <div class="row align-items-center">
 
@@ -521,18 +521,63 @@
                                                     <img src="../assets/images/myy/undraw_statistic_chart_38b6.png" class="img-fluid mx-auto" alt="">
                                                 </div>
                                                 <div class="col-lg-6 col-md-6">
-                                                    <h2>Admin Features</h2>
-                                                    <ul class="list-style style-1">
-                                                        <li>Dashboard : Total order static , Order Graph chart , Order number count</li>
-                                                        <li>Customer Order Manager : All order list , Order search order status maintain , View order info</li>
-                                                        <li>Brand : add and manage brand</li>
-                                                        <li>Category manager: Add and manage category , subcategory</li>
-                                                        <li>Attribute Manager : Add and manage Attribute</li>
-                                                        <li>Inhouse Product Manager : Add and Manage company’s own product</li>
-                                                        <li>Seller Product Manager : Add , Manage and approved Seller product</li>
-                                                        <li>Banner Manager : Add and manage multiple banner</li>
-
-                                                    </ul>
+                                                    <h2>Upcoming</h2>
+                                                    <div class=" product_features">
+                                                    <div class="veticle-features mb-0">
+                                                        <div class="veticle-features-item mb-3">
+                                                            <div class="veticle-large-features-box">
+                                                                <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                            </div>
+                                                            <div class="veticle-features-content">
+                                                                <h5>Copyright Management System <span>A true and complete Copyright Management Software</span></h5>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- Single Features -->
+                                                    <div class="veticle-features mb-0">
+                                                        <div class="veticle-features-item mb-3">
+                                                            <div class="veticle-large-features-box">
+                                                                <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                            </div>
+                                                            <div class="veticle-features-content">
+                                                                <h4>Clients & Associate Management <span>Clients and associates with multiple contacts per client</span></h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- Single Features -->
+                                                    <div class="veticle-features mb-0">
+                                                        <div class="veticle-features-item mb-3">
+                                                            <div class="veticle-large-features-box">
+                                                                <img src="../assets/images/features_icon_3.png" alt="features icon" />
+                                                            </div>
+                                                            <div class="veticle-features-content">
+                                                                <h4>Document Management <span>Document Management System for paperless management</span></h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- Single Features -->
+                                                    <div class="veticle-features mb-0">
+                                                        <div class="veticle-features-item mb-3">
+                                                            <div class="veticle-large-features-box">
+                                                                <img src="../assets/images/features_icon_4.png" alt="features icon" />
+                                                            </div>
+                                                            <div class="veticle-features-content">
+                                                                <h4>Case Management <span>Manage all your copyright cases in a systematic manner</span></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- Single Features -->
+                                                    <div class="veticle-features mb-0">
+                                                        <div class="veticle-features-item mb-3">
+                                                            <div class="veticle-large-features-box">
+                                                                <img src="../assets/images/features_icon_5.png" alt="features icon" />
+                                                            </div>
+                                                            <div class="veticle-features-content">
+                                                                <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    </div>
                                                 </div>
                                                 <div class="col-lg-6 col-md-6">
                                                     <ul class="list-style style-1">
