@@ -516,110 +516,64 @@
                                     </ul>
                                     <div class="tab-content" id="myTabContent">
                                         <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
-                                            <div class="row align-items-center m-0">
-                                                <div class="col-lg-6 col-md-6">
-                                                    <img src="../assets/images/myy/undraw_statistic_chart_38b6.png" class="img-fluid mx-auto" alt="">
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <h2>Upcoming</h2>
+                                            <div class="col-md-12"> <h2>Upcoming</h2></div>
+                                            <div class="row align-items-center m-0 ecommerces_features">
                                                     <div class=" product_features">
-                                                    <div class="veticle-features mb-0">
-                                                        <div class="veticle-features-item mb-3">
-                                                            <div class="veticle-large-features-box">
-                                                                <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h5>Copyright Management System <span>A true and complete Copyright Management Software</span></h5>
+                                                                    </div>
+                                                                </div>
                                                             </div>
-                                                            <div class="veticle-features-content">
-                                                                <h5>Copyright Management System <span>A true and complete Copyright Management Software</span></h5>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Clients & Associate Management <span>Clients and associates with multiple contacts per client</span></h4>
+                                                                    </div>
+                                                                </div>
                                                             </div>
-                                                        </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_3.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Document Management <span>Document Management System for paperless management</span></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_4.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Case Management <span>Manage all your copyright cases in a systematic manner</span></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item mb-3">
+                                                                    <div class="veticle-large-features-box">
+                                                                        <img src="../assets/images/features_icon_5.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                     </div>
-                                                    <!-- Single Features -->
-                                                    <div class="veticle-features mb-0">
-                                                        <div class="veticle-features-item mb-3">
-                                                            <div class="veticle-large-features-box">
-                                                                <img src="../assets/images/features_icon_2.png" alt="features icon" />
-                                                            </div>
-                                                            <div class="veticle-features-content">
-                                                                <h4>Clients & Associate Management <span>Clients and associates with multiple contacts per client</span></h4>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Single Features -->
-                                                    <div class="veticle-features mb-0">
-                                                        <div class="veticle-features-item mb-3">
-                                                            <div class="veticle-large-features-box">
-                                                                <img src="../assets/images/features_icon_3.png" alt="features icon" />
-                                                            </div>
-                                                            <div class="veticle-features-content">
-                                                                <h4>Document Management <span>Document Management System for paperless management</span></h4>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Single Features -->
-                                                    <div class="veticle-features mb-0">
-                                                        <div class="veticle-features-item mb-3">
-                                                            <div class="veticle-large-features-box">
-                                                                <img src="../assets/images/features_icon_4.png" alt="features icon" />
-                                                            </div>
-                                                            <div class="veticle-features-content">
-                                                                <h4>Case Management <span>Manage all your copyright cases in a systematic manner</span></p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- Single Features -->
-                                                    <div class="veticle-features mb-0">
-                                                        <div class="veticle-features-item mb-3">
-                                                            <div class="veticle-large-features-box">
-                                                                <img src="../assets/images/features_icon_5.png" alt="features icon" />
-                                                            </div>
-                                                            <div class="veticle-features-content">
-                                                                <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <ul class="list-style style-1">
-                                                        <li>Coupon : add and manage coupon</li>
-                                                        <li>Push notification : send push notification</li>
-                                                        <li>Flash Deal : Add and manage Flash Deal</li>
-                                                        <li>Deal of the Day : Add and Manage Deal of the deal</li>
-                                                        <li>Feature Deal : Add and manage feature Deal</li>
-                                                        <li>Product Stock : View  All product stock</li>
-                                                        <li> Reviews : View Customer Review</li>
-                                                        <li>Wishlist : View all Wishlist</li>
-                                                        <li>Transaction : View Transaction</li>
-                                                        <li>Sellers : View and Manage sellers</li>
-                                                        <li>Sellers withdraw / pay-out</li>
-                                                        <li>Customer : View and Manage customer</li>
-                                                        <li>Settings</li>
-                                                        <li>Seller-settings : Seller commission setting and registration</li>
-                                                        <li>Payment-method : Manage Payment method</li>
-
-                                                    </ul>
-                                                </div>
-                                                <div class="col-lg-6 col-md-6">
-                                                    <ul class="list-style style-1">
-                                                        <li>Sms Gateway Setup</li>
-                                                        <li>Shipping Method</li>
-                                                        <li>Language Manager</li>
-                                                        <li>Social login Manager : Google and Facebook login manager </li>
-                                                        <li>Currency Manage</li>
-                                                        <li>Push Notification Setup Manager</li>
-                                                        <li>Page Manager : Terms and conditions, Privacy Policy, About Us, Help topic , Etc Page Manager</li>
-                                                        <li>Social Media Link manager</li>
-                                                        <li>Report</li>
-                                                        <li>Earning Report Overview</li>
-                                                        <li>Order Report Overview</li>
-                                                        <li>In-house product sale report</li>
-                                                        <li>Seller product sale report</li>
-                                                        <li>Role Manager : manage role of admin user</li>
-                                                        <li>Employee / Admin User :</li>
-                                                        <li>Manage Delivery partner</li>
-                                                        <li>Track order of vendor</li>
-                                                    </ul>
-                                                </div>
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
