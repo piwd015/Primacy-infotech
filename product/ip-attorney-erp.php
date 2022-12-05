@@ -334,24 +334,11 @@
                                 <i class="icon_drawer_alt"></i>
                             </div>
                             <div class="icon-box-details">
-                                <h3 class="icon-box-title">Highly Customizable</h3>
-                                <p>Customizable workflows and layouts help you manage any type
-                                    of matter just as you'd like</p>
-                            </div>
-                        </div>
-
-                        <div class="icon-box trd-mrk-box wow slideInUp">
-                            <div class="icon-box-icon">
-                                <i class="icon_headphones"></i>
-                            </div>
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Trademark Ownership Transfer</h3>
-                                <p>Transfer trademark Ownership to Another Person or Sell Any one</p>
+                                <h3 class="icon-box-title">Name and Data Change History</h3>
+                                <p>Track history of every changes </p>
                             </div>
                         </div>
                     </div>
-
-
                 </div>
             </div>
         </section>
