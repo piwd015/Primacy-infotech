@@ -63,7 +63,7 @@
         <!-- ============================ Make Collaboration Start ================================== -->
         <section class="mission pb-0">
                  <div class="container-fluid px-md-5 px-3">
-                               <h2 class="ptnt-hdr w-100 d-block text-center pt-3 pb-5">Patent Docketing Software</h2>
+                               <h2 class="ptnt-hdr w-100 d-block text-center pt-3 pb-5">Future Highlight</h2>
                         <div class="row">
                             <div class="col-lg-6 col-md-6 col-sm-12">
                                 <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
@@ -488,14 +488,14 @@
         <!-- ============================ Benifits & Advance Features ================================== -->
         <section>
             <div class="container-fluid px-md-5 px-3 ecommerces_features">
-                    <!--<div class="col-lg-12">
+                    <div class="col-lg-12">
                         <div class="col text-center">
                             <div class="sec-heading mx-auto">
                                 <h2>IPGO App Features</h2>
 
                             </div>
                         </div>
-                    </div>-->
+                    </div>
                 <div class="row product_features">
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="ipgo-app-hdr mx-auto">
