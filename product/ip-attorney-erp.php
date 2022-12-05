@@ -280,6 +280,20 @@
 
                         </div>
 
+                        <div class="icon-box trd-mrk-box wow slideInUp">
+
+                            <div class="icon-box-icon">
+                                <img src="../assets/images/product/trademark-management.png" alt="">
+                            </div>
+
+                            <div class="icon-box-details">
+                                <h3 class="icon-box-title">Get a bird's eye view</h3>
+                                <p>Real time data views give a high-level view of your practice so
+                                    you always know exactly what’s going on</p>
+                            </div>
+
+                        </div>
+
                     </div>
 
                     <div class="col-lg-4 col-md-4">
