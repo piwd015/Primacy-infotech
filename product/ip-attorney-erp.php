@@ -70,7 +70,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/ip-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Total IP Management</h4>
                                         <p>IPGO  is an integrated ERP Software Solution to manage all your Trademark, Patent, Copyright, Industrial Design, and Geographical Indication applications, cases, and hearings at one place, making your IP Law practice more effective, manageable, and profitable.</p>
                                     </div>
