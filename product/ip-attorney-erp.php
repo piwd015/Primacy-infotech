@@ -514,7 +514,7 @@
                                             </a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link" id="keyword-nalysis-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
+                                            <a class="nav-link" id="keyword-nalysis-tab" data-toggle="tab" href="#keyword-nalysis" role="tab" aria-controls="keyword-nalysis" aria-selected="false">
                                                 <img src="../assets/images/vendor.png" class="img-fluid" alt="">
                                                 <h5>Upcoming</h5>
                                             </a>
