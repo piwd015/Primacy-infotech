@@ -575,7 +575,7 @@
                         </div>
                         <!-- Single Features -->
                         <div class="veticle-features mb-0">
-                            <div class="veticle-features-item mb-3">
+                            <div class="veticle-features-item mb-md-3 mb-1">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_6.png" alt="features icon" />
                                 </div>
@@ -587,7 +587,7 @@
 
                         <!-- Single Features -->
                         <div class="veticle-features mb-0">
-                            <div class="veticle-features-item mb-3">
+                            <div class="veticle-features-item mb-md-3 mb-1">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_7.png" alt="features icon" />
                                 </div>
@@ -599,7 +599,7 @@
 
                         <!-- Single Features -->
                         <div class="veticle-features mb-0">
-                            <div class="veticle-features-item mb-3">
+                            <div class="veticle-features-item mb-md-3 mb-1">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_8.png" alt="features icon" />
                                 </div>
@@ -610,7 +610,7 @@
                         </div>
                         <!-- Single Features -->
                         <div class="veticle-features mb-0">
-                            <div class="veticle-features-item mb-3">
+                            <div class="veticle-features-item mb-md-3 mb-1">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_9.png" alt="features icon" />
                                 </div>
@@ -622,7 +622,7 @@
 
                         <!-- Single Features -->
                         <div class="veticle-features mb-0">
-                            <div class="veticle-features-item mb-3">
+                            <div class="veticle-features-item mb-md-3 mb-1">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_10.png" alt="features icon" />
                                 </div>
@@ -633,7 +633,7 @@
                         </div>
                         <!-- Single Features -->
                         <div class="veticle-features mb-0">
-                            <div class="veticle-features-item mb-3">
+                            <div class="veticle-features-item mb-md-3 mb-1">
                                 <div class="veticle-large-features-box">
                                     <img src="../assets/images/features_icon_10.png" alt="features icon" />
                                 </div>

@@ -9343,6 +9343,9 @@ section {
     .main-banner h1{font-size:20px; line-height:30px;}
     .large-features-2 .large-features-2-thumb{position:absolute; left:0px; right:0px;
     margin:0 auto; top:-50px;}
+    .ecommerces_features .veticle-features .veticle-features-content h4{font-size:15px;
+        line-height:20px;}
+    .ecommerces_features .veticle-features .veticle-features-content h4 span{font-size:15px;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }
