@@ -118,7 +118,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/deadline-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Deadline Management</h4>
                                         <p>IP Law Management involves managing and meeting various kinds of deadlines, including renewal deadlines, examination deadlines, oppossition/hearing deadlines etc.
                                             IPGO keeps track of all the deadlines, renewal dates, pending actions, examination replies, hearing dates etc. With IPGO , you can keep yourself updated with varioud deadlines so that you don't miss them due to being unaware of them.
@@ -133,7 +133,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/hearing-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Hearing Management</h4>
                                         <p>IP Law practice involves several kinds of hearing be it examination, oppositions, or infringement. IPGO, you can easily manage your past and upcoming hearings per case with the details of court/IP office, opponent's advocate and law firm, hearing date and proceedings. IPGO also provides a dashboard for your attorneys and advocates to view the calendar with their upcoming hearings.</p>
                                     </div>
@@ -145,7 +145,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/document-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Document Management</h4>
                                         <p>IPGO comes with an advanced Document Management System to manage all your documents related to clients, associates, patent documents, trademark documents, hearing and case papers etc. The documents are subject to strict user-level security to ensure only the authorized persons view the confidential documents. The software also provides management and reporting of your inward and outward documents for easy office document management.</p>
                                     </div>
@@ -157,7 +157,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/crm-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>CRM / Leads Management</h4>
                                         <p>IPGO comes with an advanced CRM to manage all your Leads / inquiry,  Add new leads, and manage customer requirement , Track leads follow-up and activity, Schedule call back, meeting, todo ,Set Reminder , Add call and meeting history ,Sent Proposal / Quotation, Track leads history.</p>
                                     </div>
@@ -169,7 +169,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/proposal-and-invoice-management.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Proposal & Invoice Management</h4>
                                         <p>IPGO comes with an advanced Invoice Management System  to manage all Proposal & Invoice . Create new Proposal & invoice , Simply Convert proposal to invoice  ,Sent Proposal / Quotation & Invoice to client ,Auto Payment Reminder to client , Generated PDF Invoice , Auto create renewal Invoice, Track Payment of invoice etc.  </p>
                                     </div>
@@ -181,7 +181,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Access from Anywhere</h4>
                                         <p>IPGO is developed as a web-based software, and can be used from anywhere. You can install it on your own web server and anyone in your office as well as your clients and associates can access the software from anywhere using any PC, tablet or mobile devices. The access to the software is restricted to authenticated users as managed by you, so this facility does not raise any security issues.</p>
                                     </div>
@@ -192,7 +192,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Multi User</h4>
                                         <p>IPGO is a truly multi-user system and you can add as many users as you like. There is no limitation as to the number of users who can access the software. With a web-based solution, this gives you an option to channelize all your resources and put collaborative efforts using a single software to manage all the IP Law tasks within your company.</p>
                                     </div>
@@ -203,7 +203,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Multi Branch</h4>
                                         <p>IPGO is a truly multi-branch system and you can add as many branch as you like. There is no limitation as to the number of branch who can access the software. Branch can view and manage only there data report and admin can manage & view all data .</p>
                                     </div>
@@ -214,7 +214,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Data Management</h4>
                                         <p>IPGO, being web-based solution, and also multi-user system provides high degree of data management. Your trademark, patents, copyright, design, and GI data are classified in smaller modules and our data forms are designed for ease of access.</p>
                                         <p>With the use of multi-user system, your organization's data is saved on a central location on the web server or a server within your office, as per your choice, which can be access from anywhere and any time, subject to the security constraints as mentioned in Security section. So no matter where you are, you have the instant access to your data.</p>
@@ -227,7 +227,7 @@
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/offer_icon10.png" class="img-responsive" alt="" />
                                     </div>
-                                    <div class="large-features-2-detail">
+                                    <div class="large-features-2-detail pt-md-0 pt-5">
                                         <h4>Data Security</h4>
                                         <p>IPGO is secured by default and does not allow access to unauthorized users. The software provides state-of-the art User Management to manage access restrictions for each user. You can restrict any user (or all users) to access the software only during a specific time (e.g. office time), or from a specific IP address (e.g. your office IP address).</p>
                                     </div>
