@@ -669,7 +669,41 @@
                                                           </div>
                                                     </div>
                                                     <div class="col-lg-6 col-md-6">
-                                                           <div class="product_features"></div>
+                                                           <div class="product_features">
+                                                               <!-- Single Features -->
+                                                               <div class="veticle-features mb-0">
+                                                                   <div class="veticle-features-item mb-md-3 mb-1" style="justify-content:left;">
+                                                                       <div class="veticle-large-features-box">
+                                                                           <img src="../assets/images/features_icon_9.png" alt="features icon" />
+                                                                       </div>
+                                                                       <div class="veticle-features-content">
+                                                                           <h4>Case Management<span>Manage all your design cases in a systematic manner</span></p>
+                                                                       </div>
+                                                                   </div>
+                                                               </div>
+                                                               <!-- Single Features -->
+                                                               <div class="veticle-features mb-0">
+                                                                   <div class="veticle-features-item mb-md-3 mb-1" style="justify-content:left;">
+                                                                       <div class="veticle-large-features-box">
+                                                                           <img src="../assets/images/features_icon_10.png" alt="features icon" />
+                                                                       </div>
+                                                                       <div class="veticle-features-content">
+                                                                           <h4>Reports <span>Advanced reporting with state-of-the art search features</span></p>
+                                                                       </div>
+                                                                   </div>
+                                                               </div>
+                                                               <!-- Single Features -->
+                                                               <div class="veticle-features mb-0">
+                                                                   <div class="veticle-features-item mb-md-3 mb-1" style="justify-content:left;">
+                                                                       <div class="veticle-large-features-box">
+                                                                           <img src="../assets/images/features_icon_10.png" alt="features icon" />
+                                                                       </div>
+                                                                       <div class="veticle-features-content">
+                                                                           <h4>Task Management with Reminders<span>Tasks with reminders and Outlook/Google integration</span></p>
+                                                                       </div>
+                                                                   </div>
+                                                               </div>
+                                                           </div>
                                                     </div>
                                             </div>
                                         </div>
