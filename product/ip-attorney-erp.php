@@ -874,7 +874,40 @@
                                                                             <img src="../assets/images/product/hearing-management-02.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#f29b26;">Hearing Management</strong> <dd>Patent hearings with case details and documents</dd></h4>
+                                                                            <h4><strong style="color:#9bbb5c;">Hearing Management</strong> <dd>Patent hearings with case details and documents</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/deadline-management-02.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#f29b26;">Deadline Management</strong> <dd>Patent deadlines - form filing, specification, examination</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/data-security-02.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Data Security</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/ptc-import.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#1ea185;">PCT Import - From WIPO</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
