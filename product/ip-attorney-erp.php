@@ -246,8 +246,8 @@
                     <h2 class="wow">Special Features</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4">
-                           <div class="specl-box wow slideInUp" data-wow-delay=".1s">
+                    <div class="col-lg-4 col-md-4 mb-md-0 mb-4">
+                           <div class="specl-box wow slideInUp mb-3" data-wow-delay=".1s">
                                 <div class="specl-box-bg py-3 px-4">
                                      <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
                                      <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
