@@ -513,10 +513,10 @@
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
                                                                         <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/clnt-asso-management.jpg" alt="features icon" />
+                                                                            <img src="../assets/images/product/data-management.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#9bbb5c;">Data Management</strong><dd>Advanced data management for integrity and consistency</dd></h4>
+                                                                            <h4><strong style="color:#f29b26;">Data Management</strong><dd>Advanced data management for integrity and consistency</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
