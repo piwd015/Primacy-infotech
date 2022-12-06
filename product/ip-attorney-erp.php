@@ -802,7 +802,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
                                             <div class="row m-0 ecommerces_features">
-                                                <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="upcmn blink-hard">(Coming Soon)</b></b></h2>
+                                                <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="upcmn blink-hard">( Coming Soon )</b></b></h2>
                                                     <p class="w-100 d-block text-center">IPGO - The Patent Docketing & Management Software is developed for IP Law Firms, Patent Agents and Attorneys in India, and it
                                                         handles all the patent tasks of your office, from prosecution to litigation, from search, application, examination, publication and
                                                         oppositions.</p>
@@ -856,10 +856,10 @@
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
                                                                         <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/centralize-data.png" alt="features icon" />
+                                                                            <img src="../assets/images/product/case-management-02.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#bd392f;">Centralized Data Management</strong> <dd>Centralized data management for integrity and consistency</dd></h4>
+                                                                            <h4><strong style="color:#1ea185;">Case Management</strong> <dd>Manage patent cases with effective patent life-cycle</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
