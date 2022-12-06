@@ -398,11 +398,11 @@
                                                                 <!-- Single Features -->
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="veticle-large-features-box">
-                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/opposition-management.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Oppositions Management<dd>Manage all your trademark opposition proceedings</dd></h4>
+                                                                            <h4><strong style="color:#9bbb5c;">Oppositions Management</strong><dd>Manage all your trademark opposition proceedings</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
