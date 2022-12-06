@@ -442,11 +442,11 @@
                                                                   <!-- Single Features -->
                                                                   <div class="veticle-features float-left mb-0">
                                                                       <div class="veticle-features-item" style="justify-content:left;">
-                                                                          <div class="veticle-large-features-box">
-                                                                              <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                          <div class="trdmrk-box">
+                                                                              <img src="../assets/images/product/trademark-registration.jpg" alt="features icon" />
                                                                           </div>
                                                                           <div class="veticle-features-content">
-                                                                              <h4>Trademark Registration<dd>Manage trademark registration and publication</dd></h4>
+                                                                              <h4><strong style="color:#1ea185;">Trademark Registration</strong><dd>Manage trademark registration and publication</dd></h4>
                                                                           </div>
                                                                       </div>
                                                                   </div>
@@ -457,7 +457,7 @@
                                                                               <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                           </div>
                                                                           <div class="veticle-features-content">
-                                                                              <h4>Form Generation <b>(Coming soon)</b><dd>Automated Trademark Forms (TM-1, TM-12 etc.)</dd></h4>
+                                                                              <h4>Form Generation <b class="blink-hard">(Coming soon)</b><dd>Automated Trademark Forms (TM-1, TM-12 etc.)</dd></h4>
                                                                           </div>
                                                                       </div>
                                                                   </div>
