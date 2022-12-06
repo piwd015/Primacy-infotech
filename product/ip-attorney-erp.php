@@ -367,7 +367,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="email-marketing-tab" data-toggle="tab" href="#email-marketing" role="tab" aria-controls="email-marketing" aria-selected="false">
-                                                <img src="../assets/images/vendor.png" class="img-fluid" alt="">
+                                                <img src="../assets/images/product/industrial.png" class="img-fluid" alt="">
                                                 <h5>Industrial</h5>
                                             </a>
                                         </li>
