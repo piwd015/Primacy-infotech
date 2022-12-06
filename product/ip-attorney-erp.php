@@ -733,7 +733,7 @@
                                                                     <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                    <h4><strong style="color:#1ea185;">Design Management Software</strong> <dd>A true and complete Design Management Software</dd></h4>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -770,7 +770,7 @@
                                                                     <img src="../assets/images/product/case-management.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#9bbb5c;">Case Management</strong> <dd>Manage all your copyright cases in a systematic manner</dd></h4>
+                                                                    <h4><strong style="color:#9bbb5c;">Case Management</strong> <dd>Manage all your design cases in a systematic manner</dd></h4>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -785,7 +785,7 @@
                                                                     <img src="../assets/images/product/copyright-report.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
+                                                                      <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
                                                                 </div>
                                                             </div>
                                                         </div>
