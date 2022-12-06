@@ -571,22 +571,22 @@
                                                          <!-- Single Features -->
                                                          <div class="veticle-features float-left mb-0">
                                                              <div class="veticle-features-item" style="justify-content:left;">
-                                                                 <div class="veticle-large-features-box">
-                                                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                 <div class="trdmrk-box">
+                                                                     <img src="../assets/images/product/reminder.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
-                                                                     <h4>Trademark Publication<span>Manage Trademark Journal Publication details</span></h4>
+                                                                     <h4><strong style="color:#f29b26;">Reminders</strong><dd>Reminders all date and notification</dd></h4>
                                                                  </div>
                                                              </div>
                                                          </div>
                                                          <!-- Single Features -->
                                                          <div class="veticle-features mb-0">
                                                              <div class="veticle-features-item" style="justify-content:left;">
-                                                                 <div class="veticle-large-features-box">
-                                                                     <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                 <div class="trdmrk-box">
+                                                                     <img src="../assets/images/product/agents-management.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
-                                                                     <h4>Task Management with Reminders (Upcoming....)<span>Tasks with reminders and Outlook/Google integratio</span></h4>
+                                                                     <h4><strong style="color:#bd392f;">Trademark Agents Management</strong><dd>Manage Trademark Agents & Attorneys in your firm.</dd></h4>
                                                                  </div>
                                                              </div>
                                                          </div>
