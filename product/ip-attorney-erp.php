@@ -710,10 +710,10 @@
                                                         <div class="veticle-features mb-0">
                                                             <div class="veticle-features-item" style="justify-content:left;">
                                                                 <div class="trdmrk-box">
-                                                                    <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                                    <img src="../assets/images/product/copyright-report.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                    <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
                                                                 </div>
                                                             </div>
                                                         </div>
