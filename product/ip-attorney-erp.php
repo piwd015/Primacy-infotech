@@ -538,7 +538,7 @@
                                                                             <img src="../assets/images/features_icon_2.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Task Management with Reminders (<b>Coming Soon</b>)<dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                            <h4>Task Management with Reminders <b>(Coming Soon)</b><dd>Tasks with reminders and Outlook/Google integration</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
