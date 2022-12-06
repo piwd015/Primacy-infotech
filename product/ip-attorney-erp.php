@@ -283,7 +283,7 @@
                         <div class="col-lg-4 col-md-4">
                                 <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
-                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <img src="../assets/images/product/trademark-ownership.png" class="pb-2" alt="">
                                             <strong class="w-100 d-block text-center pb-2">Trademark Ownership Transfer</strong>
                                             <p class="d-block text-center">Transfer trademark Ownership to Another Person or Sell Any one</p>
                                         </div>
