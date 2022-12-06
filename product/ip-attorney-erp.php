@@ -911,6 +911,17 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/form-generation-02.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#9bbb5c;">Form Generation</strong> <dd>Automated Patent Forms - Form - 1, 3, 5 etc.</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
