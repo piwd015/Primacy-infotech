@@ -273,7 +273,7 @@
                                 </div>
                                 <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
-                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <img src="../assets/images/product/customizable-icon.png" class="pb-2" alt="">
                                             <strong class="w-100 d-block text-center pb-2">Highly Customizable</strong>
                                             <p class="d-block text-center">Customizable workflows and layouts help you manage any type
                                                 of matter just as you'd like</p>
