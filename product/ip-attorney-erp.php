@@ -240,7 +240,7 @@
         <div class="clearfix"></div>
         <!-- ============================ Make Collaboration End ================================== -->
 
-        <section class="h4-awesome-feature bg-color s-padding py-md-5">
+        <section class="h4-awesome-feature bg-color s-padding pt-0 pb-5">
             <div class="container-fluid px-md-5 px-3">
                 <div class="s-title my-md-5 my-3">
                     <h2 class="wow">Special Features</h2>
