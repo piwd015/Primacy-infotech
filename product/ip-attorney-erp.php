@@ -248,8 +248,7 @@
                 <div class="row">
 
                     <div class="col-lg-4 col-md-4">
-
-                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                           <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
 
                             <div class="icon-box-icon">
                                    <img src="../assets/images/product/trademark-management.png" alt="">
@@ -266,8 +265,7 @@
                             </div>
 
                         </div>
-
-                        <div class="icon-box trd-mrk-box wow slideInUp">
+                           <div class="icon-box trd-mrk-box wow slideInUp">
 
                             <div class="icon-box-icon">
                                   <img src="../assets/images/product/trademark-management.png" alt="">
@@ -279,8 +277,10 @@
                             </div>
 
                         </div>
+                    </div>
 
-                        <div class="icon-box trd-mrk-box wow slideInUp">
+                    <div class="col-lg-4 col-md-4">
+                           <div class="icon-box trd-mrk-box wow slideInUp">
 
                             <div class="icon-box-icon">
                                 <img src="../assets/images/product/trademark-management.png" alt="">
@@ -293,11 +293,7 @@
                             </div>
 
                         </div>
-
-                    </div>
-
-                    <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                           <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -307,7 +303,10 @@
                                     of matter just as you'd like</p>                            </div>
 
                         </div>
-                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                    </div>
+
+                    <div class="col-lg-4 col-md-4">
+                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -316,7 +315,7 @@
                                 <p>Transfer trademark Ownership to Another Person or Sell Any one</p>
                             </div>
                         </div>
-                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
@@ -326,10 +325,7 @@
                                     really matters</p>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-4">
-                        <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
+                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
                             <div class="icon-box-icon">
                                 <i class="icon_drawer_alt"></i>
                             </div>
