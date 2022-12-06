@@ -355,7 +355,7 @@
                                     <ul class="nav nav-tabs" id="myTab" role="tablist">
                                         <li class="nav-item">
                                             <a class="nav-link active" id="market-analysis-tab" data-toggle="tab" href="#market-analysis" role="tab" aria-controls="market-analysis" aria-selected="true">
-                                                <img src="../assets/images/product/trade-mark-logo.jpg" class="img-fluid" alt="">
+                                                <img src="../assets/images/product/trade-mark-logo.png" class="img-fluid" alt="">
                                                 <h5>Trade Mark</h5>
                                             </a>
                                         </li>
