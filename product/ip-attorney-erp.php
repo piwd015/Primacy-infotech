@@ -523,11 +523,11 @@
                                                                 <!-- Single Features -->
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="veticle-large-features-box">
-                                                                            <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/data-security.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Data Security<dd>High-end user-level security with time and IP restrictions.</dd></h4>
+                                                                            <h4><strong style="color:#bd392f;">Data Security</strong><dd>High-end user-level security with time and IP restrictions.</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
