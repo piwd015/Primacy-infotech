@@ -472,7 +472,7 @@
                                                                             <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Trademark Registration<span>Manage trademark registration and publication</span></h4>
+                                                                            <h4>Trademark Publication<dd>Manage Trademark Journal Publication details</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -483,7 +483,7 @@
                                                                             <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Trademark Renewal<span>Trademark renewal history with due date reminder</span></h4>
+                                                                            <h4>Trademark Renewa<dd>Trademark renewal history with due date reminder</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -494,7 +494,7 @@
                                                                             <img src="../assets/images/features_icon_1.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Trademark Publication<span>Manage Trademark Journal Publication details</span></h4>
+                                                                            <h4>Reports<dd>Advanced reporting with state-of-the art search features</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -505,7 +505,18 @@
                                                                             <img src="../assets/images/features_icon_2.png" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Task Management with Reminders (Upcoming....)<span>Tasks with reminders and Outlook/Google integratio</span></h4>
+                                                                            <h4>Clients & Associate Management<dd>Clients and associates with multiple contacts per client</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="veticle-large-features-box">
+                                                                            <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4>Data Management<dd>Advanced data management for integrity and consistency</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
