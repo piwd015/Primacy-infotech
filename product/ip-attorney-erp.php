@@ -256,7 +256,7 @@
                                </div>
                                 <div class="specl-box wow slideInUp" data-wow-delay=".1s">
                                     <div class="specl-box-bg py-3 px-4">
-                                        <img src="../assets/images/product/data-views-icon.png" class="pb-2" alt="">
+                                        <img src="../assets/images/product/auto-reminder.png" class="pb-2" alt="">
                                         <strong class="w-100 d-block text-center pb-2">Auto reminder</strong>
                                         <p class="d-block text-center">Auto reminder take care of you all case on time.</p>
                                     </div>
