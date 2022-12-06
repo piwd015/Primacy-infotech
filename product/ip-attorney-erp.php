@@ -300,7 +300,7 @@
                         <div class="col-md-12 d-flex flex-wrap justify-content-center">
                                 <div class="specl-box wow slideInUp" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
-                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <img src="../assets/images/product/change-history.png" class="pb-2" alt="">
                                             <strong class="w-100 d-block text-center pb-2">Name and Data Change History</strong>
                                             <p class="d-block text-center">Track history of every changes</p>
                                         </div>
