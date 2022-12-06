@@ -673,7 +673,7 @@
                                                             <div class="veticle-features mb-0">
                                                                 <div class="veticle-features-item" style="justify-content:left;">
                                                                     <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/associate-management.png.png" alt="features icon" />
+                                                                        <img src="../assets/images/product/associate-management.png" alt="features icon" />
                                                                     </div>
                                                                     <div class="veticle-features-content">
                                                                         <h4><strong style="color:#1ea185;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
