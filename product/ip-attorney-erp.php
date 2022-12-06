@@ -254,35 +254,13 @@
                                       <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
                                 </div>
                            </div>
-                           <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
-
-                            <div class="icon-box-icon">
-                                   <img src="../assets/images/product/trademark-management.png" alt="">
+                            <div class="specl-box wow slideInUp" data-wow-delay=".1s">
+                                <div class="specl-box-bg py-3 px-4">
+                                    <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                    <strong class="w-100 d-block text-center pb-2">Auto reminder</strong>
+                                    <p class="d-block text-center">Auto reminder take care of you all case on time.</p>
+                                </div>
                             </div>
-
-                            <div class="icon-box-details">
-
-                                <h3 class="icon-box-title">Automation Certificate download form
-                                    government portal</h3>
-
-                                <p>Automatic Certificate Download save lot of time so you can focus
-                                    more on what really matters</p>
-
-                            </div>
-
-                        </div>
-                           <div class="icon-box trd-mrk-box wow slideInUp">
-
-                            <div class="icon-box-icon">
-                                  <img src="../assets/images/product/trademark-management.png" alt="">
-                            </div>
-
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Auto reminder</h3>
-                                <p>Auto reminder take care of you all case on time.</p>
-                            </div>
-
-                        </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
                            <div class="icon-box trd-mrk-box wow slideInUp">
