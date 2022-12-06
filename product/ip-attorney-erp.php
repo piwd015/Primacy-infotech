@@ -361,7 +361,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="on-page-seo-tab" data-toggle="tab" href="#on-page-seo" role="tab" aria-controls="on-page-seo" aria-selected="false">
-                                                <img src="../assets/images/customer.png" class="img-fluid" alt="">
+                                                <img src="../assets/images/product/copy-right.png" class="img-fluid" alt="">
                                                 <h5>Copyright</h5>
                                             </a>
                                         </li>
