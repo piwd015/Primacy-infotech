@@ -553,7 +553,7 @@
                                                                      <img src="../assets/images/product/deadline-management.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
-                                                                     <h4><strong style="color:#1ea185;">Deadline Management</strong><span>Reminders for examination, renewal, opposition deadlines</span></h4>
+                                                                     <h4><strong style="color:#1ea185;">Deadline Management</strong><dd>Reminders for examination, renewal, opposition deadlines</dd></h4>
                                                                  </div>
                                                              </div>
                                                          </div>
