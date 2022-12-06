@@ -246,70 +246,66 @@
                     <h2 class="wow">Special Features</h2>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 mb-md-0 mb-4">
-                           <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
-                                <div class="specl-box-bg py-3 px-4">
-                                     <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
-                                     <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
-                                      <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
-                                </div>
-                           </div>
-                            <div class="specl-box wow slideInUp" data-wow-delay=".1s">
-                                <div class="specl-box-bg py-3 px-4">
-                                    <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
-                                    <strong class="w-100 d-block text-center pb-2">Auto reminder</strong>
-                                    <p class="d-block text-center">Auto reminder take care of you all case on time.</p>
-                                </div>
-                            </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 mb-md-0 mb-4">
-                            <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                        <div class="col-lg-4 col-md-4 mb-4">
+                               <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                    <div class="specl-box-bg py-3 px-4">
+                                         <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                         <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
+                                          <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
+                                    </div>
+                               </div>
+                                <div class="specl-box wow slideInUp" data-wow-delay=".1s">
                                     <div class="specl-box-bg py-3 px-4">
                                         <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
-                                        <strong class="w-100 d-block text-center pb-2">Get a bird's eye view</strong>
-                                        <p class="d-block text-center">Real time data views give a high-level view of your practice so
-                                            you always know exactly what’s going on</p>
+                                        <strong class="w-100 d-block text-center pb-2">Auto reminder</strong>
+                                        <p class="d-block text-center">Auto reminder take care of you all case on time.</p>
                                     </div>
-                            </div>
-                            <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
-                                    <div class="specl-box-bg py-3 px-4">
-                                        <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
-                                        <strong class="w-100 d-block text-center pb-2">Highly Customizable</strong>
-                                        <p class="d-block text-center">Customizable workflows and layouts help you manage any type
-                                            of matter just as you'd like</p>
-                                    </div>
-                            </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
-                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
-                            <div class="icon-box-icon">
-                                <i class="icon_drawer_alt"></i>
-                            </div>
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Trademark Ownership Transfer</h3>
-                                <p>Transfer trademark Ownership to Another Person or Sell Any one</p>
-                            </div>
+                                </div>
                         </div>
-                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
-                            <div class="icon-box-icon">
-                                <i class="icon_drawer_alt"></i>
-                            </div>
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Time saving Automation</h3>
-                                <p>Automations cut admin time so you can focus more on what
-                                    really matters</p>
-                            </div>
+                        <div class="col-lg-4 col-md-4 mb-4">
+                                <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                        <div class="specl-box-bg py-3 px-4">
+                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <strong class="w-100 d-block text-center pb-2">Get a bird's eye view</strong>
+                                            <p class="d-block text-center">Real time data views give a high-level view of your practice so
+                                                you always know exactly what’s going on</p>
+                                        </div>
+                                </div>
+                                <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                        <div class="specl-box-bg py-3 px-4">
+                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <strong class="w-100 d-block text-center pb-2">Highly Customizable</strong>
+                                            <p class="d-block text-center">Customizable workflows and layouts help you manage any type
+                                                of matter just as you'd like</p>
+                                        </div>
+                                </div>
                         </div>
-                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
-                            <div class="icon-box-icon">
-                                <i class="icon_drawer_alt"></i>
-                            </div>
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Name and Data Change History</h3>
-                                <p>Track history of every changes </p>
-                            </div>
+                        <div class="col-lg-4 col-md-4 mb-4">
+                                <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                        <div class="specl-box-bg py-3 px-4">
+                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <strong class="w-100 d-block text-center pb-2">Trademark Ownership Transfer</strong>
+                                            <p class="d-block text-center">Transfer trademark Ownership to Another Person or Sell Any one</p>
+                                        </div>
+                                </div>
+                                <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                        <div class="specl-box-bg py-3 px-4">
+                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <strong class="w-100 d-block text-center pb-2">Time saving Automation</strong>
+                                            <p class="d-block text-center">Automations cut admin time so you can focus more on what
+                                                really matters</p>
+                                        </div>
+                                </div>
                         </div>
-                    </div>
+                        <div class="col-md-12 d-flex flex-wrap justify-content-center">
+                                <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                        <div class="specl-box-bg py-3 px-4">
+                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <strong class="w-100 d-block text-center pb-2">Name and Data Change History</strong>
+                                            <p class="d-block text-center">Track history of every changes</p>
+                                        </div>
+                                </div>
+                        </div>
                 </div>
             </div>
         </section>
