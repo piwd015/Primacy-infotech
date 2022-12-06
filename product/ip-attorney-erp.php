@@ -590,6 +590,28 @@
                                                                  </div>
                                                              </div>
                                                          </div>
+                                                         <!-- Single Features -->
+                                                         <div class="veticle-features mb-0">
+                                                             <div class="veticle-features-item" style="justify-content:left;">
+                                                                 <div class="trdmrk-box">
+                                                                     <img src="../assets/images/product/invoice-management.jpg" alt="features icon" />
+                                                                 </div>
+                                                                 <div class="veticle-features-content">
+                                                                     <h4><strong style="color:#1ea185;">Invoice Management</strong></h4>
+                                                                 </div>
+                                                             </div>
+                                                         </div>
+                                                         <!-- Single Features -->
+                                                         <div class="veticle-features mb-0">
+                                                             <div class="veticle-features-item" style="justify-content:left;">
+                                                                 <div class="trdmrk-box">
+                                                                     <img src="../assets/images/product/lead-management.jpg" alt="features icon" />
+                                                                 </div>
+                                                                 <div class="veticle-features-content">
+                                                                     <h4><strong style="color:#1ea185;">Leads Management</strong></h4>
+                                                                 </div>
+                                                             </div>
+                                                         </div>
                                                      </div>
                                                  </div>
                                              </div>
