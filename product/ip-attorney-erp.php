@@ -959,6 +959,39 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/patent-report.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#9bbb5c;">Reports</strong> <dd>Advanced patent reporting tools with export feature.</dd></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/task-management-02.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                           <h4><strong style="color:#f29b26;">Task Management with Reminder</strong> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/patent-agent.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#bd392f;">Patent Agents Management</strong> <dd>Manage Patent Agents & Attorneys in your firm.</dd></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                     </div>
                                                 </div>
                                             </div>
