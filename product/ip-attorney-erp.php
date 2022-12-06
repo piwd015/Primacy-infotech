@@ -391,7 +391,7 @@
                                                                             <img src="../assets/images/product/trademark-examination.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4 style="color:#1ea185;">Trademark Examination<dd>Manage all trademark examination process details</dd></h4>
+                                                                            <h4><strong style="color:#1ea185;">Trademark Examination</strong><dd>Manage all trademark examination process details</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
