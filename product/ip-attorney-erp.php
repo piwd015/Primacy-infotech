@@ -630,7 +630,7 @@
                                                                      <img src="../assets/images/product/trademark-watches.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
-                                                                     <h4><strong style="color:#bd392f;">Trademark Watchers</strong></h4>
+                                                                     <h4><strong style="color:#bd392f;">Trademark Watchers</strong><b class="blink-hard">(Coming soon)</b></h4>
                                                                  </div>
                                                              </div>
                                                          </div>
