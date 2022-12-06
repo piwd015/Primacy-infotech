@@ -549,11 +549,11 @@
                                                          <!-- Single Features -->
                                                          <div class="veticle-features float-left mb-0">
                                                              <div class="veticle-features-item" style="justify-content:left;">
-                                                                 <div class="veticle-large-features-box">
-                                                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                 <div class="trdmrk-box">
+                                                                     <img src="../assets/images/product/deadline-management.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
-                                                                     <h4>Trademark Registration<span>Manage trademark registration and publication</span></h4>
+                                                                     <h4><strong style="color:#1ea185;">Deadline Management</strong><span>Reminders for examination, renewal, opposition deadlines</span></h4>
                                                                  </div>
                                                              </div>
                                                          </div>
