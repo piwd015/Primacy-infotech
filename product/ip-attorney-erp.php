@@ -409,33 +409,33 @@
                                                                 <!-- Single Features -->
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="veticle-large-features-box">
-                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/case-management.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Case Management<dd>Manage trademark cases with trademark life-cycle</dd></h4>
+                                                                            <h4><strong style="color:#f29b26;">Case Management</strong><dd>Manage trademark cases with trademark life-cycle</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <!-- Single Features -->
                                                                 <div class="veticle-features mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="veticle-large-features-box">
-                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/hearing-management.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Hearing Management<dd>Trademark hearings with case details and documents</dd></h4>
+                                                                            <h4><strong style="color:#bd392f;">Hearing Management</strong><dd>Trademark hearings with case details and documents</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <!-- Single Features -->
                                                                 <div class="veticle-features float-left mb-0">
                                                                     <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="veticle-large-features-box">
-                                                                            <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/trademark-management.jpg" alt="features icon" />
                                                                         </div>
                                                                         <div class="veticle-features-content">
-                                                                            <h4>Trademark Management<dd>A true and complete Trademark Management Software</dd></h4>
+                                                                            <h4><strong style="color:#1ea185;">Trademark Management</strong><dd>A true and complete Trademark Management Software</dd></h4>
                                                                         </div>
                                                                     </div>
                                                                 </div>
