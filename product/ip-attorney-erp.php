@@ -290,7 +290,7 @@
                                 </div>
                                 <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
-                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <img src="../assets/images/product/time-savings.png" class="pb-2" alt="">
                                             <strong class="w-100 d-block text-center pb-2">Time saving Automation</strong>
                                             <p class="d-block text-center">Automations cut admin time so you can focus more on what
                                                 really matters</p>
