@@ -249,9 +249,9 @@
                     <div class="col-lg-4 col-md-4">
                            <div class="specl-box wow slideInUp" data-wow-delay=".1s">
                                 <div class="specl-box-bg py-3 px-4">
-                                     <img src="../assets/images/product/trademark-management.png" alt="">
+                                     <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
                                      <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
-                                      <p>Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
+                                      <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
                                 </div>
                            </div>
                            <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
