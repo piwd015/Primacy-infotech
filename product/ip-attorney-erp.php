@@ -650,7 +650,7 @@
                                                                           <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                       </div>
                                                                       <div class="veticle-features-content">
-                                                                          <h4><strong>Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                          <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
                                                                       </div>
                                                                   </div>
                                                               </div>
@@ -661,7 +661,7 @@
                                                                           <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                       </div>
                                                                       <div class="veticle-features-content">
-                                                                          <h4><strong>Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                          <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
                                                                       </div>
                                                                   </div>
                                                               </div>
@@ -676,7 +676,7 @@
                                                                         <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                     </div>
                                                                     <div class="veticle-features-content">
-                                                                        <h4><strong>Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                        <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -687,7 +687,7 @@
                                                                         <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                     </div>
                                                                     <div class="veticle-features-content">
-                                                                        <h4><strong>Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                        <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -702,7 +702,7 @@
                                                                     <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4><strong>Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                    <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -713,7 +713,7 @@
                                                                     <img src="../assets/images/product/copyright-management.png" alt="features icon" />
                                                                 </div>
                                                                 <div class="veticle-features-content">
-                                                                    <h4><strong>Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                    <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
                                                                 </div>
                                                             </div>
                                                         </div>
