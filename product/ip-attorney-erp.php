@@ -265,7 +265,7 @@
                         <div class="col-lg-4 col-md-4">
                                 <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
-                                            <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                            <img src="../assets/images/product/data-views-icon.png" class="pb-2" alt="">
                                             <strong class="w-100 d-block text-center pb-2">Get a bird's eye view</strong>
                                             <p class="d-block text-center">Real time data views give a high-level view of your practice so
                                                 you always know exactly what’s going on</p>
