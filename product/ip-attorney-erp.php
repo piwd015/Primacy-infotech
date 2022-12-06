@@ -560,11 +560,11 @@
                                                          <!-- Single Features -->
                                                          <div class="veticle-features float-left mb-0">
                                                              <div class="veticle-features-item" style="justify-content:left;">
-                                                                 <div class="veticle-large-features-box">
-                                                                     <img src="../assets/images/features_icon_1.png" alt="features icon" />
+                                                                 <div class="trdmrk-box">
+                                                                       <img src="../assets/images/product/document-management.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
-                                                                     <h4>Trademark Renewal<span>Trademark renewal history with due date reminder</span></h4>
+                                                                     <h4><strong style="color:#9bbb5c;">Document Managemen</strong><dd>Document Management System for paperless management</dd></h4>
                                                                  </div>
                                                              </div>
                                                          </div>
