@@ -639,7 +639,7 @@
                                              </div>
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
-                                            <div class="row align-items-center m-0 ecommerces_features">
+                                            <div class="row m-0 ecommerces_features">
                                                 <h2 class="w-100 d-block text-center pb-3">Copyright Management System</h2>
                                                     <div class="col-lg-4 col-md-4">
                                                           <div class="product_features">
@@ -684,10 +684,10 @@
                                                             <div class="veticle-features mb-0">
                                                                 <div class="veticle-features-item" style="justify-content:left;">
                                                                     <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                                        <img src="../assets/images/product/case-management.png" alt="features icon" />
                                                                     </div>
                                                                     <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                        <h4><strong style="color:#9bbb5c;">Case Management</strong> <dd>Manage all your copyright cases in a systematic manner</dd></h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
