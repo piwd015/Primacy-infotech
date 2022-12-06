@@ -926,17 +926,28 @@
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                     <div class=" product_features">
-                                                        <!-- Single Features -->
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="trdmrk-box">
-                                                                    <img src="../assets/images/product/copyright-report.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/document-management-03.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#f29b26;">Document Management</strong> <dd>Manage all your patent documents at one place</dd></h4>
+                                                                    </div>
                                                                 </div>
                                                             </div>
-                                                        </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/patent-agent.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#bd392f;">Patent Tools & Resources</strong> <dd>Tools & resources for your daily patent tasks</dd></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                     </div>
                                                 </div>
                                             </div>
