@@ -941,7 +941,7 @@
                                                             <div class="veticle-features mb-0">
                                                                 <div class="veticle-features-item" style="justify-content:left;">
                                                                     <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/patent-agent.png" alt="features icon" />
+                                                                        <img src="../assets/images/product/patent-tools.png" alt="features icon" />
                                                                     </div>
                                                                     <div class="veticle-features-content">
                                                                         <h4><strong style="color:#bd392f;">Patent Tools & Resources</strong> <dd>Tools & resources for your daily patent tasks</dd></h4>
