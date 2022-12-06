@@ -802,7 +802,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
                                             <div class="row m-0 ecommerces_features">
-                                                <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="blink-hard">(Coming Soon)</b></b></h2>
+                                                <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="upcmn blink-hard">(Coming Soon)</b></b></h2>
                                                     <p class="w-100 d-block text-center">IPGO - The Patent Docketing & Management Software is developed for IP Law Firms, Patent Agents and Attorneys in India, and it
                                                         handles all the patent tasks of your office, from prosecution to litigation, from search, application, examination, publication and
                                                         oppositions.</p>
