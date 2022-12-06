@@ -867,17 +867,17 @@
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
                                                         <div class=" product_features">
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/copyright-report.png" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/hearing-management-02.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#f29b26;">Hearing Management</strong> <dd>Patent hearings with case details and documents</dd></h4>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                     <div class="col-lg-4 col-md-4">
