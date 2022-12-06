@@ -605,6 +605,17 @@
                                                          <div class="veticle-features mb-0">
                                                              <div class="veticle-features-item" style="justify-content:left;">
                                                                  <div class="trdmrk-box">
+                                                                     <img src="../assets/images/product/ownership-transfer.jpg" alt="features icon" />
+                                                                 </div>
+                                                                 <div class="veticle-features-content">
+                                                                     <h4><strong style="color:#9bbb5c;">Trademark Ownership Transfe</strong></h4>
+                                                                 </div>
+                                                             </div>
+                                                         </div>
+                                                         <!-- Single Features -->
+                                                         <div class="veticle-features mb-0">
+                                                             <div class="veticle-features-item" style="justify-content:left;">
+                                                                 <div class="trdmrk-box">
                                                                      <img src="../assets/images/product/lead-management.jpg" alt="features icon" />
                                                                  </div>
                                                                  <div class="veticle-features-content">
