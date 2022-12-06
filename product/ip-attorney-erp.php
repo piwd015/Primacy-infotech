@@ -520,6 +520,28 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="veticle-large-features-box">
+                                                                            <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4>Data Security<dd>High-end user-level security with time and IP restrictions.</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="veticle-large-features-box">
+                                                                            <img src="../assets/images/features_icon_2.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4>Task Management with Reminders (<b>Coming Soon</b>)<dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
                                                         </div>
                                                    </div>
                                                     <div class="col-lg-4 col-md-4">
