@@ -373,7 +373,7 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" id="keyword-nalysis-tab" data-toggle="tab" href="#keyword-nalysis" role="tab" aria-controls="keyword-nalysis" aria-selected="false">
-                                                <img src="../assets/images/vendor.png" class="img-fluid" alt="">
+                                                <img src="../assets/images/product/patent.png" class="img-fluid" alt="">
                                                 <h5>Patents</h5>
                                             </a>
                                         </li>
