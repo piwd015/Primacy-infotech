@@ -247,7 +247,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 mb-md-0 mb-4">
-                           <div class="specl-box wow slideInUp mb-3" data-wow-delay=".1s">
+                           <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
                                 <div class="specl-box-bg py-3 px-4">
                                      <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
                                      <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
@@ -262,30 +262,23 @@
                                 </div>
                             </div>
                     </div>
-                    <div class="col-lg-4 col-md-4">
-                           <div class="icon-box trd-mrk-box wow slideInUp">
-
-                            <div class="icon-box-icon">
-                                <img src="../assets/images/product/trademark-management.png" alt="">
+                    <div class="col-lg-4 col-md-4 mb-md-0 mb-4">
+                            <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                    <div class="specl-box-bg py-3 px-4">
+                                        <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                        <strong class="w-100 d-block text-center pb-2">Get a bird's eye view</strong>
+                                        <p class="d-block text-center">Real time data views give a high-level view of your practice so
+                                            you always know exactly what’s going on</p>
+                                    </div>
                             </div>
-
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Get a bird's eye view</h3>
-                                <p>Real time data views give a high-level view of your practice so
-                                    you always know exactly what’s going on</p>
+                            <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s">
+                                    <div class="specl-box-bg py-3 px-4">
+                                        <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
+                                        <strong class="w-100 d-block text-center pb-2">Highly Customizable</strong>
+                                        <p class="d-block text-center">Customizable workflows and layouts help you manage any type
+                                            of matter just as you'd like</p>
+                                    </div>
                             </div>
-
-                        </div>
-                           <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
-                            <div class="icon-box-icon">
-                                <i class="icon_drawer_alt"></i>
-                            </div>
-                            <div class="icon-box-details">
-                                <h3 class="icon-box-title">Highly Customizable</h3>
-                                <p>Customizable workflows and layouts help you manage any type
-                                    of matter just as you'd like</p>                            </div>
-
-                        </div>
                     </div>
                     <div class="col-lg-4 col-md-4">
                             <div class="icon-box trd-mrk-box wow slideInUp" data-wow-delay=".1s">
