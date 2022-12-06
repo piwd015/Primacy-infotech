@@ -658,10 +658,10 @@
                                                               <div class="veticle-features mb-0">
                                                                   <div class="veticle-features-item" style="justify-content:left;">
                                                                       <div class="trdmrk-box">
-                                                                          <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                                          <img src="../assets/images/product/document-management-02.png" alt="features icon" />
                                                                       </div>
                                                                       <div class="veticle-features-content">
-                                                                          <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                          <h4><strong style="color:#9bbb5c;">Document Management</strong> <dd>Document Management System for paperless management</dd></h4>
                                                                       </div>
                                                                   </div>
                                                               </div>
@@ -673,10 +673,10 @@
                                                             <div class="veticle-features mb-0">
                                                                 <div class="veticle-features-item" style="justify-content:left;">
                                                                     <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                                        <img src="../assets/images/product/associate-management.png.png" alt="features icon" />
                                                                     </div>
                                                                     <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#1ea185;">Copyright Management System</strong> <dd>A true and complete Copyright Management Software</dd></h4>
+                                                                        <h4><strong style="color:#1ea185;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
                                                                     </div>
                                                                 </div>
                                                             </div>
