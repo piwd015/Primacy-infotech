@@ -1933,7 +1933,8 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  text-align:center;
  opacity:1;
 }
-.content-details span{width:150px; height:150px}
+.content-details span{width:150px; height:150px; border:solid 1px #b2eaad; position:absolute;
+left:0; right:0; top:10%; margin:0 auto;}
 
 .fadeIn-bottom{top:80%;}
 

@@ -269,6 +269,7 @@
                                           </div>
                                           <div class="content-details fadeIn-bottom">
                                               <div class="content-details-big-Img">
+                                                   <span></span>
                                                   <h3>Kabir Hossain</h3>
                                                   <p class="content-text">Founder & CEO</p>
                                                   <img src="../assets/images/about/team-member.jpg" alt="">
