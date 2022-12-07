@@ -2018,7 +2018,7 @@ font-size:16px; color:#000; text-align:left; padding-left:12px;}
 .tabs li{width:45%; margin-bottom:25px; margin-right:10px; font-size:12px;}
 .tabs li:hover{width:45%;}
 .hdr-txt{font-size:20px; padding-top:20px;}
-.tab-content h2{font-size:20px;}
+.tab-content h2{font-size:20px; line-height:25px;}
 a.odo-aps{padding: 12px 15px; font-size: 14px;}
 .odo-srvs-box{padding:10px; height:260px;}
 .odo-srvs-box h4{font-size:14px;}

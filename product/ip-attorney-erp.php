@@ -312,11 +312,10 @@
 
         <!-- ============================ Features Start ================================== -->
         <section class="pd-0 overlay-top">
-            <div class="container-fluid px-md-5">
+            <div class="container-fluid px-md-5 px-0">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-md-10 col-sm-12">
                         <div class="row mrg-0 bg-white box-shadow pt-5 border--radius">
-
                             <div class="col-lg-12 col-md-12 col-sm-12">
                                 <div class="custom-tab icon-style">
                                     <ul class="nav nav-tabs" id="myTab" role="tablist">
