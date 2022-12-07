@@ -232,7 +232,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-2">
+                                   <div class="col-md-2 col-6 px-3">
                                     <div class="content">
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
@@ -249,7 +249,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-2">
+                                   <div class="col-md-2 col-6 px-3">
                                     <div class="content">
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
@@ -266,7 +266,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-2">
+                                   <div class="col-md-2 col-6 px-3">
                                     <div class="content">
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
@@ -283,7 +283,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                    <div class="col-md-2 col-6 px-2">
+                                    <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a href="#" target="_blank">
                                                 <div class="content-overlay"></div>
@@ -300,7 +300,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 px-2">
+                                    <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a href="#" target="_blank">
                                                 <div class="content-overlay"></div>
@@ -317,7 +317,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 mb-3">
+                                    <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a href="#" target="_blank">
                                                 <div class="content-overlay"></div>
@@ -334,7 +334,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 mb-3">
+                                    <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a href="#" target="_blank">
                                                 <div class="content-overlay"></div>
@@ -351,7 +351,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 mb-3">
+                                    <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a href="#" target="_blank">
                                                 <div class="content-overlay"></div>
@@ -368,7 +368,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 mb-3">
+                                    <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a href="#" target="_blank">
                                                 <div class="content-overlay"></div>
