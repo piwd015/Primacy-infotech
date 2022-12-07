@@ -1878,7 +1878,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 .figure{width:80%; height: 220px; margin:0 auto; display:block;}
 .figure img{width:100%; height:180px;  border-radius:100%; display:block; filter: grayscale(100%);}
 .wht-cirl{width:35px; height:35px; background:#fff; border-radius:100%; position:absolute;
-right:30px; bottom:45px; text-align:center; line-height:40px; z-index: 10;}
+right:20px; bottom:55px; text-align:center; line-height:40px; z-index: 10;}
 .wht-cirl i{font-size:20px; color:#0418ff;}
 .content-image{width: 100%; border-radius:100%; display:block; filter: grayscale(100%);}
 .content-details {
