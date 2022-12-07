@@ -1907,7 +1907,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  opacity: 1;
 }
 
-content-details-big-Img h3{
+.content-details-big-Img h3{
  color: #fff!important;
  letter-spacing: 0.15em;
  margin-bottom: 0.5em;
@@ -1923,7 +1923,7 @@ content-details-big-Img h3{
  opacity:1;
 }
 
-content-details-big-Img p{
+.content-details-big-Img p{
  color: #fff;
  font-size: 0.8em;
 }
