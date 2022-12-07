@@ -247,7 +247,7 @@
                                               <div class="content-overlay"></div>
                                               <div class="figure position-relative">
                                                     <div class="wht-cirl"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-                                                    <img  src="../assets/images/about/service-digital.png" alt="">
+                                                    <img  src="../assets/images/about/team-member.jpg" alt="">
                                               </div>
                                               <div class="content-details fadeIn-bottom">
                                                   <img src="../assets/images/about/team-member.jpg" alt="">
