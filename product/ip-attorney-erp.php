@@ -656,7 +656,7 @@
                                                       </div>
                                                 </div>
                                                        <div class="col-md-12 d-flex flex-wrap justify-content-end">
-                                                            <button type="button" class="btn sw-hd-btn" data-toggle="collapse" data-target="#demo">More</button>
+                                                            <button type="button" class="btn sw-hd-btn mb-3" data-toggle="collapse" data-target="#demo">More</button>
                                                        </div>
                                                        <div id="demo" class="collapse">
                                                            <div class="col-lg-3 col-md-3 col-12">
