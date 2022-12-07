@@ -606,8 +606,8 @@
                                                     </div>
                                              </div>
                                                <div class="row m-0 ecommerces_features d-md-none d-block">
-                                                <h2 class="w-100 d-block text-center pb-3">Trademark Management System</h2>
-                                                <div class="col-lg-3 col-md-3 col-12">
+                                                       <h2 class="w-100 d-block text-center pb-3">Trademark Management System</h2>
+                                                       <div class="col-lg-3 col-md-3 col-12">
                                                       <div class=" product_features">
                                                             <!-- Single Features -->
                                                             <div class="veticle-features mb-0">
@@ -655,221 +655,221 @@
                                                             </div>
                                                       </div>
                                                 </div>
-                                                   <div class="col-md-12">
-                                                        <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">More</button>
-                                                   </div>
-                                                   <div id="demo" class="collapse">
-                                                       <div class="col-lg-3 col-md-3 col-12">
-                                                           <div class=" product_features">
-                                                               <!-- Single Features -->
-                                                               <div class="veticle-features float-left mb-0">
-                                                                   <div class="veticle-features-item" style="justify-content:left;">
-                                                                       <div class="trdmrk-box">
-                                                                           <img src="../assets/images/product/trademark-management.jpg" alt="features icon" />
-                                                                       </div>
-                                                                       <div class="veticle-features-content">
-                                                                           <h4><strong style="color:#1ea185;">Trademark Management</strong><dd>A true and complete Trademark Management Software</dd></h4>
-                                                                       </div>
-                                                                   </div>
-                                                               </div>
-                                                               <!-- Single Features -->
-                                                               <div class="veticle-features float-left mb-0">
-                                                                   <div class="veticle-features-item" style="justify-content:left;">
-                                                                       <div class="trdmrk-box">
-                                                                           <img src="../assets/images/product/trademark-registration.jpg" alt="features icon" />
-                                                                       </div>
-                                                                       <div class="veticle-features-content">
-                                                                           <h4><strong style="color:#1ea185;">Trademark Registration</strong><dd>Manage trademark registration and publication</dd></h4>
+                                                       <div class="col-md-12 d-flex flex-wrap justify-content-end">
+                                                            <button type="button" class="btn sw-hd-btn" data-toggle="collapse" data-target="#demo">More</button>
+                                                       </div>
+                                                       <div id="demo" class="collapse">
+                                                           <div class="col-lg-3 col-md-3 col-12">
+                                                               <div class=" product_features">
+                                                                   <!-- Single Features -->
+                                                                   <div class="veticle-features float-left mb-0">
+                                                                       <div class="veticle-features-item" style="justify-content:left;">
+                                                                           <div class="trdmrk-box">
+                                                                               <img src="../assets/images/product/trademark-management.jpg" alt="features icon" />
+                                                                           </div>
+                                                                           <div class="veticle-features-content">
+                                                                               <h4><strong style="color:#1ea185;">Trademark Management</strong><dd>A true and complete Trademark Management Software</dd></h4>
+                                                                           </div>
                                                                        </div>
                                                                    </div>
-                                                               </div>
-                                                               <!-- Single Features -->
-                                                               <div class="veticle-features float-left mb-0">
-                                                                   <div class="veticle-features-item" style="justify-content:left;">
-                                                                       <div class="trdmrk-box">
-                                                                           <img src="../assets/images/product/form-generation.jpg" alt="features icon" />
+                                                                   <!-- Single Features -->
+                                                                   <div class="veticle-features float-left mb-0">
+                                                                       <div class="veticle-features-item" style="justify-content:left;">
+                                                                           <div class="trdmrk-box">
+                                                                               <img src="../assets/images/product/trademark-registration.jpg" alt="features icon" />
+                                                                           </div>
+                                                                           <div class="veticle-features-content">
+                                                                               <h4><strong style="color:#1ea185;">Trademark Registration</strong><dd>Manage trademark registration and publication</dd></h4>
+                                                                           </div>
                                                                        </div>
-                                                                       <div class="veticle-features-content">
-                                                                           <h4><strong style="color:#bd392f;">Form Generation</strong> <b class="blink-hard">(Coming soon)</b><dd>Automated Trademark Forms (TM-1, TM-12 etc.)</dd></h4>
+                                                                   </div>
+                                                                   <!-- Single Features -->
+                                                                   <div class="veticle-features float-left mb-0">
+                                                                       <div class="veticle-features-item" style="justify-content:left;">
+                                                                           <div class="trdmrk-box">
+                                                                               <img src="../assets/images/product/form-generation.jpg" alt="features icon" />
+                                                                           </div>
+                                                                           <div class="veticle-features-content">
+                                                                               <h4><strong style="color:#bd392f;">Form Generation</strong> <b class="blink-hard">(Coming soon)</b><dd>Automated Trademark Forms (TM-1, TM-12 etc.)</dd></h4>
+                                                                           </div>
                                                                        </div>
                                                                    </div>
                                                                </div>
                                                            </div>
+                                                           <div class="col-lg-3 col-md-3 col-12">
+                                                            <div class=" product_features">
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features float-left mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/trademark-publication.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#f29b26;">Trademark Publication</strong><dd>Manage Trademark Journal Publication details</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features float-left mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/trademark-renewal.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Trademark Renewal</strong><dd>Trademark renewal history with due date reminder</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features float-left mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/trademark-renewal.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Reports</strong><dd>Advanced reporting with state-of-the art search features</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/clnt-asso-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#9bbb5c;">Clients & Associate Management</strong><dd>Clients and associates with multiple contacts per client</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/data-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#f29b26;">Data Management</strong><dd>Advanced data management for integrity and consistency</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/data-security.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Data Security</strong><dd>High-end user-level security with time and IP restrictions.</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/task-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Task Management with Reminders</strong> <b class="blink-hard">(Coming Soon)</b><dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                           <div class="col-lg-3 col-md-3 col-12">
+                                                            <div class=" product_features">
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features float-left mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/deadline-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#1ea185;">Deadline Management</strong><dd>Reminders for examination, renewal, opposition deadlines</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features float-left mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/document-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#9bbb5c;">Document Managemen</strong><dd>Document Management System for paperless management</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features float-left mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/reminder.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#f29b26;">Reminders</strong><dd>Reminders all date and notification</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/agents-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Trademark Agents Management</strong><dd>Manage Trademark Agents & Attorneys in your firm.</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/invoice-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#1ea185;">Invoice Management</strong></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/ownership-transfer.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#9bbb5c;">Trademark Ownership Transfe</strong></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/lead-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#1ea185;">Leads Management</strong></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/trademark-watches.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Trademark Watchers</strong><b class="blink-hard">(Coming soon)</b></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                        </div>
-                                                       <div class="col-lg-3 col-md-3 col-12">
-                                                        <div class=" product_features">
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features float-left mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/trademark-publication.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#f29b26;">Trademark Publication</strong><dd>Manage Trademark Journal Publication details</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features float-left mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/trademark-renewal.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Trademark Renewal</strong><dd>Trademark renewal history with due date reminder</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features float-left mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/trademark-renewal.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Reports</strong><dd>Advanced reporting with state-of-the art search features</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/clnt-asso-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#9bbb5c;">Clients & Associate Management</strong><dd>Clients and associates with multiple contacts per client</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/data-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#f29b26;">Data Management</strong><dd>Advanced data management for integrity and consistency</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/data-security.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Data Security</strong><dd>High-end user-level security with time and IP restrictions.</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/task-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Task Management with Reminders</strong> <b class="blink-hard">(Coming Soon)</b><dd>Tasks with reminders and Outlook/Google integration</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                       <div class="col-lg-3 col-md-3 col-12">
-                                                        <div class=" product_features">
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features float-left mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/deadline-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#1ea185;">Deadline Management</strong><dd>Reminders for examination, renewal, opposition deadlines</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features float-left mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/document-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#9bbb5c;">Document Managemen</strong><dd>Document Management System for paperless management</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features float-left mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/reminder.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#f29b26;">Reminders</strong><dd>Reminders all date and notification</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/agents-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Trademark Agents Management</strong><dd>Manage Trademark Agents & Attorneys in your firm.</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/invoice-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#1ea185;">Invoice Management</strong></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/ownership-transfer.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#9bbb5c;">Trademark Ownership Transfe</strong></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/lead-management.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#1ea185;">Leads Management</strong></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/trademark-watches.jpg" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Trademark Watchers</strong><b class="blink-hard">(Coming soon)</b></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                   </div>
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
