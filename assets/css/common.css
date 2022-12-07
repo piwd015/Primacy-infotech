@@ -1857,7 +1857,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 }
 
 .content .content-overlay {
- background: rgba(0,0,0,0.5);
+ background: rgba(12,90,36,0.5);
  position: absolute;
  z-index: 110;
  height: 100%;
@@ -1933,6 +1933,8 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  text-align:center;
  opacity:1;
 }
+.content-details span{width:150px; height:150px}
+
 .fadeIn-bottom{top:80%;}
 
 .ipgo-bnr-ht{height:100vh;}
