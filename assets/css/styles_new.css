@@ -9355,7 +9355,7 @@ section {
     .count-box .count{font-size:1.5em;}
     .count-box h5{font-size:15px; line-height:17px;}
     .veticle-features-item{margin-bottom:10px;}
-    .overlay-top{-30px;}
+    .overlay-top{margin-top:-30px;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }
