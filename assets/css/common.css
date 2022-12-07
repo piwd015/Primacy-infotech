@@ -1890,7 +1890,7 @@ right:0px; bottom:15px; text-align:center; line-height:45px; z-index: 10;}
  width: 100%;
  top: 50%;
  left: 50%;
- opacity: 0;
+ opacity: 1;
  -webkit-transform: translate(-50%, -50%);
  -moz-transform: translate(-50%, -50%);
  transform: translate(-50%, -50%);
@@ -1914,6 +1914,11 @@ right:0px; bottom:15px; text-align:center; line-height:45px; z-index: 10;}
  font-size: 15px;
  color:#fff;
  font-weight:600;
+ position: absolute;
+ z-index:10;
+ bottom: 0px;
+ width:100%;
+ text-align:center;
 }
 
 .content-details p{
