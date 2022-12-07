@@ -285,7 +285,7 @@
                         </div>
                   </div>
             </section>
-            <section class="w-100 d-block">
+            <section class="w-100 d-block d-none">
                    <div class="container">
                         <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2" data-aos="fade-up">Two Decades At Glance</h2>
                         <div class="row" data-aos="fade-down">
@@ -381,19 +381,19 @@
                          <div class="row">
                                  <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-up">
                                       <div class="count-box w-100">
-                                           <h2 class="w-100 d-block text-center">400+</h2>
+                                           <h2 class="w-100 d-block text-center">1000+</h2>
                                            <span class="w-100 d-block text-center">Total Clients</span>
                                       </div>
                                  </div>
                                  <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-down">
                                        <div class="count-box w-100">
-                                           <h2 class="w-100 d-block text-center">550+</h2>
+                                           <h2 class="w-100 d-block text-center">1500+</h2>
                                            <span class="w-100 d-block text-center">App & Website Completed</span>
                                        </div>
                                  </div>
                                  <div class="col-md-3 col-6" data-aos="fade-up">
                                      <div class="count-box w-100">
-                                         <h2 class="w-100 d-block text-center">200+</h2>
+                                         <h2 class="w-100 d-block text-center">500+</h2>
                                          <span class="w-100 d-block text-center">Sucessfully Run</span>
                                      </div>
                                  </div>
