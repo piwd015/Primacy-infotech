@@ -224,7 +224,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12">
-                                <div class="large-features-2 style-1 shadow-0 border-0" data-aos="fade-left" data-aos-duration="1200">
+                                <div class="large-features-2 style-1 shadow-0 border-0 mb-0" data-aos="fade-left" data-aos-duration="1200">
                                     <div class="large-features-2-thumb">
                                         <img src="../assets/images/product/data-security.png" class="img-responsive" alt="" />
                                     </div>
@@ -242,7 +242,7 @@
 
         <section class="h4-awesome-feature bg-color s-padding pt-0 pb-5">
             <div class="container-fluid px-md-5 px-3">
-                    <div class="s-title my-md-5 mb-4">
+                    <div class="s-title my-md-5 mt-0 mb-4">
                     <h2 class="wow">Special Features</h2>
                 </div>
                 <div class="row">
