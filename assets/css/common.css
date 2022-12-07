@@ -1874,10 +1874,12 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 .content:hover .content-overlay{
  opacity: 1;
 }
-
-.content-image{
- width: 100%;
-}
+.figure{width:100%;}
+.figure img{width: 100%; border-radius:100%; display:block; filter: grayscale(100%);}
+.wht-cirl{width:30px; height:30px; background:#fff; border-radius:100%; position:absolute;
+right:-20px; bottom:20px; text-align:center; line-height:30px;}
+.wht-cirl i{font-size:20px; color:#0418ff;}
+.content-image{width: 100%; border-radius:100%; display:block; filter: grayscale(100%);}
 
 .content-details {
  position: absolute;
@@ -1895,6 +1897,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
  -moz-transition: all 0.3s ease-in-out 0s;
  transition: all 0.3s ease-in-out 0s;
 }
+.content-details img{width:100%; display:block;}
 
 .content:hover .content-details{
  top: 50%;
