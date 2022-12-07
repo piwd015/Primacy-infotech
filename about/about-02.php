@@ -246,7 +246,6 @@
                                           <a href="#" target="_blank">
                                               <div class="content-overlay"></div>
                                               <div class="figure position-relative">
-                                                    <div class="wht-cirl"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
                                                     <img  src="../assets/images/about/team-member.jpg" alt="">
                                               </div>
                                               <div class="content-details fadeIn-bottom">
@@ -264,15 +263,13 @@
                                       <a href="#" target="_blank">
                                           <div class="content-overlay"></div>
                                           <div class="figure position-relative">
-                                              <div class="wht-cirl"><i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-                                              <img  src="../assets/images/about/team-member.jpg" alt="">
+                                                 <img  src="../assets/images/about/team-member.jpg" alt="">
                                           </div>
                                           <div class="content-details fadeIn-bottom">
                                               <div class="content-details-big-Img">
-                                                   <span></span>
-                                                  <h3>Kabir Hossain</h3>
-                                                  <p class="content-text">Founder & CEO</p>
-                                                  <img src="../assets/images/about/team-member.jpg" alt="">
+                                                     <h3>Kabir Hossain</h3>
+                                                     <p class="content-text">Founder & CEO</p>
+                                                     <img src="../assets/images/about/team-member.jpg" alt="">
                                               </div>
                                           </div>
                                       </a>
