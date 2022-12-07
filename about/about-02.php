@@ -219,7 +219,7 @@
                                      <div class="why-us-box d-block position-relative
                                                     px-md-4 px-3 pt-3">
                                          <img src="../assets/images/about/agile-design.png" alt="">
-                                         <h4 class="d-block pb-md-2 pt-3">Agile by Design</h4>
+                                         <h4 class="d-block pb-md-2 pt-2">Agile by Design</h4>
                                          <span class="d-block">We are a small company with huge
                                                  capabilities. We have retained our agility through
                                                  our unique company culture and a flat organizational
