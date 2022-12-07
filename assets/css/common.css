@@ -1857,7 +1857,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 }
 
 .content .content-overlay {
- background: rgba(0,0,0,0.4);
+ background: rgba(0,0,0,0.5);
  position: absolute;
  z-index: 110;
  height: 100%;
@@ -1928,7 +1928,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  font-weight:700;
  position: absolute;
  z-index:120;
- bottom: 30px;
+ bottom: 10px;
  width:100%;
  text-align:center;
  opacity:1;
