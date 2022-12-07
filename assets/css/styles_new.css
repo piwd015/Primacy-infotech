@@ -9334,7 +9334,7 @@ section {
         display: none
     }
     .icon-style .nav-tabs .nav-item a img {
-        max-width: 30px
+        max-width: 40px
     }
     .error-page h2 {
         font-size: 140px
@@ -9354,6 +9354,8 @@ section {
     ul.list-style li{font-size:14px; padding-left:20px; margin-bottom:0.5em;}
     .count-box .count{font-size:1.5em;}
     .count-box h5{font-size:15px; line-height:17px;}
+    .veticle-features-item{margin-bottom:10px;}
+    .overlay-top{-30px;}
     .dropdown-submenu>.dropdown-menu.show {
         display: block
     }

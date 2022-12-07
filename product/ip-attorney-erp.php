@@ -242,7 +242,7 @@
 
         <section class="h4-awesome-feature bg-color s-padding pt-0 pb-5">
             <div class="container-fluid px-md-5 px-3">
-                <div class="s-title my-md-5 my-3">
+                    <div class="s-title my-md-5 mb-4">
                     <h2 class="wow">Special Features</h2>
                 </div>
                 <div class="row">
@@ -254,7 +254,7 @@
                                           <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
                                     </div>
                                </div>
-                                <div class="specl-box wow slideInUp" data-wow-delay=".1s">
+                                <div class="specl-box wow slideInUp mb-md-0 mb-4" data-wow-delay=".1s">
                                     <div class="specl-box-bg py-3 px-4">
                                         <img src="../assets/images/product/auto-reminder.png" class="pb-2" alt="">
                                         <strong class="w-100 d-block text-center pb-2">Auto reminder</strong>
@@ -315,7 +315,7 @@
             <div class="container-fluid px-md-5 px-0">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-md-10 col-sm-12">
-                        <div class="row mrg-0 bg-white box-shadow pt-5 border--radius">
+                        <div class="row mrg-0 bg-white box-shadow pt-md-5 pt-2 border--radius">
                             <div class="col-lg-12 col-md-12 col-sm-12">
                                 <div class="custom-tab icon-style">
                                     <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -1044,282 +1044,575 @@
                                                </div>
                                         </div>
                                         <div class="tab-pane fade" id="email-marketing" role="tabpanel" aria-labelledby="email-marketing-tab">
-                                            <div class="row align-items-center m-0 ecommerces_features">
+                                               <div class="row align-items-center m-0 ecommerces_features d-md-block d-none">
+                                                    <h2 class="w-100 d-block text-center pb-3">Industrial Design Management System</h2>
+                                                    <div class="row">
+                                                            <div class="col-lg-4 col-md-4">
+                                                                  <div class="product_features">
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#1ea185;">Design Management Software</strong> <dd>A true and complete Design Management Software</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/document-management-02.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#9bbb5c;">Document Management</strong> <dd>Document Management System for paperless management</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                  </div>
+                                                            </div>
+                                                            <div class="col-lg-4 col-md-4">
+                                                            <div class="product_features">
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/associate-management.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#1ea185;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/case-management.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#9bbb5c;">Case Management</strong> <dd>Manage all your design cases in a systematic manner</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                            <div class="col-lg-4 col-md-4">
+                                                            <div class="product_features">
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/copyright-report.png" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                              <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- Single Features -->
+                                                                <div class="veticle-features mb-0">
+                                                                    <div class="veticle-features-item" style="justify-content:left;">
+                                                                        <div class="trdmrk-box">
+                                                                            <img src="../assets/images/product/task-management.jpg" alt="features icon" />
+                                                                        </div>
+                                                                        <div class="veticle-features-content">
+                                                                            <h4><strong style="color:#bd392f;">Task Management with Reminders</strong> <b class="blink-hard">(Coming soon)</b> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                            </div>
+                                               <div class="row align-items-center m-0 ecommerces_features d-md-none d-block">
                                                     <h2 class="w-100 d-block text-center pb-3">Industrial Design Management System</h2>
                                                     <div class="col-lg-4 col-md-4">
-                                                          <div class="product_features">
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                        <div class="product_features">
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/copyright-management.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#1ea185;">Design Management Software</strong> <dd>A true and complete Design Management Software</dd></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/document-management-02.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#9bbb5c;">Document Management</strong> <dd>Document Management System for paperless management</dd></h4>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-12 d-flex flex-wrap justify-content-end">
+                                                           <button type="button" class="btn sw-hd-btn mb-3" data-toggle="collapse" data-target="#demo3">More</button>
+                                                    </div>
+                                                    <div id="demo3" class="collapse">
+                                                            <div class="col-lg-4 col-md-4">
+                                                                <div class="product_features">
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/associate-management.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#1ea185;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
+                                                                            </div>
                                                                         </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#1ea185;">Design Management Software</strong> <dd>A true and complete Design Management Software</dd></h4>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/case-management.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#9bbb5c;">Case Management</strong> <dd>Manage all your design cases in a systematic manner</dd></h4>
+                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/document-management-02.png" alt="features icon" />
+                                                            </div>
+                                                            <div class="col-lg-4 col-md-4">
+                                                                <div class="product_features">
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/copyright-report.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
+                                                                            </div>
                                                                         </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#9bbb5c;">Document Management</strong> <dd>Document Management System for paperless management</dd></h4>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/task-management.jpg" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#bd392f;">Task Management with Reminders</strong> <b class="blink-hard">(Coming soon)</b> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                            </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                          </div>
+                                                            </div>
                                                     </div>
-                                                    <div class="col-lg-4 col-md-4">
-                                                    <div class="product_features">
-                                                        <!-- Single Features -->
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="trdmrk-box">
-                                                                    <img src="../assets/images/product/associate-management.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#1ea185;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Single Features -->
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="trdmrk-box">
-                                                                    <img src="../assets/images/product/case-management.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#9bbb5c;">Case Management</strong> <dd>Manage all your design cases in a systematic manner</dd></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                    <div class="col-lg-4 col-md-4">
-                                                    <div class="product_features">
-                                                        <!-- Single Features -->
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="trdmrk-box">
-                                                                    <img src="../assets/images/product/copyright-report.png" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                      <h4><strong style="color:#f29b26;">Reports</strong> <dd>Advanced reporting with state-of-the art search features</dd></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- Single Features -->
-                                                        <div class="veticle-features mb-0">
-                                                            <div class="veticle-features-item" style="justify-content:left;">
-                                                                <div class="trdmrk-box">
-                                                                    <img src="../assets/images/product/task-management.jpg" alt="features icon" />
-                                                                </div>
-                                                                <div class="veticle-features-content">
-                                                                    <h4><strong style="color:#bd392f;">Task Management with Reminders</strong> <b class="blink-hard">(Coming soon)</b> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
-                                            <div class="row m-0 ecommerces_features">
-                                                <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="upcmn blink-hard">( Coming Soon )</b></b></h2>
+                                              <div class="row m-0 ecommerces_features d-md-block d-none">
+                                                     <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="upcmn blink-hard">( Coming Soon )</b></b></h2>
+                                                     <p class="w-100 d-block text-center">IPGO - The Patent Docketing & Management Software is developed for IP Law Firms, Patent Agents and Attorneys in India, and it
+                                                          handles all the patent tasks of your office, from prosecution to litigation, from search, application, examination, publication and
+                                                          oppositions.</p>
+                                                      <div class="row">
+                                                            <div class="col-lg-4 col-md-4">
+                                                                <div class=" product_features">
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/patent-software.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                       <h4><strong style="color:#1ea185;">Patent Management Software</strong> <dd>A true and complete Patent Management Software</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/opposition-management.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#9bbb5c;">Oppositions Management</strong> <dd>Manage all your patent opposition proceedings</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/patent-client-management.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#f29b26;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/centralize-data.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#bd392f;">Centralized Data Management</strong> <dd>Centralized data management for integrity and consistency</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/case-management-02.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#1ea185;">Case Management</strong> <dd>Manage patent cases with effective patent life-cycle</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-lg-4 col-md-4">
+                                                                <div class=" product_features">
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/hearing-management-02.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#9bbb5c;">Hearing Management</strong> <dd>Patent hearings with case details and documents</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/deadline-management-02.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#f29b26;">Deadline Management</strong> <dd>Patent deadlines - form filing, specification, examination</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/data-security-02.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#bd392f;">Data Security</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/ptc-import.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#1ea185;">PCT Import - From WIPO</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- Single Features -->
+                                                                        <div class="veticle-features mb-0">
+                                                                            <div class="veticle-features-item" style="justify-content:left;">
+                                                                                <div class="trdmrk-box">
+                                                                                    <img src="../assets/images/product/form-generation-02.png" alt="features icon" />
+                                                                                </div>
+                                                                                <div class="veticle-features-content">
+                                                                                    <h4><strong style="color:#9bbb5c;">Form Generation</strong> <dd>Automated Patent Forms - Form - 1, 3, 5 etc.</dd></h4>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-lg-4 col-md-4">
+                                                                 <div class=" product_features">
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/document-management-03.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#f29b26;">Document Management</strong> <dd>Manage all your patent documents at one place</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-tools.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#bd392f;">Patent Tools & Resources</strong> <dd>Tools & resources for your daily patent tasks</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-examination.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#1ea185;">Patent Examination</strong> <dd>Manage all aspects of patent examination proceedings</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-report.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#9bbb5c;">Reports</strong> <dd>Advanced patent reporting tools with export feature.</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/task-management-02.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                   <h4><strong style="color:#f29b26;">Task Management with Reminder</strong> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-agent.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#bd392f;">Patent Agents Management</strong> <dd>Manage Patent Agents & Attorneys in your firm.</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                            </div>
+                                                            </div>
+                                                      </div>
+                                               </div>
+                                              <div class="row m-0 ecommerces_features d-md-none d-block">
+                                                    <h2 class="w-100 d-block text-center pb-3">Patent Management System <b class="upcmn blink-hard">( Coming Soon )</b></b></h2>
                                                     <p class="w-100 d-block text-center">IPGO - The Patent Docketing & Management Software is developed for IP Law Firms, Patent Agents and Attorneys in India, and it
                                                         handles all the patent tasks of your office, from prosecution to litigation, from search, application, examination, publication and
                                                         oppositions.</p>
-                                                    <div class="col-lg-4 col-md-4">
+                                                    <div class="col-lg-3 col-md-3">
                                                         <div class=" product_features">
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/patent-software.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                               <h4><strong style="color:#1ea185;">Patent Management Software</strong> <dd>A true and complete Patent Management Software</dd></h4>
-                                                                        </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/patent-software.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#1ea185;">Patent Management Software</strong> <dd>A true and complete Patent Management Software</dd></h4>
                                                                     </div>
                                                                 </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/opposition-management.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#9bbb5c;">Oppositions Management</strong> <dd>Manage all your patent opposition proceedings</dd></h4>
-                                                                        </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/opposition-management.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#9bbb5c;">Oppositions Management</strong> <dd>Manage all your patent opposition proceedings</dd></h4>
                                                                     </div>
                                                                 </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/patent-client-management.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#f29b26;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
-                                                                        </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/patent-client-management.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#f29b26;">Clients & Associate Management</strong> <dd>Clients and associates with multiple contacts per client</dd></h4>
                                                                     </div>
                                                                 </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/centralize-data.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#bd392f;">Centralized Data Management</strong> <dd>Centralized data management for integrity and consistency</dd></h4>
-                                                                        </div>
+                                                            </div>
+                                                            <!-- Single Features -->
+                                                            <div class="veticle-features mb-0">
+                                                                <div class="veticle-features-item" style="justify-content:left;">
+                                                                    <div class="trdmrk-box">
+                                                                        <img src="../assets/images/product/centralize-data.png" alt="features icon" />
+                                                                    </div>
+                                                                    <div class="veticle-features-content">
+                                                                        <h4><strong style="color:#bd392f;">Centralized Data Management</strong> <dd>Centralized data management for integrity and consistency</dd></h4>
                                                                     </div>
                                                                 </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/case-management-02.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#1ea185;">Case Management</strong> <dd>Manage patent cases with effective patent life-cycle</dd></h4>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-lg-4 col-md-4">
-                                                        <div class=" product_features">
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/hearing-management-02.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#9bbb5c;">Hearing Management</strong> <dd>Patent hearings with case details and documents</dd></h4>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/deadline-management-02.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#f29b26;">Deadline Management</strong> <dd>Patent deadlines - form filing, specification, examination</dd></h4>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/data-security-02.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#bd392f;">Data Security</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/ptc-import.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#1ea185;">PCT Import - From WIPO</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <!-- Single Features -->
-                                                                <div class="veticle-features mb-0">
-                                                                    <div class="veticle-features-item" style="justify-content:left;">
-                                                                        <div class="trdmrk-box">
-                                                                            <img src="../assets/images/product/form-generation-02.png" alt="features icon" />
-                                                                        </div>
-                                                                        <div class="veticle-features-content">
-                                                                            <h4><strong style="color:#9bbb5c;">Form Generation</strong> <dd>Automated Patent Forms - Form - 1, 3, 5 etc.</dd></h4>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                        </div>
+                                                    <div class="col-md-12 d-flex flex-wrap justify-content-end">
+                                                          <button type="button" class="btn sw-hd-btn mb-3" data-toggle="collapse" data-target="#demo4">More</button>
                                                     </div>
-                                                    <div class="col-lg-4 col-md-4">
-                                                    <div class=" product_features">
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/document-management-03.png" alt="features icon" />
+                                                    <div id="demo4" class="collapse">
+                                                            <div class="col-lg-3 col-md-3">
+                                                                 <div class=" product_features">
+                                                                      <!-- Single Features -->
+                                                                      <div class="veticle-features mb-0">
+                                                                          <div class="veticle-features-item" style="justify-content:left;">
+                                                                              <div class="trdmrk-box">
+                                                                                  <img src="../assets/images/product/case-management-02.png" alt="features icon" />
+                                                                              </div>
+                                                                              <div class="veticle-features-content">
+                                                                                  <h4><strong style="color:#1ea185;">Case Management</strong> <dd>Manage patent cases with effective patent life-cycle</dd></h4>
+                                                                              </div>
+                                                                          </div>
+                                                                      </div>
+                                                                 </div>
+                                                          </div>
+                                                            <div class="col-lg-3 col-md-3">
+                                                                <div class=" product_features">
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/hearing-management-02.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#9bbb5c;">Hearing Management</strong> <dd>Patent hearings with case details and documents</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#f29b26;">Document Management</strong> <dd>Manage all your patent documents at one place</dd></h4>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/deadline-management-02.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#f29b26;">Deadline Management</strong> <dd>Patent deadlines - form filing, specification, examination</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/data-security-02.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#bd392f;">Data Security</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/ptc-import.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#1ea185;">PCT Import - From WIPO</strong> <dd>High-end user-level security with time and IP restrictions</dd></h4>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/form-generation-02.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#9bbb5c;">Form Generation</strong> <dd>Automated Patent Forms - Form - 1, 3, 5 etc.</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/patent-tools.png" alt="features icon" />
+                                                            <div class="col-lg-3 col-md-3">
+                                                                <div class=" product_features">
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/document-management-03.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#f29b26;">Document Management</strong> <dd>Manage all your patent documents at one place</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Patent Tools & Resources</strong> <dd>Tools & resources for your daily patent tasks</dd></h4>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-tools.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#bd392f;">Patent Tools & Resources</strong> <dd>Tools & resources for your daily patent tasks</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/patent-examination.png" alt="features icon" />
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-examination.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#1ea185;">Patent Examination</strong> <dd>Manage all aspects of patent examination proceedings</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#1ea185;">Patent Examination</strong> <dd>Manage all aspects of patent examination proceedings</dd></h4>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-report.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#9bbb5c;">Reports</strong> <dd>Advanced patent reporting tools with export feature.</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/patent-report.png" alt="features icon" />
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/task-management-02.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#f29b26;">Task Management with Reminder</strong> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#9bbb5c;">Reports</strong> <dd>Advanced patent reporting tools with export feature.</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/task-management-02.png" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                           <h4><strong style="color:#f29b26;">Task Management with Reminder</strong> <dd>Tasks with reminders and Outlook/Google integration</dd></h4>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <!-- Single Features -->
-                                                            <div class="veticle-features mb-0">
-                                                                <div class="veticle-features-item" style="justify-content:left;">
-                                                                    <div class="trdmrk-box">
-                                                                        <img src="../assets/images/product/patent-agent.png" alt="features icon" />
-                                                                    </div>
-                                                                    <div class="veticle-features-content">
-                                                                        <h4><strong style="color:#bd392f;">Patent Agents Management</strong> <dd>Manage Patent Agents & Attorneys in your firm.</dd></h4>
+                                                                    <!-- Single Features -->
+                                                                    <div class="veticle-features mb-0">
+                                                                        <div class="veticle-features-item" style="justify-content:left;">
+                                                                            <div class="trdmrk-box">
+                                                                                <img src="../assets/images/product/patent-agent.png" alt="features icon" />
+                                                                            </div>
+                                                                            <div class="veticle-features-content">
+                                                                                <h4><strong style="color:#bd392f;">Patent Agents Management</strong> <dd>Manage Patent Agents & Attorneys in your firm.</dd></h4>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                     </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
