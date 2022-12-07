@@ -1885,8 +1885,8 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  position: absolute;
  z-index:100;
  text-align: center;
- padding-left: 1em;
- padding-right: 1em;
+ padding-left: 0em;
+ padding-right: 0em;
  width: 100%;
  top: 50%;
  left: 50%;
@@ -1902,7 +1902,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 .content-details-big-Img img{width:100%; display:block;}
 
 .content:hover .content-details{
- top: 0%;
+ top: 20%;
  left: 50%;
  opacity: 1;
 }
