@@ -181,7 +181,7 @@
                     <div class="container-fluid px-md-5 px-3">
                             <h2 class="w-100 d-block text-center pb-md-4 pb-3">Our Team Management</h2>
                             <div class="row">
-                                   <div class="col-md-2 col-6 px-2">
+                                   <div class="col-md-2 col-6 px-3">
                                          <div class="content">
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
@@ -198,7 +198,7 @@
                                         </a>
                                     </div>
                                    </div>
-                                   <div class="col-md-2 col-6 px-2">
+                                   <div class="col-md-2 col-6 px-3">
                                     <div class="content">
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
@@ -215,7 +215,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-2">
+                                   <div class="col-md-2 col-6 px-3">
                                     <div class="content">
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
