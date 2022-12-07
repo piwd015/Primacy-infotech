@@ -985,9 +985,9 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-md-12 d-flex flex-wrap justify-content-end">
-                                                              <button type="button" class="btn sw-hd-btn mb-3" data-toggle="collapse" data-target="#demo">More</button>
+                                                              <button type="button" class="btn sw-hd-btn mb-3" data-toggle="collapse" data-target="#demo2">More</button>
                                                         </div>
-                                                        <div id="demo" class="collapse">
+                                                        <div id="demo2" class="collapse">
                                                                 <div class="col-lg-4 col-md-4">
                                                                     <div class="product_features">
                                                                         <!-- Single Features -->
