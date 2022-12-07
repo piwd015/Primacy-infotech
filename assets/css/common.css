@@ -1981,6 +1981,7 @@ font-size:16px; color:#000; text-align:left; padding-left:12px;}
 .sw-hd-btn{background:#ff6700!important; font-size:14px; color:#fff; font-weight:600; width:70px;
 height:30px; text-align:center; line-height:0px!important; display:block;}
 .sw-hd-btn:hover{background:#ba1419!important; color:#fff;}
+.ecommerces_features h2 br{display:none;}
 
 /*-------------our team section-------------*/
 
@@ -2345,8 +2346,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .ipgo-bnr-ht{height:auto;}
  .specl-box{height:auto;}
  .trdmrk-box{width:90px; margin-right: 5px; position:relative; left:-10px;}
- .large-features-2-detail h4{font-size:17px;}
- .large-features-2-detail p{font-size:15px;}
+ .large-features-2-detail h4{font-size:16px;}
+ .large-features-2-detail p{font-size:13px;}
+ .ecommerces_features h2 br{display:block;}
 }
 
 
