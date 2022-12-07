@@ -241,7 +241,7 @@
                    <div class="container">
                         <div class="team-bg-wht p-md-5 p-3">
                              <div class="row">
-                              <div class="col-md-2 col-6 mb-3">
+                              <div class="col-md-3 col-6 mb-3">
                                       <div class="content">
                                           <a href="#" target="_blank">
                                               <div class="content-overlay"></div>
@@ -257,7 +257,7 @@
                                           </a>
                                       </div>
                               </div>
-                              <div class="col-md-2 col-6 mb-3">
+                              <div class="col-md-3 col-6 mb-3">
                                      <div class="content">
                                       <a href="#" target="_blank">
                                           <div class="content-overlay"></div>
