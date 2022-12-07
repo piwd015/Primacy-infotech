@@ -179,7 +179,7 @@
             </section>
             <section class="team-bg w-100 d-block py-md-5 py-3">
                     <div class="container">
-                            <h2 class="w-100 d-block text-center pb-4">Our Team Management</h2>
+                            <h2 class="w-100 d-block text-center pb-md-5 pb-3">Our Team Management</h2>
                             <div class="row">
                                    <div class="col-md-2 col-6 mb-3">
                                     <div class="content">
