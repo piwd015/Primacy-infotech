@@ -1859,6 +1859,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 .content .content-overlay {
  background: rgba(0,0,0,0.7);
  position: absolute;
+ z-index: 110;
  height: 99%;
  width: 100%;
  left: 0;
@@ -1897,7 +1898,7 @@ right:0px; bottom:15px; text-align:center; line-height:45px; z-index: 10;}
  -moz-transition: all 0.3s ease-in-out 0s;
  transition: all 0.3s ease-in-out 0s;
 }
-.content-details img{width:200px; height: 300px; display:block;}
+.content-details img{width:100%; display:block;}
 
 .content:hover .content-details{
  top: 50%;
