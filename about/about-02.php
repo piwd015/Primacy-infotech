@@ -178,45 +178,114 @@
                    </div>
             </section>
             <section class="team-bg w-100 d-block py-md-5 py-3">
-            <div class="container">
-                    <div class="row">
-                        <div class="col-md-2 col-6 mb-3">
-                            <div class="content">
-                                <a href="#" target="_blank">
-                                    <div class="content-overlay"></div>
-                                    <div class="figure position-relative">
-                                        <img  src="../assets/images/about/team-member.jpg" alt="">
+                    <div class="container">
+                            <h2 class="w-100 d-block text-center pb-4">Our Team Management</h2>
+                            <div class="row">
+                                   <div class="col-md-2 col-6 mb-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Motaleb Molla</h3>
+                                                    <p class="content-text">President</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
                                     </div>
-                                    <div class="content-details fadeIn-bottom">
-                                        <div class="content-details-big-Img">
-                                            <h3>Motaleb Molla</h3>
-                                            <p class="content-text">President</p>
-                                            <img src="../assets/images/about/team-member.jpg" alt="">
-                                        </div>
+                                </div>
+                                   <div class="col-md-2 col-6 mb-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Kabir Hossain</h3>
+                                                    <p class="content-text">Founder & CEO</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
                                     </div>
-                                </a>
+                                </div>
+                                   <div class="col-md-2 col-6 mb-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Kabir Hossain</h3>
+                                                    <p class="content-text">Founder & CEO</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                   <div class="col-md-2 col-6 mb-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Kabir Hossain</h3>
+                                                    <p class="content-text">Founder & CEO</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                   <div class="col-md-2 col-6 mb-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Kabir Hossain</h3>
+                                                    <p class="content-text">Founder & CEO</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                   <div class="col-md-2 col-6 mb-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Kabir Hossain</h3>
+                                                    <p class="content-text">Founder & CEO</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-md-2 col-6 mb-3">
-                            <div class="content">
-                                <a href="#" target="_blank">
-                                    <div class="content-overlay"></div>
-                                    <div class="figure position-relative">
-                                        <img  src="../assets/images/about/team-member.jpg" alt="">
-                                    </div>
-                                    <div class="content-details fadeIn-bottom">
-                                        <div class="content-details-big-Img">
-                                            <h3>Kabir Hossain</h3>
-                                            <p class="content-text">Founder & CEO</p>
-                                            <img src="../assets/images/about/team-member.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
                     </div>
-            </div>
-        </section>
+            </section>
             <section class="w-100 d-block why-us pt-md-5 pt-3">
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>

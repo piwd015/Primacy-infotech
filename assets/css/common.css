@@ -1847,6 +1847,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 .bnr-cnt{margin-top:-30%}
 
 .team-bg{}
+.team-bg h2{ font-size:55px; color:#000; font-weight:600;}
 
 /*-------------our team section-------------*/
 .content {
@@ -1857,7 +1858,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 }
 
 .content .content-overlay {
- background: rgba(0,0,0,0.5);
+ background: rgba(0,0,0,0.4);
  position: absolute;
  z-index: 110;
  height: 100%;
@@ -1912,7 +1913,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  letter-spacing: 0.15em;
  margin-bottom: 0.5em;
  text-transform: uppercase;
- font-size: 17px;
+ font-size: 15px;
  font-weight:700;
  position: absolute;
  z-index:120;
@@ -1924,7 +1925,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 
 .content-details p{
  color: #fff!important;
- font-size: 17px;
+ font-size: 15px;
  font-weight:700;
  position: absolute;
  z-index:120;
