@@ -1898,7 +1898,7 @@ right:-20px; bottom:20px; text-align:center; line-height:30px;}
  -moz-transition: all 0.3s ease-in-out 0s;
  transition: all 0.3s ease-in-out 0s;
 }
-.content-details img{width:100%; display:block;}
+.content-details img{width:70%; display:block;}
 
 .content:hover .content-details{
  top: 50%;
