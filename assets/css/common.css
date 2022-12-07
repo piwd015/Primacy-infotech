@@ -1907,7 +1907,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 }
 
 .content-details h3{
- color: #fff;
+ color: #fff!important;
  letter-spacing: 0.15em;
  margin-bottom: 0.5em;
  text-transform: uppercase;
