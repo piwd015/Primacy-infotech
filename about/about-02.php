@@ -184,20 +184,17 @@
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-up" data-aos-duration="3000">
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-3">
-                                            <div class="why-us-box-ico position-absolute"></div>
                                           <img src="../assets/images/about/service-digital.png" alt="">
                                           <h4 class="d-block pb-md-2">Full-Service Digital</h4>
                                             <span class="d-block">One house for the complete digital solution
                                                 which lowers cost and enables total ownership of
                                                 the project with superior quality and timely
                                                 delivery.</span>
-                                          <div class="why-us-box-ico-bt position-absolute"></div>
                                       </div>
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
-                                                <div class="why-us-box-ico position-absolute"></div>
                                                 <img src="../assets/images/about/erterprise-grade.png" alt="">
                                                 <h4 class="d-block pb-md-2">Enterprise-
                                                     Grade</h4>
@@ -205,33 +202,28 @@
                                                     delivering mission-critical, scalable, digital
                                                     innovation for global enterprises with advanced
                                                     solutions</span>
-                                                <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-up" data-aos-duration="3000">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
-                                                <div class="why-us-box-ico position-absolute"></div>
                                                  <img src="../assets/images/about/born-digital.png" alt="">
                                                 <h4 class="d-block pb-md-2">Born Digital</h4>
                                                 <span class="d-block">Since 1997, we have been
                                                     offering new-age digital solutions to keep
                                                     your business digitally advanced and
                                                     sustainable to the uncertain challenges.</span>
-                                                 <div class="why-us-box-ico-bt position-absolute"></div>
                                         </div>
                                 </div>
                                 <div class="col-md-3 mb-md-0 mb-5" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                      <div class="why-us-box d-block position-relative
                                                     px-md-4 px-3 pt-3">
-                                         <div class="why-us-box-ico position-absolute"></div>
                                          <img src="../assets/images/about/agile-design.png" alt="">
                                          <h4 class="d-block pb-md-2">Agile by Design</h4>
                                          <span class="d-block">We are a small company with huge
                                                  capabilities. We have retained our agility through
                                                  our unique company culture and a flat organizational
                                                  structure.</span>
-                                         <div class="why-us-box-ico-bt position-absolute"></div>
                                      </div>
                              </div>
                          </div>
