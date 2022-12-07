@@ -1857,7 +1857,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 }
 
 .content .content-overlay {
- background: rgba(0,0,0,0.7);
+ background: rgba(0,0,0,0.4);
  position: absolute;
  z-index: 110;
  height: 100%;
@@ -1902,7 +1902,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 .content-details-big-Img img{width:100%; display:block;}
 
 .content:hover .content-details{
- top: 20%;
+ top: 30%;
  left: 50%;
  opacity: 1;
 }
@@ -1917,7 +1917,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  font-weight:600;
  position: absolute;
  z-index:200;
- bottom: 100px;
+ bottom: 50px;
  width:100%;
  text-align:center;
  opacity:1;
