@@ -1979,8 +1979,8 @@ font-size:16px; color:#000; text-align:left; padding-left:12px;}
 .specl-box-bg strong{font-size:18px; color:#000;}
 .specl-box-bg > p{font-size:15px; color:#000;}
 .sw-hd-btn{background:#ff6700!important; font-size:14px; color:#fff; font-weight:600; width:70px;
-height:30px; text-align:center; line-height:30px; display:block;}
-.sw-hd-btn:hover{background:#ba1419; color:#fff;}
+height:30px; text-align:center; line-height:0px!important; display:block;}
+.sw-hd-btn:hover{background:#ba1419!important; color:#fff;}
 
 /*-------------our team section-------------*/
 
