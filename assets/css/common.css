@@ -1902,7 +1902,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 .content-details-big-Img img{width:100%; display:block;}
 
 .content:hover .content-details{
- top: 30%;
+ top: 35%;
  left: 50%;
  opacity: 1;
 }
