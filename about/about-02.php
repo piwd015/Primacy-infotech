@@ -251,8 +251,8 @@
                                               </div>
                                               <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
-                                                          <h3>This is a title</h3>
-                                                          <p class="content-text">This is a short description</p>
+                                                          <h3>Motaleb Molla</h3>
+                                                          <p class="content-text">President</p>
                                                           <img src="../assets/images/about/team-member.jpg" alt="">
                                                     </div>
                                               </div>
@@ -260,7 +260,7 @@
                                       </div>
                               </div>
                               <div class="col-md-3 col-6 mb-3">
-                                     <div class="content">
+                                    <div class="content">
                                       <a href="#" target="_blank">
                                           <div class="content-overlay"></div>
                                           <div class="figure position-relative">
@@ -268,9 +268,11 @@
                                               <img  src="../assets/images/about/team-member.jpg" alt="">
                                           </div>
                                           <div class="content-details fadeIn-bottom">
-                                              <img src="../assets/images/about/team-member.jpg" alt="">
-                                              <h3 class="content-title">This is a title</h3>
-                                              <p class="content-text">This is a short description</p>
+                                              <div class="content-details-big-Img">
+                                                  <h3>Kabir Hossain</h3>
+                                                  <p class="content-text">Founder & CEO</p>
+                                                  <img src="../assets/images/about/team-member.jpg" alt="">
+                                              </div>
                                           </div>
                                       </a>
                                   </div>
