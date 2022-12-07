@@ -1875,7 +1875,7 @@ a.wedo-circle i{font-size:50px; color:#fff;}
 .content:hover .content-overlay{
  opacity: 1;
 }
-.figure{width:80%;}
+.figure{width:80%; margin:0 auto;}
 .figure img{width:100%;  border-radius:100%; display:block; filter: grayscale(100%);}
 .wht-cirl{width:35px; height:35px; background:#fff; border-radius:100%; position:absolute;
 right:0px; bottom:15px; text-align:center; line-height:45px; z-index: 10;}
