@@ -250,9 +250,9 @@
                                                     <img  src="../assets/images/about/team-member.jpg" alt="">
                                               </div>
                                               <div class="content-details fadeIn-bottom">
-                                                  <img src="../assets/images/about/team-member.jpg" alt="">
-                                                  <h3 class="content-title">This is a title</h3>
-                                                  <p class="content-text">This is a short description</p>
+                                                    <h3 class="content-title">This is a title</h3>
+                                                    <p class="content-text">This is a short description</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
                                               </div>
                                           </a>
                                       </div>
