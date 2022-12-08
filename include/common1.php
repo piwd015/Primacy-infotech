@@ -50,13 +50,13 @@
 
 
 
-<section class="testimonial s-padding bg-color pb-0 pt-md-5 pt-3">
+<section class="testimonial s-padding bg-color pb-0 pt-md-5">
 
     <div class="bg-text">Feedback</div>
 
     <div class="container-fluid px-md-5 px-3">
 
-        <div class="s-title mb-5">
+        <div class="s-title mb-md-5 mb-4 mt-0">
 
             <h2><span class="logo-color">W</span>hat Customer Says</h2>
 
