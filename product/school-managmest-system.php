@@ -315,9 +315,9 @@
 
 	</section><!-- feature -->
 
-	<section class="about s-padding pt-5">
+	<section class="about s-padding pt-md-5">
 
-		<div class="container-fluid px-md-5 px-3 pt-5">
+		<div class="container-fluid px-md-5 px-3 pt-md-5">
 
 			<div class="row align-items-center pt-md-5 pt-3">
 
@@ -338,20 +338,8 @@
 
 				</div>
 
-				<div class="col-lg-6 offset-lg-1 about-images-wrapper">
-
-<!--				<img src="assets/images/app-mockup.png" class="about-img1 wow slideInRightAlt"  alt="#primacy">-->
-
-                    <img src="../assets/images/school-dashboard.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="mlm">
-
-<!--
-
-					<img src="assets/images/about-img1.png" class="about-img1 wow slideInRightAlt"  alt="#primacy">
-
-					<img src="assets/images/about-img2.png" class="about-img2 wow slideInRightAlt"  data-wow-delay=".2s" alt="#primacy">
-
--->
-
+				<div class="col-lg-6 offset-lg-1 about-images-wrapper schol">
+                      <img src="../assets/images/school-dashboard.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="mlm">
 				</div>
 
 			</div>
@@ -386,7 +374,7 @@
 
 	
 
-	<section class="faq-sec s-padding bg-color ml-0 pb-md-0 pb-3" id="faq">
+	<section class="faq-sec s-padding bg-color ml-0 pb-md-0 pb-3 pt-md-0 pt-4" id="faq">
 		<div class="s-title mb-5">
 			<h2 class="w-100 d-block text-center pt-md-5 pt-3">Frequently Asked</h2>
 		</div>
