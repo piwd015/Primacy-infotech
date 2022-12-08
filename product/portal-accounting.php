@@ -48,8 +48,7 @@
 
 
 
-	<section class="home-6-banner w-100 d-block main-banner pt-5 ipgo-bnr-ht" id="banner"
-             style="background url("../assets/images/ipgo-banner-bg.jpg") no-repeat;">
+	<section class="home-3-banner main-banner" id="banner">
 
 		<div class="container">
 
