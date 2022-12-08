@@ -548,7 +548,7 @@
 
 
 
-		<section class="partners s-padding bg-color pb-md-5 pb-3">
+		<section class="partners s-padding bg-color pt-md-5 pt-3 pb-md-5 pb-3">
 
 		<div class="container-fluid px-md-5 px-3">
 
