@@ -31,7 +31,8 @@ padding:5px 10px;
 text-align: center;
 color: #3F6184!important;
 margin-bottom: 30px;
-background:transparent;}
+background:transparent;
+cursor:pointer;}
 .filter-button:hover,
 .filter-button:focus,
 .filter-button.active{
