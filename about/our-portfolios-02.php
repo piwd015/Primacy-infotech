@@ -35,7 +35,7 @@ background:transparent;}
 .filter-button:hover,
 .filter-button:focus,
 .filter-button.active{
-color: #ffffff;
+color: #ffffff!important;
 background-color:#3F6184;
 outline:none;}
 .gallery_product{
