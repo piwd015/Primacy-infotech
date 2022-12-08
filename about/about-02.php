@@ -454,6 +454,40 @@
                                         </a>
                                     </div>
                                     </div>
+                                    <div class="col-md-2 col-6 px-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Dhruba Debnath</h3>
+                                                    <p class="content-text">Digital Marketing</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                    <div class="col-md-2 col-6 px-3">
+                                    <div class="content">
+                                        <a href="#" target="_blank">
+                                            <div class="content-overlay"></div>
+                                            <div class="figure position-relative">
+                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                            </div>
+                                            <div class="content-details fadeIn-bottom">
+                                                <div class="content-details-big-Img">
+                                                    <h3>Saikat Kumar Das</h3>
+                                                    <p class="content-text">Senior Developer</p>
+                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                     </div>
             </section>
