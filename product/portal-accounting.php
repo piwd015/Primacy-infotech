@@ -43,7 +43,34 @@
 <!--end fixed header-->
 	<!-- header -->
 
-	
+    <section class="home-6-banner main-banner pt-5 ipgo-bnr-ht" id="banner"
+             style="background url("../assets/images/ipgo-banner-bg.jpg") no-repeat;">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7 col-md-7">
+                <div class="attorney-bnr-txt pt-5">
+                    <h1 class="d-block w-100 pb-md-3 pt-md-0 pt-5"><strong>IPGO – ERP Software for IP professionals</strong></h1>
+                    <span class="d-block w-100 pb-md-5">IP made Easy & Perfect with IPGO</span>
+                    <p class="d-block pb-md-2 mb-2">Intellectual Property Management software for
+                        forward thinking IP professionals.</p>
+                    <p class="d-block pb-md-3 mb-2">IPGO is a modern cloud-based Intellectual Property Management
+                        Software for patent and trademark professionals which is
+                        highly customizable, feature rich and has built in time
+                        saving automation.</p>
+                </div>
+                <div class="btn-wrapper ovh">
+                    <button type="button" class="btn custom-btn slid-button mb " data-toggle="modal" data-target="#myModal_grocery" href="#">Get Started <i class="icon-layers"></i></button>
+                    <button type="button" class="btn custom-btn mb" data-toggle="modal" data-target="#callback" href="#" style="color: #fff"><i class="icon-phone"></i> Call Back Request</button>
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-5 mt-md-5">
+                <div class="attorney-bnr-app">
+                    <img src="../assets/images/product/ipgo-banner-Img.png" class=" wow slideInDown" data-wow-delay=".3s" alt="ecommerce">
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
 
 
 
