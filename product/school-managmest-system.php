@@ -338,7 +338,7 @@
 
 				</div>
 
-				<div class="col-lg-6 offset-lg-1 about-images-wrapper schol">
+				<div class="col-lg-6 offset-lg-1 schol-images-wraper">
                       <img src="../assets/images/school-dashboard.gif" class="img-fluid about-img1 wow slideInRightAlt" alt="mlm">
 				</div>
 
