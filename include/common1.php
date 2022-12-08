@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col text-center">
                 <div class="sec-heading light mx-auto mb-md-5 mb-0">
-                    <h2>Our Success & Award</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2 style="color:#fff;">Our Success & Award</h2>
+                    <p style="color:#fff;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 </div>
             </div>
         </div>
