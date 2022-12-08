@@ -1,175 +1,48 @@
 
-<link rel="stylesheet" href="../assets/css/animate.css">
-
-<link rel="stylesheet" href="../assets/css/lightcase.css">
-
-<link rel="stylesheet" href="../assets/css/simple-line-icons.css">
-
-<link rel="stylesheet" href="../assets/css/ElegantIcons.css">
-
-<link rel="stylesheet" href="../assets/css/swiper.min.css">
-
-<link rel="stylesheet" href="../assets/css/font-awesome.min.css">
-
-<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-
-
-
-<link rel="stylesheet" href="../assets/css/home-3-style.css"><!--food-->
-
-<link rel="stylesheet" href="../assets/css/home-4-style.css"><!--ecom-->
-
-<link rel="stylesheet" href="../assets/css/home-5-style.css"><!--ecom-->
-
-
-
-<link rel="stylesheet" href="../assets/css/style.css"><!--web design & development-->
-
-<link rel="stylesheet" href="../css/common-style.css">
-
-
-
-<!-- <link rel="stylesheet" href="../use.fontawesome.com/releases/v5.1.0/css/all.css">-->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-
-<link rel="stylesheet" type="text/css" href="../assets/css/icofont/icofont.min.css">
-
-<link href="https://fonts.googleapis.com/css?family=Cabin|Montserrat&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../css/readmore.css">
-<link rel="stylesheet" href="../assets/css/responsive.css">
-
-<script src="../unpkg.com/sweetalert%402.1.2/dist/sweetalert.min.js"></script>
 
 <style>
-
-
-
-</style>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110654741-8"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-110654741-8');
-</script>
-
-
-</head>
-
-
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<body data-spy="scroll" data-target=".navbar">
-<!-- header -->
-<?php include '../include/header.php'; ?>
-<!-- header -->
-<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
-<style>
-    section{padding: 50px 0;}
-
-
-
-    /*	gallery */
-
-
-
-    .gallery-title{
-
-        font-size: 36px;
-
-        color: #3F6184;
-
-        text-align: center;
-
-        font-weight: 500;
-
-        margin-bottom: 70px;
-
-    }
-
-    .filter-button{
-
-        font-size: 18px;
-
-        border: 2px solid #3F6184;
-
-        padding:5px 10px;
-
-        text-align: center;
-
-        color: #3F6184;
-
-        margin-bottom: 30px;
-
-        background:transparent;
-
-    }
-
-    .filter-button:hover,
-
-    .filter-button:focus,
-
-    .filter-button.active{
-
-        color: #ffffff;
-
-        background-color:#3F6184;
-
-        outline:none;
-
-    }
-
-    .gallery_product{
-
-        margin: 0px;
-
-        padding:0;
-
-        position:relative;
-
-    }
-
-    .gallery_product .img-info{
-
-        position: absolute;
-
-        background: rgba(0,0,0,0.5);
-
-        left: 0;
-
-        right: 0;
-
-        bottom: 0;
-
-        padding: 20px;
-
-        overflow:hidden;
-
-        color:#fff;
-
-        top:0;
-
-        display:none;
-
-        -webkit-transition: 2s;
-
-        transition: 2s;
-
-    }
-
-
-
-    .gallery_product:hover .img-info{
-
-        display:block;
-
-        -webkit-transition: 2s;
-
-        transition: 2s;
-
-    }
+section{padding: 50px 0;}
+.gallery-title{
+font-size: 36px;
+color: #3F6184;
+text-align: center;
+font-weight: 500;
+margin-bottom: 70px;}
+.filter-button{
+font-size: 18px;
+border: 2px solid #3F6184;
+padding:5px 10px;
+text-align: center;
+color: #3F6184;
+margin-bottom: 30px;
+background:transparent;}
+.filter-button:hover,
+.filter-button:focus,
+.filter-button.active{
+color: #ffffff;
+background-color:#3F6184;
+outline:none;}
+.gallery_product{
+margin: 0px;
+padding:0;
+position:relative;}
+.gallery_product .img-info{
+position: absolute;
+background: rgba(0,0,0,0.5);
+left: 0;
+right: 0;
+bottom: 0;
+padding: 20px;
+overflow:hidden;
+color:#fff;
+top:0;
+display:none;
+-webkit-transition: 2s;
+transition: 2s;}
+.gallery_product:hover .img-info{
+display:block;
+-webkit-transition: 2s;
+transition: 2s;}
 
     .img-info p{
 
@@ -183,8 +56,23 @@
 
 
 
-    /*	end gallery */</style>
+    </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110654741-8"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'UA-110654741-8');
+</script>
+</head>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<body data-spy="scroll" data-target=".navbar">
+<!-- header -->
+<?php include '../include/header.php'; ?>
+<!-- header -->
+<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
 <section class="portfolio" id="portfolio">
 
     <div class="container">
@@ -400,7 +288,6 @@
     </div>
 
 </section>
-
 <!-- footer -->
 <?php include '../include/menu.php'; ?>
 <?php include '../include/footer.php'; ?>
