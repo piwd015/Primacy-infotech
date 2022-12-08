@@ -1,22 +1,5 @@
 
-<link rel="stylesheet" href="../assets/css/animate.css">
-<link rel="stylesheet" href="../assets/css/lightcase.css">
-<link rel="stylesheet" href="../assets/css/simple-line-icons.css">
-<link rel="stylesheet" href="../assets/css/ElegantIcons.css">
-<link rel="stylesheet" href="../assets/css/swiper.min.css">
-<link rel="stylesheet" href="../assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/css/home-3-style.css">
-<link rel="stylesheet" href="../assets/css/home-4-style.css">
-<link rel="stylesheet" href="../assets/css/home-5-style.css">
-<link rel="stylesheet" href="../assets/css/style.css">
-<link rel="stylesheet" href="../css/common-style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="../assets/css/icofont/icofont.min.css">
-<link href="https://fonts.googleapis.com/css?family=Cabin|Montserrat&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../css/readmore.css">
-<link rel="stylesheet" href="../assets/css/responsive.css">
-<script src="../unpkg.com/sweetalert%402.1.2/dist/sweetalert.min.js"></script>
+
 <style>
 section{padding: 50px 0;}
 .gallery-title{
