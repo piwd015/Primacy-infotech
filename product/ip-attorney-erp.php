@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ecommerce app development company in india| Readymade Ecommerce app Solution|Affordable Ecommerce App Development Company : Primacy Infotech </title>
-    <meta name="description" content="Primacy Infotech is one of the best Ecommerce app development companies in India. Call us on 9088015866 to Get demo and prices." />
-    <meta name="keywords" content=" Ecommerce app development, Ecommercemobile app development, flipkart clone app, readymade Ecommerce app, Ecommerce app development company india, grocery shopping app development, grocery app development company in kolkata." />
+    <title>Intellectual Property Management ERP Software in india| Readymade IP Management ERP Solution : Primacy Infotech </title>
+    <meta name="description" content="Primacy Infotech is one of the best Intellectual Property (Trade Marks, Patents, Designs,copyright) Management ERP Software development companies in India. Call us on 9088015866 to Get demo and prices." />
+    <meta name="keywords" content=" Intellectual Property Management software, Trade mark Management Software , cloud-based Intellectual Property Management Software, Ip ERP software, Ip management software, trademark management software, Ip management software,best Ip management software,Ip monitoring software,Patent management software,Copyright management software,Industrial management software,Ip management solution,intellectual property management system,IPR Management Software,trademark monitoring software,Patent monitoring software," />
     <meta name="robots" content="index, follow">
     <meta name="language" content="EN">
     <meta name="organization" content="Primacy Infotech">
