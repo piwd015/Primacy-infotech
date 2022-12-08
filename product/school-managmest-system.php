@@ -375,7 +375,7 @@
 	
 
 	<section class="faq-sec s-padding bg-color ml-0 pb-md-0 pb-3 pt-md-0 pt-4" id="faq">
-		<div class="s-title mb-4 mt-md-5 mt-0">
+		<div class="s-title mb-md-5 mb-4 mt-md-5 mt-0">
 			<h2 class="w-100 d-block text-center pt-md-5 pt-3">Frequently Asked</h2>
 		</div>
 		<div class="container-fluid px-md-5 px-3">
