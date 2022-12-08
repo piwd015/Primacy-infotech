@@ -20,7 +20,7 @@
 
             <div class="col-md-3 col-6 mb-md-0 mb-2">
                 <div class="count-box text-center">
-                    <h2 class="count">1500<span>+</span></h2>
+                    <h2 class="count">1500+</h2>
                     <h5>App & Website Completed</h5>
                 </div>
             </div>
