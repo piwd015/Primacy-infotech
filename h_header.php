@@ -179,9 +179,9 @@
                                                          <div class="col-lg-6 col-md-6">
                                                              <ul>
                                                                      <li><a href="../product/ip-attorney-erp"><i class="icofont-shopping-cart icofont-1x"></i>IP Management ERP</a></li>
+                                                                     <li><a href="../product/readymade-grocery-delivery-app"><i class="icofont-grocery icofont-1x"></i>Grocery Delivery App</a></li>
                                                                      <li><a href="../product/readymade-ecommerces-app"><i class="icofont-shopping-cart icofont-1x"></i>Ecommerce App</a></li>
                                                                      <li><a href="../product/readymade-pharmacy-app"><i class="icofont-doctor icofont-1x"></i>Pharmacy App</a></li>
-                                                                    <li><a href="../product/readymade-grocery-delivery-app"><i class="icofont-grocery icofont-1x"></i>Grocery Delivery App</a></li>
                                                                     <li><a href="../product/recharge-bill-payment-portal-b2b-b2c"><i class="icofont-brand-china-mobile icofont-1x"></i>B2B & b2C Portal</a></li>
                                                                      <li><a href="../product/readymade-online-education-app"><i class="icofont-learn icofont-1x"></i>Online Education App</a></li>
                                                              </ul>
