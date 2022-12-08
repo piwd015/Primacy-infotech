@@ -19,12 +19,11 @@
     <meta property="og:site_name" content="Primacy Infotech">
     <meta name="format-detection" content="telephone=no">
     <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
+    <?php include '../include/header.php'; ?>
     <link rel="stylesheet" href="../assets/css/plugins.css"><!--web design & development-->
     <link rel="stylesheet" href="../assets/css/pistore.css"><!--web design & development-->
     <link rel="stylesheet" href="../assets/css/styles_new.css"><!--web design & development-->
     <link rel="stylesheet" href="../css/common-style.css">
-    <?php include '../include/header.php'; ?>
-
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
