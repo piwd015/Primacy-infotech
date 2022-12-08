@@ -549,8 +549,7 @@
 
 
 		<section class="partners s-padding bg-color  pt-3 pb-md-5 pb-3">
-
-		<div class="container-fluid px-md-5 px-3">
+		       <div class="container-fluid px-md-5 px-3">
 
 			<div class="s-title mt-0 mb-4">
 
@@ -629,8 +628,7 @@
 			</div>
 
 		</div>
-
-	</section><!-- partners -->
+	    </section><!-- partners -->
 
 	<section class="fun-fact s-padding bg-img bg-1">
         <div class="overlay"></div>
@@ -641,7 +639,7 @@
 						<div class="counter-item-icon">
 							<i class="ti-cloud-down"></i>
 						</div>
-						<div class="counter-item-count"><span class="counter-count">80</span><span>+</span></div>
+						<div class="counter-item-count"><span class="counter-count">1000</span><span>+</span></div>
 						<h4>Total Clients</h4>
 					</div>
 				</div>
@@ -650,7 +648,7 @@
 						<div class="counter-item-icon">
 							<i class="ti-thumb-up"></i>
 						</div>
-						<div class="counter-item-count"><span class="counter-count">240</span><span>+</span></div>
+						<div class="counter-item-count"><span class="counter-count">1500</span><span>+</span></div>
 						<h4>Website Completed</h4>
 					</div>
 				</div>

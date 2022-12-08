@@ -13,22 +13,21 @@
 
             <div class="col-md-3 col-6 mb-md-0 mb-2">
                 <div class="count-box text-center">
-                    <h2 class="count">300</h2>
+                    <h2 class="count">1000<span>+</span></h2>
                     <h5>Total Clients</h5>
                 </div>
             </div>
 
             <div class="col-md-3 col-6 mb-md-0 mb-2">
                 <div class="count-box text-center">
-                    <h2 class="count">625</h2>
-                    <h5>Website Completed
-                    </h5>
+                    <h2 class="count">1500<span>+</span></h2>
+                    <h5>App & Website Completed</h5>
                 </div>
             </div>
 
             <div class="col-md-3 col-6">
                 <div class="count-box text-center">
-                    <h2 class="count">310</h2>
+                    <h2 class="count">500<span>+</span></h2>
                     <h5>Sucessfully Run
                     </h5>
                 </div>
@@ -36,7 +35,7 @@
 
             <div class="col-md-3 col-6">
                 <div class="count-box text-center">
-                    <h2 class="count">295<span>%</span></h2>
+                    <h2 class="count">200<span>%</span></h2>
                     <h5>Return Customer
                     </h5>
                 </div>
