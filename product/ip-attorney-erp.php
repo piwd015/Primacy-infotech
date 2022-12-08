@@ -2004,7 +2004,7 @@
     <script>
 
 		$(document).ready(function(){
-			$("#myModal").find('form').find('select option[value="Ecommerce Website"]').prop('selected', true);
+			$("#myModal").find('form').find('select option[value="Intellectual Property Management ERP"]').prop('selected', true);
 		});
   
 
