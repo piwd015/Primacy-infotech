@@ -552,7 +552,7 @@
 
 		<div class="container-fluid px-md-5 px-3">
 
-			<div class="s-title mb-5">
+			<div class="s-title mt-0 mb-4">
 
 				<h2><span class="logo-color">O</span>ur Partners</h2>
 
