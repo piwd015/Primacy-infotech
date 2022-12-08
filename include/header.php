@@ -284,7 +284,7 @@
             <div class="col-md-1 tgl-mt hd-menu pt-2">
                 <span style="font-size:30px;cursor:pointer" onclick="openNav()">☰</span>
                 <div id="myCanvs" class="overlay2">
-                    <a href="javascript:void(0)" class="closebtn mt-2" onclick="closeNav()">×</a>
+                    <a href="javascript:void(0)" class="closebtn mt-4" onclick="closeNav()">×</a>
                     <div class="overlay2-content">
                         <div class="row">
                             <div class="col-md-12 menu-black-bg">
