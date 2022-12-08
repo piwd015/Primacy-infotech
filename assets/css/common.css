@@ -2352,7 +2352,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .abut-hdr-txt{font-size:30px;}
  .glns-box h4{font-size:16px;}
  .glns-box p{font-size:14px;}
- .count-box h2{font-size:25px;}
+ .count-box h2{font-size:25px; margin-bottom:0px;}
  .count-box span{font-size:16px;}
  .count-box{height:110px; padding:7px 6px 0px;}
  .main-banner h1{font-size:20px;}
