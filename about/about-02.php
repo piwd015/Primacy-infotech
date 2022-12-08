@@ -37,7 +37,7 @@
                  <div class="container-fluid">
                        <h1 class="w-100 d-block text-center" data-aos="fade-left">We Create<br/>
                        <span class="w-100 d-block text-center" data-aos="fade-up"><strong>Innovation</strong><br/>
-                           <strong>In Every</strong> Step
+                           In Every <strong>Step</strong>
                        </span>
                        </h1>
                  </div>
