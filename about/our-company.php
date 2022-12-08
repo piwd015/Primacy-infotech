@@ -38,16 +38,10 @@
 
 	<meta name="format-detection" content="telephone=no">
 
-
+    <!-- header -->
     <?php include '../include/header.php'; ?>
-
-
-<!--end fixed header-->
 	<!-- header -->
 
-	
-
-      <br/><br/><br/>
   <section>
 	<div class="s-title mb-md-5 mb-3">
 
