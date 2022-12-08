@@ -80,11 +80,11 @@ gtag('config', 'UA-110654741-8');
 <?php include '../include/header.php'; ?>
 <!-- header -->
 <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
-<section class="portfolio pt-5" id="portfolio">
+<section class="portfolio mt-5" id="portfolio">
     <div class="container">
           <div class="row">
                 <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                    <h1 class="gallery-title mb-5">Our Portfolios</h1>
+                    <h1 class="gallery-title mb-3">Our Portfolios</h1>
                 </div>
 
             <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
