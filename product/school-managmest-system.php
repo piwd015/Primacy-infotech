@@ -630,7 +630,7 @@
 		</div>
 	    </section><!-- partners -->
 
-	<section class="fun-fact s-padding bg-img bg-1">
+	<section class="fun-fact s-padding bg-img bg-1 pt-5 pb-0">
         <div class="overlay"></div>
 		<div class="container">
 			<div class="row">
