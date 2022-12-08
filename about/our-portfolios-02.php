@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="../assets/css/home-4-style.css">
 <link rel="stylesheet" href="../assets/css/home-5-style.css">
 <link rel="stylesheet" href="../assets/css/style.css">
-<link rel="stylesheet" href="../css/common-style.css">
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
 <link rel="stylesheet" type="text/css" href="../assets/css/icofont/icofont.min.css">
 <link href="https://fonts.googleapis.com/css?family=Cabin|Montserrat&amp;display=swap" rel="stylesheet">
