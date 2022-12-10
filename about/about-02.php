@@ -476,13 +476,13 @@
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
-                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                                <img  src="../assets/images/about/saikat-thumb.jpg" alt="">
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <h3>Saikat Kumar Das</h3>
                                                     <p class="content-text">Senior Developer</p>
-                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                    <img src="../assets/images/about/saikat.jpg" alt="">
                                                 </div>
                                             </div>
                                         </a>
