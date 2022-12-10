@@ -196,7 +196,7 @@
 
 	</section><!-- about -->
 
-	<section class="h4-awesome-feature bg-color s-padding pt-md-5 pt-2" id="feature">
+	<section class="h4-awesome-feature bg-color s-padding py-md-5 py-3" id="feature">
 
 		<div class="container-fluid px-md-5 px-3">
 
