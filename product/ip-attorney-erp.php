@@ -22,7 +22,7 @@
     <?php include '../include/header.php'; ?>
     <link rel="stylesheet" href="../assets/css/plugins.css"><!--web design & development-->
     <link rel="stylesheet" href="../assets/css/pistore.css"><!--web design & development-->
-    <link rel="stylesheet" href="../assets/css/styles_new.css"><!--web design & development-->
+    <!--<link rel="stylesheet" href="../assets/css/styles_new.css">--><!--web design & development-->
     <link rel="stylesheet" href="../css/common-style.css">
     <!-- ============================================================== -->
 
