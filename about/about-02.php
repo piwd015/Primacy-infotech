@@ -379,7 +379,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <h3>Ataur Rahaman</h3>
-                                                        <p class="content-text">Graphic Designer</p>
+                                                        <p class="content-text">UI/UX Designer</p>
                                                         <img src="../assets/images/about/ataur.jpg" alt="">
                                                     </div>
                                                 </div>
@@ -396,7 +396,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <h3>Raju Chakraborty</h3>
-                                                    <p class="content-text">UL/UX Developer</p>
+                                                    <p class="content-text">Front End Developer</p>
                                                     <img src="../assets/images/about/raju.jpg" alt="">
                                                 </div>
                                             </div>
@@ -408,13 +408,13 @@
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
-                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                                <img  src="../assets/images/about/ayushi-thumb.jpg" alt="">
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <h3>Ayushi Kumari</h3>
                                                     <p class="content-text">HR with Marketing</p>
-                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                    <img src="../assets/images/about/ayushi.jpg" alt="">
                                                 </div>
                                             </div>
                                         </a>
