@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -122,11 +120,6 @@
 		</div>
 
 	</section>
-
-	
-
-	
-
 	<!-- banner -->
 
 	
@@ -137,7 +130,7 @@
 
 	<section class="h4-about s-padding">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
 			<div class="row align-items-center">
 
@@ -203,11 +196,11 @@
 
 	</section><!-- about -->
 
-	<section class="h4-awesome-feature bg-color s-padding" id="feature">
+	<section class="h4-awesome-feature bg-color s-padding pt-md-5 pt-2" id="feature">
 
-		<div class="container">
+		<div class="container-fluid px-md-5 px-3">
 
-			<div class="s-title">
+			<div class="s-title mb-md-5 mb-4">
 
 				<h2 class="wow">We offer Your Needs</h2>
 
