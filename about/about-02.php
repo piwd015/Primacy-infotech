@@ -254,7 +254,7 @@
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
-                                                <img  src="../assets/images/about/prosenjit.jpg" alt="">
+                                                <img  src="../assets/images/about/prosenjit-thumb.jpg.jpg" alt="">
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
