@@ -128,7 +128,7 @@
 
 	
 
-	<section class="h4-about s-padding">
+	<section class="h4-about s-padding mt-md-4 mt-0">
 
 		<div class="container-fluid px-md-5 px-3">
 
