@@ -23,7 +23,7 @@
     <!--<link rel="stylesheet" href="../assets/css/plugins.css">--><!--web design & development-->
     <!--<link rel="stylesheet" href="../assets/css/pistore.css">--><!--web design & development-->
     <link rel="stylesheet" href="../assets/css/styles_new.css"><!--web design & development-->
-    <link rel="stylesheet" href="../css/common-style.css">
+    <!--<link rel="stylesheet" href="../css/common-style.css">-->
     <!-- ============================================================== -->
 
     <!--start model end-->
