@@ -11065,6 +11065,7 @@ footer,
 	.home-3-banner{padding-bottom:0px;}
 	.h3-banner-img-wrapper img{position:inherit;}
 	.h3-banner-img-wrapper{height:auto;}
+	.btn:hover, .btn.fill-style{line-height:0px;}
   .ecommerces_demo_page .container {padding: 0;}
   .ecommerces_demo_page .banner_sec {
     flex-direction: column-reverse;

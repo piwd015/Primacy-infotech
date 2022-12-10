@@ -128,7 +128,7 @@
 
 	
 
-	<section class="h4-about s-padding mt-md-4 mt-0">
+	<section class="h4-about s-padding mt-md-4 mt-2">
 
 		<div class="container-fluid px-md-5 px-3">
 
@@ -200,7 +200,7 @@
 
 		<div class="container-fluid px-md-5 px-3">
 
-			<div class="s-title mb-md-5 mb-4">
+			<div class="s-title mt-md-4 mt-0 mb-md-5 mb-4">
 
 				<h2 class="wow">We offer Your Needs</h2>
 
