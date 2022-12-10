@@ -20,9 +20,9 @@
     <meta name="format-detection" content="telephone=no">
     <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
     <?php include '../include/header.php'; ?>
-    <link rel="stylesheet" href="../assets/css/plugins.css"><!--web design & development-->
-    <link rel="stylesheet" href="../assets/css/pistore.css"><!--web design & development-->
-    <!--<link rel="stylesheet" href="../assets/css/styles_new.css">--><!--web design & development-->
+    <!--<link rel="stylesheet" href="../assets/css/plugins.css">--><!--web design & development-->
+    <!--<link rel="stylesheet" href="../assets/css/pistore.css">--><!--web design & development-->
+    <link rel="stylesheet" href="../assets/css/styles_new.css"><!--web design & development-->
     <link rel="stylesheet" href="../css/common-style.css">
     <!-- ============================================================== -->
 
