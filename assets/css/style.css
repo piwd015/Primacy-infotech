@@ -11062,10 +11062,9 @@ footer,
 	.icon-box .icon-box-title{margin-bottom:.0em}
 	.main-banner .banner-content .sub-title{font-size:14px;}
 	.main-banner{padding-top: 150px;}
-	.home-3-banner{padding-bottom:20px;}
-  .ecommerces_demo_page .container {
-    padding: 0;
-  }
+	.home-3-banner{padding-bottom:0px;}
+	.h3-banner-img-wrapper img{position:inherit;}
+  .ecommerces_demo_page .container {padding: 0;}
   .ecommerces_demo_page .banner_sec {
     flex-direction: column-reverse;
   }
