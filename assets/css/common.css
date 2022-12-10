@@ -2005,6 +2005,17 @@ height:30px; text-align:center; line-height:0px!important; display:block;}
  background-repeat: no-repeat;
  background-position: center;
  background-size: contain;}
+.submt-btn{font-size: 14px;
+ font-weight: 700;
+ color: #c94c4c;
+ background: transparent;
+ border-radius: 3px;
+ border: 1px solid #c94c4c;
+ padding: 1.2em;
+ min-width: 160px;
+ text-align: center;
+ cursor: pointer;}
+.submt-btn:hover{background:#c94c4c; color:#fff;}
 
 /*-------------our team section-------------*/
 
@@ -2375,10 +2386,6 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .schol-images-wraper{height: auto;}
  .count-box h5{font-size:15px;}
 }
-
-
-
-
 
 @media screen and (max-height: 450px) {
 
