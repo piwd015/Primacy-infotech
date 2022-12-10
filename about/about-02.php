@@ -271,13 +271,13 @@
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
-                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                                <img  src="../assets/images/about/enteja-thumb.jpg" alt="">
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <h3>Miss Enteja</h3>
                                                     <p class="content-text">CHRO</p>
-                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                    <img src="../assets/images/about/enteja.jpg" alt="">
                                                 </div>
                                             </div>
                                         </a>
