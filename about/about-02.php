@@ -425,13 +425,13 @@
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
-                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                                <img  src="../assets/images/about/ujjal-thumb.jpg alt="">
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <h3>Ujjwal Singh</h3>
                                                     <p class="content-text">Android Developer</p>
-                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                    <img src="../assets/images/about/ujjal.jpg" alt="">
                                                 </div>
                                             </div>
                                         </a>
