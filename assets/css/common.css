@@ -2007,15 +2007,15 @@ height:30px; text-align:center; line-height:0px!important; display:block;}
  background-size: contain;}
 .submt-btn{font-size: 14px;
  font-weight: 700;
- color: #c94c4c;
- background: transparent;
+ color: #c94c4c!important;
+ background: transparent!important;
  border-radius: 3px;
- border: 1px solid #c94c4c;
+ border: 1px solid #c94c4c!important;
  padding: 1.2em;
  min-width: 160px;
  text-align: center;
  cursor: pointer;}
-.submt-btn:hover{background:#c94c4c; color:#fff;}
+.submt-btn:hover{background:#c94c4c!important; color:#fff!important;}
 
 /*-------------our team section-------------*/
 

@@ -210,7 +210,7 @@
 
                         <button type="submit" name="submit11" class="btn submt-btn pull-right">Send It!</button>
 
-                        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+                        <button class="btn submt-btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
 
                     </div>
 
