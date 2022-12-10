@@ -380,7 +380,7 @@
 
 	</section><!-- awesome-feature -->
 
-	<section class="partners s-padding bg-color pt-md-5 pt-3">
+	<section class="partners s-padding bg-color py-md-5 py-3">
 		<div class="container">
 			<div class="s-title mb-md-5 mb-4">
 				<h2><span class="logo-color">O</span>ur Partners</h2>
