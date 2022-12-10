@@ -237,13 +237,13 @@
                                         <a href="#" target="_blank">
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
-                                                <img  src="../assets/images/about/team-member.jpg" alt="">
+                                                <img  src="../assets/images/about/rizwan-thumb.jpg" alt="">
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <h3>Rizwan Ghani</h3>
                                                     <p class="content-text">Director (UK and Europe)</p>
-                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                    <img src="../assets/images/about/rizwan.jpg" alt="">
                                                 </div>
                                             </div>
                                         </a>
