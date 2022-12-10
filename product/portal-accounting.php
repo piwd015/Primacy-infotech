@@ -380,16 +380,10 @@
 
 	</section><!-- awesome-feature -->
 
-	<section class="partners s-padding bg-color">
-
+	<section class="partners s-padding bg-color pt-md-5 pt-3">
 		<div class="container">
-
-			<div class="s-title">
-
+			<div class="s-title mb-md-5 mb-4">
 				<h2><span class="logo-color">O</span>ur Partners</h2>
-
-<!--				<p>Ut totam hymenaeos a quasi enim, duis erat mollitia, pellentesque ac metus!</p>-->
-
 			</div>
 
 			<div class="row">
