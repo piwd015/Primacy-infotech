@@ -380,9 +380,9 @@
 
 	</section><!-- awesome-feature -->
 
-	<section class="partners s-padding bg-color py-md-4 py-3">
+	<section class="partners s-padding bg-color py-md-4 py-0">
 		<div class="container">
-			<div class="s-title mb-md-5 mb-4">
+			<div class="s-title mt-md-4 mt-0 mb-md-5 mb-4">
 				<h2><span class="logo-color">O</span>ur Partners</h2>
 			</div>
 
