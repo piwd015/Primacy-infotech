@@ -397,7 +397,7 @@
                                                 <div class="content-details-big-Img">
                                                     <h3>Raju Chakraborty</h3>
                                                     <p class="content-text">UL/UX Developer</p>
-                                                    <img src="../assets/images/about/team-member.jpg" alt="">
+                                                    <img src="../assets/images/about/raju.jpg" alt="">
                                                 </div>
                                             </div>
                                         </a>
