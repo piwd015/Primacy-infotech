@@ -208,9 +208,9 @@
 
                       	<input type="hidden" name="g-recaptcha-response" class="g-recaptcha-response">
 
-                        <button type="submit" name="submit11" class="btn submt-btn pull-right">Send It!</button>
+                        <button type="submit" name="submit11" class="btn btn-success pull-right">Send It!</button>
 
-                        <button class="btn submt-btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+                        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
 
                     </div>
 
