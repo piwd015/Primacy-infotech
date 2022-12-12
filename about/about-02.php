@@ -54,7 +54,7 @@
                                SaaS model. These High Availability Online business process automation software
                                like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM,
                                Project Management, Production Management and ERP software are used by
-                               Enterprises / MSME / Startup s in India and abroad for automation of mission
+                               Enterprises / MSME / Startups in India and abroad for automation of mission
                                critical business processes and systems.</p>
                     </div>
            </section>
@@ -75,7 +75,7 @@
                                     <div class="col-md-3 mb-4">
                                         <div class="exit-box2 w-100 d-block">
                                             <img  src="../assets/images/about/visionImg.png" alt="">
-                                            <h2 class="pt-2">Vision</h2>
+                                            <h2>Vision</h2>
                                             <dd>To make a digitally empowered world</dd>
                                         </div>
                                     </div>
@@ -83,7 +83,7 @@
                                     <div class="col-md-3"></div>
                                     <div class="col-md-3 mb-md-0 mb-4">
                                         <div class="exit-box2 w-100 d-block">
-                                            <img  src="../assets/images/about/missionImg.png" alt="">
+                                            <img  src="../assets/images/about/philosopyImg.png" alt="">
                                             <h2 class="pt-2">Philosophy</h2>
                                             <dd>We win, when our clients win</dd>
                                         </div>
