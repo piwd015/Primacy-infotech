@@ -396,8 +396,10 @@
                                                 </div>
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
-                                                        <h3>Suman Sardar</h3>
-                                                        <p class="content-text">Senior Developer</p>
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-2 mb-0">Suman Sardar</h3>
+                                                            <p class="content-text pb-0 mb-0">Senior Developer</p>
+                                                        </div>
                                                         <img src="../assets/images/about/sumon.jpg" alt="">
                                                     </div>
                                                 </div>
@@ -413,8 +415,10 @@
                                                 </div>
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
-                                                        <h3>Subhandu Chhatait</h3>
-                                                        <p class="content-text">Android Developer</p>
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-2 mb-0">Subhandu Chhatait</h3>
+                                                            <p class="content-text pb-0 mb-0">Android Developer</p>
+                                                        </div>
                                                         <img src="../assets/images/about/subhendu.jpg" alt="">
                                                     </div>
                                                 </div>
@@ -430,8 +434,10 @@
                                                 </div>
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
-                                                        <h3>Ataur Rahaman</h3>
-                                                        <p class="content-text">UI/UX Designer</p>
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-2 mb-0">Ataur Rahaman</h3>
+                                                            <p class="content-text pb-0 mb-0">UI/UX Designer</p>
+                                                        </div>
                                                         <img src="../assets/images/about/ataur.jpg" alt="">
                                                     </div>
                                                 </div>
