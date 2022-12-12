@@ -99,7 +99,7 @@ position:relative; top:6px;}
  line-height: 20px;
  color: #000;
  background: #e5e5e5;}
-.nav-tabs .nav-link.active {
+.nav-tabs .nav-link:after {
  content: "";
  position: absolute;
  left: 0px;
@@ -111,10 +111,16 @@ position:relative; top:6px;}
  background: url(../images/oddo/down-arrow.png) no-repeat top center;
  background-size: 100% 100%;
 }
-.nav-tabs .nav-link:hover:hover {
+.nav-tabs .nav-link.active{
  background: #f47f2e;
  color: #fff;
- width: 19.60%;
+ width: 100%!important;
+ height: 150px;
+}
+.nav-tabs .nav-link:hover{
+ background: #f47f2e;
+ color: #fff;
+ width: 100%!important;
  height: 150px;
 }
 
