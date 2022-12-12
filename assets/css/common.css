@@ -1904,7 +1904,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 .content-details-big-Img img{width:100%; display:block;}
 
 .content:hover .content-details{
- top: 50%;
+ top: 55%;
  left: 50%;
  opacity: 1;
 }
@@ -2396,6 +2396,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .figure{height: 180px;}
  .figure img{ height:140px;}
  .team-bg h2{font-size:25px;}
+ .content:hover .content-details{top:50%;}
+ .content-details h3{font-size:13px;}
+ .content-details p{font-size:13px;}
 }
 
 @media screen and (max-height: 450px) {
