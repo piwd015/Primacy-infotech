@@ -217,7 +217,7 @@
                             <div class="row">
                                    <div class="col-md-2 col-6 px-3">
                                          <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
@@ -234,7 +234,7 @@
                                    </div>
                                    <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/kobir-hossain-thumb.jpg" alt="">
@@ -251,7 +251,7 @@
                                 </div>
                                    <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/kamruzzaman-thumb.jpg" alt="">
@@ -268,7 +268,7 @@
                                 </div>
                                    <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/rizwan-thumb.jpg" alt="">
@@ -285,7 +285,7 @@
                                 </div>
                                    <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/prosenjit-thumb.jpg" alt="">
@@ -302,7 +302,7 @@
                                 </div>
                                    <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/enteja-thumb.jpg" alt="">
@@ -320,7 +320,7 @@
                                 <h2 class="w-100 d-block text-center pb-md-4 pb-3">Our Management</h2>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                            <a href="#" target="_blank">
+                                            <a>
                                                 <div class="content-overlay"></div>
                                                 <div class="figure position-relative">
                                                     <img  src="../assets/images/about/mokles-thumb.jpg" alt="">
@@ -328,7 +328,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <h3>Mokles Ahamed</h3>
-                                                        <p class="content-text">Operation Manager</p>
+                                                        <p class="content-text">Operation Manager (BD)</p>
                                                         <img src="../assets/images/about/mokles.jpg" alt="">
                                                     </div>
                                                 </div>
@@ -337,7 +337,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                            <a href="#" target="_blank">
+                                            <a>
                                                 <div class="content-overlay"></div>
                                                 <div class="figure position-relative">
                                                     <img  src="../assets/images/about/sudip-thumb.jpg" alt="">

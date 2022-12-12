@@ -1642,7 +1642,7 @@ text-align:center; line-height:40px; position:relative; font-weight: 700;}
  border-top: solid 15px #f2670a; border-left: solid 15px transparent; border-right: solid 15px transparent;}
 .exit-box-ftr{background:#f2670a; height:50px; width:100%; position:absolute; bottom:0px;}
 .exit-box-ftrImg{width:70px; height:70px; background:#ba1419; border-radius:100%; margin:0 auto;
-padding:10px; position: absolute; left:0px; right:0px; top:-20px; z-index:10;}
+padding:10px; position: absolute; left:0px; right:0px; top:-10px; z-index:10;}
 .exit-box-ftrImg img{width:80%; display:block; border-radius:100%; margin:5px auto 0px;}
 .intgrty{}
 .intgrty img{width:50%; display: block; margin:0 auto;}
