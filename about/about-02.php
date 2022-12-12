@@ -198,11 +198,11 @@
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
                                      <a href="https://piapps.in/" class="wedo-circle" target="_blank"><i class="icofont-penalty-card icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">SAAS App Tech</span>
+                                     <span class="w-100 d-block text-center pt-md-3">SAAS App</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
                                      <a href="https://www.travelbusinessportal.com/" class="wedo-circle" target="_blank"><i class="icofont-travelling"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">Travel</span>
+                                     <span class="w-100 d-block text-center pt-md-3">Travel Tech</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
                                      <a href="product/school-managmest-system" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
