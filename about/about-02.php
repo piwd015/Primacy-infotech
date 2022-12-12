@@ -300,8 +300,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Mr. Prosenjit</h3>
-                                                    <p class="content-text">Director (Canada)</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Mr. Prosenjit</h3>
+                                                        <p class="content-text pb-0 mb-0">Director (Canada)</p>
+                                                    </div>
                                                     <img src="../assets/images/about/prosenjit.jpg" alt="">
                                                 </div>
                                             </div>
@@ -317,8 +319,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Miss Enteja</h3>
-                                                    <p class="content-text">CHRO</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Miss Enteja</h3>
+                                                        <p class="content-text pb-0 mb-0">CHRO</p>
+                                                    </div>
                                                     <img src="../assets/images/about/enteja.jpg" alt="">
                                                 </div>
                                             </div>
