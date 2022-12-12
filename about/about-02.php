@@ -114,7 +114,7 @@
                         </div>
                     </div>
             </section>
-            <section class="w-100 d-block pt-md-5 pb-0">
+           <!-- <section class="w-100 d-block pt-md-5 pb-0">
                    <div class="container">
                          <div class="row vs-md">
                                 <div class="col-md-4 d-flex flex-wrap align-items-center">
@@ -141,7 +141,7 @@
                                     </div>
                              </div>
                       </div>
-            </section>
+            </section>-->
             <section class="w-100 d-block pt-md-5 pt-3">
                    <div class="container">
                           <div class="row vs-md d-flex flex-wrap flex-column-reverse flex-md-row">
