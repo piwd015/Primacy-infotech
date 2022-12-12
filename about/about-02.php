@@ -213,8 +213,8 @@
             </section>
             <section class="team-bg w-100 d-block py-md-5 py-3">
                     <div class="container-fluid px-md-5 px-3">
-                            <h2 class="w-100 d-block text-center pb-md-4 pb-3">Our Board Member</h2>
-                            <div class="row">
+                            <h2 class="w-100 d-block text-center pb-md-4 pb-3" data-aos="fade-down">Our Board Member</h2>
+                            <div class="row" data-aos="fade-down">
                                    <div class="col-md-2 col-6 px-3">
                                          <div class="content">
                                         <a>
@@ -317,7 +317,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                <h2 class="w-100 d-block text-center pb-md-4 pb-3">Our Management</h2>
+                                <h2 class="w-100 d-block text-center pb-md-4 pb-3" data-aos="fade-down">Our Management</h2>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
                                             <a>
@@ -586,7 +586,7 @@
                                     </div>
                               </div>
                               <div class="col-md-7 pt-md-0 pt-5 mt-md-0 mt-5">
-                                    <h2 class="d-block pb-4" data-aos="fade-left">We Deliver <strong>90-100 Web &
+                                    <h2 class="d-block pb-4" data-aos="fade-up">We Deliver <strong>90-100 Web &
                                             Mobile Projects</strong> per Year</h2>
                                      <a href="#" data-aos="fade-left">Start Now</a>
                               </div>
