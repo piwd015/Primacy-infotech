@@ -1673,8 +1673,8 @@ padding:10px; position: absolute; left:0px; right:0px; top:-10px; z-index:10;}
 
 .exit-box2{height:230px;}
 .exit-box2 img{width:70px; display:block; margin:0 auto;}
-.exit-box2 h2{font-size:20px; color:#bd1e23;}
-.exit-box2 dd{font-size:17px; color:#000;}
+.exit-box2 h2{font-size:20px; color:#b90e14!important;}
+.exit-box2 dd{font-size:17px; color:#000!important;}
 .intgrty{}
 .intgrty img{width:50%; display: block; margin:0 auto;}
 .intgrty strong{background:#ba151a; font-size:35px; color:#fff; height:55px; line-height:45px;}
