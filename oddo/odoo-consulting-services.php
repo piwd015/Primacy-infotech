@@ -79,6 +79,32 @@
                         </div>
                </div>
         </section>
+        <section class="w-100 d-block py-5">
+                <div class="container">
+                    <ul class="nav nav-tabs" role="tablist">
+                        <li class="nav-item">
+                            <a class="nav-link active" data-toggle="tab" href="#tabs-1" role="tab">First Panel</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tabs-2" role="tab">Second Panel</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="tab" href="#tabs-3" role="tab">Third Panel</a>
+                        </li>
+                    </ul><!-- Tab panes -->
+                    <div class="tab-content">
+                        <div class="tab-pane active" id="tabs-1" role="tabpanel">
+                            <p>First Panel</p>
+                        </div>
+                        <div class="tab-pane" id="tabs-2" role="tabpanel">
+                            <p>Second Panel</p>
+                        </div>
+                        <div class="tab-pane" id="tabs-3" role="tabpanel">
+                            <p>Third Panel</p>
+                        </div>
+                    </div>
+                </div>
+        </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
                   <div class="container">
                          <h2 class="w-100 d-block text-center pb-3 mb-5">Why <strong>Companies</strong> are Switching to <strong>Odoo</strong></h2>
