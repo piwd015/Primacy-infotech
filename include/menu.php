@@ -329,12 +329,11 @@
                 <a href="#"><i class="far fa-compass fa-lg"></i> Product <span class="arrow"></span></a>
             </li>
             <ul class="sub-menu collapse" id="service">
-                <li><a href="../product/ip-attorney-erp">IP Management ERP</a>
-                </li>
+                <li><a href="../product/ip-attorney-erp">IP Management ERP</a></li>
                 <li><a href="../product/readymade-grocery-delivery-app">Grocery Delivery App</a>
                 </li>
-                <li><a href="../product/readymade-ecommerces-app">E-commerces  App</a>
-                <li><a href="../product/readymade-pharmacy-app">Pharmacy App</a>
+                <li><a href="../product/readymade-ecommerces-app">E-commerces  App</a></li>
+                <li><a href="../product/readymade-pharmacy-app">Pharmacy App</a></li>
                 <li><a href="../product/readymade-food-delivery-app">Food Delivery App</a>
                 </li>
 
