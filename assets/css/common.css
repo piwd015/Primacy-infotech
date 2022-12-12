@@ -2393,6 +2393,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .exit-box{height:200px;}
  .exit-box-ftr{height:35px;}
  .exit-box-ftrImg{width:50px; height:50px; top:-7px;}
+ .figure img{ height:140px;}
 }
 
 @media screen and (max-height: 450px) {
