@@ -529,8 +529,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Dhruba Debnath</h3>
-                                                    <p class="content-text">Digital Marketing</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Dhruba Debnath</h3>
+                                                        <p class="content-text pb-0 mb-0">Digital Marketing</p>
+                                                    </div>
                                                     <img src="../assets/images/about/dhrubo.jpg" alt="">
                                                 </div>
                                             </div>
@@ -546,8 +548,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Saikat Kumar Das</h3>
-                                                    <p class="content-text">Senior Developer</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Saikat Kumar Das</h3>
+                                                        <p class="content-text pb-0 mb-0">Senior Developer</p>
+                                                    </div>
                                                     <img src="../assets/images/about/saikat.jpg" alt="">
                                                 </div>
                                             </div>
