@@ -181,10 +181,6 @@
                                         <span class="w-100 d-block text-center pt-md-3">Web Development</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/web-designing" class="wedo-circle"><i class="icofont-dashboard-web icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">Web Designing</span>
-                                 </div>
-                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/mobile-app-developemnt" class="wedo-circle"><i class="icofont-brand-android-robot icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">App Development</span>
                                  </div>
@@ -193,20 +189,24 @@
                                      <span class="w-100 d-block text-center pt-md-3">Digital Marketing</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
+                                     <a href="../service/web-designing" class="wedo-circle"><img src="../assets/images/about/odoo-erp.png" alt=""></a>
+                                     <span class="w-100 d-block text-center pt-md-3">Odoo Erp</span>
+                                 </div>
+                                 <div class="wedo" data-aos="flip-left">
                                      <a href="../service/crm-erp-portal-development" class="wedo-circle"><i class="icofont-computer icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">CRM & ERP Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">IPGO Erp</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
                                      <a href="../service/ui-ux-desing" class="wedo-circle"><i class="icofont-penalty-card icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">UL/UX Developer</span>
+                                     <span class="w-100 d-block text-center pt-md-3">SAAS App Tech</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
                                      <a href="../service/mlm-software-development.php" class="wedo-circle"><i class="icofont-company icofont-1x"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">MLM Software Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">Travel</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
                                      <a href="../service/health-care-mangment" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
-                                     <span class="w-100 d-block text-center pt-md-3">Healthcare Portal Development</span>
+                                     <span class="w-100 d-block text-center pt-md-3">Edutech</span>
                                  </div>
                          </div>
                    </div>
