@@ -224,8 +224,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Motaleb Molla</h3>
-                                                    <p class="content-text">President</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Motaleb Molla</h3>
+                                                        <p class="content-text pb-0 mb-0">President</p>
+                                                    </div>
                                                     <img src="../assets/images/about/motaleb-molla.jpg" alt="">
                                                 </div>
                                             </div>
@@ -241,8 +243,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Kabir Hossain</h3>
-                                                    <p class="content-text">Founder & CEO</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Kabir Hossain</h3>
+                                                        <p class="content-text pb-0 mb-0">Founder & CEO</p>
+                                                    </div>
                                                     <img src="../assets/images/about/kobir-hossain.jpg" alt="">
                                                 </div>
                                             </div>
@@ -258,8 +262,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Kamruzzaman</h3>
-                                                    <p class="content-text">Managing Director</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Kamruzzaman</h3>
+                                                        <p class="content-text pb-0 mb-0">Managing Director</p>
+                                                    </div>
                                                     <img src="../assets/images/about/kamruzzaman.jpg" alt="">
                                                 </div>
                                             </div>
@@ -275,8 +281,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Rizwan Ghani</h3>
-                                                    <p class="content-text">Director (UK and Europe)</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Rizwan Ghani</h3>
+                                                        <p class="content-text pb-0 mb-0">Director (UK and Europe)</p>
+                                                    </div>
                                                     <img src="../assets/images/about/rizwan.jpg" alt="">
                                                 </div>
                                             </div>
