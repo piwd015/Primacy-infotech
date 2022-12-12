@@ -232,7 +232,7 @@
                                         </a>
                                     </div>
                                    </div>
-                                   <div class="col-md-2 col-6 px-3">
+                                   <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                     <div class="content">
                                         <a>
                                             <div class="content-overlay"></div>
@@ -249,7 +249,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-3">
+                                   <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                     <div class="content">
                                         <a>
                                             <div class="content-overlay"></div>
@@ -266,7 +266,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-3">
+                                   <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                     <div class="content">
                                         <a>
                                             <div class="content-overlay"></div>
@@ -283,7 +283,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-3">
+                                   <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                     <div class="content">
                                         <a>
                                             <div class="content-overlay"></div>
@@ -300,7 +300,7 @@
                                         </a>
                                     </div>
                                 </div>
-                                   <div class="col-md-2 col-6 px-3">
+                                   <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                     <div class="content">
                                         <a>
                                             <div class="content-overlay"></div>
@@ -318,7 +318,7 @@
                                     </div>
                                 </div>
                                 <h2 class="w-100 d-block text-center pb-md-4 pb-3" data-aos="fade-down">Our Management</h2>
-                                    <div class="col-md-2 col-6 px-3">
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                         <div class="content">
                                             <a>
                                                 <div class="content-overlay"></div>
@@ -335,7 +335,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 px-3">
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                         <div class="content">
                                             <a>
                                                 <div class="content-overlay"></div>
@@ -352,7 +352,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 px-3">
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                         <div class="content">
                                             <a>
                                                 <div class="content-overlay"></div>
@@ -369,7 +369,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="col-md-2 col-6 px-3">
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                         <div class="content">
                                             <a>
                                                 <div class="content-overlay"></div>
