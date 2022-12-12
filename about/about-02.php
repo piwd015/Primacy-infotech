@@ -58,7 +58,7 @@
                                critical business processes and systems.</p>
                     </div>
            </section>
-            <section class="w-100 d-block py-md-5 py-0">
+            <section class="w-100 d-block pt-md-4 pb-md-5 pt-3">
                     <div class="container-fluid px-md-5 px-3">
                         <div class="row d-flex flex-wrap justify-content-center pt-md-4">
                             <div class="col-md-10 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
