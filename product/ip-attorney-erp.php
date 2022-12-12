@@ -422,7 +422,7 @@
                                         </div>
                                 </div>
                         </div>
-                        <div class="col-md-12 d-flex flex-wrap justify-content-center">
+                        <div class="col-md-12 d-flex flex-wrap justify-content-center pb-md-5 pb-3">
                                 <div class="specl-box wow slideInUp" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
                                             <img src="../assets/images/product/change-history.png" class="pb-2" alt="">
