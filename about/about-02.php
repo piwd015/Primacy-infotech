@@ -35,7 +35,7 @@
     <div class="page-body">
             <section class="aboutImg-01" data-aos="fade-down">
                  <div class="container-fluid">
-                       <h1 class="w-100 d-block text-center" data-aos="fade-left">We Create<br/>
+                       <h1 class="w-100 d-block text-center" data-aos="fade-down">We Create<br/>
                        <span class="w-100 d-block text-center" data-aos="fade-up"><strong>Innovation</strong><br/>
                            In Every <strong>Step</strong>
                        </span>
@@ -44,7 +44,7 @@
              </section>
             <section class="aboutImg-02 w-100 d-block pt-md-5 pt-3 px-md-4">
                     <div class="container">
-                          <h2 class="d-block pb-md-3 pb-1" data-aos="fade-right">About Us</h2>
+                          <h2 class="d-block pb-md-3 pb-1" data-aos="fade-up">About Us</h2>
                           <h3 class="d-block pb-md-4 pb-2" data-aos="fade-up">Primacy Infotech is the fastest growing IT Organization
                               in Asia, and the leading Odoo ERP Development &amp; Mobile App Development
                               Company working since 2015.</h3>
