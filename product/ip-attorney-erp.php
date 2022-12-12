@@ -422,7 +422,7 @@
                                         </div>
                                 </div>
                         </div>
-                        <div class="col-md-12 d-flex flex-wrap justify-content-center pb-md-5 pb-3">
+                        <div class="col-md-12 d-flex flex-wrap justify-content-center">
                                 <div class="specl-box wow slideInUp" data-wow-delay=".1s">
                                         <div class="specl-box-bg py-3 px-4">
                                             <img src="../assets/images/product/change-history.png" class="pb-2" alt="">
@@ -436,7 +436,7 @@
         </section>
 
         <!-- ============================ Features Start ================================== -->
-        <section class="pd-0 overlay-top">
+        <section class="pd-0 overlay-top pt-5">
             <div class="container-fluid px-md-5 px-0">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-md-10 col-sm-12">
