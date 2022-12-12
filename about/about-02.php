@@ -193,7 +193,7 @@
                                      <span class="w-100 d-block text-center pt-md-3">Odoo Erp</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/crm-erp-portal-development" class="wedo-circle"><i class="icofont-computer icofont-1x"></i></a>
+                                     <a href="../service/crm-erp-portal-development" class="wedo-circle"><img src="../assets/images/about/ipgo-erp.png" alt=""></a>
                                      <span class="w-100 d-block text-center pt-md-3">IPGO Erp</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
