@@ -1816,7 +1816,7 @@ align-items:center;}
 .aboutImg-02{background:url("../images/about/aboutImg-02.jpg") no-repeat center top;
  background-size:100% 100%; height:70vh;}
 .aboutImg-02 h2{font-size:55px; color:#fff; font-weight:700; text-transform:uppercase}
-.aboutImg-02 h3{font-size:30px; color:#fff; text-transform:uppercase}
+.aboutImg-02 h3{font-size:20px; color:#fff; text-transform:uppercase}
 .aboutImg-02 p{font-size:15px; color:#fff;}
 
 .vs-md{}
@@ -1824,7 +1824,7 @@ align-items:center;}
 .vs-md h4{font-size:35px; color:#000; text-transform:uppercase;}
 .vs-md p{font-size:15px; color:#000;}
 
-.why-us{background:url("../images/about/team-bg.jpg") no-repeat center top; height:85vh;
+.why-us{background:url("../images/about/team-bg.jpg") no-repeat center top;
  background-size:100% 100%;}
 .why-us h2{font-size:85px; color:#fff; font-weight:700;}
 .why-us-box{width:100%; border:solid 1px #737373; border-radius: 25px; height:100%;
