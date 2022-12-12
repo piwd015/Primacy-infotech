@@ -75,7 +75,7 @@
                                     <div class="col-md-3 mb-4">
                                         <div class="exit-box2 w-100 d-block">
                                             <img  src="../assets/images/about/missionImg.png" alt="">
-                                            <h2>Vision</h2>
+                                            <h2 class="pt-2">Vision</h2>
                                             <dd>To make a digitally empowered world</dd>
                                         </div>
                                     </div>
@@ -84,7 +84,7 @@
                                     <div class="col-md-3 mb-md-0 mb-4">
                                         <div class="exit-box2 w-100 d-block">
                                             <img  src="../assets/images/about/missionImg.png" alt="">
-                                            <h2>Philosophy</h2>
+                                            <h2 class="pt-2">Philosophy</h2>
                                             <dd>We win, when our clients win</dd>
                                         </div>
                                     </div>
@@ -92,7 +92,7 @@
                                     <div class="col-md-3 mb-md-0 mb-4">
                                         <div class="exit-box2 w-100 d-block">
                                             <img  src="../assets/images/about/missionImg.png" alt="">
-                                            <h2>Motto</h2>
+                                            <h2 class="pt-2">Motto</h2>
                                             <dd>Create value, to be valued</dd>
                                         </div>
                                     </div>
