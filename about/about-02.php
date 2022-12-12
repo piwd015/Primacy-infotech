@@ -329,7 +329,7 @@
                                                     <div class="content-details-big-Img">
                                                          <div class="figure-contArea">
                                                              <h3 class="pb-md-0 pb-2">Mokles Ahamed</h3>
-                                                             <p class="content-text">Operation Manager (BD)</p>
+                                                             <p class="content-text pb-0 mb-0">Operation Manager (BD)</p>
                                                          </div>
                                                         <img src="../assets/images/about/mokles.jpg" alt="">
                                                     </div>
