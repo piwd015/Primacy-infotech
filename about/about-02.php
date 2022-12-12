@@ -354,7 +354,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                            <a href="#" target="_blank">
+                                            <a>
                                                 <div class="content-overlay"></div>
                                                 <div class="figure position-relative">
                                                     <img  src="../assets/images/about/smritimay-thumb.jpg" alt="">
@@ -371,7 +371,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                            <a href="#" target="_blank">
+                                            <a>
                                                 <div class="content-overlay"></div>
                                                 <div class="figure position-relative">
                                                     <img  src="../assets/images/about/suman-thumb.jpg" alt="">
@@ -388,7 +388,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                            <a href="#" target="_blank">
+                                            <a>
                                                 <div class="content-overlay"></div>
                                                 <div class="figure position-relative">
                                                     <img  src="../assets/images/about/subhendu-thumb.jpg" alt="">
@@ -405,7 +405,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                            <a href="#" target="_blank">
+                                            <a>
                                                 <div class="content-overlay"></div>
                                                 <div class="figure position-relative">
                                                     <img  src="../assets/images/about/ataur-thumb.jpg" alt="">
@@ -422,7 +422,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/raju-thumb.jpg" alt="">
@@ -439,7 +439,7 @@
                                 </div>
                                     <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/ayushi-thumb.jpg" alt="">
@@ -456,7 +456,7 @@
                                 </div>
                                     <div class="col-md-2 col-6 px-3">
                                          <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/ujjal-thumb.jpg" alt="">
@@ -473,7 +473,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                         <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/komal-thumb.jpg" alt="">
@@ -490,7 +490,7 @@
                                     </div>
                                     <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/dhrubo-thumb.jpg" alt="">
@@ -507,7 +507,7 @@
                                 </div>
                                     <div class="col-md-2 col-6 px-3">
                                     <div class="content">
-                                        <a href="#" target="_blank">
+                                        <a>
                                             <div class="content-overlay"></div>
                                             <div class="figure position-relative">
                                                 <img  src="../assets/images/about/saikat-thumb.jpg" alt="">
