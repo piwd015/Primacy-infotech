@@ -224,7 +224,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Motaleb Molla</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Motaleb Molla</h3>
                                                         <p class="content-text pb-0 mb-0">President</p>
                                                     </div>
                                                     <img src="../assets/images/about/motaleb-molla.jpg" alt="">
