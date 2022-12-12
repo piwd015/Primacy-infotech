@@ -111,18 +111,7 @@ position:relative; top:6px;}
  background: url(../images/oddo/down-arrow.png) no-repeat top center;
  background-size: 100% 100%;
 }
-.nav-tabs .nav-link.active{
- background: #f47f2e;
- color: #fff;
- width: 100%!important;
- height: 150px;
-}
-.nav-tabs .nav-link:hover{
- background: #f47f2e;
- color: #fff;
- width: 100%!important;
- height: 150px;
-}
+
 
 
 .tabs{
