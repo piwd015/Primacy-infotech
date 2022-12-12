@@ -436,8 +436,8 @@
         </section>
 
         <!-- ============================ Features Start ================================== -->
-        <section class="pd-0 overlay-top pt-5 mt-0">
-            <div class="container-fluid px-md-5 px-0">
+        <section class="pd-0 overlay-top pt-5">
+            <div class="container-fluid px-md-5 px-0 pt-3">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-md-10 col-sm-12">
                         <div class="row mrg-0 bg-white box-shadow pt-md-5 pt-2 border--radius">
