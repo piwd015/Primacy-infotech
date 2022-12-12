@@ -243,7 +243,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Kabir Hossain</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Kabir Hossain</h3>
                                                         <p class="content-text pb-0 mb-0">Founder & CEO</p>
                                                     </div>
                                                     <img src="../assets/images/about/kobir-hossain.jpg" alt="">
@@ -262,7 +262,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Kamruzzaman</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Kamruzzaman</h3>
                                                         <p class="content-text pb-0 mb-0">Managing Director</p>
                                                     </div>
                                                     <img src="../assets/images/about/kamruzzaman.jpg" alt="">
@@ -281,7 +281,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Rizwan Ghani</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Rizwan Ghani</h3>
                                                         <p class="content-text pb-0 mb-0">Director (UK and Europe)</p>
                                                     </div>
                                                     <img src="../assets/images/about/rizwan.jpg" alt="">
@@ -300,7 +300,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Mr. Prosenjit</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Mr. Prosenjit</h3>
                                                         <p class="content-text pb-0 mb-0">Director (Canada)</p>
                                                     </div>
                                                     <img src="../assets/images/about/prosenjit.jpg" alt="">
@@ -319,7 +319,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Miss Enteja</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Miss Enteja</h3>
                                                         <p class="content-text pb-0 mb-0">CHRO</p>
                                                     </div>
                                                     <img src="../assets/images/about/enteja.jpg" alt="">
@@ -339,7 +339,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                          <div class="figure-contArea">
-                                                             <h3 class="pb-md-0 pb-2 mb-0">Mokles Ahamed</h3>
+                                                             <h3 class="pb-md-0 pb-md-2 mb-0">Mokles Ahamed</h3>
                                                              <p class="content-text pb-0 mb-0">Operation Manager (BD)</p>
                                                          </div>
                                                         <img src="../assets/images/about/mokles.jpg" alt="">
@@ -358,7 +358,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
-                                                            <h3 class="pb-md-0 pb-2 mb-0">Sudip Mondal</h3>
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Sudip Mondal</h3>
                                                             <p class="content-text pb-0 mb-0">Project Manager</p>
                                                         </div>
                                                         <img src="../assets/images/about/sudip.jpg" alt="">
@@ -377,7 +377,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
-                                                            <h3 class="pb-md-0 pb-2 mb-0">Smritimay Debnath</h3>
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Smritimay Debnath</h3>
                                                             <p class="content-text pb-0 mb-0">Team Leader</p>
                                                         </div>
                                                         <img src="../assets/images/about/smritimay.jpg" alt="">
@@ -396,7 +396,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
-                                                            <h3 class="pb-md-0 pb-2 mb-0">Suman Sardar</h3>
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Suman Sardar</h3>
                                                             <p class="content-text pb-0 mb-0">Senior Developer</p>
                                                         </div>
                                                         <img src="../assets/images/about/sumon.jpg" alt="">
@@ -415,7 +415,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
-                                                            <h3 class="pb-md-0 pb-2 mb-0">Subhandu Chhatait</h3>
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Subhandu Chhatait</h3>
                                                             <p class="content-text pb-0 mb-0">Android Developer</p>
                                                         </div>
                                                         <img src="../assets/images/about/subhendu.jpg" alt="">
@@ -434,7 +434,7 @@
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
-                                                            <h3 class="pb-md-0 pb-2 mb-0">Ataur Rahaman</h3>
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Ataur Rahaman</h3>
                                                             <p class="content-text pb-0 mb-0">UI/UX Designer</p>
                                                         </div>
                                                         <img src="../assets/images/about/ataur.jpg" alt="">
@@ -453,7 +453,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Raju Chakraborty</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Raju Chakraborty</h3>
                                                         <p class="content-text pb-0 mb-0">Front End Developer</p>
                                                     </div>
                                                     <img src="../assets/images/about/raju.jpg" alt="">
@@ -472,7 +472,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Ayushi Kumari</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Ayushi Kumari</h3>
                                                         <p class="content-text pb-0 mb-0">HR with Marketing</p>
                                                     </div>
                                                     <img src="../assets/images/about/ayushi.jpg" alt="">
@@ -491,7 +491,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Ujjwal Singh</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Ujjwal Singh</h3>
                                                         <p class="content-text pb-0 mb-0">Android Developer</p>
                                                     </div>
                                                     <img src="../assets/images/about/ujjal.jpg" alt="">
@@ -510,7 +510,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Komal Kriti</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Komal Kriti</h3>
                                                         <p class="content-text pb-0 mb-0">Tester</p>
                                                     </div>
                                                     <img src="../assets/images/about/komal.jpg" alt="">
@@ -529,7 +529,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Dhruba Debnath</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Dhruba Debnath</h3>
                                                         <p class="content-text pb-0 mb-0">Digital Marketing</p>
                                                     </div>
                                                     <img src="../assets/images/about/dhrubo.jpg" alt="">
@@ -548,7 +548,7 @@
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
-                                                        <h3 class="pb-md-0 pb-2 mb-0">Saikat Kumar Das</h3>
+                                                        <h3 class="pb-md-0 pb-md-2 mb-0">Saikat Kumar Das</h3>
                                                         <p class="content-text pb-0 mb-0">Senior Developer</p>
                                                     </div>
                                                     <img src="../assets/images/about/saikat.jpg" alt="">
