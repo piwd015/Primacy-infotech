@@ -91,7 +91,7 @@
                                     <div class="col-md-3"></div>
                                     <div class="col-md-3 mb-md-0 mb-4">
                                         <div class="exit-box2 w-100 d-block">
-                                            <img  src="../assets/images/about/missionImg.png" alt="">
+                                            <img  src="../assets/images/about/mottoImg.png" alt="">
                                             <h2 class="pt-2">Motto</h2>
                                             <dd>Create value, to be valued</dd>
                                         </div>
