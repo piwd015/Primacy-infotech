@@ -201,7 +201,7 @@
                                      <span class="w-100 d-block text-center pt-md-3">SAAS App Tech</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/mlm-software-development.php" class="wedo-circle"><i class="icofont-company icofont-1x"></i></a>
+                                     <a href="../service/mlm-software-development.php" class="wedo-circle"><i class="fa-solid fa-plane-departure"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Travel</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
