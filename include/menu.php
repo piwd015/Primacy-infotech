@@ -329,7 +329,10 @@
                 <a href="#"><i class="far fa-compass fa-lg"></i> Product <span class="arrow"></span></a>
             </li>
             <ul class="sub-menu collapse" id="service">
-
+                <li><a href="../product/ip-attorney-erp"><i class="icofont-grocery icofont-2x"></i><br />
+                        <div class="txt">IP Management ERP</div>
+                    </a>
+                </li>
                 <li><a href="../product/readymade-grocery-delivery-app">Grocery Delivery App</a>
                 </li>
                 <li><a href="../product/readymade-ecommerces-app">E-commerces  App</a>
