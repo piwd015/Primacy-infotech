@@ -1932,11 +1932,13 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
 .content:hover .content-details{
  top: 50%;
  left: 50%;
- opacity: 1;
-}
+ opacity: 1;}
+
+.figure-contArea{background:rgba(0,0,0,0.5); border-radius:3px; width:100%;
+ text-align:center; padding:5px 0px;}
 
 .content-details h3{
- color: #f88334!important;
+ color: #fff!important;
  letter-spacing: 0.15em;
  margin-bottom: 0.5em;
  text-transform: uppercase;
@@ -1947,12 +1949,10 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  bottom: 60px;
  width:100%;
  text-align:center;
- opacity:1;
- text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.5);
-}
+ opacity:1;}
 
 .content-details p{
- color: #f88334!important;
+ color: #fff!important;
  font-size: 15px;
  font-weight:700;
  position: absolute;
@@ -1960,9 +1960,7 @@ right:0px; bottom:65px; text-align:center; line-height:40px; z-index: 10;}
  bottom: 20px;
  width:100%;
  text-align:center;
- opacity:1;
- text-shadow: 2px 2px 1px rgba(0,0, 0, 0.5);
-}
+ opacity:1;}
 .content-details span{width:150px; height:150px; border:solid 1px #b2eaad; position:absolute;
 left:0; right:0; top:10%; margin:0 auto;}
 
