@@ -137,10 +137,6 @@
         <li><a href="#"><i class="fas fa-server"><br>
                     Product</i></a>
             <ul class="my-col-2">
-                <li><a href="../product/ip-attorney-erp"><i class="icofont-grocery icofont-2x"></i><br />
-                        <div class="txt">IP Management ERP</div>
-                    </a>
-                </li>
                 <li><a href="../product/readymade-ecommerces-app.php"><i class="icofont-shopping-cart icofont-2x"></i><br />
                         <div class="txt">Ecommerce App </div>
                     </a>
