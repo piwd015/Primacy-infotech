@@ -205,7 +205,7 @@
                                      <span class="w-100 d-block text-center pt-md-3">Travel Tech</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="product/school-managmest-system" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
+                                     <a href="../product/school-managmest-system" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Edutech</span>
                                  </div>
                          </div>
