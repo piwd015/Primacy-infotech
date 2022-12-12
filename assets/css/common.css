@@ -89,6 +89,34 @@ background-size:15px 24px;}
 
 position:relative; top:6px;}
 
+.nav-tabs .nav-item{position: relative;
+ display: inline-block;
+ text-align: center;
+ text-transform: uppercase;
+ margin: 0;
+ cursor: pointer;
+ font-size: 15px;
+ line-height: 20px;
+ color: #000;
+ background: #e5e5e5;}
+.nav-tabs .nav-link.active {
+ content: "";
+ position: absolute;
+ left: 0px;
+ right: 0px;
+ bottom: -20px;
+ margin: 0 auto;
+ width: 40px;
+ height: 20px;
+ background: url(../images/oddo/down-arrow.png) no-repeat top center;
+ background-size: 100% 100%;
+}
+.nav-tabs .nav-link:hover:hover {
+ background: #f47f2e;
+ color: #fff;
+ width: 19.60%;
+ height: 150px;
+}
 
 
 .tabs{
