@@ -74,7 +74,7 @@
                                     <div class="col-md-3 mb-md-0 mb-4"></div>
                                     <div class="col-md-3 mb-4">
                                         <div class="exit-box2 w-100 d-block">
-                                            <img  src="../assets/images/about/missionImg.png" alt="">
+                                            <img  src="../assets/images/about/vision-icon.png" alt="">
                                             <h2 class="pt-2">Vision</h2>
                                             <dd>To make a digitally empowered world</dd>
                                         </div>
