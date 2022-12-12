@@ -45,29 +45,17 @@
             <section class="aboutImg-02 w-100 d-block pt-md-5 pt-3 px-md-4">
                     <div class="container">
                           <h2 class="d-block pb-md-3 pb-1" data-aos="fade-right">About Us</h2>
-                          <h3 class="d-block pb-md-4 pb-2" data-aos="fade-up">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                              sed do eiusmod tempor incididunt ut labore et dolore
-                              magna aliqua.</h3>
-                           <p class="d-block text-md-justify" data-aos="fade-down">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                               Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                               maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                               consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                               labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                               gravida. Risus commodo viverra maecenas accumsan lacus vel
-                               facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                               Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                               maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-                               consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                               labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
-                               gravida. Risus commodo viverra maecenas accumsan lacus vel
-                               facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing
-                               elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                               aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-                               viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor
-                               sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                               incididunt ut labore et dolore magna aliqua.</p>
+                          <h3 class="d-block pb-md-4 pb-2" data-aos="fade-up">Primacy Infotech is the fastest growing IT Organization
+                              in Asia, and the leading Odoo ERP Development &amp; Mobile App Development
+                              Company working since 2015.</h3>
+                           <p class="d-block text-md-justify" data-aos="fade-down">Our company develops Cloud-based
+                               Enterprise Business Process Automation Software and Mobility Applications for
+                               multiple business functions and providing managed software services under the
+                               SaaS model. These High Availability Online business process automation software
+                               like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM,
+                               Project Management, Production Management and ERP software are used by
+                               Enterprises / MSME / Startup s in India and abroad for automation of mission
+                               critical business processes and systems.</p>
                     </div>
            </section>
             <section class="w-100 d-block pt-md-5 pb-0">
@@ -142,7 +130,7 @@
                              </div>
                       </div>
             </section>-->
-            <section class="w-100 d-block pt-md-5 pt-3">
+            <!--<section class="w-100 d-block pt-md-5 pt-3">
                    <div class="container">
                           <div class="row vs-md d-flex flex-wrap flex-column-reverse flex-md-row">
                                 <div class="col-md-8 pt-md-0 pt-2">
@@ -169,20 +157,22 @@
                                 </div>
                           </div>
                    </div>
-           </section>
+           </section>-->
             <section class="wedo-bg pt-md-5 pt-3">
                    <div class="container">
                           <div class="row">
                                   <div class="col-md-7 col-12 pb-md-3">
                                          <h2 class="d-block pb-md-2" data-aos="fade-down">What we do</h2>
-                                         <p data-aos="fade-down">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                             sed do eiusmod tempor incididunt ut labore et dolore magna
-                                             aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                                             commodo viverra maecenas accumsan lacus vel facilisis.
-                                             Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                                             sed do eiusmod tempor incididunt ut labore et dolore magna
-                                             aliqua. Quis ipsum suspendisse ultrices gravida. Risus
-                                             commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                                         <p data-aos="fade-down">Primacy Infotech Private limited is an established Software
+                                             Product company developing Cloud based Enterprise Business
+                                             Process Automation Software and Mobility Applications for
+                                             multiple business functions and providing managed software
+                                             services under the SaaS model. These High Availability Online
+                                             business process automation software like School Managment System ,
+                                             Travel Portal, LMS Portal , Ecommerce’s App, CRM, Project Management,
+                                             Production Management and ERP software are used by Enterprises / MSME/
+                                             Startup s in India and abroad for automation of mission critical business
+                                             processes and systems.</p>
                                   </div>
                           </div>
                          <div class="row pt-md-3">
