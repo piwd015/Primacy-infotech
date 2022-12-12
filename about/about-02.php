@@ -63,7 +63,7 @@
                         <div class="row d-flex flex-wrap justify-content-center pt-md-4">
                             <div class="col-md-10 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                                 <div class="row">
-                                    <div class="col-md-3 mb-md-0 mb-4">
+                                    <div class="col-md-3">
                                             <div class="exit-box2 w-100 d-block">
                                                 <img  src="../assets/images/about/missionImg.png" alt="">
                                                 <h2 class="pt-2">Mission</h2>
@@ -71,7 +71,7 @@
                                                     within 2025</dd>
                                             </div>
                                     </div>
-                                    <div class="col-md-3 mb-md-0 mb-4"></div>
+                                    <div class="col-md-3"></div>
                                     <div class="col-md-3 mb-4">
                                         <div class="exit-box2 w-100 d-block">
                                             <img  src="../assets/images/about/visionImg.png" alt="">
