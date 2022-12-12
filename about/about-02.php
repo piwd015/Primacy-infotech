@@ -189,23 +189,23 @@
                                      <span class="w-100 d-block text-center pt-md-3">Digital Marketing</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/web-designing" class="wedo-circle"><img src="../assets/images/about/odoo-erp.png" alt=""></a>
+                                     <a href="../oddo/odoo-erp" class="wedo-circle"><img src="../assets/images/about/odoo-erp.png" alt=""></a>
                                      <span class="w-100 d-block text-center pt-md-3">Odoo Erp</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/crm-erp-portal-development" class="wedo-circle"><img src="../assets/images/about/ipgo-erp.png" alt=""></a>
+                                     <a href="../product/ip-attorney-erp" class="wedo-circle"><img src="../assets/images/about/ipgo-erp.png" alt=""></a>
                                      <span class="w-100 d-block text-center pt-md-3">IPGO Erp</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/ui-ux-desing" class="wedo-circle"><i class="icofont-penalty-card icofont-1x"></i></a>
+                                     <a href="https://piapps.in/" class="wedo-circle" target="_blank"><i class="icofont-penalty-card icofont-1x"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">SAAS App Tech</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/mlm-software-development.php" class="wedo-circle"><i class="icofont-travelling"></i></a>
+                                     <a href="https://www.travelbusinessportal.com/" class="wedo-circle" target="_blank"><i class="icofont-travelling"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Travel</span>
                                  </div>
                                  <div class="wedo" data-aos="flip-left">
-                                     <a href="../service/health-care-mangment" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
+                                     <a href="product/school-managmest-system" class="wedo-circle"><i class="icofont-brand-china-unicom"></i></a>
                                      <span class="w-100 d-block text-center pt-md-3">Edutech</span>
                                  </div>
                          </div>
