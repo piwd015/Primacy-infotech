@@ -105,7 +105,7 @@ text-align:left;}
 
 height:150px;}
 
-.tabs li{
+.tabs3 li{
 
 position:relative;
 
@@ -125,17 +125,17 @@ line-height:20px;
 
 color:#000;}
 
-.tabs li i{font-size:40px; color:#000; position:absolute; left:0px; right:0px; top:15%; margin:0 auto;}
+.tabs3 li i{font-size:40px; color:#000; position:absolute; left:0px; right:0px; top:15%; margin:0 auto;}
 
-.tabs li:hover {background:#f47f2e; color:#fff; width: 19.60%; height:150px;}
+.tabs3 li:hover {background:#f47f2e; color:#fff; width: 19.60%; height:150px;}
 
-.tabs li:hover i{font-size:40px; color:#fff; position:absolute; left:0; right:0px; top:15%; margin:0 auto;}
+.tabs3 li:hover i{font-size:40px; color:#fff; position:absolute; left:0; right:0px; top:15%; margin:0 auto;}
 
-.tabs li.current{ background:#f47f2e; width: 19.60%; height:150px; padding-top:70px; 
+.tabs3 li.current{ background:#f47f2e; width: 19.60%; height:150px; padding-top:70px;
 
 line-height:20px; color:#FFF;}
 
-.tabs li.current i{font-size:40px; color:#fff; position:absolute; left:0; right: 0px; top:15%; margin: 0 auto;}
+.tabs3 li.current i{font-size:40px; color:#fff; position:absolute; left:0; right: 0px; top:15%; margin: 0 auto;}
 
 .tabs li.current:after{content:""; position:absolute; left:0px; right:0px; bottom:-20px; margin:0 auto;
 
@@ -148,7 +148,7 @@ padding: 35px 0px 0px;
 line-height:1.4;}
 
 .tab-content3{
- display:inherit;
+ display:none;
  padding: 35px 0px 0px;
  line-height:1.4;}
 
