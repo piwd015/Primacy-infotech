@@ -453,8 +453,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Raju Chakraborty</h3>
-                                                    <p class="content-text">Front End Developer</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Raju Chakraborty</h3>
+                                                        <p class="content-text pb-0 mb-0">Front End Developer</p>
+                                                    </div>
                                                     <img src="../assets/images/about/raju.jpg" alt="">
                                                 </div>
                                             </div>
@@ -470,8 +472,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Ayushi Kumari</h3>
-                                                    <p class="content-text">HR with Marketing</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Ayushi Kumari</h3>
+                                                        <p class="content-text pb-0 mb-0">HR with Marketing</p>
+                                                    </div>
                                                     <img src="../assets/images/about/ayushi.jpg" alt="">
                                                 </div>
                                             </div>
@@ -487,8 +491,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Ujjwal Singh</h3>
-                                                    <p class="content-text">Android Developer</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Ujjwal Singh</h3>
+                                                        <p class="content-text pb-0 mb-0">Android Developer</p>
+                                                    </div>
                                                     <img src="../assets/images/about/ujjal.jpg" alt="">
                                                 </div>
                                             </div>
@@ -504,8 +510,10 @@
                                             </div>
                                             <div class="content-details fadeIn-bottom">
                                                 <div class="content-details-big-Img">
-                                                    <h3>Komal Kriti</h3>
-                                                    <p class="content-text">Tester</p>
+                                                    <div class="figure-contArea">
+                                                        <h3 class="pb-md-0 pb-2 mb-0">Komal Kriti</h3>
+                                                        <p class="content-text pb-0 mb-0">Tester</p>
+                                                    </div>
                                                     <img src="../assets/images/about/komal.jpg" alt="">
                                                 </div>
                                             </div>
