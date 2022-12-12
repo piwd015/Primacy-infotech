@@ -61,40 +61,39 @@
             <section class="w-100 d-block pt-4 pb-md-5 pb-4">
                     <div class="container-fluid px-md-5 px-3">
                         <div class="row d-flex flex-wrap justify-content-center pt-md-4">
-                            <div class="col-md-10 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
+                            <div class="col-md-11 wow slideInUp" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
                                 <div class="row">
-                                    <div class="col-md-4 mb-md-0 mb-4">
-                                        <div class="exit-box">
-                                            <h5><dd></dd>Mission</h5>
-                                            <p class="px-md-5 pt-4">To be amount top 10 global digital service companies
-                                                within 2025</p>
-                                            <div class="exit-box-ftr">
-                                                <div class="exit-box-ftrImg">
-                                                    <img src="../assets/images/about/mission.png" alt="">
-                                                </div>
+                                    <div class="col-md-3 mb-4">
+                                            <div class="exit-box2 w-100 d-block">
+                                                <img  src="../assets/images/about/missionImg.png" alt="">
+                                                <h2>Mission</h2>
+                                                <dd>To be amount top 10 global digital service companies
+                                                    within 2025</dd>
                                             </div>
+                                    </div>
+                                    <div class="col-md-3 mb-4">
+                                        <div class="exit-box2 w-100 d-block">
+                                            <img  src="../assets/images/about/missionImg.png" alt="">
+                                            <h2>Vision</h2>
+                                            <dd>To make a digitally empowered world</dd>
                                         </div>
                                     </div>
-                                    <div class="col-md-4 mb-md-0 mb-4">
-                                        <div class="exit-box">
-                                            <h5><dd></dd>Vision</h5>
-                                            <p class="px-md-5 pt-4">To make a digitally empowered world</p>
-                                            <div class="exit-box-ftr">
-                                                <div class="exit-box-ftrImg">
-                                                    <img src="../assets/images/about/vision.png" alt="">
-                                                </div>>
-                                            </div>
+                                    <div class="col-md-3 mb-4"></div>
+                                    <div class="col-md-3 mb-4"></div>
+                                    <div class="col-md-3 mb-4"></div>
+                                    <div class="col-md-3 mb-4">
+                                        <div class="exit-box2 w-100 d-block">
+                                            <img  src="../assets/images/about/missionImg.png" alt="">
+                                            <h2>Philosophy</h2>
+                                            <dd>We win, when our clients win</dd>
                                         </div>
                                     </div>
-                                    <div class="col-md-4 mb-md-0 mb-4">
-                                        <div class="exit-box">
-                                            <h5><dd></dd>Motto</h5>
-                                            <p class="px-md-5 pt-4">Create value, to be valued</p>
-                                            <div class="exit-box-ftr">
-                                                <div class="exit-box-ftrImg">
-                                                    <img src="../assets/images/about/motto.png" alt="">
-                                                </div>>
-                                            </div>
+                                    <div class="col-md-3 mb-4"></div>
+                                    <div class="col-md-3 mb-4">
+                                        <div class="exit-box2 w-100 d-block">
+                                            <img  src="../assets/images/about/missionImg.png" alt="">
+                                            <h2>Motto</h2>
+                                            <dd>Create value, to be valued</dd>
                                         </div>
                                     </div>
                                 </div>
