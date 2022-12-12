@@ -358,8 +358,10 @@
                                                 </div>
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
-                                                        <h3>Sudip Mondal</h3>
-                                                        <p class="content-text">Project Manager</p>
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-2 mb-0">Sudip Mondal</h3>
+                                                            <p class="content-text pb-0 mb-0">Project Manager</p>
+                                                        </div>
                                                         <img src="../assets/images/about/sudip.jpg" alt="">
                                                     </div>
                                                 </div>
@@ -375,8 +377,10 @@
                                                 </div>
                                                 <div class="content-details fadeIn-bottom">
                                                     <div class="content-details-big-Img">
-                                                        <h3>Smritimay Debnath</h3>
-                                                        <p class="content-text">Team Leader</p>
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-2 mb-0">Smritimay Debnath</h3>
+                                                            <p class="content-text pb-0 mb-0">Team Leader</p>
+                                                        </div>
                                                         <img src="../assets/images/about/smritimay.jpg" alt="">
                                                     </div>
                                                 </div>
