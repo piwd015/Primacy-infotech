@@ -1040,7 +1040,6 @@
                     </div>
                     <!--Footer section-->
 		       </div>
-
         </div>
 
         <div class="mb-page">
@@ -1108,7 +1107,6 @@
                         </div>
 
             </section>
-
               <section class="product-bg-hm pag-hd w-100 d-block">
                     <div class="container-fluid">
                           <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
@@ -1152,7 +1150,30 @@
                     </div>
 
               </section>
-
+              <div class="container-fluid">
+                <div class="row">
+                    <section class="devlpr-bg pag-hd w-100 d-block">
+                        <section class="devlpr-bg-top w-100 d-block"></section>
+                        <div class="container-fluid">
+                                <div class="row">
+                                        <div class="col-md-6 animate fadeInLeftBig fade-sld-02">
+                                               <div class="app-devlpr-Img"><img src="assets/images/product/ipgo-banner-Img.png" alt=""></div>
+                                        </div>
+                                        <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-02">
+                                                <h2 class="w-100 d-block"><strong>IPGO – ERP SOFTWARE</strong><br/> FOR IP PROFESSIONALS</h2>
+                                                <h2 class="w-100 d-block">IP made Easy & Perfect with IPGO</h2>
+                                                <p class="d-block">IPGO is a modern cloud-based Intellectual Property Management Software
+                                                    for patent and trademark professionals which is highly customizable, feature rich
+                                                    and has built in time saving automation.</p>
+                                                <div class="col-md-12">
+                                                       <a href="../product/ip-attorney-erp" class="app-serv" tabindex="0">IPGO ERP Software Services</a>
+                                                </div>
+                                        </div>
+                                 </div>
+                            </div>
+                    </section>
+                </div>
+            </div>
               <section class="ecomrs-bg pag-hd w-100 d-block">
 
                      <div class="container-fluid pr-md-0">
@@ -1214,7 +1235,6 @@
                      </div>
 
               </section>
-
               <div class="container-fluid">
                    <div class="row">
                          <section class="devlpr-bg pag-hd w-100 d-block">
@@ -1245,13 +1265,9 @@
                                         </div>
 
                                 </div>
-
                          </section>
-
                    </div>
-
               </div>
-
               <div class="container-fluid">
 
                     <div class="row">
@@ -1293,7 +1309,6 @@
                     </div>
 
               </div>
-
               <section class="digital-bg pag-hd w-100 d-block">
 
                     <div class="container-fluid pr-md-0">
@@ -1343,8 +1358,7 @@
 
                     </div>
 
-              </section> 
-
+              </section>
               <section class="about-bg pag-hd w-100 d-block">
 
                      <div class="container-fluid pr-md-0">
@@ -1386,7 +1400,6 @@
                      </div>
 
               </section>
-
               <section class="client-hm-bg pag-hd w-100 d-block">
 
                     <div class="container-fluid">
@@ -1428,7 +1441,6 @@
                     </div>
 
               </section>
-
               <section class="customer-feed-bg pag-hd w-100 d-block">
 
                             <div class="container-fluid pr-md-0">
@@ -1659,8 +1671,7 @@
 
                               </div>
 
-                        </section> 
-
+                        </section>
               <section class="contact-bg pag-hd w-100 d-block">
 
                             <div class="container-fluid pr-md-0">
@@ -1799,7 +1810,6 @@
                             </div>
 
                         </section>
-
               <section class="footer-bg">
 
                     <div class="container-fluid">
@@ -1954,9 +1964,7 @@
                     </div>
 
               </section>
-
         </div>
-
     </div> 
 
     <?php include 'include/menu.php'; ?>
