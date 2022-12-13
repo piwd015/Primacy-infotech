@@ -31,7 +31,7 @@
     </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="oddo-imple-bnr odo-cstomze-bnr py-5" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 50%;
+        <section class="oddo-imple-bnr odo-cstomze-bnr py-5" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
         background-size:100% 90%;">
                <div class="container-fluid px-md-5 px-3 py-md-5">
                     <div class="row">
