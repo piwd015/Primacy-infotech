@@ -31,7 +31,7 @@
     </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="oddo-imple-bnr" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat top center;">
+        <section class="oddo-imple-bnr odo-cstomze-bnr" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat top center;">
                <div class="container">
                     <div class="row">
                             <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
@@ -44,7 +44,6 @@
                                     <li style="color:#000;">Add New Funtionality To Your<br/> Business Process</li>
                                     <li style="color:#000;">Increase your Productivity and<br/> Improve your Workflow</li>
                                 </ul>
-                                <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
                             </div>
                     </div>
                </div>
