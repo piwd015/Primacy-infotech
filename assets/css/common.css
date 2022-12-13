@@ -1966,7 +1966,7 @@ left:0; right:0; top:10%; margin:0 auto;}
 
 .fadeIn-bottom{top:80%;}
 
-.ipgo-bnr-ht{height:100vh;}
+.ipgo-bnr-ht{height:100vh!important;}
 .attorney-bnr-app{width:100%; position:relative; float:right;}
 .attorney-bnr-app img{width:100%; display:block;}
 .attorney-bnr-txt{}
@@ -2002,7 +2002,6 @@ font-size:16px; color:#000; text-align:left; padding-left:12px;}
  background-image: url(../images/back11.png);
  background-repeat: repeat-x;
  background:url("../images/ipgo-banner-bg.jpg") no-repeat 0 0;
- height: 80vh;
 }
 .icon-box .icon-box-icon{}
 .icon-box .icon-box-icon img{width:40px; display:block;}
