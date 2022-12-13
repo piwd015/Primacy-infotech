@@ -32,7 +32,7 @@
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat top center;
-        background-size:100% 60%;">
+        background-size:100% 90%;">
                <div class="container-fluid px-md-5 px-3 py-md-5">
                     <div class="row">
                             <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
