@@ -187,7 +187,7 @@
                                           </div>
                                       </div>
                                       <div class="col-md-6">
-                                          <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
+                                          <div class="app-devlpr-Img"><img src="assets/images/product/ipgo-banner-Img.png" alt=""></div>
                                       </div>
                                   </div>
                               </div>
