@@ -35,10 +35,10 @@
                <div class="container">
                     <div class="row">
                             <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
-                                <h1>Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
+                                <h1 style="color:#000;">Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
                                 <ul class="d-block pl-0 py-md-4">
-                                    <li>Highly Experienced Odoo Developers</li>
-                                    <li>Bug Free Odoo ERP Code</li>
+                                    <li style="color:#000;">Highly Experienced Odoo Developers</li>
+                                    <li style="color:#000;">Bug Free Odoo ERP Code</li>
                                     <li>Ontime ERP Project Delivery</li>
                                     <li>Upgrade Your Existing ERP</li>
                                     <li>Add New Funtionality To Your<br/> Business Process</li>
