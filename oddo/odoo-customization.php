@@ -32,7 +32,7 @@
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
-        background-size:100% 90%;">
+                  background-size:100% 90%;">
                <div class="container-fluid px-md-5 px-3 py-md-5">
                     <div class="row">
                             <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
@@ -128,7 +128,12 @@
                   </div>
             </div>
         </section>
-        <section></section>
+        <section class="odo-cusmz-pros-bg w-100 d-block py-md-5 py-3">
+                <h2 class="w-100 d-block text-center mb-4"><dd style="background:#f0731e;"></dd>Odoo Customization Process<dd style="background:#f0731e;"></dd></h2>
+                <div class="container">
+                      <div class="row"></div>
+                </div>
+        </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
                 <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
