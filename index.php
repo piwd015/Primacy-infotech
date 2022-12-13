@@ -175,7 +175,7 @@
                               <section class="devlpr-bg-top w-100 d-block"></section>
                               <div class="container-fluid">
                                   <div class="row">
-                                      <div class="col-md-6 prod-pt">
+                                      <div class="col-md-6">
                                           <h2 class="w-100 d-block"><strong>IPGO – ERP SOFTWARE</strong><br/> FOR IP PROFESSIONALS</h2>
                                           <h2 class="w-100 d-block">IP made Easy & Perfect with IPGO</h2>
                                           <p class="d-block">Intellectual Property Management software for forward thinking IP professionals.</p>
