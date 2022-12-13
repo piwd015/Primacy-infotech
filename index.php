@@ -198,7 +198,7 @@
                     <!-- eCommerce website -->
                     <div class="item">
                            <section class="ecomrs-bg pag-hd w-100 d-block">
-                                  <div class="container-fluid pr-md-0">
+                                  <div class="container-fluid pl-md-0">
                                       <div class="row">
                                             <div class="col-md-5 pl-md-0">
 
