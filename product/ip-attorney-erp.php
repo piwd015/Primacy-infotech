@@ -367,7 +367,7 @@
 
         <section class="h4-awesome-feature bg-color s-padding pt-0 pb-5">
             <div class="container-fluid px-md-5 px-3">
-                    <div class="s-title my-md-5 mt-0 mb-4">
+                    <div class="s-title mt-0 mb-md-5 mb-4">
                     <h2 class="wow">Special Features</h2>
                 </div>
                 <div class="row">
