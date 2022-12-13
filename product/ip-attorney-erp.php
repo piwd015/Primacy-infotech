@@ -472,7 +472,7 @@
                                     <div class="tab-content" id="myTabContent">
                                         <div class="tab-pane fade show active" id="market-analysis" role="tabpanel" aria-labelledby="market-analysis-tab">
                                                <div class="row m-0 ecommerces_features d-md-block d-none">
-                                                    <h2 class="w-100 d-block text-center pb-3 pt-md-5 pt-3">Trademark Management System</h2>
+                                                    <h2 class="w-100 d-block text-center pb-4 pt-md-4 pt-3">Trademark Management System</h2>
                                                     <div class="row">
                                                             <div class="col-lg-4 col-md-4">
                                                                   <div class=" product_features">
@@ -999,7 +999,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="on-page-seo" role="tabpanel" aria-labelledby="on-page-seo-tab">
                                                <div class="row m-0 ecommerces_features d-md-block d-none">
-                                                        <h2 class="w-100 d-block text-center pb-3">Copyright Management System</h2>
+                                                        <h2 class="w-100 d-block text-center pb-4 pt-md-4 pt-3">Copyright Management System</h2>
                                                         <div class="row">
                                                                 <div class="col-lg-4 col-md-4">
                                                                       <div class="product_features">
@@ -1170,7 +1170,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="email-marketing" role="tabpanel" aria-labelledby="email-marketing-tab">
                                                <div class="row align-items-center m-0 ecommerces_features d-md-block d-none">
-                                                    <h2 class="w-100 d-block text-center pb-3">Industrial Design Management System</h2>
+                                                    <h2 class="w-100 d-block text-center pb-4 pt-md-4 pt-3">Industrial Design Management System</h2>
                                                     <div class="row">
                                                             <div class="col-lg-4 col-md-4">
                                                                   <div class="product_features">
@@ -1341,7 +1341,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="keyword-nalysis" role="tabpanel" aria-labelledby="keyword-nalysis-tab">
                                               <div class="row m-0 ecommerces_features d-md-block d-none">
-                                                     <h2 class="w-100 d-block text-center pb-3">Patent Management System<br/> <b class="upcmn blink-hard">( Coming Soon )</b></b></h2>
+                                                     <h2 class="w-100 d-block text-center pb-4 pt-md-4 pt-3">Patent Management System<br/> <b class="upcmn blink-hard">( Coming Soon )</b></b></h2>
                                                      <p class="w-100 d-block text-center">IPGO - The Patent Docketing & Management Software is developed for IP Law Firms, Patent Agents and Attorneys in India, and it
                                                           handles all the patent tasks of your office, from prosecution to litigation, from search, application, examination, publication and
                                                           oppositions.</p>
