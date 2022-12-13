@@ -39,10 +39,10 @@
                                 <ul class="d-block pl-0 py-md-4">
                                     <li style="color:#000;">Highly Experienced Odoo Developers</li>
                                     <li style="color:#000;">Bug Free Odoo ERP Code</li>
-                                    <li>Ontime ERP Project Delivery</li>
-                                    <li>Upgrade Your Existing ERP</li>
-                                    <li>Add New Funtionality To Your<br/> Business Process</li>
-                                    <li>Increase your Productivity and<br/> Improve your Workflow</li>
+                                    <li style="color:#000;">Ontime ERP Project Delivery</li>
+                                    <li style="color:#000;">Upgrade Your Existing ERP</li>
+                                    <li style="color:#000;">Add New Funtionality To Your<br/> Business Process</li>
+                                    <li style="color:#000;">Increase your Productivity and<br/> Improve your Workflow</li>
                                 </ul>
                                 <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
                             </div>
