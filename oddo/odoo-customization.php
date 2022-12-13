@@ -31,7 +31,7 @@
     </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="oddo-imple-bnr">
+        <section class="oddo-imple-bnr" style="background:url('../images/oddo/implement-banner.jpg') no-repeat top center;">
                <div class="container">
                     <div class="row">
                             <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
@@ -161,67 +161,7 @@
                   </div>
             </div>
         </section>
-        <section class="need-odoo-bg py-md-5 py-3">
-            <div class="container-fluid px-md-5 px-3">
-                <h2 class="w-100 d-block text-center pb-md-4 pb-2">Need for Odoo Consultants?</h2>
-                <div class="conslt-box w-100 d-block p-md-4 p-3">
-                    <div class="row">
-                        <div class="col-md-3 mb-md-0 mb-3">
-                            <div class="need-oddo-box p-3">
-                                <img src="../assets/images/oddo/business-analysis.png" alt="">
-                                <h4 class="w-100 d-block text-center pt-3 pb-2">Exact business analysis</h4>
-                                <p class="d-block text-center">An Odoo consultant is well experienced
-                                    providing them with exact business analysis. Moreover,
-                                    Odoo consultants are updated resource persons in Odoo,
-                                    new business standards, and technological aspects of
-                                    the world. Additionally, they understand the business
-                                    flow and topology of employment in a company therefore
-                                    making the planning and development operations to be
-                                    done with ease.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-md-0 mb-3">
-                            <div class="need-oddo-box p-3">
-                                <img src="../assets/images/oddo/mapping.png" alt="">
-                                <h4 class="w-100 d-block text-center pt-3 pb-2">Mapping your needs with Odoo</h4>
-                                <p class="d-block text-center">Odoo consultants are experts in
-                                    the field with abundant experience and skills to tackle the
-                                    barriers of your business operation in Odoo. Moreover, they
-                                    can synchronize and map Odoo to be operational as per your
-                                    standard of business needs. Additionally, these people
-                                    expertise in Odoo customization which helps the users to run
-                                    Odoo as per their terminologies.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-md-0 mb-3">
-                            <div class="need-oddo-box p-3">
-                                <img src="../assets/images/oddo/business-practice.png" alt="">
-                                <h4 class="w-100 d-block text-center pt-3 pb-2">Best business practice</h4>
-                                <p class="d-block text-center">You may be falling in profits
-                                    and productivity, but Odoo consultants can bring the
-                                    rightful operational model of Odoo for you which can be
-                                    the right leap for your company growth. Moreover, the
-                                    right business practices in Odoo for the company operations
-                                    can simplify the tasks, reduce the budgets spent, improve
-                                    productivity and the standards of income generation.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-3 mb-md-0 mb-1">
-                            <div class="need-oddo-box p-3">
-                                <img src="../assets/images/oddo/hassle.png" alt="">
-                                <h4 class="w-100 d-block text-center pt-3 pb-2">Hassle-free implementation</h4>
-                                <p class="d-block text-center">An Odoo consultant will take
-                                    care of the design, development and implementation of
-                                    the platform as per your business standards to your
-                                    company without bothering you. Furthermore, these are
-                                    done with utmost precision and configuration to avoid
-                                    failures during implementation and operation.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <section></section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
                 <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
