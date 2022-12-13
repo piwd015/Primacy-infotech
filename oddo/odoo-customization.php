@@ -46,39 +46,6 @@
                                 </ul>
                                 <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
                             </div>
-                            <div class="col-lg-4 col-md-4">
-                                <div class="consl-fm w-100 d-block p-4">
-                                    <h2 class="w-100 d-block text-center">Get Free Consultation</h2>
-                                    <form action="" method="post" id="con_form">
-                                        <div class="form-group position-relative">
-                                            <i class="far fa-user"></i>
-                                            <input type="text" class="form-control consl-field" placeholder="Name" name="name" id="Name" required>
-                                        </div>
-                                        <div class="form-group position-relative">
-                                            <i class="far fa-envelope"></i>
-                                            <input type="email" class="form-control consl-field" placeholder="Email" id="Email" name="email" onkeyup="isEmail($(this).val())" required>
-                                            <p id="err_mail" style="font-size:11px; color:red; display:none">* Please enter proper email.</p>
-                                        </div>
-                                        <div class="form-group position-relative">
-                                            <i class="fas fa-mobile-alt"></i>
-                                            <input type="text" class="form-control consl-field phone_form ckckphn" placeholder="Phone" id="Ph" name="phone" oninput="this.value=this.value.replace(/[^0-9]/g,'');" onkeyup="phonenumber(this)" maxlength="10" required>
-                                            <p id="err_phone" style="font-size:11px; color:red; display:none">* Please input 10 digit mobile no.</p>
-                                            <p id="err_phone1" style="font-size:11px; color:red; display:none">* Please enter proper mobile no.</p>
-                                        </div>
-                                        <div class="form-group position-relative">
-                                            <i class="far fa-comment"></i>
-                                            <textarea class="form-control consl-txt-area" rows="0" placeholder="Message" id="comment" name="comment"></textarea>
-                                        </div>
-                                        <!-- <div class="form-check">
-                                               <input type="checkbox" class="form-check-input" id="exampleCheck1" name="termcheck" value="Yes" required>
-                                               <label class="form-check-label pl-3" for="exampleCheck1">Check here to indicate that you agree with our Privacy Policy and Terms of Use</label>
-                                         </div>-->
-                                        <div class="form-group position-relative pt-3 mb-0">
-                                            <button type="submit" name="oddoconsult" class="btn sub-Btn w-100 oddoconsult">Submit </button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
                     </div>
                </div>
         </section>
