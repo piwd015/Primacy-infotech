@@ -196,14 +196,25 @@
                       <!-- Ipgo section -->
 
                     <!-- eCommerce website -->
-                    <div class="item">                  
-
+                    <div class="item">
                            <section class="ecomrs-bg pag-hd w-100 d-block">
-
                                   <div class="container-fluid pr-md-0">
-
                                       <div class="row">
+                                            <div class="col-md-5 pr-md-0">
 
+                                              <div class="ecomrs-right-bg">
+
+                                                  <div class="col-md-12">
+
+                                                      <div class="ecomrsImg"><img src="assets/images/ecommerceImg.png" alt="">
+
+                                                      </div>
+
+                                                  </div>
+
+                                              </div>
+
+                                          </div>
                                             <div class="col-md-7 contArea-top-pt">
 
                                                   <div class="piAps-logo"><a href="#"><img src="assets/images/piapps-logo.png" alt=""></a></div>
@@ -237,29 +248,9 @@
                                                   </div>
 
                                             </div>
-
-                                          <div class="col-md-5 pr-md-0">
-
-                                                <div class="ecomrs-right-bg">                 
-
-                                                       <div class="col-md-12">
-
-                                                              <div class="ecomrsImg"><img src="assets/images/ecommerceImg.png" alt="">
-
-                                                              </div>
-
-                                                       </div>
-
-                                                </div>
-
-                                          </div>
-
                                       </div>
-
                                 </div>
-
-                           </section>                    
-
+                           </section>
                     </div>
                     <!-- eCommerce website -->
 
