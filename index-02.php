@@ -1183,13 +1183,13 @@
                         <div class="container-fluid">
                             <div class="row">
 
-                                <div class="col-md-6 animate fadeInLeftBig fade-sld-02">
+                                <div class="col-md-6 fade-sld-02">
 
                                     <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
 
                                 </div>
 
-                                <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-02">
+                                <div class="col-md-6 prod-pt fade-sld-02">
 
                                     <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
 
