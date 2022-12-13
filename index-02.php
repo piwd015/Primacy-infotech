@@ -146,7 +146,7 @@
                                 </div>
 
                                 <div class="col-md-6 prod-pt">
-                                    <h2 class="w-100">Odoo ERP</h2>
+                                    <h2 class="w-100">Odoo ERP mmbmbmbmbmbmb</h2>
                                     <h3 class="w-100">What is Odoo ERP</h3>
                                     <p>THE BEST USER FRIENDLY ERP - ODOO ERP,
                                         7 Million users around the Globe,
