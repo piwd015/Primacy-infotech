@@ -129,9 +129,7 @@
                     <!-- Banner section -->
 
                     <!-- Odoo ERP -->
-
                     <div class="item">
-
                         <section class="product-bg-hm pag-hd w-100 d-block" id="#section02">
                              <div class="container-fluid">
                                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
@@ -169,13 +167,35 @@
                         </section>
 
     				</div>
+                    <!-- Odoo ERP -->
 
-                    <!-- Odoo ERP -->                
-
-
+                      <!-- Ipgo section -->
+                      <div class="item">
+                          <section class="devlpr-bg pag-hd w-100 d-block">
+                              <section class="devlpr-bg-top w-100 d-block"></section>
+                              <div class="container-fluid">
+                                  <div class="row">
+                                      <div class="col-md-6 prod-pt">
+                                          <h2 class="w-100 d-block"><strong>IPGO – ERP SOFTWARE</strong><br/> FOR IP PROFESSIONALS</h2>
+                                          <h2 class="w-100 d-block">IP made Easy & Perfect with IPGO</h2>
+                                          <p class="d-block">Intellectual Property Management software for forward thinking IP professionals.</p>
+                                          <p class="d-block">IPGO is a modern cloud-based Intellectual Property Management Software
+                                              for patent and trademark professionals which is highly customizable, feature rich
+                                              and has built in time saving automation.</p>
+                                          <div class="col-md-12">
+                                              <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Custom App Development Service</a>
+                                          </div>
+                                      </div>
+                                      <div class="col-md-6">
+                                          <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </section>
+                      </div>
+                      <!-- Ipgo section -->
 
                     <!-- eCommerce website -->
-
                     <div class="item">                  
 
                            <section class="ecomrs-bg pag-hd w-100 d-block">
@@ -241,13 +261,9 @@
                            </section>                    
 
                     </div>
-
                     <!-- eCommerce website -->
 
-
-
                     <!-- Customer App Development -->
-
                     <div class="item">
 
                         <section class="devlpr-bg pag-hd w-100 d-block">
@@ -284,13 +300,9 @@
                         </section>
 
                     </div>
-
                     <!-- Customer App Development -->
 
-
-
                     <!-- Mobile App Development -->
-
                     <div class="item">
 
                         <section class="devlpr-bg pag-hd w-100 d-block">
@@ -328,13 +340,9 @@
                         </section>
 
                     </div>
-
                     <!-- Mobile App Development -->
 
-
-
                     <!-- Digital Marketing -->
-
                     <div class="item">                     
 
                           <section class="digital-bg pag-hd w-100 d-block">
@@ -389,13 +397,9 @@
                           </section> 
 
                     </div>
-
                     <!-- Digital Marketing -->
 
-
-
                     <!-- About us section -->
-
                     <div class="item">
 
                         <section class="about-bg pag-hd w-100 d-block">
@@ -441,13 +445,9 @@
                         </section>
 
                     </div>
-
                     <!-- About us section -->
 
-
-
                     <!-- Our Clients -->
-
                     <div class="item">
 
                         <section class="client-hm-bg pag-hd w-100 d-block">
@@ -513,13 +513,9 @@
                         </section>
 
                     </div>
-
                     <!-- Our Clients -->
 
-
-
                     <!-- Customer Feedback -->
-
                     <div class="item">                     
 
                         <section class="customer-feed-bg pag-hd w-100 d-block">
@@ -755,13 +751,9 @@
                         </section> 
 
                     </div>
-
                     <!-- Customer Frredback -->
 
-
-
                     <!--Contact us-->
-
                     <div class="item">
 
                         <section class="contact-bg pag-hd w-100 d-block">
@@ -905,13 +897,9 @@
                         </section>
 
                     </div>
-
                     <!--Contact us-->
 
-
-
                     <!--Footer section-->
-
                     <div class="item">
 
                          <section class="footer-bg">
@@ -1059,9 +1047,7 @@
                          </section>
 
                     </div>
-
                     <!--Footer section-->
-
 		       </div>
 
         </div>
