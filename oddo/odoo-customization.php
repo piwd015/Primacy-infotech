@@ -129,9 +129,16 @@
             </div>
         </section>
         <section class="odo-cusmz-pros-bg w-100 d-block py-md-5 py-3">
-                <h2 class="w-100 d-block text-center mb-4"><dd class="mr-2" style="background:#f0731e;"></dd>Odoo Customization Process<dd class="ml-2" style="background:#bd1e23;"></dd></h2>
+                <h2 class="w-100 d-block text-center mb-4">
+                        <dd class="mr-3" style="background:#f0731e;"></dd>
+                        Odoo Customization Process
+                        <dd class="ml-3" style="background:#bd1e23;"></dd>
+                </h2>
                 <div class="container">
-                      <div class="row"></div>
+                      <div class="row">
+                             <div class="col-md-3 col-6"></div>
+                             <div class="col-md-3 col-6"></div>
+                      </div>
                 </div>
         </section>
         <section class="features w-100 d-block">
