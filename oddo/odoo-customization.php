@@ -32,7 +32,7 @@
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr odo-cstomze-bnr" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat top center;">
-               <div class="container">
+               <div class="container-fluid px-md-5 px-3">
                     <div class="row">
                             <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
                                 <h1 style="color:#000;">Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
