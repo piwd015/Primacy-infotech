@@ -857,9 +857,9 @@ text-align:center; padding:0px 25px 10px; line-height:30px;}
 
 width:100%; display:block; text-align: center;}
 
-.ecomrs-right-bg {width:100%;background: url(../images/ecommerce-bg.png) no-repeat 100% 35px;
+.ecomrs-right-bg {width:100%;background: url(../images/ecommerce-bg.png) no-repeat 100% 5px;
 
-height:530px; background-size: 100% 100%; position:relative; z-index:200; bottom:-45px;
+height:560px; background-size: 100% 100%; position:relative; z-index:200; bottom:-45px;
  left:-15px;}
 
 .logo-box{width:20%; background:#fff; border-radius:10px; padding:5px 10px;
