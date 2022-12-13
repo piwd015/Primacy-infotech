@@ -183,7 +183,7 @@
                                               for patent and trademark professionals which is highly customizable, feature rich
                                               and has built in time saving automation.</p>
                                           <div class="col-md-12">
-                                              <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Custom App Development Service</a>
+                                              <a href="../product/ip-attorney-erp" class="app-serv" tabindex="0">IPGO ERP Software Services</a>
                                           </div>
                                       </div>
                                       <div class="col-md-6">
