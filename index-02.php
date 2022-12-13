@@ -1176,6 +1176,43 @@
 
             </section>
 
+            <div class="container-fluid">
+                <div class="row">
+                    <section class="devlpr-bg pag-hd w-100 d-block">
+                        <section class="devlpr-bg-top w-100 d-block"></section>
+                        <div class="container-fluid">
+                            <div class="row">
+
+                                <div class="col-md-6 animate fadeInLeftBig fade-sld-02">
+
+                                    <div class="app-devlpr-Img"><img src="assets/images/app-devlopr-Img.png" alt=""></div>
+
+                                </div>
+
+                                <div class="col-md-6 prod-pt animate fadeInRightBig fade-sld-02">
+
+                                    <h2 class="w-100 d-block"><strong>Custom App</strong><br/> Development</h2>
+
+                                    <p class="d-block">We build and deliver robust, scalable, data driven web-based solutions to solve your busines problens. Whether it's a full-fledged product utilized by hundreds or thousands of people simultaneously, or it's a simple CMS website or an e-commerce solution, we have the skillset and experience to make it happen.</p>
+
+                                    <div class="col-md-12">
+
+                                        <a href="../service/mobile-app-developemnt" class="app-serv" tabindex="0">Custom App Development Service</a>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </section>
+
+                </div>
+
+            </div>
+
             <section class="ecomrs-bg pag-hd w-100 d-block">
 
                 <div class="container-fluid pr-md-0">
