@@ -1966,7 +1966,7 @@ left:0; right:0; top:10%; margin:0 auto;}
 
 .fadeIn-bottom{top:80%;}
 
-.ipgo-bnr-ht{height:80vh!important;}
+.ipgo-bnr-ht{height:75vh!important;}
 .attorney-bnr-app{width:100%; position:relative; float:right;}
 .attorney-bnr-app img{width:100%; display:block;}
 .attorney-bnr-txt{}
@@ -2404,7 +2404,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  ul.abut-onetm li{font-size:13px;}
  .ipgo-app-hdr h2{font-size:15px;}
  .ipgo-appImg img{height:auto;}
- .ipgo-bnr-ht{height:auto;}
+ .ipgo-bnr-ht{height:auto!important;}
  .specl-box{height:auto;}
  .trdmrk-box{width:90px; margin-right: 5px; position:relative; left:-10px;}
  .large-features-2-detail h4{font-size:16px;}
