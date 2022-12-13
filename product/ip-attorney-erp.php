@@ -157,7 +157,7 @@
         <!-- ============================ Hero Banner  Start================================== -->
         <section class="home-6-banner main-banner pt-5 ipgo-bnr-ht" id="banner"
                  style="background url("../assets/images/ipgo-banner-bg.jpg") no-repeat;">
-            <div class="container">
+            <div class="container-fluid px-md-5 px-3">
                 <div class="row align-items-center">
                     <div class="col-lg-7 col-md-7">
                           <div class="attorney-bnr-txt pt-5">
