@@ -1851,7 +1851,7 @@
                                                                 <td>₹ 1,25,000/-</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>JSK IP Suite - Stater</strong></td>
+                                                                <td><strong>IPGO - Stater</strong></td>
                                                                 <td><strong>YES</strong></td>
                                                                 <td>No</td>
                                                                 <td>No</td>
@@ -1862,7 +1862,7 @@
                                                                 <td>₹ 90,000/-</td>
                                                             </tr>
                                                             <tr>
-                                                                <td><strong>JSK IP Suite - Basic</strong></td>
+                                                                <td><strong>IPGO - Basic</strong></td>
                                                                 <td><strong>YES</strong></td>
                                                                 <td>No</td>
                                                                 <td>No</td>

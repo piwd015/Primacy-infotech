@@ -136,7 +136,12 @@
                 </h2>
                 <div class="container">
                       <div class="row">
-                             <div class="col-md-3 col-6"></div>
+                             <div class="col-md-3 col-6">
+                                   <div class="odo-cusmz-pros-box">
+                                         <h5>Step 1</h5>
+                                         <h2></h2>
+                                   </div>
+                             </div>
                              <div class="col-md-3 col-6"></div>
                       </div>
                 </div>
