@@ -244,7 +244,7 @@
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
                                                         <h3 class="pb-md-0 pb-md-2 mb-0">Kabir Hossain</h3>
-                                                        <p class="content-text pb-0 mb-0">Founder & CEO</p>
+                                                        <p class="content-text pb-0 mb-0">CTO</p>
                                                     </div>
                                                     <img src="../assets/images/about/kobir-hossain.jpg" alt="">
                                                 </div>
@@ -340,7 +340,7 @@
                                                     <div class="content-details-big-Img">
                                                          <div class="figure-contArea">
                                                              <h3 class="pb-md-0 pb-md-2 mb-0">Mokles Ahamed</h3>
-                                                             <p class="content-text pb-0 mb-0">Operation Manager (BD)</p>
+                                                             <p class="content-text pb-0 mb-0">Operation Manager</p>
                                                          </div>
                                                         <img src="../assets/images/about/mokles.jpg" alt="">
                                                     </div>
@@ -416,7 +416,7 @@
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
                                                             <h3 class="pb-md-0 pb-md-2 mb-0">Subhandu Chhatait</h3>
-                                                            <p class="content-text pb-0 mb-0">Android Developer</p>
+                                                            <p class="content-text pb-0 mb-0">Android Developer (TL)</p>
                                                         </div>
                                                         <img src="../assets/images/about/subhendu.jpg" alt="">
                                                     </div>
@@ -435,7 +435,7 @@
                                                     <div class="content-details-big-Img">
                                                         <div class="figure-contArea">
                                                             <h3 class="pb-md-0 pb-md-2 mb-0">Ataur Rahaman</h3>
-                                                            <p class="content-text pb-0 mb-0">UI/UX Designer</p>
+                                                            <p class="content-text pb-0 mb-0">UI/UX Designer (TL)</p>
                                                         </div>
                                                         <img src="../assets/images/about/ataur.jpg" alt="">
                                                     </div>
@@ -454,7 +454,7 @@
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
                                                         <h3 class="pb-md-0 pb-md-2 mb-0">Raju Chakraborty</h3>
-                                                        <p class="content-text pb-0 mb-0">Front End Developer</p>
+                                                        <p class="content-text pb-0 mb-0">Front End Developer (TL)</p>
                                                     </div>
                                                     <img src="../assets/images/about/raju.jpg" alt="">
                                                 </div>
@@ -473,7 +473,7 @@
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
                                                         <h3 class="pb-md-0 pb-md-2 mb-0">Ayushi Kumari</h3>
-                                                        <p class="content-text pb-0 mb-0">HR with Marketing</p>
+                                                        <p class="content-text pb-0 mb-0">Marketing Manager</p>
                                                     </div>
                                                     <img src="../assets/images/about/ayushi.jpg" alt="">
                                                 </div>
@@ -511,7 +511,7 @@
                                                 <div class="content-details-big-Img">
                                                     <div class="figure-contArea">
                                                         <h3 class="pb-md-0 pb-md-2 mb-0">Komal Kriti</h3>
-                                                        <p class="content-text pb-0 mb-0">Tester</p>
+                                                        <p class="content-text pb-0 mb-0">QA</p>
                                                     </div>
                                                     <img src="../assets/images/about/komal.jpg" alt="">
                                                 </div>
