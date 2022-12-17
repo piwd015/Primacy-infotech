@@ -1857,7 +1857,9 @@ a.wedo-circle img{width:70%; display:block;}
 
 .team-bg{}
 .team-bg h2{ font-size:45px; color:#000; font-weight:600; text-transform:uppercase;}
-.team-bg h3
+.team-bg h1{font-size:40px; color:#000; text-transform:uppercase; position:relative;}
+.team-bg h1:after{content:""; width:8%; height:3px; background:#f6934f; position:absolute;
+left:0px; right:0px; bottom:-10px; margin:0 auto;}
 
 /*-------------our team section-------------*/
 .content {
