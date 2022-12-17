@@ -410,40 +410,19 @@
                                         </div>
 
                                       <div class="col-md-6 pr-md-0">
-
-                                            <div class="about-right-bg">               
-
+                                            <div class="about-right-bg">
                                                    <div class="col-md-12">
-                                                        <div class="ceo">
-                                                             <div class="video-wrapper">
-                                                                    <video autoplay muted loop playsinline preload="metadata">
-                                                                           <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
-                                                                    </video>
-                                                                   <!--<video width="620" height="470" autoplay muted loop playsinline preload="metadata">
-                                                                           <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
-                                                                           <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
-                                                                    </video>-->
-                                                              </div>
-                                                        </div>
-
-                                                          <!--<div class="ceo"><img src="assets/images/ceo.png" alt="">
-
-                                                          <span>Kabir Hussain</span>
-
-                                                          <dd>Founder and CEO</dd>
-
-                                                          </div>-->
-
+                                                         <div class="ceo">
+                                                              <video width="620" height="470" autoplay muted loop playsinline preload="metadata">
+                                                                    <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
+                                                                    <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
+                                                               </video>
+                                                         </div>
                                                    </div>
-
                                             </div>
-
                                       </div>
-
                                   </div>
-
                             </div>
-
                         </section>
 
                     </div>
