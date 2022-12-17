@@ -1381,7 +1381,7 @@
 
                                                <div class="col-md-12">
 
-                                                      <div class="ceo"><img src="assets/images/ceo.png" alt="">
+                                                      <div class="ceo"><img src="assets/images/primacy logo 2s sd.mp4" alt="">
 
                                                       <span>Kabir Hossain</span>
 
