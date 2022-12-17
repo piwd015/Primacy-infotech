@@ -414,13 +414,13 @@
                                             <div class="about-right-bg">               
 
                                                    <div class="col-md-12">
-                                                       <div class="ceo">
-                                                           <img src="assets/images/primacy logo 2s sd.mp4" alt="">
-                                                           <video width="600" height="450" controls autoplay>
-                                                               <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
-                                                               <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
-                                                           </video>
-                                                       </div>
+                                                        <div class="ceo">
+                                                               <img src="assets/images/primacy logo 2s sd.mp4" alt="">
+                                                               <video width="620" height="470" autoplay muted loop playsinline preload="metadata">
+                                                                   <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
+                                                                   <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
+                                                               </video>
+                                                        </div>
 
                                                           <!--<div class="ceo"><img src="assets/images/ceo.png" alt="">
 
