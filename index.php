@@ -416,10 +416,13 @@
                                                    <div class="col-md-12">
                                                         <div class="ceo">
                                                              <div class="video-wrapper">
-                                                                   <video width="620" height="470" autoplay muted loop playsinline preload="metadata">
+                                                                    <video autoplay muted loop playsinline preload="metadata">
+                                                                           <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
+                                                                    </video>
+                                                                   <!--<video width="620" height="470" autoplay muted loop playsinline preload="metadata">
                                                                            <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
                                                                            <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
-                                                                    </video>
+                                                                    </video>-->
                                                               </div>
                                                         </div>
 
