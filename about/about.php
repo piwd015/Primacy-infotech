@@ -336,7 +336,14 @@
                             <div class="row">
                                 <div class="col-md-6 position-relative">
                                     <div class="explore-teamImg aos-init aos-animate" data-aos="zoom-in-down">
-                                        <img src="../assets/images/about/explore-team.jpg" alt="">
+                                          <!--<img src="../assets/images/about/explore-team.jpg" alt="">-->
+                                        <div class="box">
+                                            <div class="img">
+                                                <img src="../assets/images/about/explore-team.jpg" alt="hover effect">
+                                                <img src="../assets/images/about/explore-team-02.jpg" alt="hover effect">
+                                            </div>
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6 pt-md-0 pt-5 mt-md-0 mt-5 d-flex flex-wrap align-items-center">
