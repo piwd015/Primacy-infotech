@@ -1383,7 +1383,7 @@
 
                                                       <div class="ceo"><img src="assets/images/primacy logo 2s sd.mp4" alt="">
 
-                                                      <span>Kabir Hossain</span>
+
 
                                                       <dd>Founder and CEO</dd>
 
