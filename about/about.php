@@ -336,7 +336,6 @@
                             <div class="row">
                                 <div class="col-md-6 position-relative">
                                     <div class="explore-teamImg aos-init aos-animate" data-aos="zoom-in-down">
-                                          <!--<img src="../assets/images/about/explore-team.jpg" alt="">-->
                                         <div class="box">
                                             <div class="img">
                                                 <img src="../assets/images/about/explore-team.jpg" alt="hover effect">
@@ -349,7 +348,7 @@
                                 <div class="col-md-6 pt-md-0 pt-5 mt-md-0 mt-5 d-flex flex-wrap align-items-center">
                                        <h2 class="d-block pb-3 aos-init aos-animate" data-aos="fade-up"><strong>The Primacy Infotech Teams</strong>
                                         Embracing Creativity and <strong>Innovation</strong></h2>
-                                       <a href="#" data-aos="fade-left" class="aos-init aos-animate">Explore our team</a>
+                                       <a href="our-team.php" data-aos="fade-left" class="aos-init aos-animate">Explore our team</a>
                                 </div>
                             </div>
                     </div>
