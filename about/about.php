@@ -331,7 +331,7 @@
                 </div>
             </div>
              </section>
-             <section class="explore-team-bg">
+             <section class="explore-team-bg py-md-5 py-3">
                     <div class="container-fluid px-md-5 px-3">
                             <div class="row">
                                 <div class="col-md-6 position-relative">
