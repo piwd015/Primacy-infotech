@@ -331,11 +331,11 @@
                 </div>
             </div>
              </section>
-             <section class="delivered-bg">
+             <section class="explore-team-bg">
                     <div class="container-fluid px-md-5 px-3">
                             <div class="row">
                                 <div class="col-md-6 position-relative">
-                                    <div class="lpt aos-init aos-animate" data-aos="zoom-in-down">
+                                    <div class="explore-teamImg aos-init aos-animate" data-aos="zoom-in-down">
                                         <img src="../assets/images/about/explore-team.jpg" alt="">
                                     </div>
                                 </div>

@@ -2033,6 +2033,16 @@ height:30px; text-align:center; line-height:0px!important; display:block;}
 .video-wrapper {width:100%; height:100vh; overflow:hidden;}
 .video-wrapper video {object-fit:cover; width:100%; height:100%;}
 
+
+.explore-team-bg{background:url("../images/about/delivered-bg.jpg") repeat-y 0 0; width:100%;
+ height: auto; background-size:100% 100%; margin: 80px 0px;}
+.explore-teamImg{width:100%; position:absolute; left:0px; top:-50px; z-index:10;}
+.explore-teamImg img{width:100%; display:block; border-radius:10px;}
+explore-team-bg h2{font-size:45px; color:#fff;}
+explore-team-bg a{background:#ffff00; border-radius:7px; padding:7px 30px; font-size:25px;
+ color:#000; font-weight:600;}
+explore-team-bg a:hover{color:#a50b07;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){
