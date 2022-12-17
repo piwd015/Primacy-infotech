@@ -332,7 +332,7 @@
             </div>
              </section>
              <section class="delivered-bg">
-                    <div class="container">
+                    <div class="container-fluid px-md-5 px-3">
                             <div class="row">
                                 <div class="col-md-6 position-relative">
                                     <div class="lpt aos-init aos-animate" data-aos="zoom-in-down">
