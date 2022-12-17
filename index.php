@@ -1376,29 +1376,20 @@
                                     </div>
 
                                   <div class="col-md-5 pr-md-0">
-
-                                        <div class="about-right-bg">               
-
+                                        <div class="about-right-bg">
                                                <div class="col-md-12">
-
-                                                      <div class="ceo"><img src="assets/images/primacy logo 2s sd.mp4" alt="">
-
-
-
-                                                      <dd>Founder and CEO</dd>
-
+                                                      <div class="ceo">
+                                                          <img src="assets/images/primacy logo 2s sd.mp4" alt="">
+                                                          <video width="400" controls>
+                                                              <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
+                                                              <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
+                                                          </video>
                                                       </div>
-
                                                </div>
-
                                         </div>
-
                                   </div>
-
                           </div>
-
                      </div>
-
               </section>
               <section class="client-hm-bg pag-hd w-100 d-block">
 
