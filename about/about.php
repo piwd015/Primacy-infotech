@@ -211,8 +211,7 @@
                    </div>
             </section>
              <section class="team-bg w-100 d-block py-md-5 py-3">
-            <div class="container-fluid px-md-5 px-3">
-                <h2 class="w-100 d-block text-center pb-md-3 pb-2" data-aos="fade-down">Our Team</h2>
+                    <div class="container-fluid px-md-5 px-3">
                 <h2 class="w-100 d-block text-center pb-md-4 pb-3" data-aos="fade-down">Our Board Member</h2>
                 <div class="row" data-aos="fade-down">
                     <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
@@ -331,7 +330,23 @@
                     </div>
                 </div>
             </div>
-        </section>
+             </section>
+             <section class="delivered-bg">
+                    <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 position-relative">
+                                    <div class="lpt aos-init aos-animate" data-aos="zoom-in-down">
+                                        <img src="../assets/images/about/explore-team.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 pt-md-0 pt-5 mt-md-0 mt-5">
+                                       <h2 class="d-block pb-4 aos-init aos-animate" data-aos="fade-up"><strong>The Primacy Infotech Teams</strong>
+                                        Embracing Creativity and <strong>Innovation</strong></h2>
+                                       <a href="#" data-aos="fade-left" class="aos-init aos-animate">Explore our team</a>
+                                </div>
+                            </div>
+                    </div>
+            </section>
             <section class="w-100 d-block why-us pt-md-5 pt-3">
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
