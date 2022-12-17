@@ -1860,9 +1860,9 @@ a.wedo-circle img{width:70%; display:block;}
 .team-bg h1{font-size:40px; color:#000; text-transform:uppercase; position:relative;
 font-weight:700;}
 .team-bg h1:before{content:""; width:3%; height:3px; background:#ba1419; position:absolute;
- left:0px; right:0px; bottom:-5px; margin:0 auto; z-index:10;}
+ left:0px; right:0px; bottom:-8px; margin:0 auto; z-index:10;}
 .team-bg h1:after{content:""; width:6%; height:3px; background:#f6934f; position:absolute;
-left:0px; right:0px; bottom:-8px; margin:0 auto;}
+left:0px; right:0px; bottom:-5px; margin:0 auto;}
 
 /*-------------our team section-------------*/
 .content {
