@@ -399,7 +399,7 @@
 
                                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
 
-                                        <div class="col-md-7 contArea-top-pt">          
+                                        <div class="col-md-6 contArea-top-pt">
 
                                               <p class="d-block text-left mb-3">Primacy Infotech went through a lingering path in the industry of internet marketing. With our diverse years of experience we discern the changing needs of small businesses in their online uplift. We are given away to our protégé and consorts and have a passion for modern technologies. We take on big challenges, and pride ourselves on seeing them through. We hold ourselves culpable to our customers, bondholder, partners, and employees by commemorate our commitments, providing results, and pushing for the apical affirmation.</p>
 
@@ -409,14 +409,14 @@
 
                                         </div>
 
-                                      <div class="col-md-5 pr-md-0">
+                                      <div class="col-md-6 pr-md-0">
 
                                             <div class="about-right-bg">               
 
                                                    <div class="col-md-12">
                                                        <div class="ceo">
                                                            <img src="assets/images/primacy logo 2s sd.mp4" alt="">
-                                                           <video width="100%" controls autoplay>
+                                                           <video width="600" height="450" controls autoplay>
                                                                <source src="assets/images/primacy logo 2s sd.mp4" type="video/mp4">
                                                                <source src="assets/images/primacy logo 2s sd.ogg" type="video/ogg">
                                                            </video>
