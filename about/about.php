@@ -339,8 +339,8 @@
                                         <img src="../assets/images/about/explore-team.jpg" alt="">
                                     </div>
                                 </div>
-                                <div class="col-md-6 pt-md-0 pt-5 mt-md-0 mt-5">
-                                       <h2 class="d-block pb-4 aos-init aos-animate" data-aos="fade-up"><strong>The Primacy Infotech Teams</strong>
+                                <div class="col-md-6 pt-md-0 pt-5 mt-md-0 mt-5 d-flex flex-wrap align-items-center">
+                                       <h2 class="d-block pb-md-5 pb-3 aos-init aos-animate" data-aos="fade-up"><strong>The Primacy Infotech Teams</strong>
                                         Embracing Creativity and <strong>Innovation</strong></h2>
                                        <a href="#" data-aos="fade-left" class="aos-init aos-animate">Explore our team</a>
                                 </div>
