@@ -548,5 +548,16 @@
     <!-- footer -->
     <?php include '../include/menu.php'; ?>
     <?php include '../include/footer.php'; ?>
+    <script>
+        $(".box").on({
+            mouseover:function(){
+                $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+                $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+            }, mouseout:function(){
+                $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+                $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+            }
+        });
+    </script>
 </head>
 </html>
