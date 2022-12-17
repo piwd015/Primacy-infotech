@@ -46,7 +46,7 @@
                     <div class="container-fluid px-md-5 px-3">
                             <div class="row" data-aos="fade-down">
                                 <h1 class="w-100 d-block text-center mb-4">Our Team</h1>
-                                <h2 class="w-100 d-block text-center pt-3 pb-md-4 pb-3" data-aos="fade-down">Our Management</h2>
+                                <h2 class="w-100 d-block text-center pt-3 pb-md-4 pb-3" data-aos="fade-down">Our Team Management</h2>
                                     <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                         <div class="content">
                                             <a>
