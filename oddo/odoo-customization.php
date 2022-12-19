@@ -34,8 +34,8 @@
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
                   background-size:100% 90%;">
                <div class="container-fluid px-md-5 px-3 py-md-5">
-                    <div class="row">
-                            <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
+                    <div class="row d-flex flex-wrap flex-column-reverse">
+                            <div class="col-lg-7 col-md-7 mb-md-0 mb-1">
                                 <h1 style="color:#000;">Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
                                 <ul class="d-block pl-0 py-md-4">
                                     <li style="color:#000;">Highly Experienced Odoo Developers</li>
@@ -46,7 +46,7 @@
                                     <li style="color:#000;">Increase your Productivity and<br/> Improve your Workflow</li>
                                 </ul>
                             </div>
-                            <div class="col-lg-4 col-md-4">
+                            <div class="col-lg-5 col-md-5">
                                   <div class="customz-bnr-right">
                                         <img src="../assets/images/oddo/odoo-customize-banner-right.png" alt="">
                                   </div>
