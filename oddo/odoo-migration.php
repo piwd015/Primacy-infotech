@@ -67,6 +67,39 @@
                               </div>
                         </div>
                   </div>
+                   <div class="row">
+                           <div class="col-md-6">
+                               <div class="migra-Img">
+                                   <img src="../assets/images/oddo/migrationImg-02.jpg" alt="">
+                               </div>
+                           </div>
+                           <div class="col-md-6 migra-Cont-Area pt-3">
+                               <h2 class="w-100 d-block pb-2">Data Migration</h2>
+                               <p class="d-block">The existing data migration is another chapter
+                                   of the migration which needs to be dealt with care.
+                                   The existing data should be configurable with the new
+                                   applications and the platform. In addition, the tables
+                                   should be modified, mapped, and imported to be suitable
+                                   to operate in the new version.</p>
+                           </div>
+                   </div>
+                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
+                           <div class="col-md-6 migra-Cont-Area pt-3">
+                               <h2 class="w-100 d-block pb-2">Migration Testing</h2>
+                               <p class="d-block">Even if all the modifications in the
+                                   applications and the data available are done there is
+                                   the ultimate need for sophisticated testing to be done
+                                   under extreme circumstances to showcase the durability
+                                   and the reliability of the new platform. The quality
+                                   checks should be conducted on the performance and
+                                   usability factors.</p>
+                           </div>
+                           <div class="col-md-6">
+                                   <div class="migra-Img">
+                                          <img src="../assets/images/oddo/migrationImg-03.jpg" alt="">
+                                   </div>
+                           </div>
+                   </div>
             </div>
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
