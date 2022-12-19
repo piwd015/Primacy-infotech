@@ -524,7 +524,7 @@
                                         <img src="../assets/images/oddo/step-04-curbe-box.png">
                                     </div>
                                 </div>
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-right">
                                     <i><img src="../assets/images/oddo/training-icon-02.png" alt=""></i>
                                     <div class="time-arrow">
                                         <span class="w-100 d-block text-center" style="top:42%">Training</span>
@@ -536,7 +536,7 @@
                                         <img src="../assets/images/oddo/step-05-curbe-box.png">
                                     </div>
                                 </div>
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-left">
                                     <i><img src="../assets/images/oddo/testing-icon.png" alt=""></i>
                                     <div class="time-arrow">
                                         <span class="w-100 d-block text-center" style="top:42%">QA Testing</span>
@@ -548,7 +548,7 @@
                                         <img src="../assets/images/oddo/step-06-curbe-box.png">
                                     </div>
                                 </div>
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-right">
                                     <i><img src="../assets/images/oddo/go-live-icon.png" alt=""></i>
                                     <div class="time-arrow">
                                         <span class="w-100 d-block text-center" style="top:42%">Go Live</span>
