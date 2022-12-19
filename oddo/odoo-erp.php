@@ -88,17 +88,17 @@
             </div>
       </section>
       <div class="container why-chs">
-             <h2 class="w-100 d-block text-center pb-4">WHY CHOOSE <strong>ODOO ERP?</strong></h2>
+             <h2 class="w-100 d-block text-center pb-4" data-aos="fade-down">WHY CHOOSE <strong>ODOO ERP?</strong></h2>
             <div class="row">
-                    <div class="col-lg-5 col-md-5">
+                    <div class="col-lg-5 col-md-5" data-aos="fade-right">
                           <div class="why-chooseImg"><img src="../assets/images/oddo/why-chooseImg.jpg" alt=""></div>
                     </div>
-                    <div class="col-lg-7 col-md-7">
+                    <div class="col-lg-7 col-md-7" data-aos="fade-left">
                           <p>The answer is why not? With a dedicated modular approach to business operations the Odoo ERP has application-specific modules which are interconnected in operations to deliver reliable, efficient, and cost-effective business operations and its management. Moreover, the Odoo ERP platform has a centralized approach in operations with one central inventory management system to run the retail, wholesale, and e-commerce operations of the company to run effectively. Additionally, one central database stores all the information of the company making the information exchange both in-house and outhouse of the establishment and the communication can be performed effectively.</p>
                     </div>
             </div>
       </div>
-      <section class="w-100 d-block" style="padding-top:0px;">
+      <section class="w-100 d-block" style="padding-top:0px;" data-aos="fade-down">
               <h2 class="comp-hdr w-100 d-block text-center pb-4"><strong>How does Odoo compare to others in the market?</strong></h2>
               <div class="col-md-12">
                     <div class="comprImg"><img src="../assets/images/odoo-compare.png" alt=""></div>
@@ -106,9 +106,9 @@
       </section>
       <section class="features w-100 d-block">
            <div class="container why-chs py-md-4">
-                  <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
+                  <h2 class="w-100 d-block text-center pb-4" data-aos="fade-down"><strong>ODOO Features</strong></h2>
                   <div class="row">
-                          <div class="col-md-6 mb-md-5 mb-3">
+                          <div class="col-md-6 mb-md-5 mb-3" data-aos="fade-right">
                                 <div class="odo-fturs" style="background:#4d7285;">
                                         <div class="fturs-icon-bg">
                                               <dd style="background:#4d7285;"><img src="../assets/images/oddo/build-website-icon.png" alt=""></dd>
@@ -122,7 +122,7 @@
                                         </ul>
                                 </div>
                           </div>
-                          <div class="col-md-6 mb-md-5 mb-3">
+                          <div class="col-md-6 mb-md-5 mb-3" data-aos="fade-left">
                                 <div class="odo-fturs" style="background:#8c3e74;">
                                         <div class="fturs-icon-bg">
                                               <dd style="background:#8c3e74;"><img src="../assets/images/oddo/finance-icon.png" alt=""></dd>
@@ -134,7 +134,7 @@
                                         </ul>
                                 </div>
                           </div>
-                          <div class="col-md-6 mb-md-5 mb-3">
+                          <div class="col-md-6 mb-md-5 mb-3" data-aos="fade-right">
                                 <div class="odo-fturs" style="background:#91450e;">
                                         <div class="fturs-icon-bg">
                                               <dd style="background:#91450e;"><img src="../assets/images/oddo/sales-icon.png" alt=""></dd>
@@ -148,7 +148,7 @@
                                         </ul>
                                 </div>
                           </div>
-                          <div class="col-md-6 mb-md-5 mb-3">
+                          <div class="col-md-6 mb-md-5 mb-3" data-aos="fade-left">
                                 <div class="odo-fturs" style="background:#284068;">
                                         <div class="fturs-icon-bg">
                                               <dd style="background:#284068;"><img src="../assets/images/oddo/human-resource-icon.png" alt=""></dd>
@@ -162,7 +162,7 @@
                                         </ul>
                                 </div>
                           </div>
-                          <div class="col-md-6 mb-md-5 mb-3">
+                          <div class="col-md-6 mb-md-5 mb-3" data-aos="fade-right">
                                 <div class="odo-fturs" style="background:#00b2a5;">
                                         <div class="fturs-icon-bg">
                                               <dd style="background:#00b2a5;"><img src="../assets/images/oddo/operation-better-icon.png" alt=""></dd>
@@ -176,7 +176,7 @@
                                         </ul>
                                 </div>
                           </div>
-                          <div class="col-md-6">
+                          <div class="col-md-6" data-aos="fade-left">
                                 <div class="odo-fturs" style="background:#b83820;">
                                         <div class="fturs-icon-bg">
                                               <dd style="background:#b83820;"><img src="../assets/images/oddo/marketing-icon.png" alt=""></dd>
@@ -192,7 +192,7 @@
                           </div>
                   </div>
                   <div class="row d-flex flex-wrap justify-content-center">
-                          <div class="col-md-8">
+                          <div class="col-md-8" data-aos="flip-right">
                                 <div class="futr-txt">34,000+ Future  add-ons available from the Odoo apps store</div>
                           </div>
                   </div>
