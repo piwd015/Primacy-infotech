@@ -14,7 +14,7 @@
     <link rel="canonical" href="../index.php">
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Primacy Infitech Best website development company in kolkata">
+    <meta property="og:title" content="Primacy Infotech Best website development company in kolkata">
     <meta property="og:description" content="Primacy Infotech- It is a website design and development company based in kolkata. We help small and mid sized company to achieve thier marketing goals. Call today - 9088015866">
     <meta property="og:image" content="assets/images/logo-p.png">
     <meta property="og:url" content="index.html">
@@ -33,7 +33,7 @@
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5 mt-md-0 mt-4" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
                   background-size:100% 90%;">
-               <div class="container-fluid px-md-5 px-3 py-md-5">
+                  <div class="container-fluid px-md-5 px-3 py-md-5">
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                             <div class="col-lg-7 col-md-7 mb-md-0 mb-1">
                                 <h1 style="color:#000;">Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
@@ -54,9 +54,9 @@
                     </div>
                </div>
         </section>
-        <section class="w-100 d-block py-md-5 py-3">
+        <section class="w-100 d-block py-md-5 pt-0 pb-3">
             <div class="container">
-                 <div class="row">
+                 <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                       <div class="col-md-7">
                             <h2 class="hdr-txt d-block pb-md-4 pb-2">Odoo Customization</h2>
                              <p class="d-block text-md-justify">An enterprise application must go by
