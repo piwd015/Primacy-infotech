@@ -237,7 +237,7 @@
                            <div class="col-md-6">
                                  <ul class="migra-pros w-100 d-block pl-0">
                                        <img src="../assets/images/oddo/migra-pross-01.png" alt="">
-                                       <h3 class="w-100 d-block pb-3">1. Migration Assessment and Assistance</h3>
+                                       <h3 class="w-100 d-block py-3">1. Migration Assessment and Assistance</h3>
                                        <li class="pb-2">For the Enterprise Version and Odoo Online, have you
                                            discussed with Odoo Support for migration?</li>
                                        <li class="pb-2">How much data do you need in the newer version?</li>
