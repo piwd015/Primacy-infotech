@@ -148,7 +148,7 @@
                              <div class="col-md-3 col-6">
                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                             <h5 class="d-block pb-1">Step 2</h5>
-                                            <img src="../assets/images/oddo/gathering.png" class="mb-2" alt="">
+                                            <img src="../assets/images/oddo/gap-analysis.png" class="mb-2" alt="">
                                             <h2 class="d-block pt-2">GAP Analysis</h2>
                                             <p>We analyze the gap between the available features of Odoo
                                                 and your requirements.</p>
@@ -157,7 +157,7 @@
                               <div class="col-md-3 col-6">
                                   <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                       <h5 class="d-block pb-1">Step 3</h5>
-                                      <img src="../assets/images/oddo/gathering.png" class="mb-2" alt="">
+                                      <img src="../assets/images/oddo/festibility-study.png" class="mb-2" alt="">
                                       <h2 class="d-block pt-2">Feasibility Study</h2>
                                       <p>A study on the feasibility to do the requested
                                           modifications in Odoo without, compromising the
