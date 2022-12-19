@@ -303,11 +303,11 @@
              </div>
     </section>
     <section class="odo-srvs py-md-5 py-3">
-             <h2 class="w-100 d-block text-center">OUR ODOO ERP DEVELOPMENT</h2>
+             <h2 class="w-100 d-block text-center" data-aos="fade-down">OUR ODOO ERP DEVELOPMENT</h2>
              <h3 class="w-100 d-block text-center pb-3">SERVICES</h3>
              <div class="container">
                     <div class="row pl-md-5">
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                      <div class="odo-srvs-box">
                                              <img src="../assets/images/oddo/customization-icon.png" alt="">
@@ -316,7 +316,7 @@
                                      </div>
                                  </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="../oddo/oddo-implementation.php">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/implementation-icon.png" alt="">
@@ -325,7 +325,7 @@
                                    </div>
                                  </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/integration-icon.png" alt="">
@@ -334,7 +334,7 @@
                                    </div>
                                  </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/migration-icon.png" alt="">
@@ -343,7 +343,7 @@
                                     </div>
                                   </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/maintenance-icon.png" alt="">
@@ -352,7 +352,7 @@
                                     </div>
                                   </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/consulting-service-icon.png" alt="">
@@ -361,7 +361,7 @@
                                     </div>
                                   </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/consultation-icon.png" alt="">
@@ -370,7 +370,7 @@
                                     </div>
                                   </a>
                              </div>
-                             <div class="col-md-3 col-6 mb-3 px-2">
+                             <div class="col-md-3 col-6 mb-3 px-2" data-aos="zoom-in">
                                 <a href="#implementationprocess">
                                     <div class="odo-srvs-box">
                                            <img src="../assets/images/oddo/hosting-icon.png" alt="">
