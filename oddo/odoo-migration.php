@@ -245,7 +245,7 @@
                                            <li class="pb-2">Do you have any studio customizations?</li>
                                      </ul>
                                </div>
-                              <div class="col-md-6 pl-md-5">
+                              <div class="col-md-6 pl-md-5 mb-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-02.png" alt="">
                                           <h3 class="w-100 d-block py-3">4. System Configuration</h3>
@@ -255,7 +255,7 @@
                                           <li class="pb-2">Mail Templates</li>
                                       </ul>
                               </div>
-                              <div class="col-md-6">
+                              <div class="col-md-6 mb-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-03.png" alt="">
                                           <h3 class="w-100 d-block py-3">2. Estimation Phase</h3>
@@ -265,7 +265,26 @@
                                           <li class="pb-2">Discuss Maintenance Window as per database size.</li>
                                       </ul>
                               </div>
-                              <div class="col-md-6"></div>
+                              <div class="col-md-6">
+                                      <ul class="migra-pros w-100 d-block pl-0">
+                                          <img src="../assets/images/oddo/migra-pross-04.png" alt="">
+                                          <h3 class="w-100 d-block py-3">5. Migration Implementation</h3>
+                                          <li class="pb-2">Choosing Migration Methods
+                                               <ul class="w-100 d-block ml-4">
+                                                    <li class="pb-2">Open upgrade</li>
+                                                    <li class="pb-2">Manual Script</li>
+                                               </ul>
+                                          </li>
+                                          <li class="pb-2">Mock Migration:
+                                                  <ul class="w-100 d-block ml-4">
+                                                      <li class="pb-2">Go live with the testing server</li>
+                                                      <li class="pb-2">Testing</li>
+                                                      <li class="pb-2">Client feedback</li>
+                                                  </ul>
+                                          </li>
+                                          <li class="pb-2">Live release:</li>
+                                      </ul>
+                              </div>
                               <div class="col-md-6"></div>
                      </div>
                </div>
