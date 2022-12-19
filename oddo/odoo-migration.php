@@ -229,7 +229,7 @@
                 </div>
             </div>
         </section>
-        <section class="py-md-5 py-3">
+        <section class="py-3">
                <div class="container">
                      <h2 class="migra-pros-txt w-100 d-block text-center pb-md-4 pb-2">Odoo Migration
                          Process</h2>
