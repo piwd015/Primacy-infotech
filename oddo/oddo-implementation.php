@@ -14,7 +14,7 @@
 <link rel="canonical" href="../index.php">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Primacy Infitech Best website development company in kolkata">
+<meta property="og:title" content="Primacy Infotech Best website development company in kolkata">
 <meta property="og:description" content="Primacy Infotech- It is a website design and development company based in kolkata. We help small and mid sized company to achieve thier marketing goals. Call today - 9088015866">
 <meta property="og:image" content="assets/images/logo-p.png">
 <meta property="og:url" content="index.html">
