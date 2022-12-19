@@ -255,7 +255,16 @@
                                           <li class="pb-2">Mail Templates</li>
                                       </ul>
                               </div>
-                              <div class="col-md-6"></div>
+                              <div class="col-md-6">
+                                      <ul class="migra-pros w-100 d-block pl-0">
+                                          <img src="../assets/images/oddo/migra-pross-03.png" alt="">
+                                          <h3 class="w-100 d-block py-3">2. Estimation Phase</h3>
+                                          <li class="pb-2">Check the custom modules and see if this is available
+                                              at Odoo apps in newer versions.</li>
+                                          <li class="pb-2">What is the expected "Go Live" date?</li>
+                                          <li class="pb-2">Discuss Maintenance Window as per database size.</li>
+                                      </ul>
+                              </div>
                               <div class="col-md-6"></div>
                               <div class="col-md-6"></div>
                      </div>
