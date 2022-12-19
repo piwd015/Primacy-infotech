@@ -2078,6 +2078,13 @@ text-transform:none!important;}
 .migra-Img{width:100%;}
 .migra-Img img{width:100%; display:block; border-radius:10px;}
 
+.migra-nessry{}
+.migra-nessry h2{font-size:35px; color:#000; font-weight:600;}
+.migra-nessry ul{padding:0px; margin:0px;}
+.migra-nessry ul li{display:block; font-size:15px; color:#000; padding-left:15px;
+background: url("../assets/images/oddo/bullet.png") no-repeat 0 5px;}
+.migra-nessry > p{font-size:15px; color:#000;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){

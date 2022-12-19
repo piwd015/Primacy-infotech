@@ -50,6 +50,17 @@
                     </div>
                </div>
         </section>
+        <section class="py-md-5 py-3">
+                <div class="container migra-nessry">
+                       <h2 class="w-100 d-block pb-3">Why is Odoo Migration necessary?</h2>
+                       <ul class="w-100 d-block pl-0">
+                             <li class="pb-2">Are you still using legacy systems to maintain your business data?</li>
+                             <li class="pb-2">Do you want to move to a next-gen, cloud-native system?</li>
+                             <li class="pb-2">Is your current ERP system really paying off?</li>
+                             <li class="pb-2">Is your current Odoo ERP version sufficient for your business growth?</li>
+                       </ul>
+                </div>
+        </section>
         <section class="w-100 d-block py-md-5 pt-0 pb-3">
             <div class="container">
                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
@@ -120,144 +131,6 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="switchng w-100 d-block py-md-5 py-3">
-            <div class="container">
-                  <h2 class="w-100 d-block text-center pb-3 mb-md-5 mb-3">A GLIMPSE OF OUR <strong>ODOO CUSTOMIZATION</strong> SOLUTIONS</h2>
-                  <div class="row">
-                         <div class="col-md-6">
-                               <div class="customz-box p-md-4 p-3 mb-4">
-                                      <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                                      <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo CRM Customization</h5>
-                                      <p class="d-block text-justify">With The Help Of A
-                                          Customer-Relationship Management Tool, You Can Create
-                                          A Healthy And Personal Relationship With Your Customers.
-                                          This Tool Automates Tasks Like Sending Emails And
-                                          Converting Leads Into Customers. Our Experienced Odoo
-                                          Developers Can Help You Organize Your CRM Flow By
-                                          Customizing Odoo’s Stock CRM Function To Your Website.</p>
-                               </div>
-                         </div>
-                         <div class="col-md-6">
-                              <div class="customz-box p-md-4 p-3 mb-4">
-                                  <div class="customz-boxImg"><img src="../assets/images/oddo/report.png" alt=""></div>
-                                  <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Report Customization</h5>
-                                  <p class="d-block text-justify">One Of The Most Important
-                                      Segments Of A Business Enterprise Is Reporting. It Plays
-                                      An Essential Role In Making Strategic Decisions Regarding
-                                      The Future Of Business. At Uncanny, We Will Help You To
-                                      Customize Your Existing Reports And Create New Reports
-                                      According To Your Business Requirements.</p>
-                              </div>
-                      </div>
-                         <div class="col-md-6">
-                          <div class="customz-box p-md-4 p-3 mb-4">
-                               <div class="customz-boxImg"><img src="../assets/images/oddo/invoice.png" alt=""></div>
-                               <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Invoice Customization</h5>
-                               <p class="d-block text-justify">Generally, Businesses Have Their
-                                   Individual Invoice Templates. We At Uncanny Can Help You With
-                                   The Modification Of The Odoo Stock Template. We Ensure That
-                                   All The Modifications Are According To Your Business Needs.</p>
-                              </div>
-                         </div>
-                         <div class="col-md-6">
-                          <div class="customz-box p-md-4 p-3 mb-4">
-                              <div class="customz-boxImg"><img src="../assets/images/oddo/pos.png" alt=""></div>
-                              <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo POS Customization</h5>
-                              <p class="d-block text-justify">Talking About Point Of Sales,
-                                  Receipts Can Be Printed With The Help Of A Basic Desktop
-                                  And Printer. But, According To Globally Accepted Standards,
-                                  It Is Essential To Use Specific Printers. These Printers
-                                  Are None Other Than The Receipt Printers. Our Seasoned Team
-                                  Can Customize Odoo’s Stock Printed Slip To Match Your Receipt
-                                  Template.</p>
-                          </div>
-                      </div>
-                  </div>
-            </div>
-        </section>
-        <section class="odo-cusmz-pros-bg w-100 d-block py-md-5 py-3">
-                <h2 class="w-100 d-block text-center mb-md-5 mb-3">
-                        <dd class="mr-md-3 mr-1" style="background:#f0731e;"></dd>
-                        Odoo Customization Process
-                        <dd class="ml-md-3 ml-1" style="background:#bd1e23;"></dd>
-                </h2>
-                <div class="container">
-                      <div class="row">
-                             <div class="col-md-3 mb-4">
-                                   <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                         <h5 class="d-block pb-1">Step 1</h5>
-                                         <img src="../assets/images/oddo/gathering.png" class="mb-2" alt="">
-                                         <h2 class="d-block pt-2">Requirement Gathering</h2>
-                                         <p>We will schedule a meeting with you and our technical team,
-                                             to gather information on your needs and requirements.</p>
-                                   </div>
-                             </div>
-                             <div class="col-md-3 mb-4">
-                                     <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                            <h5 class="d-block pb-1">Step 2</h5>
-                                            <img src="../assets/images/oddo/gap-analysis.png" class="mb-2" alt="">
-                                            <h2 class="d-block pt-2">GAP Analysis</h2>
-                                            <p>We analyze the gap between the available features of Odoo
-                                                and your requirements.</p>
-                                     </div>
-                               </div>
-                               <div class="col-md-3 mb-4">
-                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                          <h5 class="d-block pb-1">Step 3</h5>
-                                          <img src="../assets/images/oddo/festibility-study.png" class="mb-2" alt="">
-                                          <h2 class="d-block pt-2">Feasibility Study</h2>
-                                          <p>A study on the feasibility to do the requested
-                                              modifications in Odoo without, compromising the
-                                              performance as well as breaking default functionalities
-                                              of the platform.</p>
-                                      </div>
-                               </div>
-                               <div class="col-md-3 mb-4">
-                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                          <h5 class="d-block pb-1">Step 4</h5>
-                                          <img src="../assets/images/oddo/estimation.png" class="mb-2" alt="">
-                                          <h2 class="d-block pt-2">Estimation</h2>
-                                          <p>An estimation of the cost and duration and implementation
-                                              will be shared with you.</p>
-                                      </div>
-                               </div>
-                               <div class="col-md-3 mb-md-0 mb-4">
-                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                          <h5 class="d-block pb-1">Step 5</h5>
-                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
-                                          <h2 class="d-block pt-2">Customer Approval</h2>
-                                          <p>We wait for your approval to proceed further.</p>
-                                      </div>
-                               </div>
-                               <div class="col-md-3 mb-md-0 mb-4">
-                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                          <h5 class="d-block pb-1">Step 6</h5>
-                                          <img src="../assets/images/oddo/development.png" class="mb-2" alt="">
-                                          <h2 class="d-block pt-2">Development</h2>
-                                          <p>The platform will be developed as per the needs and
-                                              requirements also as per the standards.</p>
-                                      </div>
-                               </div>
-                               <div class="col-md-3 mb-md-0 mb-4">
-                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                          <h5 class="d-block pb-1">Step 7</h5>
-                                          <img src="../assets/images/oddo/testing.png" class="mb-2" alt="">
-                                          <h2 class="d-block pt-2">Testing</h2>
-                                          <p>Multiple integrated, as well as unit testing, will be undertaken
-                                              to estimate the reliability.</p>
-                                      </div>
-                               </div>
-                               <div class="col-md-3">
-                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4 p-3">
-                                          <h5 class="d-block pb-1">Step 8</h5>
-                                          <img src="../assets/images/oddo/delivery.png" class="mb-2" alt="">
-                                          <h2 class="d-block pt-2">Delivery</h2>
-                                          <p>The completed and tested modules will be delivered to you.</p>
-                                      </div>
-                               </div>
-                        </div>
-                 </div>
         </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
