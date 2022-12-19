@@ -129,7 +129,7 @@
             </div>
         </section>
         <section class="odo-cusmz-pros-bg w-100 d-block py-md-5 py-3">
-                <h2 class="w-100 d-block text-center mb-4">
+                <h2 class="w-100 d-block text-center mb-5">
                         <dd class="mr-3" style="background:#f0731e;"></dd>
                         Odoo Customization Process
                         <dd class="ml-3" style="background:#bd1e23;"></dd>
@@ -154,19 +154,36 @@
                                                 and your requirements.</p>
                                      </div>
                                </div>
-                              <div class="col-md-3 col-6">
-                                  <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
-                                      <h5 class="d-block pb-1">Step 3</h5>
-                                      <img src="../assets/images/oddo/festibility-study.png" class="mb-2" alt="">
-                                      <h2 class="d-block pt-2">Feasibility Study</h2>
-                                      <p>A study on the feasibility to do the requested
-                                          modifications in Odoo without, compromising the
-                                          performance as well as breaking default functionalities
-                                          of the platform.</p>
-                                  </div>
-                              </div>
-                      </div>
-                </div>
+                               <div class="col-md-3 col-6">
+                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                          <h5 class="d-block pb-1">Step 3</h5>
+                                          <img src="../assets/images/oddo/festibility-study.png" class="mb-2" alt="">
+                                          <h2 class="d-block pt-2">Feasibility Study</h2>
+                                          <p>A study on the feasibility to do the requested
+                                              modifications in Odoo without, compromising the
+                                              performance as well as breaking default functionalities
+                                              of the platform.</p>
+                                      </div>
+                               </div>
+                               <div class="col-md-3 col-6">
+                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                          <h5 class="d-block pb-1">Step 4</h5>
+                                          <img src="../assets/images/oddo/estimation.png" class="mb-2" alt="">
+                                          <h2 class="d-block pt-2">Estimation</h2>
+                                          <p>An estimation of the cost and duration and implementation
+                                              will be shared with you.</p>
+                                      </div>
+                               </div>
+                               <div class="col-md-3 col-6">
+                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                          <h5 class="d-block pb-1">Step 5</h5>
+                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <h2 class="d-block pt-2">Customer Approval</h2>
+                                          <p>We wait for your approval to proceed further.</p>
+                                      </div>
+                               </div>
+                        </div>
+                 </div>
         </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
