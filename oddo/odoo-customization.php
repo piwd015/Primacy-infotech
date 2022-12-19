@@ -135,13 +135,13 @@
         </section>
         <section class="odo-cusmz-pros-bg w-100 d-block py-md-5 py-3">
                 <h2 class="w-100 d-block text-center mb-5">
-                        <dd class="mr-3" style="background:#f0731e;"></dd>
+                        <dd class="mr-md-3 mr-1" style="background:#f0731e;"></dd>
                         Odoo Customization Process
-                        <dd class="ml-3" style="background:#bd1e23;"></dd>
+                        <dd class="ml-md-3 ml-1" style="background:#bd1e23;"></dd>
                 </h2>
                 <div class="container">
                       <div class="row">
-                             <div class="col-md-3 col-6 mb-4">
+                             <div class="col-md-3 mb-4">
                                    <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                          <h5 class="d-block pb-1">Step 1</h5>
                                          <img src="../assets/images/oddo/gathering.png" class="mb-2" alt="">
@@ -150,7 +150,7 @@
                                              to gather information on your needs and requirements.</p>
                                    </div>
                              </div>
-                             <div class="col-md-3 col-6 mb-4">
+                             <div class="col-md-3 mb-4">
                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                             <h5 class="d-block pb-1">Step 2</h5>
                                             <img src="../assets/images/oddo/gap-analysis.png" class="mb-2" alt="">
@@ -159,7 +159,7 @@
                                                 and your requirements.</p>
                                      </div>
                                </div>
-                               <div class="col-md-3 col-6 mb-4">
+                               <div class="col-md-3 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 3</h5>
                                           <img src="../assets/images/oddo/festibility-study.png" class="mb-2" alt="">
@@ -170,7 +170,7 @@
                                               of the platform.</p>
                                       </div>
                                </div>
-                               <div class="col-md-3 col-6 mb-4">
+                               <div class="col-md-3 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 4</h5>
                                           <img src="../assets/images/oddo/estimation.png" class="mb-2" alt="">
@@ -179,7 +179,7 @@
                                               will be shared with you.</p>
                                       </div>
                                </div>
-                               <div class="col-md-3 col-6 mb-md-0 mb-4">
+                               <div class="col-md-3 mb-md-0 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 5</h5>
                                           <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
@@ -187,7 +187,7 @@
                                           <p>We wait for your approval to proceed further.</p>
                                       </div>
                                </div>
-                               <div class="col-md-3 col-6 mb-md-0 mb-4">
+                               <div class="col-md-3 mb-md-0 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 6</h5>
                                           <img src="../assets/images/oddo/development.png" class="mb-2" alt="">
@@ -196,7 +196,7 @@
                                               requirements also as per the standards.</p>
                                       </div>
                                </div>
-                               <div class="col-md-3 col-6 mb-md-0 mb-4">
+                               <div class="col-md-3 mb-md-0 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 7</h5>
                                           <img src="../assets/images/oddo/testing.png" class="mb-2" alt="">
@@ -205,7 +205,7 @@
                                               to estimate the reliability.</p>
                                       </div>
                                </div>
-                               <div class="col-md-3 col-6">
+                               <div class="col-md-3">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 8</h5>
                                           <img src="../assets/images/oddo/delivery.png" class="mb-2" alt="">
