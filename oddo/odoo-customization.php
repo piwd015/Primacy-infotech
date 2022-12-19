@@ -34,7 +34,7 @@
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
                   background-size:100% 90%;">
                <div class="container-fluid px-md-5 px-3 py-md-5">
-                    <div class="row d-flex flex-wrap flex-column-reverse">
+                    <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                             <div class="col-lg-7 col-md-7 mb-md-0 mb-1">
                                 <h1 style="color:#000;">Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
                                 <ul class="d-block pl-0 py-md-4">
