@@ -31,26 +31,21 @@
     </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="oddo-imple-bnr odo-cstomze-bnr py-5 mt-md-0 mt-4" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
+        <section class="odo-migr odo-cstomze-bnr py-5 mt-md-0 mt-4" style="background:url('../assets/images/oddo/odoo-customize-banner.jpg') no-repeat 0 100%;
                   background-size:100% 90%;">
                   <div class="container-fluid px-md-5 px-3 py-md-5">
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                            <div class="col-lg-7 col-md-7 mb-md-0 mb-1">
-                                <h1 style="color:#000;">Top Rated Odoo <strong>Customization Company</strong> in the us</h1>
+                            <div class="col-lg-5 col-md-5"></div>
+                        <div class="col-lg-7 col-md-7">
+                                <h1 class="w-100 d-block pb-2">Odoo Data Migration</h1>
                                 <ul class="d-block pl-0 py-md-4">
-                                    <li style="color:#000;">Highly Experienced Odoo Developers</li>
-                                    <li style="color:#000;">Bug Free Odoo ERP Code</li>
-                                    <li style="color:#000;">Ontime ERP Project Delivery</li>
-                                    <li style="color:#000;">Upgrade Your Existing ERP</li>
-                                    <li style="color:#000;">Add New Funtionality To Your<br/> Business Process</li>
-                                    <li style="color:#000;">Increase your Productivity and<br/> Improve your Workflow</li>
+                                    <li>Data migration from legacy systems to Odoo ERP</li>
+                                    <li>Data migration from other ERPs to Odoo</li>
+                                    <li>Data migration from disconnected multiple apps to Odoo ERP</li>
+                                    <li>Data migration from older version of Odoo to current stable version</li>
+                                    <li>Data migration from Odoo Community to Odoo Enterprise</li>
                                 </ul>
-                            </div>
-                            <div class="col-lg-5 col-md-5">
-                                  <div class="customz-bnr-right">
-                                        <img src="../assets/images/oddo/odoo-customize-banner-right.png" alt="">
-                                  </div>
-                            </div>
+                        </div>
                     </div>
                </div>
         </section>
