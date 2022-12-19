@@ -382,56 +382,40 @@
                     </div>
              </div>
     </section>
-    <!-- <section class="py-md-5 py-3">
-               <div class="container rdy-prt">
-                        <div class="row">
-                               <div class="col-md-7">
-                                        <h2 class="w-100 d-block text-left pb-4">WHAT'S THE ADVANTAGE OF AN <strong>ODOO READY PARTNER?</strong></h2>
-                                        <p class="d-block pb-2">Odoo Ready Partners get special pricing on Enterprise licenses. As an Odoo Ready Partner, Primacy Infotech always gets the best licensing cost for our customers. This is possible by transferring the discount to the end customer.
-                               </p>
-                                        <p class="d-block pb-4">The status “Odoo Ready Partner” means you are with the right people to make your Odoo implementation a success. Whether it’s a small or large project, partners with Ready status have the necessary experience in requirements gathering, gap analysis, customization, implementation, training, ongoing support, and maintenance. At Primacy Infotech, we make a point to have training (onsite or offsite), project management, user acceptance testing and ongoing support options embedded in our Odoo ERP implementation proposal.
-                               </p>
-                               <a href="#">Hire Oddo Developer<i class="pl-3 fas fa-external-link-alt"></i></a>
-                               </div>
-                               <div class="col-md-5">
-                                        <img src="../assets/images/oddo/gold-partner.png" alt="">
-                               </div>
-                        </div>
-               </div>
-    </section> -->
+
       <section class="erp-imp">
       	     <div class="container">
-      	     	   <h2 class="w-100 d-block text-center">WHAT MAKES US THE BEST</h2>
-      	     	   <h2 class="w-100 d-block text-center pb-3"><strong>ODOO ERP IMPLEMENTATION COMPANY?</strong></h2>
-      	     	   <p class="w-100 d-block text-center px-md-5">At Primacy Infotech, we love Open Source software. We have been implementing Odoo for the last 8+ years with a clear focus on businesses specializing in the manufacturing, retail,
+      	     	   <h2 class="w-100 d-block text-center" data-aos="fade-down">WHAT MAKES US THE BEST</h2>
+      	     	   <h2 class="w-100 d-block text-center pb-3" data-aos="fade-down"><strong>ODOO ERP IMPLEMENTATION COMPANY?</strong></h2>
+      	     	   <p class="w-100 d-block text-center px-md-5" data-aos="fade-up">At Primacy Infotech, we love Open Source software. We have been implementing Odoo for the last 8+ years with a clear focus on businesses specializing in the manufacturing, retail,
                     wholesale, e-commerce and services industries.</p>
       	     	   <div class="row d-flex flex-wrap justify-content-center">
       	     	   	     <div class="col-lg-10 col-md-10">
       	     	   	     	  <div class="row">
 			      	     	   	     <div class="col-md-6 pb-md-0 pb-3">
 			      	     	   	     	   <ul class="w-100 d-block pl-0">
-			      	     	   	     	   	    <li class="pb-3"><dd><img src="../assets/images/oddo/erp-icon-01.png" alt=""></dd>We request that you talk to our existing Odoo customers first to learn about their experience using Primacy Infotech for their Odoo customization.</li>
-			      	     	   	     	   	    <li class="pb-md-3"><dd><img src="../assets/images/oddo/erp-icon-02.png" alt=""></dd>No third-party outsourcing on design, development or support/maintenance.</li>
-			      	     	   	     	   	    <li class="pb-3 mt-3"><dd><img src="../assets/images/oddo/erp-icon-03.png" alt=""></dd>Work for Hire - You own the intellectual property rights to your application. We do not reuse or sell your code or data.</li>
-			      	     	   	     	   	    <li class="pb-3"><dd><img src="../assets/images/oddo/erp-icon-04.png" alt=""></dd>Excellent experience working on small to large projects from SMBs to Fortune 100 companies.</li>
-			      	     	   	     	        <li class="pb-md-3"><dd><img src="../assets/images/oddo/erp-icon-05.png" alt=""></dd>State of the art infrastructure to protect your code, data and intellectual property.</li>
-			      	     	   	     	        <li class="pb-5 mt-3"><dd><img src="../assets/images/oddo/erp-icon-06.png" alt=""></dd>High quality custom code.</li>
-			      	     	   	     	        <li class="pb-3 mt-2"><dd><img src="../assets/images/oddo/erp-icon-07.png" alt=""></dd>Hands-on experience in Indian Finance, Accounting and Taxes using Odoo.</li>
-			      	     	   	     	        <li class="pb-md-5 pb-3 mt-2"><dd><img src="../assets/images/oddo/erp-icon-08.png" alt=""></dd>Primary office in India, bangladesh, Canada, UK.</li>
-			      	     	   	     	        <li class="mt-2"><dd><img src="../assets/images/oddo/erp-icon-09.png" alt=""></dd>Hands-on experience supporting manufacturers, retailers, wholesalers and e-commerce companies in the India, bangladesh, Canada, UK.</li>
+			      	     	   	     	   	    <li class="pb-3" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-01.png" alt=""></dd>We request that you talk to our existing Odoo customers first to learn about their experience using Primacy Infotech for their Odoo customization.</li>
+			      	     	   	     	   	    <li class="pb-md-3" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-02.png" alt=""></dd>No third-party outsourcing on design, development or support/maintenance.</li>
+			      	     	   	     	   	    <li class="pb-3 mt-3" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-03.png" alt=""></dd>Work for Hire - You own the intellectual property rights to your application. We do not reuse or sell your code or data.</li>
+			      	     	   	     	   	    <li class="pb-3" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-04.png" alt=""></dd>Excellent experience working on small to large projects from SMBs to Fortune 100 companies.</li>
+			      	     	   	     	        <li class="pb-md-3" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-05.png" alt=""></dd>State of the art infrastructure to protect your code, data and intellectual property.</li>
+			      	     	   	     	        <li class="pb-5 mt-3" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-06.png" alt=""></dd>High quality custom code.</li>
+			      	     	   	     	        <li class="pb-3 mt-2" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-07.png" alt=""></dd>Hands-on experience in Indian Finance, Accounting and Taxes using Odoo.</li>
+			      	     	   	     	        <li class="pb-md-5 pb-3 mt-2" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-08.png" alt=""></dd>Primary office in India, bangladesh, Canada, UK.</li>
+			      	     	   	     	        <li class="mt-2" data-aos="fade-right"><dd><img src="../assets/images/oddo/erp-icon-09.png" alt=""></dd>Hands-on experience supporting manufacturers, retailers, wholesalers and e-commerce companies in the India, bangladesh, Canada, UK.</li>
 
 			      	     	   	     	   </ul>
 			      	     	   	     </div>
 			      	     	   	     <div class="col-md-6">
 			      	     	   	     	   <ul class="w-100 d-block pl-0">
-			      	     	   	     	   	    <li class="pb-4"><dd><img src="../assets/images/oddo/erp-icon-10.png" alt=""></dd>Strict NDA and contract with the jurisdiction set to your own state in the India.</li>
-			      	     	   	     	   	    <li class="pb-md-5 pb-3"><dd><img src="../assets/images/oddo/erp-icon-11.png" alt=""></dd>All projects are insured by a third party.</li>
-			      	     	   	     	   	    <li class="pb-md-3 mt-2"><dd><img src="../assets/images/oddo/erp-icon-12.png" alt=""></dd>With our global presence, we are affordable for startups, to SMBs, to large corporations.</li>
-			      	     	   	     	   	    <li class="pb-md-3 mt-2"><dd><img src="../assets/images/oddo/erp-icon-13.png" alt=""></dd>In-house team who can prototype, design, develop, test and deploy your solution.</li>
-			      	     	   	     	   	    <li class="pb-3 mt-3"><dd><img src="../assets/images/oddo/erp-icon-14.png" alt=""></dd>8+ years in the industry.</li>
-			      	     	   	     	   	    <li class="pb-md-3 mt-5"><dd><img src="../assets/images/oddo/erp-icon-15.png" alt=""></dd>No Odoo core module hacking.</li>
-			      	     	   	     	        <li class="pb-md-3 mt-5"><dd><img src="../assets/images/oddo/erp-icon-16.png" alt=""></dd>Quick turnaround time.</li>
-			      	     	   	     	        <li class="pb-3 mt-2"><dd><img src="../assets/images/oddo/erp-icon-17.png" alt=""></dd>Hands-on experience with third party integrations like Prestashop, Magento, Avalara, Taxcloud, Salesforce, ADP, etc.</li>
+			      	     	   	     	   	    <li class="pb-4" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-10.png" alt=""></dd>Strict NDA and contract with the jurisdiction set to your own state in the India.</li>
+			      	     	   	     	   	    <li class="pb-md-5 pb-3" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-11.png" alt=""></dd>All projects are insured by a third party.</li>
+			      	     	   	     	   	    <li class="pb-md-3 mt-2" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-12.png" alt=""></dd>With our global presence, we are affordable for startups, to SMBs, to large corporations.</li>
+			      	     	   	     	   	    <li class="pb-md-3 mt-2" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-13.png" alt=""></dd>In-house team who can prototype, design, develop, test and deploy your solution.</li>
+			      	     	   	     	   	    <li class="pb-3 mt-3" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-14.png" alt=""></dd>8+ years in the industry.</li>
+			      	     	   	     	   	    <li class="pb-md-3 mt-5" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-15.png" alt=""></dd>No Odoo core module hacking.</li>
+			      	     	   	     	        <li class="pb-md-3 mt-5" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-16.png" alt=""></dd>Quick turnaround time.</li>
+			      	     	   	     	        <li class="pb-3 mt-2" data-aos="fade-left"><dd><img src="../assets/images/oddo/erp-icon-17.png" alt=""></dd>Hands-on experience with third party integrations like Prestashop, Magento, Avalara, Taxcloud, Salesforce, ADP, etc.</li>
 			      	     	   	     	   </ul>
 			      	     	   	     </div>
 		      	     	   	    </div>
@@ -441,53 +425,48 @@
       </section>
       <section class="odo-intgr w-100 d-block py-md-5 py-3">
       	   <div class="container">   	   	    
-    	 	    <h2 class="w-100 d-block text-center pb-md-4 pb-2"><strong>Industries</strong> we helped with <strong>Oddo</strong></h2>
+    	 	    <h2 class="w-100 d-block text-center pb-md-4 pb-2" data-aos="fade-down"><strong>Industries</strong> we helped with <strong>Oddo</strong></h2>
     	 	    <div class="row">
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/Manufacturing.png" alt=""><span class="w-100 d-block text-center pt-3">Manufacturing</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/retail.png" alt=""><span class="w-100 d-block text-center pt-3">Retail</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/wholesale.png" alt=""><span class="w-100 d-block text-center pt-3">Wholesale</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/E-Commerce.png" alt=""><span class="w-100 d-block text-center pt-3">E-Commerce</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/telecom.png" alt=""><span class="w-100 d-block text-center pt-3">Telecom</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/construction.png" alt=""><span class="w-100 d-block text-center pt-3">Construction</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/fmcg.png" alt=""><span class="w-100 d-block text-center pt-3">FMCG</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
+	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4" data-aos="zoom-out">
 	   	    	 	  	   <div class="indus-logo">
 	   	    	 	  	   	     <img src="../assets/images/oddo/trading.pmg" alt=""><span class="w-100 d-block text-center pt-3">Trading</span>
 	   	    	 	  	   </div>
 	   	    	 	  </div>
-	   	    	 	  <!-- <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/healthcare.png" alt=""><span class="w-100 d-block text-center pt-3">Healthcare</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div> -->
     	 	    </div>     	   	    
       	   </div>
       </section>
