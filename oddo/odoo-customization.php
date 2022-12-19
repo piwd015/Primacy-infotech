@@ -46,6 +46,11 @@
                                     <li style="color:#000;">Increase your Productivity and<br/> Improve your Workflow</li>
                                 </ul>
                             </div>
+                            <div class="col-lg-4 col-md-4">
+                                  <div class="customz-bnr-right">
+                                        <img src="../assets/images/oddo/odoo-customize-banner-right.png" alt="">
+                                  </div>
+                            </div>
                     </div>
                </div>
         </section>
