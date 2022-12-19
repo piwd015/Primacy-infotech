@@ -472,9 +472,9 @@
       </section>
       <section class="w-100 d-block pt-md-5 pt-3" id="implementationprocess">
       	       <div class="container">
-                    <h2 class="hdr-txt w-100 d-block text-center pb-md-5 pb-2">Our <strong>Odoo</strong> ERP <strong>Implementation</strong> Process</h2>
+                    <h2 class="hdr-txt w-100 d-block text-center pb-md-5 pb-2" data-aos="fade-down">Our <strong>Odoo</strong> ERP <strong>Implementation</strong> Process</h2>
                         <div class="col-md-12 d-flex flex-wrap justify-content-center">
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-right">
                                     <i><img src="../assets/images/oddo/understand-icon.png" alt=""></i>
                                     <div class="time-arrow">
                                            <span class="w-100 d-block text-center ">Requirement<br/>Understand</span>
@@ -486,7 +486,7 @@
                                           <img src="../assets/images/oddo/step-01-curbe-box.png">
                                     </div>
                               </div>
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-left">
                                     <i><img src="../assets/images/oddo/analizing-icon.png" alt=""></i>
                                     <div class="time-arrow">
                                            <span class="w-100 d-block text-center ">Analizing &<br/> Documentation</span>
@@ -499,7 +499,7 @@
                                           <img src="../assets/images/oddo/step-02-curbe-box.png">
                                     </div>
                               </div>
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-right">
                                     <i><img src="../assets/images/oddo/data-import.png" alt=""></i>
                                     <div class="time-arrow">
                                         <span class="w-100 d-block text-center ">Recomendation<br/> & Data import</span>
@@ -512,7 +512,7 @@
                                         <img src="../assets/images/oddo/step-03-curbe-box.png">
                                     </div>
                                 </div>
-                                <div class="time-lin-box position-relative">
+                                <div class="time-lin-box position-relative" data-aos="zoom-out-left">
                                     <i><img src="../assets/images/oddo/customization-icon-02.png" alt=""></i>
                                     <div class="time-arrow">
                                         <span class="w-100 d-block text-center ">Development<br/>& Customization</span>
