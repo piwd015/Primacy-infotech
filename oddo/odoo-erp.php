@@ -565,9 +565,9 @@
       </section>
       <section class="w-100 d-block pb-md-5 mb-md-5">
       	     <div class="container odo-faq">
-      	     	   <h2 class="w-100 d-block text-center pb-md-4"><dd class="mr-md-3 mr-1"></dd>Frequently Asked Questions<dd class="ml-md-3 ml-1"></dd></h2>
+      	     	   <h2 class="w-100 d-block text-center pb-md-4" data-aos="fade-down"><dd class="mr-md-3 mr-1"></dd>Frequently Asked Questions<dd class="ml-md-3 ml-1"></dd></h2>
       	     	   <div id="accordion" role="tablist" aria-multiselectable="true">          
-				          <div class="card">
+				          <div class="card" data-aos="fade-up">
 					            <div class="card-header" role="tab" id="accordionHeadingOne">
 						              <div class="mb-0 row">
 							                <div class="col-12 no-padding accordion-head">
@@ -585,7 +585,7 @@
 						              </div>
 					            </div>
 				          </div>          
-				          <div class="card">
+				          <div class="card" data-aos="fade-up">
 					            <div class="card-header" role="tab" id="accordionHeadingTwo">
 						              <div class="mb-0 row">
 							                <div class="col-12 no-padding accordion-head">
@@ -603,7 +603,7 @@
 						              </div>
 					            </div>
 				          </div>          
-				          <div class="card">
+				          <div class="card" data-aos="fade-up">
 					            <div class="card-header" role="tab" id="accordionHeadingThree">
 						              <div class="mb-0 row">
 							                <div class="col-12 no-padding accordion-head">
@@ -621,7 +621,7 @@
 						              </div>
 					            </div>
 				          </div>
-				          <div class="card">
+				          <div class="card" data-aos="fade-up">
 					            <div class="card-header" role="tab" id="accordionHeadingFour">
 						              <div class="mb-0 row">
 							                <div class="col-12 no-padding accordion-head">
