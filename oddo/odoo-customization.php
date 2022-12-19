@@ -139,7 +139,7 @@
                              <div class="col-md-3 col-6">
                                    <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                          <h5 class="d-block pb-1">Step 1</h5>
-                                         <img src="assets/images/oddo/gathering.png"
+                                         <img src="../assets/images/oddo/gathering.png"
                                          <h2 class="d-block pb-2">Requirement Gathering</h2>
                                          <p>We will schedule a meeting with you and our technical team,
                                              to gather information on your needs and requirements.</p>
