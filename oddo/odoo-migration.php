@@ -59,6 +59,14 @@
                              <li class="pb-3">Is your current ERP system really paying off?</li>
                              <li class="pb-3">Is your current Odoo ERP version sufficient for your business growth?</li>
                        </ul>
+                       <p class="d-block pb-2">If your ERP system has become high maintenance,
+                           limits your flexibility, or inhibits customer service, then migration
+                           is the only answer.</p>
+                       <p class="d-block pb-2">It is true that migrating and cleaning up ERP data
+                           can be costly, but it is worthwhile if performed meticulously.</p>
+                       <p class="d-block pb-2">If you are using Odoo or are planning to switch
+                           to Odoo, ERP migration and upgradation are inevitable factors as Odoo
+                           releases new versions yearly.</p>
                 </div>
         </section>
         <section class="w-100 d-block py-md-5 pt-0 pb-3">
