@@ -67,7 +67,7 @@
                               </div>
                         </div>
                   </div>
-                   <div class="row">
+                   <div class="row pt-md-5 pt-3">
                            <div class="col-md-6">
                                <div class="migra-Img">
                                    <img src="../assets/images/oddo/migrationImg-02.jpg" alt="">
@@ -83,7 +83,7 @@
                                    to operate in the new version.</p>
                            </div>
                    </div>
-                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
+                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-5 pt-3">
                            <div class="col-md-6 migra-Cont-Area pt-3">
                                <h2 class="w-100 d-block pb-2">Migration Testing</h2>
                                <p class="d-block">Even if all the modifications in the
@@ -100,6 +100,25 @@
                                    </div>
                            </div>
                    </div>
+                <div class="row pt-md-5 pt-3">
+                    <div class="col-md-6">
+                        <div class="migra-Img">
+                            <img src="../assets/images/oddo/migrationImg-04.jpg" alt="">
+                        </div>
+                    </div>
+                    <div class="col-md-6 migra-Cont-Area pt-3">
+                        <h2 class="w-100 d-block pb-2">Importance of Migration</h2>
+                        <p class="d-block">The Odoo migration allows the users to upgrade to the
+                            new version of Odoo which is better, faster, and more reliable than the
+                            previous one. Odoo is a management software that keeps on updating with
+                            new versions, inculcating advanced operations. and adding new features
+                            that will help to run the business more effectively. Therefore this would
+                            be beneficial for the user as it will improve the productivity of the company.
+                            In addition the migration will result in less time consumption Odoo operations,
+                            simplification in operations terminologies, and additionally with integration
+                            from the advancement in the company operations.</p>
+                    </div>
+                </div>
             </div>
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
