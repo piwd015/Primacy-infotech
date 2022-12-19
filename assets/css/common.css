@@ -2087,7 +2087,7 @@ background: url("../images/oddo/bullet.png") no-repeat 0 2px;}
 
 .migra-pros-txt{font-size:35px; color:#000; font-weight:700; text-transform:uppercase;}
 ul.migra-pros{}
-ul.migra-pros img{width:80px; display:block;}
+ul.migra-pros img{width:80px; display:block; margin-bottom: 10px;}
 ul.migra-pros h3{font-size:25px; color:#000; font-weight:600;}
 ul.migra-pros li{display:block; background:url("../images/oddo/bullet-02.png") no-repeat 0 0;
 font-size:15px; color:#000; padding-left:25px;}
