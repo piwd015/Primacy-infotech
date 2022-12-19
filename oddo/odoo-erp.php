@@ -201,7 +201,7 @@
       <section class="grey-bg w-100 d-block py-md-5 py-3">
              <div class="container">
                       <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                              <div class="col-lg-6 col-md-6 prtns">
+                              <div class="col-lg-6 col-md-6 prtns" data-aos="fade-down">
                                       <h2 class="d-block pb-md-3 pb-2">HOW WE CAN HELP AS AN ODOO READY PARTNER WITH IMPLEMENTING</h2>
                                       <p class="d-block pb-md-3 pb-2">Odoo Partners are trained and have the experience and knowledge in implementing the Odoo ERP system successfully for their customers. They have to follow standards and best practices while implementing Odoo for their end customer.</p>
                                       <p class="d-block pb-md-3 pb-2">Compared to non-Odoo Partners, Odoo Partners have to always keep a high level of standards as they are answerable to Odoo Inc. in case of project failure
@@ -220,14 +220,14 @@
                               </ul>
                              </div>
                              <div class="col-lg-6 col-md-6 h-100 d-flex align-self-center">
-                                      <div class="comp-systm"><img src="../assets/images/oddo/comp-systm.png" alt=""></div>
+                                      <div class="comp-systm" data-aos="zoom-in"><img src="../assets/images/oddo/comp-systm.png" alt=""></div>
                              </div>
                       </div>
              </div>
       </section>
       <section class="pt-md-5 pt-3 pb-md-0 pb-3">
               <div class="container">
-                    <h2 class="hdr-txt w-100 d-block text-center pb-4">Our related <strong>Odoo ERP Implementation services</strong></h2>
+                    <h2 class="hdr-txt w-100 d-block text-center pb-4" data-aos="fade-down">Our related <strong>Odoo ERP Implementation services</strong></h2>
                        <ul class="tabs w-100 d-block">
                           <li class="tab current" data-tab="tab-1"><i class='fab fa-app-store'></i>Oddo<br/>Apps</li>
                           <li class="tab" data-tab="tab-2"><i class='fab fa-app-store'></i>Oddo<br/>Customization</li>
@@ -235,7 +235,7 @@
                           <li class="tab" data-tab="tab-4"><i class='fab fa-app-store'></i>Oddo Integration<br/>& Data Migration</li>
                           <li class="tab" data-tab="tab-5"><i class='fab fa-app-store'></i> Oddo Support<br/>& Maintenance</li>
                     </ul>
-                    <div id="tab-1" class="tab-content3 current">
+                    <div id="tab-1" class="tab-content3 current" data-aos="flip-left">
                             <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Apps</strong></h2>
@@ -248,7 +248,7 @@
                                   </div>
                             </div>
                     </div>
-                    <div id="tab-2" class="tab-content3">
+                    <div id="tab-2" class="tab-content3" data-aos="flip-right">
                              <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>customization</strong></h2>
@@ -261,7 +261,7 @@
                                   </div>
                             </div>
                     </div>
-                    <div id="tab-3" class="tab-content3">
+                    <div id="tab-3" class="tab-content3" data-aos="flip-up">
                              <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Training</strong></h2>
@@ -274,7 +274,7 @@
                                   </div>
                              </div>
                     </div>
-                   <div id="tab-4" class="tab-content3">
+                   <div id="tab-4" class="tab-content3" data-aos="flip-down">
                            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Integration & Migration</strong></h2>
@@ -287,7 +287,7 @@
                                   </div>
                              </div>
                    </div>
-                   <div id="tab-5" class="tab-content3">
+                   <div id="tab-5" class="tab-content3" data-aos="flip-left">
                            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Support & Maintenance</strong></h2>
