@@ -53,7 +53,7 @@
         <section class="w-100 d-block py-md-5 pt-0 pb-3">
             <div class="container">
                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                        <div class="col-md-6 migra-Cont-Area d-flex flex-wrap align-items-center">
+                        <div class="col-md-6 migra-Cont-Area pt-3">
                               <h2 class="w-100 d-block pb-2">Migrate Your Website</h2>
                               <p class="d-block">With An Experience Of 9+ Years, Uncanny Can Handle Any
                                   Type Of Odoo Migration. We Ensure To Keep All Your Data
