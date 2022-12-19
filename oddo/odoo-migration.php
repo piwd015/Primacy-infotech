@@ -32,18 +32,18 @@
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5 mt-md-0 mt-4" style="background:url('../assets/images/oddo/odoo-migration-bg.jpg') no-repeat 0 100%;
-                  background-size:100% 90%;">
+                  background-size:100% 90%; height: auto;">
                   <div class="container-fluid px-md-5 px-3 py-md-5">
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                             <div class="col-lg-5 col-md-5"></div>
                         <div class="col-lg-7 col-md-7">
-                                <h1 class="w-100 d-block pb-2">Odoo Data Migration</h1>
+                                <h1 class="w-100 d-block pb-2" style="color:#ba1419;">Odoo Data Migration</h1>
                                 <ul class="d-block pl-0 py-md-4">
-                                    <li>Data migration from legacy systems to Odoo ERP</li>
-                                    <li>Data migration from other ERPs to Odoo</li>
-                                    <li>Data migration from disconnected multiple apps to Odoo ERP</li>
-                                    <li>Data migration from older version of Odoo to current stable version</li>
-                                    <li>Data migration from Odoo Community to Odoo Enterprise</li>
+                                    <li class="pb-2" style="color:#ba1419;">Data migration from legacy systems to Odoo ERP</li>
+                                    <li class="pb-2" style="color:#ba1419;">Data migration from other ERPs to Odoo</li>
+                                    <li class="pb-2" style="color:#ba1419;">Data migration from disconnected multiple apps to Odoo ERP</li>
+                                    <li class="pb-2" style="color:#ba1419;">Data migration from older version of Odoo to current stable version</li>
+                                    <li class="pb-2" style="color:#ba1419;">Data migration from Odoo Community to Odoo Enterprise</li>
                                 </ul>
                         </div>
                     </div>
