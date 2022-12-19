@@ -36,10 +36,10 @@
 <link rel="stylesheet" type="text/css" href="../assets/css/common.css">
 <script type="text/javascript" src="../assets/js/customize.js"></script>
  <div class="page-body mb-5">
-		<section class="oddo-imple-bnr">
+		<section class="oddo-imple-bnr" data-aos="fade-up">
 			  <div class="container">
 			  	    <div class="row">
-			  	    	  <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
+			  	    	  <div class="col-lg-8 col-md-8 mb-md-0 mb-1" data-aos="fade-right">
 			  	    	  	    <h1>The Best User Friendly  ERP - Odoo ERP</h1>
 			  	    	  	    <ul class="d-block pl-0 py-md-4">
 			  	    	  	    	  <li>7 Million users around the Globe,</li>
@@ -51,7 +51,7 @@
 			  	    	  	    </ul>
 			  	    	  	    <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
 			  	    	  </div>
-			  	    	  <div class="col-lg-4 col-md-4">
+			  	    	  <div class="col-lg-4 col-md-4" data-aos="fade-left">
 			  	    	  	    <div class="consl-fm w-100 d-block p-4">
 			  	    	  	    	   <h2 class="w-100 d-block text-center">Get Free Consultation</h2>
 			  	    	  	    	   <form action="" method="post" id="con_form">
