@@ -1863,6 +1863,8 @@ font-weight:700;}
  left:0px; right:0px; bottom:-8px; margin:0 auto; z-index:10;}
 .team-bg h1:after{content:""; width:6%; height:3px; background:#f6934f; position:absolute;
 left:0px; right:0px; bottom:-5px; margin:0 auto;}
+.team-banner{width:100%;}
+.team-banner img{width:100%; display: block;}
 
 /*-------------our team section-------------*/
 .content {

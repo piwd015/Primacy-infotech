@@ -35,11 +35,7 @@
     <div class="page-body">
             <section class="aboutImg-01" data-aos="fade-down">
                  <div class="container-fluid">
-                       <h1 class="w-100 d-block text-center" data-aos="fade-down">We Create<br/>
-                       <span class="w-100 d-block text-center" data-aos="fade-up"><strong>Innovation</strong><br/>
-                           In Every <strong>Step</strong>
-                       </span>
-                       </h1>
+
                  </div>
              </section>
             <section class="team-bg w-100 d-block py-md-5 py-3">
