@@ -245,7 +245,7 @@
                                            <li class="pb-2">Do you have any studio customizations?</li>
                                      </ul>
                                </div>
-                              <div class="col-md-6 pl-md-3">
+                              <div class="col-md-6 pl-md-5">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-02.png" alt="">
                                           <h3 class="w-100 d-block py-3">4. System Configuration</h3>
