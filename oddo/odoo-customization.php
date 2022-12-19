@@ -85,7 +85,7 @@
                          <div class="col-md-6">
                                <div class="customz-box p-md-4 p-3 mb-4">
                                       <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                                      <h5 class="w-100 d-block text-center py-md-4 py-2">Odoo CRM Customization</h5>
+                                      <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo CRM Customization</h5>
                                       <p class="d-block text-justify">With The Help Of A
                                           Customer-Relationship Management Tool, You Can Create
                                           A Healthy And Personal Relationship With Your Customers.
