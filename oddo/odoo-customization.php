@@ -145,7 +145,26 @@
                                              to gather information on your needs and requirements.</p>
                                    </div>
                              </div>
-                             <div class="col-md-3 col-6"></div>
+                             <div class="col-md-3 col-6">
+                                     <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                            <h5 class="d-block pb-1">Step 2</h5>
+                                            <img src="../assets/images/oddo/gathering.png" class="mb-2" alt="">
+                                            <h2 class="d-block pt-2">GAP Analysis</h2>
+                                            <p>We analyze the gap between the available features of Odoo
+                                                and your requirements.</p>
+                                     </div>
+                               </div>
+                              <div class="col-md-3 col-6">
+                                  <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                      <h5 class="d-block pb-1">Step 3</h5>
+                                      <img src="../assets/images/oddo/gathering.png" class="mb-2" alt="">
+                                      <h2 class="d-block pt-2">Feasibility Study</h2>
+                                      <p>A study on the feasibility to do the requested
+                                          modifications in Odoo without, compromising the
+                                          performance as well as breaking default functionalities
+                                          of the platform.</p>
+                                  </div>
+                              </div>
                       </div>
                 </div>
         </section>
