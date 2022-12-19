@@ -2453,7 +2453,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .content-details h3{font-size:12px;}
  .content-details p{font-size:12px;}
  .customz-box{height:auto;}
- .customz-box .customz-boxImg{width:60px; height:60px;}
+ .customz-box > p{font-size:13px;}
+ .customz-box h5{font-size:15px;}
 }
 
 @media screen and (max-height: 450px) {

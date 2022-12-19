@@ -83,7 +83,7 @@
                   <h2 class="w-100 d-block text-center pb-3 mb-5">A GLIMPSE OF OUR <strong>ODOO CUSTOMIZATION</strong> SOLUTIONS</h2>
                   <div class="row">
                          <div class="col-md-6">
-                               <div class="customz-box p-md-4 p-2 mb-4">
+                               <div class="customz-box p-md-4 p-3 mb-4">
                                       <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
                                       <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo CRM Customization</h5>
                                       <p class="d-block text-justify">With The Help Of A
@@ -96,7 +96,7 @@
                                </div>
                          </div>
                          <div class="col-md-6">
-                              <div class="customz-box p-md-4 p-2 mb-4">
+                              <div class="customz-box p-md-4 p-3 mb-4">
                                   <div class="customz-boxImg"><img src="../assets/images/oddo/report.png" alt=""></div>
                                   <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Report Customization</h5>
                                   <p class="d-block text-justify">One Of The Most Important
@@ -108,7 +108,7 @@
                               </div>
                       </div>
                          <div class="col-md-6">
-                          <div class="customz-box p-md-4 p-2 mb-4">
+                          <div class="customz-box p-md-4 p-3 mb-4">
                                <div class="customz-boxImg"><img src="../assets/images/oddo/invoice.png" alt=""></div>
                                <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Invoice Customization</h5>
                                <p class="d-block text-justify">Generally, Businesses Have Their
@@ -118,7 +118,7 @@
                               </div>
                          </div>
                          <div class="col-md-6">
-                          <div class="customz-box p-md-4 p-2 mb-4">
+                          <div class="customz-box p-md-4 p-3 mb-4">
                               <div class="customz-boxImg"><img src="../assets/images/oddo/pos.png" alt=""></div>
                               <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo POS Customization</h5>
                               <p class="d-block text-justify">Talking About Point Of Sales,
