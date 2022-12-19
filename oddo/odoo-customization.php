@@ -203,7 +203,7 @@
                                <div class="col-md-3 col-6">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 8</h5>
-                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <img src="../assets/images/oddo/delivery.png" class="mb-2" alt="">
                                           <h2 class="d-block pt-2">Delivery</h2>
                                           <p>The completed and tested modules will be delivered to you.</p>
                                       </div>
