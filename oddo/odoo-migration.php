@@ -234,7 +234,7 @@
                      <h2 class="migra-pros-txt w-100 d-block text-center pb-md-4 pb-2">Odoo Migration
                          Process</h2>
                      <div class="row">
-                               <div class="col-md-6">
+                               <div class="col-md-6 mb-3">
                                      <ul class="migra-pros w-100 d-block pl-0">
                                            <img src="../assets/images/oddo/migra-pross-01.png" alt="">
                                            <h3 class="w-100 d-block py-3">1. Migration Assessment and Assistance</h3>
