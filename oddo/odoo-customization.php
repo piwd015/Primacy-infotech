@@ -80,7 +80,7 @@
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
             <div class="container">
-                  <h2 class="w-100 d-block text-center pb-3 mb-5">A GLIMPSE OF OUR <strong>ODOO CUSTOMIZATION</strong> SOLUTIONS</h2>
+                  <h2 class="w-100 d-block text-center pb-3 mb-md-5 mb-3">A GLIMPSE OF OUR <strong>ODOO CUSTOMIZATION</strong> SOLUTIONS</h2>
                   <div class="row">
                          <div class="col-md-6">
                                <div class="customz-box p-md-4 p-3 mb-4">
@@ -98,7 +98,7 @@
                          <div class="col-md-6">
                               <div class="customz-box p-md-4 p-3 mb-4">
                                   <div class="customz-boxImg"><img src="../assets/images/oddo/report.png" alt=""></div>
-                                  <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Report Customization</h5>
+                                  <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Report Customization</h5>
                                   <p class="d-block text-justify">One Of The Most Important
                                       Segments Of A Business Enterprise Is Reporting. It Plays
                                       An Essential Role In Making Strategic Decisions Regarding
@@ -110,7 +110,7 @@
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-3 mb-4">
                                <div class="customz-boxImg"><img src="../assets/images/oddo/invoice.png" alt=""></div>
-                               <h5 class="w-100 d-block text-center py-md-4 py-3">Odoo Invoice Customization</h5>
+                               <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Invoice Customization</h5>
                                <p class="d-block text-justify">Generally, Businesses Have Their
                                    Individual Invoice Templates. We At Uncanny Can Help You With
                                    The Modification Of The Odoo Stock Template. We Ensure That
@@ -120,7 +120,7 @@
                          <div class="col-md-6">
                           <div class="customz-box p-md-4 p-3 mb-4">
                               <div class="customz-boxImg"><img src="../assets/images/oddo/pos.png" alt=""></div>
-                              <h5 class="w-100 d-block text-center py-md-4 py-2">Odoo POS Customization</h5>
+                              <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo POS Customization</h5>
                               <p class="d-block text-justify">Talking About Point Of Sales,
                                   Receipts Can Be Printed With The Help Of A Basic Desktop
                                   And Printer. But, According To Globally Accepted Standards,
