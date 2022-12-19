@@ -54,10 +54,10 @@
                 <div class="container migra-nessry">
                        <h2 class="w-100 d-block pb-3">Why is Odoo Migration necessary?</h2>
                        <ul class="w-100 d-block pl-0">
-                             <li class="pb-2">Are you still using legacy systems to maintain your business data?</li>
-                             <li class="pb-2">Do you want to move to a next-gen, cloud-native system?</li>
-                             <li class="pb-2">Is your current ERP system really paying off?</li>
-                             <li class="pb-2">Is your current Odoo ERP version sufficient for your business growth?</li>
+                             <li class="pb-3">Are you still using legacy systems to maintain your business data?</li>
+                             <li class="pb-3">Do you want to move to a next-gen, cloud-native system?</li>
+                             <li class="pb-3">Is your current ERP system really paying off?</li>
+                             <li class="pb-3">Is your current Odoo ERP version sufficient for your business growth?</li>
                        </ul>
                 </div>
         </section>
