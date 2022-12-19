@@ -145,7 +145,7 @@
                                              to gather information on your needs and requirements.</p>
                                    </div>
                              </div>
-                             <div class="col-md-3 col-6">
+                             <div class="col-md-3 col-6 mb-4">
                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                             <h5 class="d-block pb-1">Step 2</h5>
                                             <img src="../assets/images/oddo/gap-analysis.png" class="mb-2" alt="">
@@ -154,7 +154,7 @@
                                                 and your requirements.</p>
                                      </div>
                                </div>
-                               <div class="col-md-3 col-6">
+                               <div class="col-md-3 col-6 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 3</h5>
                                           <img src="../assets/images/oddo/festibility-study.png" class="mb-2" alt="">
@@ -165,7 +165,7 @@
                                               of the platform.</p>
                                       </div>
                                </div>
-                               <div class="col-md-3 col-6">
+                               <div class="col-md-3 col-6 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 4</h5>
                                           <img src="../assets/images/oddo/estimation.png" class="mb-2" alt="">
@@ -180,6 +180,32 @@
                                           <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
                                           <h2 class="d-block pt-2">Customer Approval</h2>
                                           <p>We wait for your approval to proceed further.</p>
+                                      </div>
+                               </div>
+                               <div class="col-md-3 col-6">
+                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                          <h5 class="d-block pb-1">Step 6</h5>
+                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <h2 class="d-block pt-2">Development</h2>
+                                          <p>The platform will be developed as per the needs and
+                                              requirements also as per the standards.</p>
+                                      </div>
+                               </div>
+                               <div class="col-md-3 col-6">
+                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                          <h5 class="d-block pb-1">Step 7</h5>
+                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <h2 class="d-block pt-2">Testing</h2>
+                                          <p>Multiple integrated, as well as unit testing, will be undertaken
+                                              to estimate the reliability.</p>
+                                      </div>
+                               </div>
+                               <div class="col-md-3 col-6">
+                                      <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
+                                          <h5 class="d-block pb-1">Step 8</h5>
+                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <h2 class="d-block pt-2">Delivery</h2>
+                                          <p>The completed and tested modules will be delivered to you.</p>
                                       </div>
                                </div>
                         </div>
