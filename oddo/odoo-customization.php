@@ -185,7 +185,7 @@
                                <div class="col-md-3 col-6 mb-md-0 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 6</h5>
-                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <img src="../assets/images/oddo/development.png" class="mb-2" alt="">
                                           <h2 class="d-block pt-2">Development</h2>
                                           <p>The platform will be developed as per the needs and
                                               requirements also as per the standards.</p>
@@ -194,7 +194,7 @@
                                <div class="col-md-3 col-6 mb-md-0 mb-4">
                                       <div class="odo-cusmz-pros-box w-100 d-block p-md-4">
                                           <h5 class="d-block pb-1">Step 7</h5>
-                                          <img src="../assets/images/oddo/customer-approval.png" class="mb-2" alt="">
+                                          <img src="../assets/images/oddo/testing.png" class="mb-2" alt="">
                                           <h2 class="d-block pt-2">Testing</h2>
                                           <p>Multiple integrated, as well as unit testing, will be undertaken
                                               to estimate the reliability.</p>
