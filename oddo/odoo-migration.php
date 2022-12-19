@@ -37,10 +37,11 @@
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                             <div class="col-lg-5 col-md-5"></div>
                         <div class="col-lg-7 col-md-7">
-                                <h1 class="w-100 d-block pb-2" style="color:#ba1419;">Odoo Data Migration</h1>
+                                <h1 class="w-100 d-block pb-2" style="color:#ba1419;
+                                font-weight:600;">Odoo Data Migration</h1>
                                 <ul class="d-block pl-0 py-md-4">
-                                    <li class="pb-3" style="color:#ba1419;">Data migration from legacy systems to Odoo ERP</li>
-                                    <li class="pb-3" style="color:#ba1419;">Data migration from other ERPs to Odoo</li>
+                                    <li class="pb-3" style="color:#ba1419; font-weight:600;">Data migration from legacy systems to Odoo ERP</li>
+                                    <li class="pb-3" style="color:#ba1419; font-weight:600;">Data migration from other ERPs to Odoo</li>
                                     <li class="pb-3" style="color:#ba1419;">Data migration from disconnected multiple apps to Odoo ERP</li>
                                     <li class="pb-3" style="color:#ba1419;">Data migration from older version of Odoo to current stable version</li>
                                     <li class="pb-3" style="color:#ba1419;">Data migration from Odoo Community to Odoo Enterprise</li>
