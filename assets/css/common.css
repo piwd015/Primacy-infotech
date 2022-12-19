@@ -2072,8 +2072,11 @@ text-transform:none!important;}
 .customz-bnr-right{width:100%;}
 .customz-bnr-right img{width:100%; display:block;}
 
-.odo-migr{background:url("../assets/images/oddo/odoo-migration-bg.jpg") no-repeat 0 0;
-background-size:100% 100%; height: 600px; width:100%; display:block;}
+.migra-Cont-Area{}
+.migra-Cont-Area h2{font-size:20px; color:#000; font-weight:600;}
+.migra-Cont-Area > p{font-size:15px; color:#000;}
+.migra-Img{width:100%;}
+.migra-Img img{width:100%; display:block; border-radius:10px;}
 
 /*-------------our team section-------------*/
 

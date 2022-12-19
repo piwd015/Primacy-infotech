@@ -52,26 +52,21 @@
         </section>
         <section class="w-100 d-block py-md-5 pt-0 pb-3">
             <div class="container">
-                 <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                      <div class="col-md-7">
-                            <h2 class="hdr-txt d-block pb-md-4 pb-2">Odoo Customization</h2>
-                             <p class="d-block text-md-justify">An enterprise application must go by
-                                 client's way. Customization provides that personalized experience
-                                 in an application focusing on the client’s requirements and ideas.
-                                 Odoo provides a fully functional package to meet up an enterprise
-                                 requirement, but there will be always an extra required by the
-                                 clients. At Cybrosys Technologies we analyze your requirement on t
-                                 he additional needs and there by setting the right strategy for
-                                 fulfilling the functionalities. We deliver high end customization
-                                 services so that customers get the full benefit of using their
-                                 application, there by achieving the business goals. Extending
-                                 Odoo's modular approach, our technical team assist you to achieve
-                                 your all desired needs.</p>
-                      </div>
-                      <div class="col-md-5">
-                             <img src="../assets/images/oddo/customizationImg.jpg" class="img-fluid" alt="">
-                      </div>
-                 </div>
+                  <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
+                        <div class="col-md-7 migra-Cont-Area">
+                              <h2 class="w-100 d-block pb-2">Migrate Your Website</h2>
+                              <p class="d-block">With An Experience Of 9+ Years, Uncanny Can Handle Any
+                                  Type Of Odoo Migration. We Ensure To Keep All Your Data
+                                  Secured During The Migration. There Are Various Migration
+                                  Process Such As Data Migration From Legacy ERP And Community
+                                  To Enterprise Migration.</p>
+                        </div>
+                        <div class="col-md-5">
+                              <div class="migra-Img">
+                              <img src="../assets/images/oddo/migrationImg-01.jpg" alt="">
+                              </div>
+                        </div>
+                  </div>
             </div>
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
