@@ -2072,6 +2072,9 @@ text-transform:none!important;}
 .customz-bnr-right{width:100%;}
 .customz-bnr-right img{width:100%; display:block;}
 
+.odo-migr{background:url("../assets/images/oddo/odoo-migration-bg.jpg") no-repeat 0 0;
+background-size:100% 100%;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){
