@@ -98,7 +98,7 @@
                            </div>
                            <div class="col-md-6 migra-Cont-Area pt-3">
                                <h2 class="w-100 d-block pb-md-2">Data Migration</h2>
-                               <p class="d-block">The existing data migration is another chapter
+                               <p class="d-block mb-md-3 mb-1">The existing data migration is another chapter
                                    of the migration which needs to be dealt with care.
                                    The existing data should be configurable with the new
                                    applications and the platform. In addition, the tables
@@ -108,8 +108,8 @@
                    </div>
                    <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-5 pt-3">
                            <div class="col-md-6 migra-Cont-Area pt-3">
-                               <h2 class="w-100 d-block pb-2">Migration Testing</h2>
-                               <p class="d-block">Even if all the modifications in the
+                               <h2 class="w-100 d-block pb-md-2">Migration Testing</h2>
+                               <p class="d-block mb-md-3 mb-1">Even if all the modifications in the
                                    applications and the data available are done there is
                                    the ultimate need for sophisticated testing to be done
                                    under extreme circumstances to showcase the durability
@@ -130,8 +130,8 @@
                         </div>
                     </div>
                     <div class="col-md-6 migra-Cont-Area pt-3">
-                        <h2 class="w-100 d-block pb-2">Importance of Migration</h2>
-                        <p class="d-block">The Odoo migration allows the users to upgrade to the
+                        <h2 class="w-100 d-block pb-md-2">Importance of Migration</h2>
+                        <p class="d-block mb-md-3 mb-1">The Odoo migration allows the users to upgrade to the
                             new version of Odoo which is better, faster, and more reliable than the
                             previous one. Odoo is a management software that keeps on updating with
                             new versions, inculcating advanced operations. and adding new features
