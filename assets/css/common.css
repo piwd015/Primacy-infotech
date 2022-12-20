@@ -2116,7 +2116,8 @@ font-size:15px; color:#000; padding-left:20px;}
 @media only screen and (max-width:767px){
 .oddo-imple-bnr{background-size:cover; padding:20px 0px 20px; height:auto!important;}
 .oddo-imple-bnr h1{font-size:17px;}
-.oddo-imple-bnr li{font-size:14px; background-size:25px 25px; padding:0px 0px 15px 32px;}
+.oddo-imple-bnr li{font-size:14px; background-size:25px 25px; padding:0px 0px 15px 32px;
+background-position:0 5px;}
 .oddo-imple-bnr a{font-size:14px; padding:10px;}
 .consl-fm .sub-Btn{padding:12px 20px; background-size:8px 18px; background-position:90% 17px;}
 .why-chs{padding:20px 0px;}
@@ -2482,6 +2483,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .odo-cusmz-pros-bg h2{font-size:18px;}
  .odo-cusmz-pros-bg h2 dd{width:30px;}
  .odo-cusmz-pros-box{height:auto; padding-bottom: 15px;}
+ .oddo-imple-bnr ul{width:100%;}
 }
 
 @media screen and (max-height: 450px) {

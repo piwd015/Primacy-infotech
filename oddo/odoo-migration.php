@@ -40,7 +40,7 @@
                                          <img src="../assets/images/oddo/migra-banner-left.png" alt="">
                                    </div>
                             </div>
-                        <div class="col-lg-7 col-md-7 pt-md-5 pt-4">
+                        <div class="col-lg-7 col-md-7 pt-5">
                                 <h1 class="w-100 d-block pb-2" style="color:#ba1419;
                                 font-weight:600;">Odoo Data Migration</h1>
                                 <ul class="d-block pl-0 py-md-4">
