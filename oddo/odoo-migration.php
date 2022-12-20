@@ -172,7 +172,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#4d7285;"><img src="../assets/images/oddo/build-website-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="d-block pt-md-4 pt-3 text-left">Build stunning website</h2>
+                            <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Build stunning website</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left">Website</li>
                                 <li class="float-left">Blog</li>
