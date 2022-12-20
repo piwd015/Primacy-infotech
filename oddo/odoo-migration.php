@@ -154,7 +154,7 @@
                                </div>
                                <div class="col-md-5">
                                       <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/certified.png" style="top:26px;" alt="">Certified and seasoned Odoo professionals</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" style="top:26px;" alt="">Perform quality checks and testing to rectify errors</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/quality-testing.png" style="top:26px;" alt="">Perform quality checks and testing to rectify errors</div>
                                </div>
                        </div>
                </div>
