@@ -2492,6 +2492,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .migra-pros-txt{font-size:20px;}
  ul.migra-pros h3{font-size:17px;}
  ul.migra-pros li{font-size:13px;}
+ ul.migra-pros img{width:50px;}
 }
 
 @media screen and (max-height: 450px) {

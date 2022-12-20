@@ -281,7 +281,7 @@
                               <div class="col-md-6 mb-md-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                            <img src="../assets/images/oddo/migra-pross-03.png" alt="">
-                                           <h3 class="w-100 d-block py-3">2. Estimation Phase</h3>
+                                           <h3 class="w-100 d-block py-md-3">2. Estimation Phase</h3>
                                            <li class="pb-2">Check the custom modules and see if this is available
                                               at Odoo apps in newer versions.</li>
                                            <li class="pb-2">What is the expected "Go Live" date?</li>
@@ -289,7 +289,7 @@
                                       </ul>
                                       <ul class="migra-pros w-100 d-block pl-0">
                                                <img src="../assets/images/oddo/migra-check.png" alt="">
-                                               <h3 class="w-100 d-block py-3">3. Pre-Migration Checklist</h3>
+                                               <h3 class="w-100 d-block py-md-3">3. Pre-Migration Checklist</h3>
                                                <li class="pb-2">Install/Import Modules</li>
                                                <li class="pb-2">Check the product database size.</li>
                                                <li class="pb-2">Check for custom add-ons.</li>
@@ -300,7 +300,7 @@
                               <div class="col-md-6">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-04.png" alt="">
-                                          <h3 class="w-100 d-block py-3">5. Migration Implementation</h3>
+                                          <h3 class="w-100 d-block py-md-3">5. Migration Implementation</h3>
                                           <li class="pb-2">Choosing Migration Methods
                                                <ul class="w-100 d-block ml-4">
                                                     <li class="pb-2">Open upgrade</li>
