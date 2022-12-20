@@ -3178,7 +3178,7 @@ a.btn-outline-success:focus {
     border-radius: 0px!important;
     font-size: 13px;
     box-shadow: none;
-    border: 1px solid #dce4f500;
+    border: 0px solid!important;
     background-clip: initial;
     border-bottom: 1px solid #b3b0b0 !important;
     padding:7px 10px 15px 0px!important;
