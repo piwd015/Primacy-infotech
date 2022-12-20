@@ -34,7 +34,7 @@
         <section class="integra-bg py-md-5 pt-5 pb-3 mt-md-0 mt-4">
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                               <div class="col-lg-7 col-md-7 pt-md-5 pt-3">
+                               <div class="col-lg-7 col-md-7 d-flex flex-wrap justify-content-center align-items-center">
                                        <h1 class="d-block pb-md-4 pb-2">Odoo Integration Services</h1>
                                        <h4 class="d-block pb-md-5 pb-2">Helping you consolidate and coordinate your Business Operations</h4>
                                        <a href="#" class="button"><span>Let's Connect! </span></a>
