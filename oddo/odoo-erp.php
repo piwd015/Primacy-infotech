@@ -49,7 +49,7 @@
 			  	    	  	    	  <li>Single tool for any kind of business</li>
 			  	    	  	    	  <li>Cost effective Solution for SME to <br> Multinational Company</li>
 			  	    	  	    </ul>
-			  	    	  	    <a href="#">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
+			  	    	  	    <a href="/about/contact.php">Contact Us <i class="fas fa-external-link-alt ml-2"></i></a>
 			  	    	  </div>
 			  	    	  <div class="col-lg-4 col-md-4" data-aos="fade-left">
 			  	    	  	    <div class="consl-fm w-100 d-block p-4">
