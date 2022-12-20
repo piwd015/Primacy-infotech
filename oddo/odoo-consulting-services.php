@@ -185,7 +185,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#4d7285;"><img src="../assets/images/oddo/build-website-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="d-block pt-md-4 pt-3 text-left">Build stunning website</h2>
+                            <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Build stunning website</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left">Website</li>
                                 <li class="float-left">Blog</li>
@@ -199,7 +199,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#8c3e74;"><img src="../assets/images/oddo/finance-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="w-100 d-block pt-md-4 pt-3 text-left">Get control of your finances</h2>
+                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Get control of your finances</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left w-100">Invoicing</li>
                                 <li class="float-left w-100">Accounting</li>
@@ -211,7 +211,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#91450e;"><img src="../assets/images/oddo/sales-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="d-block pt-md-4 pt-3 text-left">Boost your sales</h2>
+                            <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Boost your sales</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left">CRM</li>
                                 <li class="float-left">Sales</li>
@@ -225,7 +225,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#284068;"><img src="../assets/images/oddo/human-resource-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="w-100 d-block pt-md-4 pt-3 text-left">Human Resource</h2>
+                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Human Resource</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left">Employees</li>
                                 <li class="float-left">Expences</li>
@@ -239,7 +239,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#00b2a5;"><img src="../assets/images/oddo/operation-better-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="w-100 d-block pt-md-4 pt-3 text-left">Run your operation better</h2>
+                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Run your operation better</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left">Project</li>
                                 <li class="float-left">Manufacturing</li>
@@ -253,7 +253,7 @@
                             <div class="fturs-icon-bg">
                                 <dd style="background:#b83820;"><img src="../assets/images/oddo/marketing-icon.png" alt=""></dd>
                             </div>
-                            <h2 class="w-100 d-block pt-md-4 pt-3 text-left">Boost Your Marketing</h2>
+                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Boost Your Marketing</h2>
                             <ul class="d-block pl-md-3 pl-4">
                                 <li class="float-left">Email Marketing</li>
                                 <li class="float-left">Expences</li>
