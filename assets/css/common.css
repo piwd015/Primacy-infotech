@@ -2095,6 +2095,9 @@ font-size:15px; color:#000; padding-left:20px;}
 .migra-bnr-Img{width: 100%;}
 .migra-bnr-Img img{width:100%; display:block;}
 
+.integra-bg{background:url("../images/oddo/integra-bg.jpg") no-repeat center top; width:100%;
+background-size:100% 100%; height:550px;}
+
 
 /*-------------our team section-------------*/
 
