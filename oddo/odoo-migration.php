@@ -146,19 +146,19 @@
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
                <div class="container">
-                     <h2 class="w-100 d-block text-center pb-3 mb-5">Why choose <strong>Odoo Migration?</strong></h2>
+                     <h2 class="w-100 d-block text-center pb-3 mb-md-5 mb-3">Why choose <strong>Odoo Migration?</strong></h2>
                        <div class="row">
                              <div class="col-md-5">
-                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/performed-project.png" alt="">Performed 50+ migration projects</div>
-                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/safty-data.png" alt="">Prioritizing the safety and security of your data</div>
-                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/ensure.png" alt="">Ensuring minimum downtime during migration</div>
+                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/performed-project.png" alt="">Performed 50+ migration projects</div>
+                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/safty-data.png" alt="">Prioritizing the safety and security of your data</div>
+                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/ensure.png" alt="">Ensuring minimum downtime during migration</div>
                                </div>
-                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
+                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center pb-md-0 pb-3">
                                       <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
                                </div>
                                <div class="col-md-5">
-                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/certified.png" alt="">Certified and seasoned Odoo professionals</div>
-                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/quality-testing.png" alt="">Perform quality checks and testing to rectify errors</div>
+                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/certified.png" alt="">Certified and seasoned Odoo professionals</div>
+                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/quality-testing.png" alt="">Perform quality checks and testing to rectify errors</div>
                                </div>
                        </div>
                </div>
