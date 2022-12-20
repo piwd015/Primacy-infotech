@@ -2489,6 +2489,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .migra-nessry > p{font-size:13px;}
  .migra-Cont-Area h2{font-size:20px;}
  .migra-Cont-Area > p{font-size:13px;}
+ .migra-pros-txt{font-size:20px;}
+ ul.migra-pros h3{font-size:17px;}
+ ul.migra-pros li{font-size:13px;}
 }
 
 @media screen and (max-height: 450px) {

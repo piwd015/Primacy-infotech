@@ -153,7 +153,7 @@
                                  <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/safty-data.png" alt="">Prioritizing the safety and security of your data</div>
                                  <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/ensure.png" alt="">Ensuring minimum downtime during migration</div>
                                </div>
-                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center pb-md-0 pb-3">
+                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center py-md-0 py-3">
                                       <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
                                </div>
                                <div class="col-md-5">
@@ -257,10 +257,10 @@
                      <h2 class="migra-pros-txt w-100 d-block text-center pb-md-4 pb-2">Odoo Migration
                          Process</h2>
                      <div class="row">
-                               <div class="col-md-6 mb-3">
+                               <div class="col-md-6 mb-md-3">
                                      <ul class="migra-pros w-100 d-block pl-0">
                                            <img src="../assets/images/oddo/migra-pross-01.png" alt="">
-                                           <h3 class="w-100 d-block py-3">1. Migration Assessment and Assistance</h3>
+                                           <h3 class="w-100 d-block py-md-3">1. Migration Assessment and Assistance</h3>
                                            <li class="pb-2">For the Enterprise Version and Odoo Online, have you
                                                discussed with Odoo Support for migration?</li>
                                            <li class="pb-2">How much data do you need in the newer version?</li>
@@ -268,17 +268,17 @@
                                            <li class="pb-2">Do you have any studio customizations?</li>
                                      </ul>
                                </div>
-                              <div class="col-md-6 pl-md-5 mb-3">
+                              <div class="col-md-6 pl-md-5 mb-md-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-02.png" alt="">
-                                          <h3 class="w-100 d-block py-3">4. System Configuration</h3>
+                                          <h3 class="w-100 d-block py-md-3">4. System Configuration</h3>
                                           <li class="pb-2">User and its access rights</li>
                                           <li class="pb-2">Company Property</li>
                                           <li class="pb-2">Report Layout</li>
                                           <li class="pb-2">Mail Templates</li>
                                       </ul>
                               </div>
-                              <div class="col-md-6 mb-3">
+                              <div class="col-md-6 mb-md-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                            <img src="../assets/images/oddo/migra-pross-03.png" alt="">
                                            <h3 class="w-100 d-block py-3">2. Estimation Phase</h3>
