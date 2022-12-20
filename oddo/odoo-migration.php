@@ -142,33 +142,8 @@
         </section>
         <section class="switchng w-100 d-block py-md-5 py-3">
                <div class="container">
-                   <div class="s-title mt-0 mb-md-5 mb-4">
-                          <h2 class="wow animated" style="visibility: visible;">Why choose Odoo Migration?</h2>
-                   </div>
-                     <div class="row">
-                            <div class="col-md-4 mb-4">
-                                    <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
-                                            <div class="specl-box-bg py-3 px-4">
-                                                   <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
-                                                    <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
-                                                    <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
-                                            </div>
-                                    </div>
-                            </div>
-                            <div class="col-md-4 mb-4">
-                                    <div class="specl-box wow slideInUp mb-4" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s; animation-name: slideInUp;">
-                                            <div class="specl-box-bg py-3 px-4">
-                                                  <img src="../assets/images/product/trademark-management.png" class="pb-2" alt="">
-                                                  <strong class="w-100 d-block text-center pb-2">Automation Certificate download form government portal</strong>
-                                                   <p class="d-block text-center">Automatic Certificate Download save lot of time so you can focus more on what really matters</p>
-                                            </div>
-                                    </div>
-                            </div>
-                            <div class="col-md-4 mb-4"></div>
-                            <div class="col-md-4 mb-4"></div>
-                            <div class="col-md-4 mb-4"></div>
-                            <div class="col-md-4"></div>
-                     </div>
+                     <h2 class="w-100 d-block text-center pb-3 mb-5">Why choose <strong>Odoo Migration?</strong></h2>
+                     <div class="row"></div>
                </div>
         </section>
         <section class="features w-100 d-block">
