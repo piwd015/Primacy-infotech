@@ -2124,9 +2124,10 @@ background-size:100% 100%;}
  font-size: 20px;
  position: absolute;
  opacity: 0;
- top:0;
+ top:-14px;
  right: -20px;
  transition: 0.5s;
+ font-size:40px;
 }
 
 .integra-bg .button:hover span {
