@@ -270,23 +270,15 @@
                                </div>
                               <div class="col-md-6 pl-md-5 mb-md-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
-                                          <img src="../assets/images/oddo/migra-pross-02.png" alt="">
-                                          <h3 class="w-100 d-block py-md-3">4. System Configuration</h3>
-                                          <li class="pb-2">User and its access rights</li>
-                                          <li class="pb-2">Company Property</li>
-                                          <li class="pb-2">Report Layout</li>
-                                          <li class="pb-2">Mail Templates</li>
+                                          <img src="../assets/images/oddo/migra-pross-03.png" alt="">
+                                          <h3 class="w-100 d-block py-md-3">2. Estimation Phase</h3>
+                                          <li class="pb-2">Check the custom modules and see if this is available
+                                              at Odoo apps in newer versions.</li>
+                                          <li class="pb-2">What is the expected "Go Live" date?</li>
+                                          <li class="pb-2">Discuss Maintenance Window as per database size.</li>
                                       </ul>
                               </div>
                               <div class="col-md-6 mb-md-3">
-                                      <ul class="migra-pros w-100 d-block pl-0">
-                                           <img src="../assets/images/oddo/migra-pross-03.png" alt="">
-                                           <h3 class="w-100 d-block py-md-3">2. Estimation Phase</h3>
-                                           <li class="pb-2">Check the custom modules and see if this is available
-                                              at Odoo apps in newer versions.</li>
-                                           <li class="pb-2">What is the expected "Go Live" date?</li>
-                                           <li class="pb-2">Discuss Maintenance Window as per database size.</li>
-                                      </ul>
                                       <ul class="migra-pros w-100 d-block pl-0">
                                                <img src="../assets/images/oddo/migra-check.png" alt="">
                                                <h3 class="w-100 d-block py-md-3">3. Pre-Migration Checklist</h3>
@@ -295,6 +287,14 @@
                                                <li class="pb-2">Check for custom add-ons.</li>
                                                <li class="pb-2">Check if the studio customizations are compatible with
                                                    the newer version.</li>
+                                      </ul>
+                                      <ul class="migra-pros w-100 d-block pl-0">
+                                          <img src="../assets/images/oddo/migra-pross-02.png" alt="">
+                                          <h3 class="w-100 d-block py-md-3">4. System Configuration</h3>
+                                          <li class="pb-2">User and its access rights</li>
+                                          <li class="pb-2">Company Property</li>
+                                          <li class="pb-2">Report Layout</li>
+                                          <li class="pb-2">Mail Templates</li>
                                       </ul>
                               </div>
                               <div class="col-md-6">
