@@ -33,7 +33,7 @@
     <div class="page-body mb-5">
         <section class="oddo-imple-bnr odo-cstomze-bnr py-5 mt-md-0 mt-4" style="background:url('../assets/images/oddo/odoo-migration-bg.jpg') no-repeat 0 100%;
                   background-size:100% 90%; height: auto;">
-                  <div class="container-fluid px-md-5 px-3 py-md-5">
+                  <div class="container-fluid px-md-5 px-3 pt-md-5">
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                             <div class="col-lg-5 col-md-5 pt-md-5 pt-4">
                                    <div class="migra-bnr-Img">
