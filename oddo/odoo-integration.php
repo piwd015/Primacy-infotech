@@ -38,7 +38,7 @@
                                        <div class="col-md-12">
                                              <h1 class="d-block pb-md-4 pb-2">Odoo Integration Services</h1>
                                              <h4 class="d-block pb-md-5 pb-2">Helping you consolidate and coordinate your Business Operations</h4>
-                                             <a href="#" class="button"><span>Let's Connect! </span></a>
+                                             <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
                                        </div>
                                </div>
                                <div class="col-lg-5 col-md-5 pt-md-0 pt-5">
