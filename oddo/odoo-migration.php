@@ -57,7 +57,7 @@
         <section class="py-md-5 py-3">
                 <div class="container migra-nessry">
                        <h2 class="w-100 d-block pb-3">Why is Odoo Migration necessary?</h2>
-                       <ul class="w-100 d-block pl-0 pb-3">
+                       <ul class="w-100 d-block pl-0 pb-md-3">
                              <li class="pb-3">Are you still using legacy systems to maintain your business data?</li>
                              <li class="pb-3">Do you want to move to a next-gen, cloud-native system?</li>
                              <li class="pb-3">Is your current ERP system really paying off?</li>
@@ -66,7 +66,7 @@
                        <p class="d-block">If your ERP system has become high maintenance,
                            limits your flexibility, or inhibits customer service, then migration
                            is the only answer.</p>
-                       <p class="d-block">It is true that migrating and cleaning up ERP data
+                       <p class="d-block mb-md-2 mb-1">It is true that migrating and cleaning up ERP data
                            can be costly, but it is worthwhile if performed meticulously.</p>
                        <p class="d-block">If you are using Odoo or are planning to switch
                            to Odoo, ERP migration and upgradation are inevitable factors as Odoo
