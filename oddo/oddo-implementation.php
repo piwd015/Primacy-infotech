@@ -37,7 +37,7 @@
  <div class="page-body mb-5">
 		<section class="oddo-imple-bnr">
 			  <div class="container">
-			  	    <div class="row">
+			  	    <div class="row pt-md-5 pt-3">
 			  	    	  <div class="col-lg-8 col-md-8 mb-md-0 mb-1">
 			  	    	  	    <h1>Fastest Growing Oddo<br/><strong></strong>Implementation Company<br/> in this INDIA</h1></h1>
 			  	    	  	    <ul class="d-block pl-0 py-md-4">
@@ -47,7 +47,7 @@
 			  	    	  	    	  <li>Increase Your ROI</li>
 			  	    	  	    	  <li>Hundreds Of Satisfied Clients<br/> All Around The World</li>
 			  	    	  	    </ul>
-			  	    	  	    <a href="#">Oddo Demo <i class="fas fa-external-link-alt ml-2"></i></a>
+			  	    	  	    <a href="/about/contact.php">Oddo Demo <i class="fas fa-external-link-alt ml-2"></i></a>
 			  	    	  </div>
 			  	    	  <div class="col-lg-4 col-md-4">
 			  	    	  	    <div class="consl-fm w-100 d-block p-4">
