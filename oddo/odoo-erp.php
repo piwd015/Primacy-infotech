@@ -36,9 +36,9 @@
 <link rel="stylesheet" type="text/css" href="../assets/css/common.css">
 <script type="text/javascript" src="../assets/js/customize.js"></script>
  <div class="page-body mb-5">
-		<section class="oddo-imple-bnr pt-md-5 pt-3" data-aos="fade-up">
+		<section class="oddo-imple-bnr" data-aos="fade-up">
 			  <div class="container">
-			  	    <div class="row">
+			  	    <div class="row pt-md-5 pt-3">
 			  	    	  <div class="col-lg-8 col-md-8 mb-md-0 mb-1" data-aos="fade-right">
 			  	    	  	    <h1>The Best User Friendly  ERP - Odoo ERP</h1>
 			  	    	  	    <ul class="d-block pl-0 py-md-4">
