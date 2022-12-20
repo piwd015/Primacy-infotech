@@ -2096,8 +2096,8 @@ font-size:15px; color:#000; padding-left:20px;}
 
 .integra-bg{background:url("../images/oddo/integra-bg.jpg") no-repeat center top; width:100%;
 background-size:100% 100%;}
-.integra-bg h1{font-size:35px; color:#000; font-weight:700; font-family: 'Oswald', sans-serif;}
-.integra-bg h4{font-size:17px; color:#858585;}
+.integra-bg h1{font-size:45px; color:#000; font-weight:700; font-family: 'Oswald', sans-serif;}
+.integra-bg h4{font-size:20px; color:#858585;}
 .integra-bg .button {
  border-radius: 8px;
  background-color: #040f3a;
