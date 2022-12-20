@@ -2092,6 +2092,9 @@ ul.migra-pros h3{font-size:25px; color:#000; font-weight:600;}
 ul.migra-pros li{display:block; background:url("../images/oddo/bullet-02.png") no-repeat 0 4px;
 font-size:15px; color:#000; padding-left:20px;}
 
+.migra-bnr-Img{width: 100%;}
+.migra-bnr-Img img{width:100%; display:block;}
+
 
 /*-------------our team section-------------*/
 
