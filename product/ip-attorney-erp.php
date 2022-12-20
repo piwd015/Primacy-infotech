@@ -46,13 +46,13 @@
 
                     <form class="form-horizontal col-sm-12"  method="post">
 
-                        <div class="form-group mb-2"><label><b>Name</b></label>
+                        <div class="form-group"><label><b>Name</b></label>
 
                             <input class="form-control required" placeholder="Your name" type="text" name="name" required></div>
 
 
 
-                        <div class="form-group mb-2"><label><b>E-Mail</b></label><input class="form-control email" placeholder="email@you.com (so that we can contact you)" type="email" name="email" required></div>
+                        <div class="form-group"><label><b>E-Mail</b></label><input class="form-control email" placeholder="email@you.com (so that we can contact you)" type="email" name="email" required></div>
 
 
 

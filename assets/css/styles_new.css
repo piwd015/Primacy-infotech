@@ -3173,6 +3173,8 @@ a.btn-outline-success:focus {
     color: #fff
 }
 
+.modal-dialog{width:430px!important;}
+
 .form-control {
     height: 0px;
     border-radius: 0px!important;
