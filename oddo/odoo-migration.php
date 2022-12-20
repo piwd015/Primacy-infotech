@@ -145,7 +145,7 @@
                      <h2 class="w-100 d-block text-center pb-3 mb-5">Why choose <strong>Odoo Migration?</strong></h2>
                        <div class="row">
                              <div class="col-md-5">
-                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/interface.png" alt="">Performed 50+ migration projects</div>
+                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/performed-project.png" alt="">Performed 50+ migration projects</div>
                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" alt="">Prioritizing the safety and security of your data</div>
                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" alt="">Ensuring minimum downtime during migration</div>
                                </div>
