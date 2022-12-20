@@ -2124,18 +2124,13 @@ background-size:100% 100%;}
  font-size: 20px;
  position: absolute;
  opacity: 0;
- top: -10px;
+ top:0;
  right: -20px;
  transition: 0.5s;
- background:#b01e2f;
- padding:14px 0px;
- width: 50px;
- border-top-right-radius:10px;
- border-bottom-right-radius:10px;
 }
 
 .integra-bg .button:hover span {
- padding-right: 0px;
+ padding-right: 25px;
 }
 
 .integra-bg .button:hover span:after {
