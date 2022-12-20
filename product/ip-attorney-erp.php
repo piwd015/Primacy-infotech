@@ -1797,7 +1797,7 @@
                                     </li>
 
                                     <li class="nav-item">
-                                        <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Verson</a>
+                                        <a class="" id="monthly-pricing" data-toggle="tab" href="#monthly-pricing-tables" role="tab">SAAS Version</a>
                                     </li>
                                 </ul>
                                 <div class="tab-content" id="pricing-tab-content">
