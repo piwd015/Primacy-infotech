@@ -2091,13 +2091,7 @@ ul.migra-pros img{width:80px; display:block; margin-bottom: 10px;}
 ul.migra-pros h3{font-size:25px; color:#000; font-weight:600;}
 ul.migra-pros li{display:block; background:url("../images/oddo/bullet-02.png") no-repeat 0 4px;
 font-size:15px; color:#000; padding-left:20px;}
-.submt-dtls .modal-header{padding:0.5rem 1rem;}
-.submt-dtls .modal-body{padding:0.5rem 1rem;}
-.submt-dtls .form-control{border-radius:0px!important; font-size:13px!important;
- padding:7px 10px 15px 0px!important;}
-.submt-dtls select.form-control:not([size]):not([multiple]){height: 40px!important;}
-.submt-dtls .modal-header button.close{top:25px!important;}
-.submt-dtls textarea.form-control{height:50px!important;}
+
 
 /*-------------our team section-------------*/
 

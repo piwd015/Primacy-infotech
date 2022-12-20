@@ -27,7 +27,7 @@
     <!-- ============================================================== -->
 
     <!--start model end-->
-    <div class="submt-dtls">
+    
           <div id="myModal_grocery" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 
         <div class="modal-dialog">
@@ -147,7 +147,7 @@
         </div>
 
     </div>
-    </div>
+
 
     <!--end model-->
     <!-- Main wrapper - style you can find in pages.scss -->

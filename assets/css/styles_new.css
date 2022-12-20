@@ -3174,13 +3174,14 @@ a.btn-outline-success:focus {
 }
 
 .form-control {
-    height: 45px;
-    border-radius: 4px;
-    font-size: 15px;
+    height: 35px;
+    border-radius: 0px;
+    font-size: 13px;
     box-shadow: none;
     border: 1px solid #dce4f500;
     background-clip: initial;
     border-bottom: 1px solid #b3b0b0 !important
+    padding:7px 10px 15px 0px;
 }
 
 .image-bg .form-control,
@@ -3188,9 +3189,7 @@ a.btn-outline-success:focus {
     color: #495057 !important
 }
 
-select.form-control:not([size]):not([multiple]) {
-    height: 56px
-}
+select.form-control:not([size]):not([multiple]) {height:42px;}
 
 select.form-control.fc-lg:not([size]):not([multiple]) {
     height: 62px
@@ -3201,7 +3200,7 @@ select.form-control.fc-lg:not([size]):not([multiple]) {
 }
 
 textarea.form-control {
-    height: 60px
+    height:50px
 }
 
 .nav-brand,
@@ -7682,12 +7681,13 @@ a.btn.btn-cta:focus {
 .modal_sec .modal-header h3 {
     margin: 0;
 }
-
+.modal-header{padding:0.5rem 1rem!important;}
+.modal-body{padding:0.5rem 1rem!important;}
 
 .modal-header button.close {
     position: absolute;
     right: 20px;
-    top: 35px;
+    top: 25px;
     background: #d95d1ead;
     width: 30px;
     height: 30px;
