@@ -282,7 +282,17 @@
                                                       <li class="pb-2">Client feedback</li>
                                                   </ul>
                                           </li>
-                                          <li class="pb-2">Live release:</li>
+                                          <li class="pb-2">Live release:
+                                                <ul class="w-100 d-block ml-4">
+                                                       <li class="pb-2">Amendments as per mockup release feedback</li>
+                                                       <li class="pb-2">Schedule date and time for Go Live</li>
+                                                       <li class="pb-2">Add real-time testing in the production database</li>
+                                                       <li class="pb-2">Taking database backup once significant data is imported</li>
+                                                       <li class="pb-2">Internal QA</li>
+                                                       <li class="pb-2">Partner/Customer Review</li>
+                                                       <li class="pb-2">Feedback</li>
+                                                </ul>
+                                          </li>
                                       </ul>
                               </div>
                               <div class="col-md-6"></div>
