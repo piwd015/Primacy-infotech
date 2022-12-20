@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 .page-body .container,.page-body .container-fluid,.page-body .container-lg,.page-body .container-md,.page-body .container-sm,.page-body .container-xl{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:576px){.page-body .container,.page-body .container-sm{max-width:540px}}@media (min-width:768px){.page-body .container,.page-body .container-md,.page-body .container-sm{max-width:720px}}@media (min-width:992px){.page-body .container,.page-body .container-lg,.page-body .container-md,.page-body .container-sm{max-width:960px}}@media (min-width:1200px){.page-body .container,.page-body .container-lg,.page-body .container-md,.page-body .container-sm,.page-body .container-xl{max-width:1140px}}
 
 .oddo-imple-bnr{background:url('../images/oddo/implement-banner.jpg') no-repeat top center; width:100%; 
@@ -2096,9 +2095,46 @@ font-size:15px; color:#000; padding-left:20px;}
 .migra-bnr-Img img{width:100%; display:block;}
 
 .integra-bg{background:url("../images/oddo/integra-bg.jpg") no-repeat center top; width:100%;
-background-size:100% 100%; height:550px;}
-.integra-bg h1{font-family: 'Anton', sans-serif; font-size:35px; color:#000;}
+background-size:100% 100%;}
+.integra-bg h1{font-size:35px; color:#000; font-weight:700; font-family: 'Oswald', sans-serif;}
 .integra-bg h4{font-size:17px; color:#858585;}
+.integra-bg .button {
+ border-radius: 8px;
+ background-color: #040f3a;
+ border: none;
+ color: #FFFFFF;
+ text-align: center;
+ font-size: 20px;
+ padding: 7px 0px;
+ width: 200px;
+ transition: all 0.5s;
+ cursor: pointer;
+}
+
+.integra-bg .button span {
+ cursor: pointer;
+ display: inline-block;
+ position: relative;
+ transition: 0.5s;
+}
+
+.integra-bg .button span:after {
+ content: '\00bb';
+ position: absolute;
+ opacity: 0;
+ top: 0;
+ right: -20px;
+ transition: 0.5s;
+}
+
+.integra-bg .button:hover span {
+ padding-right: 25px;
+}
+
+.integra-bg .button:hover span:after {
+ opacity: 1;
+ right: 0;
+}
 
 
 /*-------------our team section-------------*/
