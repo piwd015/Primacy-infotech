@@ -37,7 +37,7 @@
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                             <div class="col-lg-5 col-md-5 pt-md-0 pt-4">
                                    <div class="migra-bnr-Img">
-                                         <img src="..assets/images/oddo/migra-banner-left.png" alt="">
+                                         <img src="../assets/images/oddo/migra-banner-left.png" alt="">
                                    </div>
                             </div>
                         <div class="col-lg-7 col-md-7">
