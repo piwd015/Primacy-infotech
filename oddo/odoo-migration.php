@@ -35,12 +35,12 @@
                   background-size:100% 90%; height: auto;">
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                            <div class="col-lg-5 col-md-5 pt-md-5 pt-4">
+                            <div class="col-lg-5 col-md-5">
                                    <div class="migra-bnr-Img">
                                          <img src="../assets/images/oddo/migra-banner-left.png" alt="">
                                    </div>
                             </div>
-                        <div class="col-lg-7 col-md-7">
+                        <div class="col-lg-7 col-md-7 pt-md-5 pt-4">
                                 <h1 class="w-100 d-block pb-2" style="color:#ba1419;
                                 font-weight:600;">Odoo Data Migration</h1>
                                 <ul class="d-block pl-0 py-md-4">
