@@ -367,8 +367,8 @@
                                             <ul>
                                                 <li><a href="../oddo/oddo-implementation"><i class="icofont-print icofont-1x"></i>Odoo Implementation</a></li>
                                                 <li><a href="#"><i class="icofont-architecture-alt icofont-1x"></i>Odoo Consulting Services</a></li>
-                                                <li><a href="../oddo/odoo-consulting-services"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
-                                                <li><a href="../oddo/odoo-customization"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
+                                                <li><a href="#"><i class="icofont-instrument icofont-1x"></i>Odoo Customization</a></li>
+                                                <li><a href="#"><i class="icofont-brainstorming icofont-1x"></i>Oddo Migration</a></li>
                                                 <li><a href="#"><i class="icofont-test-tube-alt icofont-1x"></i>Odoo Integration</a></li>
                                                 <li><a href="#"><i class="icofont-cubes icofont-1x"></i>Odoo Support</a></li>
                                             </ul>
