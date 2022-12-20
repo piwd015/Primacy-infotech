@@ -71,11 +71,11 @@
                             <a href="../oddo/oddo-implementation"><i class="icofont-print icofont-2x"></i><br />
                                 <div class="txt">Odoo Implementation</div></a>
                         </li>
-                        <li><a href="../oddo/odoo-consulting-services"><i class="icofont-architecture-alt icofont-2x"></i>
+                        <li><a href="#"><i class="icofont-architecture-alt icofont-2x"></i>
                                 <div class="txt">Odoo Consulting Services</div>
                             </a>
                         </li>
-                        <li><a href="../oddo/odoo-customization"><i class="icofont-instrument icofont-2x"></i><br /><div class="txt">Odoo Customization</div></a>
+                        <li><a href="#"><i class="icofont-instrument icofont-2x"></i><br /><div class="txt">Odoo Customization</div></a>
                         </li>
                         <li><a href="#"><i class="icofont-brainstorming icofont-2x"></i><br /><div class="txt">Oddo Migration</div></a>
                         </li>
