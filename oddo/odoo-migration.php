@@ -143,7 +143,20 @@
         <section class="switchng w-100 d-block py-md-5 py-3">
                <div class="container">
                      <h2 class="w-100 d-block text-center pb-3 mb-5">Why choose <strong>Odoo Migration?</strong></h2>
-                     <div class="row"></div>
+                       <div class="row">
+                             <div class="col-md-5">
+                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/interface.png" alt="">Performed 50+ migration projects</div>
+                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/users-globally.png" alt="">Prioritizing the safety and security of your data</div>
+                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/improve.png" alt="">Ensuring minimum downtime during migration</div>
+                               </div>
+                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
+                                      <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
+                               </div>
+                               <div class="col-md-5">
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/solution.png" style="top:26px;" alt="">Certified and seasoned Odoo professionals</div>
+                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/workflow.png" style="top:26px;" alt="">Perform quality checks and testing to rectify errors</div>
+                               </div>
+                       </div>
                </div>
         </section>
         <section class="features w-100 d-block">
