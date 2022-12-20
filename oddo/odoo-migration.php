@@ -153,8 +153,8 @@
                                       <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
                                </div>
                                <div class="col-md-5">
-                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/certified.png" style="width:50px;" alt=""><span class="pl-2">Certified and seasoned Odoo professionals</span></div>
-                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/quality-testing.png" style="width:50px;" alt=""><span class="pl-2">Perform quality checks and testing to rectify errors</span></div>
+                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/certified.png" style="width:50px;" alt=""><span class="pl-3">Certified and seasoned Odoo professionals</span></div>
+                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/quality-testing.png" style="width:50px;" alt=""><span class="pl-3">Perform quality checks and testing to rectify errors</span></div>
                                </div>
                        </div>
                </div>
