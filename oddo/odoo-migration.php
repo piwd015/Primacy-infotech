@@ -265,7 +265,7 @@
                                            <li class="pb-2">Discuss Maintenance Window as per database size.</li>
                                       </ul>
                                       <ul class="migra-pros w-100 d-block pl-0">
-                                               <img src="../assets/images/oddo/migra-pross-03.png" alt="">
+                                               <img src="../assets/images/oddo/migra-check.png" alt="">
                                                <h3 class="w-100 d-block py-3">3. Pre-Migration Checklist</h3>
                                                <li class="pb-2">Install/Import Modules</li>
                                                <li class="pb-2">Check the product database size.</li>
