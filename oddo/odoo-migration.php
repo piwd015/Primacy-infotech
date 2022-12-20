@@ -44,11 +44,11 @@
                                 <h1 class="w-100 d-block pb-2" style="color:#ba1419;
                                 font-weight:600;">Odoo Data Migration</h1>
                                 <ul class="d-block pl-0 py-md-4">
-                                    <li class="pb-4" style="color:#ba1419; font-weight:600;">Data migration from legacy systems to Odoo ERP</li>
-                                    <li class="pb-4" style="color:#ba1419; font-weight:600;">Data migration from other ERPs to Odoo</li>
-                                    <li class="pb-4" style="color:#ba1419; font-weight:600;">Data migration from disconnected multiple apps to Odoo ERP</li>
-                                    <li class="pb-4" style="color:#ba1419; font-weight:600;">Data migration from older version of Odoo to current stable version</li>
-                                    <li class="pb-4" style="color:#ba1419; font-weight:600;">Data migration from Odoo Community to Odoo Enterprise</li>
+                                    <li class="pb-md-4 pb-2" style="color:#ba1419; font-weight:600;">Data migration from legacy systems to Odoo ERP</li>
+                                    <li class="pb-md-4 pb-2" style="color:#ba1419; font-weight:600;">Data migration from other ERPs to Odoo</li>
+                                    <li class="pb-md-4 pb-2" style="color:#ba1419; font-weight:600;">Data migration from disconnected multiple apps to Odoo ERP</li>
+                                    <li class="pb-md-4 pb-2" style="color:#ba1419; font-weight:600;">Data migration from older version of Odoo to current stable version</li>
+                                    <li class="pb-md-4 pb-2" style="color:#ba1419; font-weight:600;">Data migration from Odoo Community to Odoo Enterprise</li>
                                 </ul>
                         </div>
                     </div>
