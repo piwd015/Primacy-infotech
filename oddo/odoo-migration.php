@@ -146,15 +146,15 @@
                        <div class="row">
                              <div class="col-md-5">
                                  <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/performed-project.png" style="width:50px;" alt=""><span class="pl-2">Performed 50+ migration projects</span></div>
-                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/safty-data.png" style="width:50px;" alt="">Prioritizing the safety and security of your data</div>
-                                     <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/ensure.png" style="width:50px;" alt="">Ensuring minimum downtime during migration</div>
+                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/safty-data.png" style="width:50px;" alt=""><span class="pl-2">Prioritizing the safety and security of your data</span></div>
+                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/ensure.png" style="width:50px;" alt=""><span class="pl-2">Ensuring minimum downtime during migration</span></div>
                                </div>
                                <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center">
                                       <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
                                </div>
                                <div class="col-md-5">
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/certified.png" style="width:50px;" alt="">Certified and seasoned Odoo professionals</div>
-                                      <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/quality-testing.png" style="width:50px;" alt="">Perform quality checks and testing to rectify errors</div>
+                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/certified.png" style="width:50px;" alt=""><span class="pl-2">Certified and seasoned Odoo professionals</span></div>
+                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-4"><img src="../assets/images/oddo/quality-testing.png" style="width:50px;" alt=""><span class="pl-2">Perform quality checks and testing to rectify errors</span></div>
                                </div>
                        </div>
                </div>
