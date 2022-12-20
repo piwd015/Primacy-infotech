@@ -56,7 +56,7 @@
         </section>
         <section class="py-md-5 py-3">
                 <div class="container migra-nessry">
-                       <h2 class="w-100 d-block pb-3">Why is Odoo Migration necessary?</h2>
+                       <h2 class="w-100 d-block pb-md-3">Why is Odoo Migration necessary?</h2>
                        <ul class="w-100 d-block pl-0 pb-md-3">
                              <li class="pb-3">Are you still using legacy systems to maintain your business data?</li>
                              <li class="pb-3">Do you want to move to a next-gen, cloud-native system?</li>
@@ -77,7 +77,7 @@
             <div class="container">
                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                         <div class="col-md-6 migra-Cont-Area pt-3">
-                              <h2 class="w-100 d-block pb-2">Migrate Your Website</h2>
+                              <h2 class="w-100 d-block pb-md-2">Migrate Your Website</h2>
                               <p class="d-block">With An Experience Of 9+ Years, Uncanny Can Handle Any
                                   Type Of Odoo Migration. We Ensure To Keep All Your Data
                                   Secured During The Migration. There Are Various Migration
