@@ -219,47 +219,69 @@
                             <div class="tab-panels">
                                    <section id="payment" class="tab-panel">
                                        <div class="row paymnt-gatwy">
-                                             <h5 class="d-block pb-2">Payment Gateway Integration</h5>
-                                             <p class="d-block pb-2">Whether you need point of sale (POS) software
-                                                 integration or payment integration for an eCommerce site, Confianz Global
-                                                 is able to configure payment gateways that let customers pay you in their
-                                                 currency. This comes with a variety of security options so customers know
-                                                 they can make payments securely and reliably.
-                                             </p>
-                                             <div class="col-md-4">
-                                                   <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                         <img src="/assets/images/oddo/pay-paypal.png" alt="">
-                                                          <h3 class="d-block pt-4 pb-3">PayPal</h3>
-                                                          <span class="d-block">An American multinational Financial
-                                                              technology company offering payment terminologies for
-                                                              operations used worldwide for both personal as well as
-                                                              business operations. Odoo Integration with PayPal helps
-                                                              your business to reach a newer customer base and ease in
-                                                              accepting as well as receiving payments.
-                                                          </span>
-                                                   </div>
-                                             </div>
-                                             <div class="col-md-4">
-                                                   <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                       <img src="/assets/images/oddo/paytm.png" alt="">
-                                                       <h3 class="d-block pt-4 pb-3">Paytm</h3>
-                                                       <span class="d-block">Odoo Paytm integration will provide a
-                                                           suitable digital payment system for business owners in
-                                                           accepting as well as providing for e-commerce and finances.
-                                                       </span>
-                                                   </div>
-                                           </div>
-                                             <div class="col-md-4">
-                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/pay-mybank.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">MyBank</h3>
-                                                   <span class="d-block">Helps you to provide as well as receive payments
-                                                       through immediate bank transfers through a distinctive payment gateway
-                                                       and with Odoo ERP Integration you will be able to generate and receive
-                                                       payments easily.
-                                                       </span>
+                                                 <h5 class="d-block pb-2">Payment Gateway Integration</h5>
+                                                 <p class="d-block pb-2">Whether you need point of sale (POS) software
+                                                     integration or payment integration for an eCommerce site, Confianz Global
+                                                     is able to configure payment gateways that let customers pay you in their
+                                                     currency. This comes with a variety of security options so customers know
+                                                     they can make payments securely and reliably.
+                                                 </p>
+                                                 <div class="col-md-4 mb-3">
+                                                       <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                             <img src="/assets/images/oddo/pay-paypal.png" alt="">
+                                                              <h3 class="d-block pt-4 pb-3">PayPal</h3>
+                                                              <span class="d-block">An American multinational Financial
+                                                                  technology company offering payment terminologies for
+                                                                  operations used worldwide for both personal as well as
+                                                                  business operations. Odoo Integration with PayPal helps
+                                                                  your business to reach a newer customer base and ease in
+                                                                  accepting as well as receiving payments.
+                                                              </span>
+                                                       </div>
+                                                 </div>
+                                                 <div class="col-md-4 mb-3">
+                                                       <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                           <img src="/assets/images/oddo/paytm.png" alt="">
+                                                           <h3 class="d-block pt-4 pb-3">Paytm</h3>
+                                                           <span class="d-block">Odoo Paytm integration will provide a
+                                                               suitable digital payment system for business owners in
+                                                               accepting as well as providing for e-commerce and finances.
+                                                           </span>
+                                                       </div>
                                                </div>
-                                           </div>
+                                                 <div class="col-md-4 mb-3">
+                                                   <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                       <img src="/assets/images/oddo/pay-mybank.png" alt="">
+                                                       <h3 class="d-block pt-4 pb-3">MyBank</h3>
+                                                       <span class="d-block">Helps you to provide as well as receive payments
+                                                           through immediate bank transfers through a distinctive payment gateway
+                                                           and with Odoo ERP Integration you will be able to generate and receive
+                                                           payments easily.
+                                                           </span>
+                                                   </div>
+                                               </div>
+                                                 <div class="col-md-4 mb-md-0 mb-3">
+                                                       <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                           <img src="/assets/images/oddo/wallet-doc.png" alt="">
+                                                           <h3 class="d-block pt-4 pb-3">Wallet Doc</h3>
+                                                           <span class="d-block">With Odoo Wallet Doc integration you will be
+                                                               able to run Automate & secure recurring card payments which
+                                                               will be especially beneficial for the subscription product and
+                                                               service sales of your company.
+                                                               </span>
+                                                       </div>
+                                               </div>
+                                                 <div class="col-md-4 mb-md-0 mb-3">
+                                                       <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/wipay.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">WiPay</h3>
+                                                   <span class="d-block">WiPay is a Caribbean-based online payment gateway
+                                                       provider upon integration with Odoo ERP you will be able to run
+                                                       peer-to-peer transfers and click-to-pay invoicing for Caribbean
+                                                       e-commerce websites for a fee.
+                                                   </span>
+                                               </div>
+                                                 </div>
                                        </div>
                                    </section>
                                    <section id="social" class="tab-panel">
