@@ -220,16 +220,16 @@
                                    <section id="payment" class="tab-panel">
                                        <div class="row paymnt-gatwy">
                                              <h5 class="d-block pb-2">Payment Gateway Integration</h5>
-                                             <p class="d-block pb-4">Whether you need point of sale (POS) software
+                                             <p class="d-block pb-2">Whether you need point of sale (POS) software
                                                  integration or payment integration for an eCommerce site, Confianz Global
                                                  is able to configure payment gateways that let customers pay you in their
                                                  currency. This comes with a variety of security options so customers know
                                                  they can make payments securely and reliably.
                                              </p>
-                                             <div class="col-md-3">
+                                             <div class="col-md-4">
                                                    <div class="gatewy-box w-100 d-block px-3 py-md-4 py-3">
                                                          <img src="/assets/images/oddo/pay-paypal.png" alt="">
-                                                          <h3 class="d-block py-3">PayPal</h3>
+                                                          <h3 class="d-block py-2">PayPal</h3>
                                                           <span class="d-block">An American multinational Financial
                                                               technology company offering payment terminologies for
                                                               operations used worldwide for both personal as well as
