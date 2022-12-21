@@ -2141,10 +2141,14 @@ background-size:100% 100%;}
 .inte-srv h5{font-size:35px; color:#bd1e23; font-family:'Oswald', sans-serif;}
 .inte-srv span{font-size:18px; color:#fff!important; font-family: 'Oswald', sans-serif;
 line-height: 30px; text-align:justify;}
-.inte-srv-box{background:#fff;}
-.inte-srv-box img{width:60px; display:block;}
-.inte-srv-box h5{font-size:20px; color:#fb751b; text-transform:uppercase; font-weight:600;}
-.inte-srv-box h5:before{content:"";}
+a.inte-srv-box{background:#fff;}
+a.inte-srv-box img{width:80px; display:block; margin: 0 auto;}
+a.inte-srv-box h5{font-size:20px; color:#fb751b; text-transform:uppercase; font-weight:600;
+position:relative;}
+a.inte-srv-box h5:before{content:""; border:solid 2px #535353; width:20%; height:10px;
+background:#c4c4c4; position:absolute; left:0px; right:0px; bottom:-15px; margin:0 auto;}
+a.inte-srv-box h5:after{content:""; width:17%; height:1px; background:#000; position:absolute;
+left:0px; right:0px; top:0px; margin:0 auto;}
 
 
 /*-------------our team section-------------*/
