@@ -229,7 +229,7 @@
                                              <div class="col-md-4">
                                                    <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                          <img src="/assets/images/oddo/pay-paypal.png" alt="">
-                                                          <h3 class="d-block pt-3 pb-2">PayPal</h3>
+                                                          <h3 class="d-block pt-4 pb-3">PayPal</h3>
                                                           <span class="d-block">An American multinational Financial
                                                               technology company offering payment terminologies for
                                                               operations used worldwide for both personal as well as
@@ -239,6 +239,16 @@
                                                           </span>
                                                    </div>
                                              </div>
+                                             <div class="col-md-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/pay-paypal.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Paytm</h3>
+                                                   <span class="d-block">Odoo Paytm integration will provide a
+                                                       suitable digital payment system for business owners in
+                                                       accepting as well as providing for e-commerce and finances.
+                                                   </span>
+                                               </div>
+                                           </div>
                                        </div>
                                    </section>
                                    <section id="social" class="tab-panel">
