@@ -457,7 +457,27 @@
                                        </div>
                                    </section>
                                    <section id="biometric" class="tab-panel">
-
+                                           <div class="row paymnt-gatwy">
+                                                   <h5 class="d-block pb-2">Odoo Biomteric Integration</h5>
+                                                   <p class="d-block pb-2">Companies use biometric apps to fulfill HR functions
+                                                       such as time stamping and keeping track of staff attendance and vacation
+                                                       time. You can integrate your existing biometric app into Odoo for even
+                                                       more transparency across the company.
+                                                   </p>
+                                                   <div class="col-md-4 mb-4">
+                                                       <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                           <img src="/assets/images/oddo/biometric-device.png" alt="">
+                                                           <h3 class="d-block pt-4 pb-3">Biometric devices integration</h3>
+                                                           <span class="d-block">Biometric devices simplify the functioning
+                                                               of certain routine activities in a company such as attendance
+                                                               registering, security authorization to a particular room or
+                                                               device, and many more. The Odoo ERP sports the Integration
+                                                               services with biometric devices which helps in the simplification
+                                                               process of a business.
+                                                               </span>
+                                                       </div>
+                                                   </div>
+                                           </div>
                                    </section>
                                     <section id="docparser" class="tab-panel">
 
