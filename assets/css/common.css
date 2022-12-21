@@ -2168,10 +2168,11 @@ left:0px; right:0px; top:48px; margin:0 auto;}
  position: relative;
  display: inline-block;
  padding: 15px 15px 25px;
- border: 1px solid transparent;
+ /*border: 1px solid transparent;*/
  border-bottom: 0;
  cursor: pointer;
- font-weight: 600;}
+ font-weight: 600;
+background:#ff7b20;}
 .tabset > label::after {
  content: "";
  position: absolute;
