@@ -191,7 +191,11 @@
                 </div>
             </div>
         </section>
-        <section class="py-3">
+        <section class="odo-integr-bg w-100 d-block py-3">
+                <h2 class="w-100 d-block text-center pb-2">Odoo ERP Integration Services</h2>
+                <p class="w-100 d-block text-center pb-4">Odoo is known for its resourcefulness
+                    and flexibility, which benefits users wanting to manage various<br/>
+                    functions on a different app, software, or platform.</p>
                <div class="container">
                      <div class="tabset">
                            <!-- Tab 1 -->

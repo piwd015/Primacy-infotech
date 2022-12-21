@@ -2150,7 +2150,9 @@ background:#c4c4c4; position:absolute; left:0px; right:0px; bottom:-20px; margin
 a.inte-srv-box h5:after{content:""; width:28%; height:1px; background:#000; position:absolute;
 left:0px; right:0px; top:48px; margin:0 auto;}
 
-
+.odo-integr-bg{background:#dbdde0;}
+.odo-integr-bg h2{font-size:35px; color:#000; font-weight:600; font-family:'Oswald', sans-serif;}
+.odo-integr-bg p{font-size:17px; color:#000;}
 
 .tabset > input[type="radio"] {
  position: absolute;
