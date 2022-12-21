@@ -2146,7 +2146,7 @@ a.inte-srv-box img{width:80px; display:block; margin: 0 auto;}
 a.inte-srv-box h5{font-size:20px; color:#fb751b; text-transform:uppercase; font-weight:600;
 position:relative; letter-spacing:2px;}
 a.inte-srv-box h5:before{content:""; border:solid 2px #535353; width:32%; height:8px;
-background:#c4c4c4; position:absolute; left:0px; right:0px; bottom:-15px; margin:0 auto;}
+background:#c4c4c4; position:absolute; left:0px; right:0px; bottom:-20px; margin:0 auto;}
 a.inte-srv-box h5:after{content:""; width:28%; height:1px; background:#000; position:absolute;
 left:0px; right:0px; top:45px; margin:0 auto;}
 
