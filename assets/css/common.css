@@ -2182,8 +2182,8 @@ background:#ff7b20;}
 .tabset > label::after {
  content: "";
  position: absolute;
- left: 15px;
- bottom: 30px;
+ left: 25px;
+ bottom: 20px;
  width: 26px;
  height: 4px;
  background: #bd1e23;}
