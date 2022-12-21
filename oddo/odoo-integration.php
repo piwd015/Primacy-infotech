@@ -379,7 +379,84 @@
                                        </div>
                                    </section>
                                    <section id="sms" class="tab-panel">
-
+                                         <div class="row paymnt-gatwy">
+                                           <h5 class="d-block pb-2">Text Message Service Providers</h5>
+                                           <p class="d-block pb-2">Text messages have always been the tool that
+                                               supports the process of instant information sharing and notification.
+                                               Although the impact of text messages and messaging services have been
+                                               depreciated over the years due to the development of various social
+                                               media tools and solutions, it is still being used as instant messaging
+                                               solutions by companies across the world. Odoo ERP integration with
+                                               different text messaging services will pave the way for the alerts as
+                                               well as notifications to customers as well as employees of the company
+                                               in regards to the business operation.
+                                           </p>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/sms-msg91.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Msg91</h3>
+                                                   <span class="d-block">Msg91 is a Cloud Communication platform that is Secure
+                                                       and Robust sending out text messages instantly and its integration with
+                                                       the Odoo ERP will be helpful in instant messaging.
+                                                   </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/sms-mobily.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Mobily SMS</h3>
+                                                   <span class="d-block">The Odoo ERP integration with Mobily SMS will help
+                                                       your business to send out bulk SMS to customers, this will be helpful
+                                                       in the conduction of SMS marketing campaigns of your company.
+                                                   </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/sms-way2sms.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Way2SMS</h3>
+                                                   <span class="d-block">The Way2SMS is India's leading SMS service tool used
+                                                       by businesses to send out bulk as well as individual text messages to
+                                                       customers and its Integration with Odoo ERP will pave the way for sending
+                                                       out SMS directly from the platform for your business needs.
+                                                   </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/sms-bulksms.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Bulk SMS</h3>
+                                                   <span class="d-block">With Odoo integration with Bulk SMS, you will be
+                                                       able to send text messages in bulk and receive them using a dignified
+                                                       web portal helpful in sending out Offers, OTPs, Files, links, and
+                                                       much more directly from your Odoo platform.
+                                                   </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/social-linkedin.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Linked In</h3>
+                                                   <span class="d-block">With Odoo Linked In integration,
+                                                           you will be able to connect with all the job seekers
+                                                           helping you choose the best form of the talents
+                                                           available based on your need. Further, the LinkedIn
+                                                           integration will also help with the marketing and
+                                                           promotional operations of the company.
+                                                       </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/social-twitter.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Twitter</h3>
+                                                   <span class="d-block">Tweet your marketing aspects straight away
+                                                       from your Odoo platform with the Odoo Twitter Integration
+                                                       helping you to stay ahead in the trends of the business.
+                                                   </span>
+                                               </div>
+                                           </div>
+                                       </div>
                                    </section>
                                    <section id="biometric" class="tab-panel">
 
