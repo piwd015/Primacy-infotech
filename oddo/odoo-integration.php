@@ -55,7 +55,7 @@
                             <div class="col-md-5">
                                    <h2 class="w-100 d-block">Primacy Offer</h2>
                                    <h5 class="w-100 d-block pb-3">Odoo Integration services</h5>
-                                   <span class="text-justify">Odoo integration the solution moves ahead with your Odoo
+                                   <span>Odoo integration the solution moves ahead with your Odoo
                                        platform as well as the unique tools which support your
                                        business operations. However, Odoo ERP Integration should
                                        be done with the right expertise Cybrosys Technologies is
