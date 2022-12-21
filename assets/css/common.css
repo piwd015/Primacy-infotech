@@ -2190,7 +2190,9 @@ left:0px; right:0px; top:48px; margin:0 auto;}
 .tabset > input:checked + label {
  border-color: #ccc;
  border-bottom: 1px solid #fff;
- margin-bottom: -1px;}
+ margin-bottom: -1px;
+position: relative;
+top:7px;}
 .tab-panel {
  padding: 30px 0;
  border-top: 1px solid #ccc;}
