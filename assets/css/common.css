@@ -2159,7 +2159,7 @@ left:0px; right:0px; top:48px; margin:0 auto;}
 .gatewy-box{background: linear-gradient(183deg, rgba(193,0,0,1) 0%, rgba(255,150,81,1) 1%,
 rgba(204,80,84,1) 49%, rgba(244,122,42,1) 100%); border-radius:8px;}
 .gatewy-box img{width:50%; display:block; margin:0 auto;}
-.gatewy-box h3{font-size: 30px; color:#fff;}
+.gatewy-box h3{font-size: 25px; color:#fff;}
 .gatewy-box span{font-size:15px; color:#fff;}
 
 .tabset > input[type="radio"] {
