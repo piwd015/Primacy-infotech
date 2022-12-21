@@ -2116,8 +2116,7 @@ background-size:100% 100%;}
  cursor: pointer;
  display: inline-block;
  position: relative;
- transition: 0.5s;
-}
+ transition: 0.5s;}
 
 .integra-bg .button span:after {
  content: '\00bb';
@@ -2127,17 +2126,21 @@ background-size:100% 100%;}
  top:-13px;
  right: -20px;
  transition: 0.5s;
- font-size:40px;
-}
+ font-size:40px;}
 
 .integra-bg .button:hover span {
- padding-right: 25px;
-}
+ padding-right: 25px;}
 
 .integra-bg .button:hover span:after {
  opacity: 1;
- right: 0;
-}
+ right: 0;}
+
+.inte-srv{background:#00a5a5;}
+.inte-srv h2{font-size:40px; color:#bd1e23; font-weight:600; text-transform:uppercase;}
+.inte-srv-box{background:#fff;}
+.inte-srv-box img{width:60px; display:block;}
+.inte-srv-box h5{font-size:20px; color:#fb751b; text-transform:uppercase; font-weight:600;}
+.inte-srv-box h5:before{content:"";}
 
 
 /*-------------our team section-------------*/

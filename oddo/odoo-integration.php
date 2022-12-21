@@ -49,114 +49,14 @@
                       </div>
                </div>
         </section>
-        <section class="py-md-5 py-3">
-                <div class="container migra-nessry">
-                       <h2 class="w-100 d-block pb-md-3">Why is Odoo Migration necessary?</h2>
-                       <ul class="w-100 d-block pl-0 pb-md-3">
-                             <li class="pb-3">Are you still using legacy systems to maintain your business data?</li>
-                             <li class="pb-3">Do you want to move to a next-gen, cloud-native system?</li>
-                             <li class="pb-3">Is your current ERP system really paying off?</li>
-                             <li class="pb-3">Is your current Odoo ERP version sufficient for your business growth?</li>
-                       </ul>
-                       <p class="d-block mb-md-3 mb-2">If your ERP system has become high maintenance,
-                           limits your flexibility, or inhibits customer service, then migration
-                           is the only answer.</p>
-                       <p class="d-block mb-md-3 mb-2">It is true that migrating and cleaning up ERP data
-                           can be costly, but it is worthwhile if performed meticulously.</p>
-                       <p class="d-block mb-md-3 mb-2">If you are using Odoo or are planning to switch
-                           to Odoo, ERP migration and upgradation are inevitable factors as Odoo
-                           releases new versions yearly.</p>
+        <section class="inte-srv w-100 d-block py-md-5 py-3">
+                <div class="container-fluid px-md-5 px-3">
+                      <h2 class="w-100 d-block text-center"><strong>Primacy Infotech Offers</strong>
+                          <br/>Odoo Integration services</h2>
+                      <div class="row">
+                            <div class="col-md-2"></div>
+                      </div>
                 </div>
-        </section>
-        <section class="w-100 d-block py-md-5 pt-0 pb-3">
-            <div class="container">
-                  <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                        <div class="col-md-6 migra-Cont-Area pt-3">
-                              <h2 class="w-100 d-block pb-md-2">Migrate Your Website</h2>
-                              <p class="d-block mb-md-3 mb-1">With An Experience Of 9+ Years, Uncanny Can Handle Any
-                                  Type Of Odoo Migration. We Ensure To Keep All Your Data
-                                  Secured During The Migration. There Are Various Migration
-                                  Process Such As Data Migration From Legacy ERP And Community
-                                  To Enterprise Migration.</p>
-                        </div>
-                        <div class="col-md-6">
-                              <div class="migra-Img">
-                              <img src="../assets/images/oddo/migrationImg-01.jpg" alt="">
-                              </div>
-                        </div>
-                  </div>
-                   <div class="row pt-md-5 pt-3">
-                           <div class="col-md-6">
-                               <div class="migra-Img">
-                                   <img src="../assets/images/oddo/migrationImg-02.jpg" alt="">
-                               </div>
-                           </div>
-                           <div class="col-md-6 migra-Cont-Area pt-3">
-                               <h2 class="w-100 d-block pb-md-2">Data Migration</h2>
-                               <p class="d-block mb-md-3 mb-1">The existing data migration is another chapter
-                                   of the migration which needs to be dealt with care.
-                                   The existing data should be configurable with the new
-                                   applications and the platform. In addition, the tables
-                                   should be modified, mapped, and imported to be suitable
-                                   to operate in the new version.</p>
-                           </div>
-                   </div>
-                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row pt-md-5 pt-3">
-                           <div class="col-md-6 migra-Cont-Area pt-3">
-                               <h2 class="w-100 d-block pb-md-2">Migration Testing</h2>
-                               <p class="d-block mb-md-3 mb-1">Even if all the modifications in the
-                                   applications and the data available are done there is
-                                   the ultimate need for sophisticated testing to be done
-                                   under extreme circumstances to showcase the durability
-                                   and the reliability of the new platform. The quality
-                                   checks should be conducted on the performance and
-                                   usability factors.</p>
-                           </div>
-                           <div class="col-md-6">
-                                   <div class="migra-Img">
-                                          <img src="../assets/images/oddo/migrationImg-03.jpg" alt="">
-                                   </div>
-                           </div>
-                   </div>
-                <div class="row pt-md-5 pt-3">
-                    <div class="col-md-6">
-                        <div class="migra-Img">
-                            <img src="../assets/images/oddo/migrationImg-04.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="col-md-6 migra-Cont-Area pt-3">
-                        <h2 class="w-100 d-block pb-md-2">Importance of Migration</h2>
-                        <p class="d-block mb-md-3 mb-1">The Odoo migration allows the users to upgrade to the
-                            new version of Odoo which is better, faster, and more reliable than the
-                            previous one. Odoo is a management software that keeps on updating with
-                            new versions, inculcating advanced operations. and adding new features
-                            that will help to run the business more effectively. Therefore this would
-                            be beneficial for the user as it will improve the productivity of the company.
-                            In addition the migration will result in less time consumption Odoo operations,
-                            simplification in operations terminologies, and additionally with integration
-                            from the advancement in the company operations.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="switchng w-100 d-block py-md-5 py-3">
-               <div class="container">
-                     <h2 class="w-100 d-block text-center pb-3 mb-md-5 mb-3">Why choose <strong>Odoo Migration?</strong></h2>
-                       <div class="row">
-                             <div class="col-md-5">
-                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/performed-project.png" alt="">Performed 50+ migration projects</div>
-                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/safty-data.png" alt="">Prioritizing the safety and security of your data</div>
-                                 <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/ensure.png" alt="">Ensuring minimum downtime during migration</div>
-                               </div>
-                               <div class="col-md-2 d-flex flex-wrap justify-content-center align-items-center py-md-0 py-3">
-                                      <img src="../assets/images/oddo/odoo-logo-04.png" class="img-fluid" alt="">
-                               </div>
-                               <div class="col-md-5">
-                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/certified.png" alt="">Certified and seasoned Odoo professionals</div>
-                                   <div class="switchng-box w-100 d-block py-md-4 py-3 mb-md-4 mb-2"><img src="../assets/images/oddo/quality-testing.png" alt="">Perform quality checks and testing to rectify errors</div>
-                               </div>
-                       </div>
-               </div>
         </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
