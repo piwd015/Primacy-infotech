@@ -435,24 +435,22 @@
                                            </div>
                                            <div class="col-md-4 mb-4">
                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/social-linkedin.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">Linked In</h3>
-                                                   <span class="d-block">With Odoo Linked In integration,
-                                                           you will be able to connect with all the job seekers
-                                                           helping you choose the best form of the talents
-                                                           available based on your need. Further, the LinkedIn
-                                                           integration will also help with the marketing and
-                                                           promotional operations of the company.
-                                                       </span>
+                                                   <img src="/assets/images/oddo/celcom.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Celcom</h3>
+                                                   <span class="d-block">The leading SMS Gateway & MMS Software Gateway
+                                                       developer for mobile messaging prominently in the African region
+                                                       will be helpful for business operation in the continent.
+                                                   </span>
                                                </div>
                                            </div>
                                            <div class="col-md-4 mb-4">
                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/social-twitter.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">Twitter</h3>
-                                                   <span class="d-block">Tweet your marketing aspects straight away
-                                                       from your Odoo platform with the Odoo Twitter Integration
-                                                       helping you to stay ahead in the trends of the business.
+                                                   <img src="/assets/images/oddo/clicksend.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">ClickSend</h3>
+                                                   <span class="d-block">Send text messages from any device which
+                                                       will support your business operations both in promotion as
+                                                       well as marketing. The Odoo integration with ClickSend will
+                                                       let you send text messages directly from the platform.
                                                    </span>
                                                </div>
                                            </div>
