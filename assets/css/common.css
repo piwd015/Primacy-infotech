@@ -2168,12 +2168,12 @@ left:0px; right:0px; top:48px; margin:0 auto;}
  position: relative;
  display: inline-block;
  padding: 0px 35px;
- height:150px;
+ height:120px;
  /*border: 1px solid transparent;*/
  border-bottom: 0;
  font-size:20px;
  color:#fff;
- line-height: 150px;
+ line-height: 120px;
  border-top-right-radius:10px;
  border-top-left-radius:10px;
  cursor: pointer;
