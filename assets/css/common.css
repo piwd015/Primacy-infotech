@@ -2160,7 +2160,7 @@ left:0px; right:0px; top:48px; margin:0 auto;}
 rgba(204,80,84,1) 49%, rgba(244,122,42,1) 100%); border-radius:8px;}
 .gatewy-box img{width:50%; display:block; margin:0 auto;}
 .gatewy-box h3{font-size: 20px; color:#fff;}
-.gatewy-box span{font-size:16px; color:#fff;}
+.gatewy-box span{font-size:16px; color:#fff; text-align:justify;}
 
 .tabset > input[type="radio"] {
  position: absolute;
