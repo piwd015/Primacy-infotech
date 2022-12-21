@@ -2171,7 +2171,7 @@ left:0px; right:0px; top:48px; margin:0 auto;}
  height:120px;
  /*border: 1px solid transparent;*/
  border-bottom: 0;
- font-size:20px;
+ font-size:17px;
  color:#fff;
  line-height: 120px;
  border-top-right-radius:10px;
@@ -2182,7 +2182,7 @@ background:#ff7b20;}
 .tabset > label::after {
  content: "";
  position: absolute;
- left: 25px;
+ left: 35px;
  bottom: 20px;
  width: 26px;
  height: 4px;
