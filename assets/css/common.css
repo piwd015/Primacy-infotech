@@ -2183,10 +2183,10 @@ background:#ff7b20;}
  content: "";
  position: absolute;
  left: 15px;
- bottom: 10px;
- width: 22px;
+ bottom: 30px;
+ width: 26px;
  height: 4px;
- background: #8d8d8d;}
+ background: #bd1e23;}
 .tabset > label:hover,
 .tabset > input:focus + label {
  color: #06c;}
