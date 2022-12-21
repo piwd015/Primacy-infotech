@@ -68,31 +68,31 @@
                             <div class="col-md-7">
                                   <div class="row">
                                           <div class="col-md-4 mb-3">
-                                                <a href="#features_content_sec" class="inte-srv-box w-100 d-block px-3">
+                                                <a href="#integration-services" class="inte-srv-box w-100 d-block px-3">
                                                     <img src="/assets/images/oddo/payment-gateway.png" alt="">
                                                     <h5 class="w-100 d-block text-center pt-2">Payment Gateway</h5>
                                                 </a>
                                           </div>
                                           <div class="col-md-4 mb-3">
-                                                  <a href="#" class="inte-srv-box w-100 d-block px-3">
+                                                  <a href="#integration-services" class="inte-srv-box w-100 d-block px-3">
                                                       <img src="/assets/images/oddo/social-media.png" alt="">
                                                       <h5 class="w-100 d-block text-center pt-2">Social Media</h5>
                                                   </a>
                                           </div>
                                           <div class="col-md-4 mb-3">
-                                                  <a href="#" class="inte-srv-box w-100 d-block px-3">
+                                                  <a href="#integration-services" class="inte-srv-box w-100 d-block px-3">
                                                       <img src="/assets/images/oddo/sms-gateway.png" alt="">
                                                       <h5 class="w-100 d-block text-center pt-2">SMS Gateways</h5>
                                                   </a>
                                           </div>
                                           <div class="col-md-4 mb-3">
-                                                  <a href="#" class="inte-srv-box w-100 d-block px-3">
+                                                  <a href="#integration-services" class="inte-srv-box w-100 d-block px-3">
                                                       <img src="/assets/images/oddo/biometic-devices.png" alt="">
                                                       <h5 class="w-100 d-block text-center pt-2">Biometric Devices</h5>
                                                   </a>
                                           </div>
                                           <div class="col-md-4">
-                                                  <a href="#" class="inte-srv-box w-100 d-block px-3">
+                                                  <a href="#integration-services" class="inte-srv-box w-100 d-block px-3">
                                                       <img src="/assets/images/oddo/docparser.png" alt="">
                                                       <h5 class="w-100 d-block text-center pt-2">Accounting</h5>
                                                   </a>
@@ -191,7 +191,7 @@
                 </div>
             </div>
         </section>
-        <section class="odo-integr-bg w-100 d-block py-3" id="features_content_sec">
+        <section class="odo-integr-bg w-100 d-block py-3" id="integration-services">
                 <h2 class="w-100 d-block text-center pb-2">Odoo ERP Integration Services</h2>
                 <p class="w-100 d-block text-center pb-4">Odoo is known for its resourcefulness
                     and flexibility, which benefits users wanting to manage various<br/>
