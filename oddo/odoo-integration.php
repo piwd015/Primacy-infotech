@@ -466,7 +466,7 @@
                                                    </p>
                                                    <div class="col-md-4 mb-4">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                           <img src="/assets/images/oddo/biometric-device.png" alt="">
+                                                           <img src="/assets/images/oddo/biometric-device.png" style="width: 20%;" alt="">
                                                            <h3 class="d-block pt-4 pb-3">Biometric devices integration</h3>
                                                            <span class="d-block">Biometric devices simplify the functioning
                                                                of certain routine activities in a company such as attendance
