@@ -2139,7 +2139,7 @@ background-size:100% 100%;}
 .inte-srv h2{font-size:40px; color:#bd1e23; font-weight:700; text-transform:uppercase;
  font-family: 'Oswald', sans-serif;}
 .inte-srv h5{font-size:30px; color:#bd1e23; font-family:'Oswald', sans-serif;}
-.inte-srv >p{font-size:16px; color:#fff!important; font-family: 'Oswald', sans-serif;}
+.inte-srv > p{font-size:16px; color:#fff!important; font-family: 'Oswald', sans-serif;}
 .inte-srv-box{background:#fff;}
 .inte-srv-box img{width:60px; display:block;}
 .inte-srv-box h5{font-size:20px; color:#fb751b; text-transform:uppercase; font-weight:600;}
