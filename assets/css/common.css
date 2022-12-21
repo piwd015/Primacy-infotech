@@ -2175,8 +2175,7 @@ left:0px; right:0px; top:48px; margin:0 auto;}
  color:#fff;
  line-height: 120px;
  text-align:center;
- border-top-right-radius:10px;
- border-top-left-radius:10px;
+border-radius: 10px;
  cursor: pointer;
  font-weight: 600;
 background:#ff7b20;}
