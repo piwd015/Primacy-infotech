@@ -505,17 +505,6 @@
                                                          </div>
                                                  </div>
                                                   <div class="col-md-4 mb-4">
-                                                         <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                                 <img src="/assets/images/oddo/biometric-device.png" style="width: 25%;" alt="">
-                                                                 <h3 class="d-block pt-4 pb-3">Jasper</h3>
-                                                                 <span class="d-block">Written in Java, Jasper is a reporting engine that
-                                                                     uses incoming data to create documents in a variety of formats,
-                                                                     including PDF, Excel, Word, Open Office, etc. Odoo integration
-                                                                     syncs Jasper and Odoo.
-                                                                 </span>
-                                                         </div>
-                                                 </div>
-                                                  <div class="col-md-4 mb-4">
                                                      <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                          <img src="/assets/images/oddo/biometric-device.png" style="width: 25%;" alt="">
                                                          <h3 class="d-block pt-4 pb-3">Open Office</h3>
