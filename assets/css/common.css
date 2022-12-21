@@ -2157,7 +2157,7 @@ left:0px; right:0px; top:48px; margin:0 auto;}
 .paymnt-gatwy h5{font-size:25px; color:#000; font-weight:600; font-family:'Oswald', sans-serif;}
 .paymnt-gatwy > p{font-size:15px; color:#000;}
 .gatewy-box{background: linear-gradient(183deg, rgba(193,0,0,1) 0%, rgba(255,150,81,1) 1%,
-rgba(204,80,84,1) 49%, rgba(244,122,42,1) 100%); border-radius:8px;}
+rgba(204,80,84,1) 49%, rgba(244,122,42,1) 100%); border-radius:10px; height: 300px;}
 .gatewy-box img{width:50%; display:block; margin:0 auto;}
 .gatewy-box h3{font-size: 25px; color:#fff;}
 .gatewy-box span{font-size:15px; color:#fff;}
