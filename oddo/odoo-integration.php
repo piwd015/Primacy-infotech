@@ -260,7 +260,7 @@
                                                            </span>
                                                    </div>
                                                </div>
-                                                 <div class="col-md-4 mb-md-0 mb-3">
+                                                 <div class="col-md-4 mb-3">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                            <img src="/assets/images/oddo/wallet-doc.png" alt="">
                                                            <h3 class="d-block pt-4 pb-3">Wallet Doc</h3>
@@ -271,17 +271,28 @@
                                                                </span>
                                                        </div>
                                                </div>
-                                                 <div class="col-md-4 mb-md-0 mb-3">
+                                                 <div class="col-md-4 mb-3">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/wipay.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">WiPay</h3>
-                                                   <span class="d-block">WiPay is a Caribbean-based online payment gateway
-                                                       provider upon integration with Odoo ERP you will be able to run
-                                                       peer-to-peer transfers and click-to-pay invoicing for Caribbean
-                                                       e-commerce websites for a fee.
-                                                   </span>
-                                               </div>
+                                                               <img src="/assets/images/oddo/wipay.png" alt="">
+                                                               <h3 class="d-block pt-4 pb-3">WiPay</h3>
+                                                               <span class="d-block">WiPay is a Caribbean-based online payment gateway
+                                                                   provider upon integration with Odoo ERP you will be able to run
+                                                                   peer-to-peer transfers and click-to-pay invoicing for Caribbean
+                                                                   e-commerce websites for a fee.
+                                                               </span>
+                                                       </div>
                                                  </div>
+                                                 <div class="col-md-4 mb-3">
+                                                      <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                           <img src="/assets/images/oddo/openpay.png" alt="">
+                                                           <h3 class="d-block pt-4 pb-3">Openpay Payment Gateway</h3>
+                                                           <span class="d-block">Odoo Openpay integration provide multiple
+                                                               payment options to customers during checkoout. Payment
+                                                               options incluse credit and debit card and interbank
+                                                               transfers.
+                                                           </span>
+                                                      </div>
+                                                </div>
                                        </div>
                                    </section>
                                    <section id="social" class="tab-panel">
