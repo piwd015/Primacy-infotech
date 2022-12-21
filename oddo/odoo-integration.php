@@ -51,10 +51,21 @@
         </section>
         <section class="inte-srv w-100 d-block py-md-5 py-3">
                 <div class="container-fluid px-md-5 px-3">
-                      <h2 class="w-100 d-block text-center"><strong>Primacy Infotech Offers</strong>
-                          <br/>Odoo Integration services</h2>
                       <div class="row">
-                            <div class="col-md-2"></div>
+                            <div class="col-md-5">
+                                   <h2 class="w-100 d-block">Primacy Offer</h2>
+                                   <h5 class="w-100 d-block pb-3">Odoo Integration services</h5>
+                                   <p>Odoo integration the solution moves ahead with your Odoo
+                                       platform as well as the unique tools which support your
+                                       business operations. However, Odoo ERP Integration should
+                                       be done with the right expertise Cybrosys Technologies is
+                                       your trustful expert Odoo Gold partner with 13+ years of
+                                       service. Today Cybrosys leads the top of the charts among
+                                       Odoo partners offering impeccable solutions and Odoo
+                                       services.
+                                   </p>
+                            </div>
+                            <div class="col-md-7"></div>
                       </div>
                 </div>
         </section>
