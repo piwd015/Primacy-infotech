@@ -226,7 +226,7 @@
                                                      currency. This comes with a variety of security options so customers know
                                                      they can make payments securely and reliably.
                                                  </p>
-                                                 <div class="col-md-4 mb-3">
+                                                 <div class="col-md-4 mb-4">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                              <img src="/assets/images/oddo/pay-paypal.png" alt="">
                                                               <h3 class="d-block pt-4 pb-3">PayPal</h3>
@@ -239,7 +239,7 @@
                                                               </span>
                                                        </div>
                                                  </div>
-                                                 <div class="col-md-4 mb-3">
+                                                 <div class="col-md-4 mb-4">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                            <img src="/assets/images/oddo/paytm.png" alt="">
                                                            <h3 class="d-block pt-4 pb-3">Paytm</h3>
@@ -249,7 +249,7 @@
                                                            </span>
                                                        </div>
                                                </div>
-                                                 <div class="col-md-4 mb-3">
+                                                 <div class="col-md-4 mb-4">
                                                    <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                        <img src="/assets/images/oddo/pay-mybank.png" alt="">
                                                        <h3 class="d-block pt-4 pb-3">MyBank</h3>
@@ -260,7 +260,7 @@
                                                            </span>
                                                    </div>
                                                </div>
-                                                 <div class="col-md-4 mb-3">
+                                                 <div class="col-md-4 mb-4">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                            <img src="/assets/images/oddo/wallet-doc.png" alt="">
                                                            <h3 class="d-block pt-4 pb-3">Wallet Doc</h3>
@@ -271,7 +271,7 @@
                                                                </span>
                                                        </div>
                                                </div>
-                                                 <div class="col-md-4 mb-3">
+                                                 <div class="col-md-4 mb-4">
                                                        <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                                <img src="/assets/images/oddo/wipay.png" alt="">
                                                                <h3 class="d-block pt-4 pb-3">WiPay</h3>
@@ -282,7 +282,7 @@
                                                                </span>
                                                        </div>
                                                  </div>
-                                                 <div class="col-md-4 mb-3">
+                                                 <div class="col-md-4 mb-4">
                                                       <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                            <img src="/assets/images/oddo/openpay.png" alt="">
                                                            <h3 class="d-block pt-4 pb-3">Openpay Payment Gateway</h3>
@@ -296,7 +296,88 @@
                                        </div>
                                    </section>
                                    <section id="social" class="tab-panel">
-
+                                       <div class="row paymnt-gatwy">
+                                           <h5 class="d-block pb-2">Odoo integration Social Media</h5>
+                                           <p class="d-block pb-2">Connect with a larger customer base
+                                               with the Odoo Integration with your organization's social media
+                                               accounts. This integration will help you to run the followers
+                                               of your business on social media into valuable clients.
+                                               Moreover, this Integration will serve you with the Social media
+                                               marketing tool which costs low and has a wider customer reach
+                                               irresp[ecstive of the physical barrier. With the Odoo integration
+                                               with your social media accounts, you can craft and optimize
+                                               marketing campaigns and promotional events to attract more
+                                               customers to your business all from the same Odoo platform that
+                                               you hold.
+                                           </p>
+                                           <div class="col-md-4 mb-4">
+                                                   <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                           <img src="/assets/images/oddo/social-fb.png" alt="">
+                                                           <h3 class="d-block pt-4 pb-3">Facebook</h3>
+                                                           <span class="d-block">Odoo Facebook Integration served
+                                                               as the marketing and promotional tool for your
+                                                               company allowing you to post advertisements and
+                                                               promotions on your companies Facebook page directly
+                                                               from Odoo.
+                                                           </span>
+                                                   </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/whatsapp-logo.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Whatsapp</h3>
+                                                   <span class="d-block">Odoo Whatsapp integration will let you send
+                                                       out notification messages to your client's phones about the
+                                                       various aspects of the business. It can be used among employee
+                                                       management operations as well.
+                                                   </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/pay-mybank.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">MyBank</h3>
+                                                   <span class="d-block">Helps you to provide as well as receive payments
+                                                           through immediate bank transfers through a distinctive payment gateway
+                                                           and with Odoo ERP Integration you will be able to generate and receive
+                                                           payments easily.
+                                                           </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/wallet-doc.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Wallet Doc</h3>
+                                                   <span class="d-block">With Odoo Wallet Doc integration you will be
+                                                               able to run Automate & secure recurring card payments which
+                                                               will be especially beneficial for the subscription product and
+                                                               service sales of your company.
+                                                               </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/wipay.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">WiPay</h3>
+                                                   <span class="d-block">WiPay is a Caribbean-based online payment gateway
+                                                                   provider upon integration with Odoo ERP you will be able to run
+                                                                   peer-to-peer transfers and click-to-pay invoicing for Caribbean
+                                                                   e-commerce websites for a fee.
+                                                               </span>
+                                               </div>
+                                           </div>
+                                           <div class="col-md-4 mb-4">
+                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                   <img src="/assets/images/oddo/openpay.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Openpay Payment Gateway</h3>
+                                                   <span class="d-block">Odoo Openpay integration provide multiple
+                                                               payment options to customers during checkoout. Payment
+                                                               options incluse credit and debit card and interbank
+                                                               transfers.
+                                                           </span>
+                                               </div>
+                                           </div>
+                                       </div>
                                    </section>
                                    <section id="sms" class="tab-panel">
 
