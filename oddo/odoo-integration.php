@@ -240,13 +240,24 @@
                                                    </div>
                                              </div>
                                              <div class="col-md-4">
+                                                   <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                       <img src="/assets/images/oddo/pay-paypal.png" alt="">
+                                                       <h3 class="d-block pt-4 pb-3">Paytm</h3>
+                                                       <span class="d-block">Odoo Paytm integration will provide a
+                                                           suitable digital payment system for business owners in
+                                                           accepting as well as providing for e-commerce and finances.
+                                                       </span>
+                                                   </div>
+                                           </div>
+                                             <div class="col-md-4">
                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                    <img src="/assets/images/oddo/pay-paypal.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">Paytm</h3>
-                                                   <span class="d-block">Odoo Paytm integration will provide a
-                                                       suitable digital payment system for business owners in
-                                                       accepting as well as providing for e-commerce and finances.
-                                                   </span>
+                                                   <h3 class="d-block pt-4 pb-3">MyBank</h3>
+                                                   <span class="d-block">Helps you to provide as well as receive payments
+                                                       through immediate bank transfers through a distinctive payment gateway
+                                                       and with Odoo ERP Integration you will be able to generate and receive
+                                                       payments easily.
+                                                       </span>
                                                </div>
                                            </div>
                                        </div>
