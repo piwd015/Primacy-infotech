@@ -68,9 +68,9 @@
                             <div class="col-md-7">
                                   <div class="row">
                                         <div class="col-md-4">
-                                              <a href="#" class="inte-srv-box w-100 d-block px-3 py-4">
+                                              <a href="#" class="inte-srv-box w-100 d-block px-3 py-5">
                                                     <img src="/assets/images/oddo/payment-gateway.png" alt="">
-                                                    <h5 class="w-100 d-block text-center pt-3">Payment Gateway</h5>
+                                                    <h5 class="w-100 d-block text-center pt-2">Payment Gateway</h5>
                                               </a>
                                         </div>
                                   </div>
