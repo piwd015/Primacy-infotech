@@ -94,7 +94,7 @@
                                           <div class="col-md-4">
                                                   <a href="#" class="inte-srv-box w-100 d-block px-3">
                                                       <img src="/assets/images/oddo/docparser.png" alt="">
-                                                      <h5 class="w-100 d-block text-center pt-2">Docparser</h5>
+                                                      <h5 class="w-100 d-block text-center pt-2">Accounting</h5>
                                                   </a>
                                           </div>
                                   </div>
@@ -214,7 +214,7 @@
 
                              <!-- Tab 5 -->
                              <input type="radio" name="tabset" id="tab5" aria-controls="docparser">
-                             <label for="tab5">Docparser</label>
+                             <label for="tab5">Accounting</label>
 
                             <div class="tab-panels">
                                    <section id="payment" class="tab-panel">
