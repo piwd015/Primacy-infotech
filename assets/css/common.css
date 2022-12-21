@@ -2183,9 +2183,11 @@ background:#ff7b20;}
 .tabset > label::after {
  content: "";
  position: absolute;
- left: 35px;
+ left: 0px;
+ right:0px;
+ margin:0 auto;
  bottom: 30px;
- width: 26px;
+ width: 30px;
  height: 4px;
  background: #bd1e23;}
 .tabset > label:hover,
