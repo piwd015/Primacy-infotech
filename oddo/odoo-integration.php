@@ -354,25 +354,26 @@
                                                </div>
                                            </div>
                                            <div class="col-md-4 mb-4">
-                                               <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/wipay.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">WiPay</h3>
-                                                   <span class="d-block">WiPay is a Caribbean-based online payment gateway
-                                                                   provider upon integration with Odoo ERP you will be able to run
-                                                                   peer-to-peer transfers and click-to-pay invoicing for Caribbean
-                                                                   e-commerce websites for a fee.
-                                                               </span>
+                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
+                                                       <img src="/assets/images/oddo/social-linkedin.png" alt="">
+                                                       <h3 class="d-block pt-4 pb-3">Linked In</h3>
+                                                       <span class="d-block">With Odoo Linked In integration,
+                                                           you will be able to connect with all the job seekers
+                                                           helping you choose the best form of the talents
+                                                           available based on your need. Further, the LinkedIn
+                                                           integration will also help with the marketing and
+                                                           promotional operations of the company.
+                                                       </span>
                                                </div>
                                            </div>
                                            <div class="col-md-4 mb-4">
                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/openpay.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">Openpay Payment Gateway</h3>
-                                                   <span class="d-block">Odoo Openpay integration provide multiple
-                                                               payment options to customers during checkoout. Payment
-                                                               options incluse credit and debit card and interbank
-                                                               transfers.
-                                                           </span>
+                                                   <img src="/assets/images/oddo/social-twitter.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Twitter</h3>
+                                                   <span class="d-block">Tweet your marketing aspects straight away
+                                                       from your Odoo platform with the Odoo Twitter Integration
+                                                       helping you to stay ahead in the trends of the business.
+                                                   </span>
                                                </div>
                                            </div>
                                        </div>
