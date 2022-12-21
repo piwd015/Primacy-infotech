@@ -335,24 +335,22 @@
                                            </div>
                                            <div class="col-md-4 mb-4">
                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/pay-mybank.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">MyBank</h3>
-                                                   <span class="d-block">Helps you to provide as well as receive payments
-                                                           through immediate bank transfers through a distinctive payment gateway
-                                                           and with Odoo ERP Integration you will be able to generate and receive
-                                                           payments easily.
-                                                           </span>
+                                                   <img src="/assets/images/oddo/social-fb-messenger.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Facebook Messenger</h3>
+                                                   <span class="d-block">Facebook Messenger will serve as an effective public
+                                                       relationship management platform of the company and with direct Odoo Integration,
+                                                       it will be easier for your business to reach your customers.
+                                                   </span>
                                                </div>
                                            </div>
                                            <div class="col-md-4 mb-4">
                                                <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                   <img src="/assets/images/oddo/wallet-doc.png" alt="">
-                                                   <h3 class="d-block pt-4 pb-3">Wallet Doc</h3>
-                                                   <span class="d-block">With Odoo Wallet Doc integration you will be
-                                                               able to run Automate & secure recurring card payments which
-                                                               will be especially beneficial for the subscription product and
-                                                               service sales of your company.
-                                                               </span>
+                                                   <img src="/assets/images/oddo/social-instagram.png" alt="">
+                                                   <h3 class="d-block pt-4 pb-3">Instagram</h3>
+                                                   <span class="d-block">Odoo Instagram Integration will help you with the
+                                                       promotion of your business with Instagram-worthy pictures of your products
+                                                       and services helping you to your business first in the competition.
+                                                   </span>
                                                </div>
                                            </div>
                                            <div class="col-md-4 mb-4">
