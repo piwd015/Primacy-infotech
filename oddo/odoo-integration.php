@@ -193,81 +193,36 @@
         </section>
         <section class="py-3">
                <div class="container">
-                     <h2 class="migra-pros-txt w-100 d-block text-center pb-md-4 pb-2">Odoo Migration
-                         Process</h2>
-                     <div class="row">
-                               <div class="col-md-6 mb-md-3">
-                                     <ul class="migra-pros w-100 d-block pl-0">
-                                           <img src="../assets/images/oddo/migra-pross-01.png" alt="">
-                                           <h3 class="w-100 d-block py-md-3">1. Migration Assessment and Assistance</h3>
-                                           <li class="pb-2">For the Enterprise Version and Odoo Online, have you
-                                               discussed with Odoo Support for migration?</li>
-                                           <li class="pb-2">How much data do you need in the newer version?</li>
-                                           <li class="pb-2">Do you have any module customizations?</li>
-                                           <li class="pb-2">Do you have any studio customizations?</li>
-                                     </ul>
-                               </div>
-                              <div class="col-md-6 pl-md-5 mb-md-3">
-                                      <ul class="migra-pros w-100 d-block pl-0">
-                                          <img src="../assets/images/oddo/migra-pross-03.png" alt="">
-                                          <h3 class="w-100 d-block py-md-3">2. Estimation Phase</h3>
-                                          <li class="pb-2">Check the custom modules and see if this is available
-                                              at Odoo apps in newer versions.</li>
-                                          <li class="pb-2">What is the expected "Go Live" date?</li>
-                                          <li class="pb-2">Discuss Maintenance Window as per database size.</li>
-                                      </ul>
-                              </div>
-                              <div class="col-md-6 mb-md-3">
-                                      <ul class="migra-pros w-100 d-block pl-0">
-                                               <img src="../assets/images/oddo/migra-check.png" alt="">
-                                               <h3 class="w-100 d-block py-md-3">3. Pre-Migration Checklist</h3>
-                                               <li class="pb-2">Install/Import Modules</li>
-                                               <li class="pb-2">Check the product database size.</li>
-                                               <li class="pb-2">Check for custom add-ons.</li>
-                                               <li class="pb-2">Check if the studio customizations are compatible with
-                                                   the newer version.</li>
-                                      </ul>
-                                      <ul class="migra-pros w-100 d-block pl-0">
-                                          <img src="../assets/images/oddo/migra-pross-02.png" alt="">
-                                          <h3 class="w-100 d-block py-md-3">4. System Configuration</h3>
-                                          <li class="pb-2">User and its access rights</li>
-                                          <li class="pb-2">Company Property</li>
-                                          <li class="pb-2">Report Layout</li>
-                                          <li class="pb-2">Mail Templates</li>
-                                      </ul>
-                              </div>
-                              <div class="col-md-6">
-                                      <ul class="migra-pros w-100 d-block pl-0">
-                                          <img src="../assets/images/oddo/migra-pross-04.png" alt="">
-                                          <h3 class="w-100 d-block py-md-3">5. Migration Implementation</h3>
-                                          <li class="pb-2">Choosing Migration Methods
-                                               <ul class="w-100 d-block ml-4">
-                                                    <li class="pb-2">Open upgrade</li>
-                                                    <li class="pb-2">Manual Script</li>
-                                               </ul>
-                                          </li>
-                                          <li class="pb-2">Mock Migration:
-                                                  <ul class="w-100 d-block ml-4">
-                                                      <li class="pb-2">Go live with the testing server</li>
-                                                      <li class="pb-2">Testing</li>
-                                                      <li class="pb-2">Client feedback</li>
-                                                  </ul>
-                                          </li>
-                                          <li class="pb-2">Live release:
-                                                <ul class="w-100 d-block ml-4">
-                                                       <li class="pb-2">Amendments as per mockup release feedback</li>
-                                                       <li class="pb-2">Schedule date and time for Go Live</li>
-                                                       <li class="pb-2">Add real-time testing in the production database</li>
-                                                       <li class="pb-2">Taking database backup once significant data is imported</li>
-                                                       <li class="pb-2">Internal QA</li>
-                                                       <li class="pb-2">Partner/Customer Review</li>
-                                                       <li class="pb-2">Feedback</li>
-                                                </ul>
-                                          </li>
-                                      </ul>
-                              </div>
-                              <div class="col-md-6"></div>
-                     </div>
+                   <div class="tabset">
+                       <!-- Tab 1 -->
+                       <input type="radio" name="tabset" id="tab1" aria-controls="marzen" checked>
+                       <label for="tab1">Märzen</label>
+                       <!-- Tab 2 -->
+                       <input type="radio" name="tabset" id="tab2" aria-controls="rauchbier">
+                       <label for="tab2">Rauchbier</label>
+                       <!-- Tab 3 -->
+                       <input type="radio" name="tabset" id="tab3" aria-controls="dunkles">
+                       <label for="tab3">Dunkles Bock</label>
+
+                       <div class="tab-panels">
+                           <section id="marzen" class="tab-panel">
+                               <h2>6A. Märzen</h2>
+                               <p><strong>Overall Impression:</strong> An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.</p>
+                               <p><strong>History:</strong> As the name suggests, brewed as a stronger “March beer” in March and lagered in cold caves over the summer. Modern versions trace back to the lager developed by Spaten in 1841, contemporaneous to the development of Vienna lager. However, the Märzen name is much older than 1841; the early ones were dark brown, and in Austria the name implied a strength band (14 °P) rather than a style. The German amber lager version (in the Viennese style of the time) was first served at Oktoberfest in 1872, a tradition that lasted until 1990 when the golden Festbier was adopted as the standard festival beer.</p>
+                           </section>
+                           <section id="rauchbier" class="tab-panel">
+                               <h2>6B. Rauchbier</h2>
+                               <p><strong>Overall Impression:</strong>  An elegant, malty German amber lager with a balanced, complementary beechwood smoke character. Toasty-rich malt in aroma and flavor, restrained bitterness, low to high smoke flavor, clean fermentation profile, and an attenuated finish are characteristic.</p>
+                               <p><strong>History:</strong> A historical specialty of the city of Bamberg, in the Franconian region of Bavaria in Germany. Beechwood-smoked malt is used to make a Märzen-style amber lager. The smoke character of the malt varies by maltster; some breweries produce their own smoked malt (rauchmalz).</p>
+                           </section>
+                           <section id="dunkles" class="tab-panel">
+                               <h2>6C. Dunkles Bock</h2>
+                               <p><strong>Overall Impression:</strong> A dark, strong, malty German lager beer that emphasizes the malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.</p>
+                               <p><strong>History:</strong> Originated in the Northern German city of Einbeck, which was a brewing center and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich starting in the 17th century. The name “bock” is based on a corruption of the name “Einbeck” in the Bavarian dialect, and was thus only used after the beer came to Munich. “Bock” also means “Ram” in German, and is often used in logos and advertisements.</p>
+                           </section>
+                       </div>
+
+                   </div>
                </div>
         </section>
         <section class="odo-srvs py-md-5 py-3">
