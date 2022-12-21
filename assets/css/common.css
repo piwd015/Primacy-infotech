@@ -2202,8 +2202,19 @@ background:#ff7b20;}
 
  margin-bottom: -1px;
 position: relative;}
-.tabset > input:checked + label::before{content:""; width:100%; height:3px;
-background:#fff; position: absolute; bottom: -3px; left:0px; z-index:10;}
+.tabset > input:checked + label::before{
+ content: "";
+ position: absolute;
+ left: 0px;
+ right: 0px;
+ bottom: -20px;
+ margin: 0 auto;
+ width: 40px;
+ height: 20px;
+ background: url('../images/oddo/down-arrow.png') no-repeat top center;
+ background-size: auto;
+ background-size: 100% 100%;
+}
 .tab-panel {padding:30px 0;}
 .tabset {max-width:100em;}
 
