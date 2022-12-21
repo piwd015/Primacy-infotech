@@ -227,7 +227,7 @@
                                                  they can make payments securely and reliably.
                                              </p>
                                              <div class="col-md-4">
-                                                   <div class="gatewy-box w-100 d-block px-3 py-md-4 py-3">
+                                                   <div class="gatewy-box w-100 d-block p-md-4 p-3">
                                                          <img src="/assets/images/oddo/pay-paypal.png" alt="">
                                                           <h3 class="d-block py-2">PayPal</h3>
                                                           <span class="d-block">An American multinational Financial
