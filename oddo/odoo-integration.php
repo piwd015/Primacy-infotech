@@ -216,7 +216,7 @@
                              <input type="radio" name="tabset" id="tab5" aria-controls="docparser">
                              <label for="tab5">Accounting</label>
 
-                            <div class="tab-panels px-5">
+                            <div class="tab-panels">
                                    <section id="payment" class="tab-panel">
                                        <div class="row paymnt-gatwy">
                                                  <h5 class="d-block pb-2">Payment Gateway Integration</h5>
