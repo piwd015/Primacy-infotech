@@ -338,6 +338,7 @@
                                                <h2 class="w-100 d-block text-center">
                                                     <sup>$</sup>499<sub>/Month</sub>
                                                </h2>
+                                               <button type="button" class="btn gt-start">Get Started</button>
                                         </div>
                                    </th>
                                    <th valign="top" width="23%">Email</th>
