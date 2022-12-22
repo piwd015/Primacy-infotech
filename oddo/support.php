@@ -219,7 +219,9 @@
                     </div>
                      <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                            <div class="col-md-8">
-                             <div class="supprt-box w-100 d-block p-md-5 p-3">
+                             <div class="supprt-box w-100 d-block p-md-5 p-3" style="background: linear-gradient(86deg,
+                             rgba(193,0,0,1) 0%, rgba(67,125,246,1) 0%, rgba(147,161,189,1) 49%,
+                             rgba(249,207,117,1) 100%);">
                                      <h2 class="d-block pb-2">Odoo Technical Support Services</h2>
                                      <h4 class="d-block pb-3"><u>Our technical support services consist of:</u></h4>
                                      <ul class="w-100 d-block pl-0">
