@@ -206,18 +206,30 @@
                            </label>
                            <!-- Tab 2 -->
                            <input type="radio" name="tabset" id="tab2" aria-controls="social">
-                           <label for="tab2">Social Media</label>
+                           <label for="tab2">
+                               <img src="/assets/images/oddo/social-media-02.png" alt="">
+                               Social Media
+                           </label>
                            <!-- Tab 3 -->
                            <input type="radio" name="tabset" id="tab3" aria-controls="sms">
-                           <label for="tab3">Sms Gateways</label>
+                           <label for="tab3">
+                               <img src="/assets/images/oddo/sms-gateway-02.png" alt="">
+                               Sms Gateways
+                           </label>
 
                            <!-- Tab 4 -->
                            <input type="radio" name="tabset" id="tab4" aria-controls="biometric">
-                           <label for="tab4">Biometric Devices</label>
+                           <label for="tab4">
+                               <img src="/assets/images/oddo/social-media-02.png" alt="">
+                               Biometric Devices
+                           </label>
 
                              <!-- Tab 5 -->
                              <input type="radio" name="tabset" id="tab5" aria-controls="docparser">
-                             <label for="tab5">Accounting</label>
+                             <label for="tab5">
+                                 <img src="/assets/images/oddo/social-media-02.png" alt="">
+                                 Accounting
+                             </label>
 
                             <div class="tab-panels">
                                    <section id="payment" class="tab-panel">
