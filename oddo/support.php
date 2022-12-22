@@ -190,8 +190,8 @@
               <div class="container-fluid px-md-5 px-3">
                     <h2 class="w-100 d-block text-center pb-md-5 pb-3">OUR ODOO SUPPORT SERVICES</h2>
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                          <div class="col-md-4"></div>
-                          <div class="col-md-8">
+                          <div class="col-md-3"></div>
+                          <div class="col-md-9">
                                 <div class="supprt-box w-100 d-block py-md-5 py-3 px-md-4 px-3">
                                           <h2 class="d-block pb-2">Support from Odoo</h2>
                                           <p class="d-block pb-3">Whenever you buy an online
