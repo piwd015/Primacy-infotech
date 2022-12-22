@@ -2249,9 +2249,10 @@ background:url("../images/oddo/bullet.png") no-repeat 0 3px;}
 .packg{}
 .packg h6{font-size:12px; color:#000; font-weight:600;}
 .packg h2{font-size:45px; color:#000; font-weight:700;}
-.packg h2 sup{font-size:12px; color:#000; position:relative; top:-10px;}
+.packg h2 sup{font-size:12px; color:#000; position:relative; top:-30px;}
 .packg h2 sub{font-size:12px; color:#000;}
-.gt-start{background:#09a39e; font-size:14px; color:#fff; margin:0 auto;}
+.gt-start{background:#09a39e; font-size:14px; color:#fff; margin:0 auto; min-width:120px;
+border:none!important; font-weight:none!important;}
 .gt-start:hover{background:#047f7b; color:#fff;}
 
 /*-------------our team section-------------*/
