@@ -2179,7 +2179,6 @@ rgba(204,80,84,1) 49%, rgba(244,122,42,1) 100%); border-radius:10px; height: 370
  display: inline-block;
  width:19%;
  height:130px;
- /*border: 1px solid transparent;*/
  border-bottom: 0;
  font-size:17px;
  color:#fff;
@@ -2190,7 +2189,7 @@ border-radius: 10px;
  font-weight: 600;
 background:#ff7b20;}
 .tabset > label img{width:50px; display:block; margin:0 auto; position: absolute;
-z-index:30; left:0px; right: 0px; top: 0px; margin:0 auto;}
+z-index:30; left:0px; right: 0px; top:10px; margin:0 auto;}
 .tabset > label::after {
  content: "";
  position: absolute;
