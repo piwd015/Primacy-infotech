@@ -2236,10 +2236,10 @@ ul.srpt-mnts li img{width:100px; display:block; position:absolute; left:0px; top
 
 .supprt-box{background: linear-gradient(86deg, rgba(193,0,0,1) 0%, rgba(137,42,214,1) 1%,
 rgba(108,106,229,1) 49%, rgba(67,203,255,1) 100%);}
-.supprt-box h2{font-size:30px; color:#fff; font-family:'Oswald', sans-serif; font-weight:700;
+.supprt-box h2{font-size:30px; color:#fff; font-family:'Oswald', sans-serif; font-weight:600;
 font-style:italic;}
 .supprt-box p{font-size:16px; color:#fff;}
-.supprt-box h4{font-size:20px; color:#fff; font-family:'Oswald', sans-serif; font-weight:600;}
+.supprt-box h4{font-size:20px; color:#fff; font-family:'Oswald', sans-serif;}
 .supprt-box ul{padding:0px; margin:0px;}
 .supprt-box ul li{display:block; padding-left:20px; font-size:17px; color:#fff;
 background:url("../images/oddo/bullet.png") no-repeat 0 3px;}
