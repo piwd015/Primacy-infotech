@@ -186,6 +186,35 @@
                 </div>
             </div>
         </section>
+        <section class="odo-integr-bg w-100 d-block py-md-5 py-3">
+              <div class="container">
+                    <h2 class="w-100 d-block text-center pb-md-5 pb-3">OUR ODOO SUPPORT SERVICES</h2>
+                    <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
+                          <div class="col-md-4"></div>
+                          <div class="col-md-8">
+                                <div class="supprt-box w-100 d-block py-md-5 py-3 px-md-4 px-3">
+                                          <h2 class="d-block pb-2">Support from Odoo</h2>
+                                          <p class="d-block pb-3">Whenever you buy an online
+                                              subscription to Odoo, you get free access to Odoo’s
+                                              online support.
+                                          </p>
+                                          <h4 class="d-block pb-3"><u>The support consists of:</u></h4>
+                                          <ul class="w-100 d-block pl-0">
+                                                 <li class="pb-2">Get direct access to Odoo’s source
+                                                       material like product documentation and
+                                                       guidelines.</li>
+                                                 <li class="pb-2">Solutions for minor bugs that you come
+                                                       across during customization</li>
+                                                 <li class="pb-2">Address issues related to Odoo’s standard
+                                                     database</li>
+                                                 <li class="pb-2">Answers question regarding your account
+                                                     or subscription</li>
+                                          </ul>
+                                </div>
+                          </div>
+                    </div>
+              </div>
+        </section>
         <section class="odo-srvs py-md-5 py-3">
             <h2 class="w-100 d-block text-center">OUR ODOO ERP DEVELOPMENT</h2>
             <h3 class="w-100 d-block text-center pb-3">SERVICES</h3>
