@@ -49,7 +49,7 @@
                       </div>
                </div>
         </section>
-        <section class="odo-integr-bg w-100 d-block py-3" style="background:#fff;">
+        <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
               <div class="container">
                      <h2 class="w-100 d-block text-center pb-4">Odoo ERP Support and Maintenance</h2>
                      <div class="row">
