@@ -52,9 +52,9 @@
         <section class="inte-srv w-100 d-block py-md-5 py-3">
                 <div class="container-fluid px-md-5 px-3">
                       <div class="row">
-                            <div class="col-md-5">
+                            <div class="col-md-5 pb-md-0 pb-3">
                                    <h2 class="w-100 d-block">Primacy Offer</h2>
-                                   <h5 class="w-100 d-block pb-md-3 mb-md-3 mb-0">Odoo Integration services</h5>
+                                   <h5 class="w-100 d-block pb-md-3 mb-md-3 mb-3">Odoo Integration services</h5>
                                    <span>Odoo integration the solution moves ahead with your Odoo
                                        platform as well as the unique tools which support your
                                        business operations. However, Odoo ERP Integration should

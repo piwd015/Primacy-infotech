@@ -2631,6 +2631,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .integra-bg .button{font-size:16px; padding:10px 0px; width:150px;}
  .inte-srv h2{font-size:25px;}
  .inte-srv h5{font-size:20px;}
+ .inte-srv span{font-size:15px; line-height:22px;}
 }
 
 @media screen and (max-height: 450px) {
