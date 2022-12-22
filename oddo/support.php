@@ -324,7 +324,7 @@
                 </div>
             </div>
         </section>
-        <section class="odo-integr-bg w-100 d-block py-md-5 py-3">
+        <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
             <div class="container">
                  <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support Packages</h2>
                  <div class="table-responsive">
@@ -341,8 +341,24 @@
                                                <button type="button" class="btn gt-start">Get Started</button>
                                         </div>
                                    </th>
-                                   <th valign="top" width="23%">Email</th>
-                                   <th valign="top" width="23%">Email</th>
+                                   <th valign="top" width="23%">
+                                       <div class="packg w-100 d-block text-center">
+                                           <h6 class="w-100 d-block text-center">Package 1</h6>
+                                           <h2 class="w-100 d-block text-center">
+                                               <sup>$</sup>499<sub>/Month</sub>
+                                           </h2>
+                                           <button type="button" class="btn gt-start">Get Started</button>
+                                       </div>
+                                   </th>
+                                   <th valign="top" width="23%">
+                                       <div class="packg w-100 d-block text-center">
+                                           <h6 class="w-100 d-block text-center">Package 1</h6>
+                                           <h2 class="w-100 d-block text-center">
+                                               <sup>$</sup>499<sub>/Month</sub>
+                                           </h2>
+                                           <button type="button" class="btn gt-start">Get Started</button>
+                                       </div>
+                                   </th>
                                </tr>
                           </thead>
                           <tbody>
