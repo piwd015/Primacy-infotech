@@ -324,6 +324,47 @@
                 </div>
             </div>
         </section>
+        <section class="py-md-5 py-3">
+            <div class="container">
+                 <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support Packages</h2>
+                 <div class="table-responsive">
+                      <table class="table table-bordered table-sm">
+                          <thead>
+                               <tr>
+                                   <th valign="top" width="31%" style="border:none;"></th>
+                                   <th valign="top" width="23%">
+                                        <div class="packg w-100 d-block text-center">
+                                              <h6 class="w-100 d-block text-center">Package 1</h6>
+                                               <h2 class="w-100 d-block text-center">
+                                                    <sup>$</sup>499<sub>/Month</sub>
+                                               </h2>
+                                        </div>
+                                   </th>
+                                   <th valign="top" width="23%">Email</th>
+                                   <th valign="top" width="23%">Email</th>
+                               </tr>
+                          </thead>
+                          <tbody>
+                                   <tr>
+                                       <td>John</td>
+                                       <td>Doe</td>
+                                       <td>john@example.com</td>
+                                   </tr>
+                                   <tr>
+                                       <td>Mary</td>
+                                       <td>Moe</td>
+                                       <td>mary@example.com</td>
+                                   </tr>
+                                   <tr>
+                                       <td>July</td>
+                                       <td>Dooley</td>
+                                       <td>july@example.com</td>
+                                   </tr>
+                            </tbody>
+                      </table>
+                 </div>
+            </div>
+        </section>
         <section class="odo-intgr w-100 d-block py-md-5 py-3">
             <div class="container">
                 <h2 class="w-100 d-block text-center pb-md-4 pb-2"><strong>Industries</strong> we helped with <strong>Oddo</strong></h2>
