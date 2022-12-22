@@ -190,7 +190,7 @@
               <div class="container-fluid px-md-5 px-3">
                     <h2 class="w-100 d-block text-center pb-md-4 pb-3">OUR ODOO SUPPORT SERVICES</h2>
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                          <div class="col-md-4 d-flex flex-wrap align-items-center">
+                          <div class="col-md-4 d-flex flex-wrap justify-content-center align-items-center">
                                 <div class="suprt-odo-Img">
                                       <img src="/assets/images/oddo/support-odoo.png" alt="">
                                 </div>
