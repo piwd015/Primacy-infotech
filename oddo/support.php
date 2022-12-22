@@ -341,7 +341,7 @@
                                                <button type="button" class="btn gt-start">Get Started</button>
                                         </div>
                                    </th>
-                                   <th valign="top" width="23%">
+                                   <th valign="top" width="23%" class="py-4">
                                        <div class="packg w-100 d-block text-center">
                                            <h6 class="w-100 d-block text-center">Package 1</h6>
                                            <h2 class="w-100 d-block text-center">
@@ -350,7 +350,7 @@
                                            <button type="button" class="btn gt-start">Get Started</button>
                                        </div>
                                    </th>
-                                   <th valign="top" width="23%">
+                                   <th valign="top" width="23%" class="py-4">
                                        <div class="packg w-100 d-block text-center">
                                            <h6 class="w-100 d-block text-center">Package 1</h6>
                                            <h2 class="w-100 d-block text-center">
