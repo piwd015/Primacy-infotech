@@ -190,7 +190,11 @@
               <div class="container-fluid px-md-5 px-3">
                     <h2 class="w-100 d-block text-center pb-md-4 pb-3">OUR ODOO SUPPORT SERVICES</h2>
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                          <div class="col-md-3"></div>
+                          <div class="col-md-3">
+                                <div class="suprt-odo-Img">
+                                      <img src="/assets/images/oddo/support-odoo.png" alt="">
+                                </div>
+                          </div>
                           <div class="col-md-9">
                                 <div class="supprt-box w-100 d-block p-md-5 p-3">
                                           <h2 class="d-block pb-2">Support from Odoo</h2>

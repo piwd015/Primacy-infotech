@@ -2243,6 +2243,8 @@ font-style:italic; letter-spacing:1px;}
 .supprt-box ul{padding:0px; margin:0px;}
 .supprt-box ul li{display:block; padding-left:25px; font-size:17px; color:#fff;
 background:url("../images/oddo/bullet.png") no-repeat 0 3px;}
+.suprt-odo-Img{width:100%;}
+.suprt-odo-Img img{width:100%; display:block;}
 
 /*-------------our team section-------------*/
 
