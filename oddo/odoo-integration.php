@@ -220,7 +220,7 @@
                            <!-- Tab 4 -->
                            <input type="radio" name="tabset" id="tab4" aria-controls="biometric">
                            <label for="tab4">
-                               <img src="/assets/images/oddo/social-media-02.png" alt="">
+                               <img src="/assets/images/oddo/biometic-devices-02.png" alt="">
                                Biometric Devices
                            </label>
 
