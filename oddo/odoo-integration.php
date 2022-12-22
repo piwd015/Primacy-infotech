@@ -200,7 +200,10 @@
                      <div class="tabset">
                            <!-- Tab 1 -->
                            <input type="radio" name="tabset" id="tab1" aria-controls="payment" checked>
-                           <label for="tab1">Payment Gateway</label>
+                           <label for="tab1">
+                                  <img src="/assets/images/oddo/payment-gateway-02.png" alt="">
+                                       Payment Gateway
+                           </label>
                            <!-- Tab 2 -->
                            <input type="radio" name="tabset" id="tab2" aria-controls="social">
                            <label for="tab2">Social Media</label>
