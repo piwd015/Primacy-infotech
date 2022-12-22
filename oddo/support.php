@@ -236,7 +236,7 @@
                          </div>
                            <div class="col-md-4 d-flex flex-wrap justify-content-center align-items-center">
                                   <div class="suprt-odo-Img">
-                                        <img src="/assets/images/oddo/support-odoo.png" alt="">
+                                        <img src="/assets/images/oddo/technical-support.png" alt="">
                                   </div>
                            </div>
                     </div>
