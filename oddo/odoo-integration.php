@@ -521,7 +521,7 @@
                                                  </div>
                                                   <div class="col-md-4 mb-4">
                                                      <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                         <img src="/assets/images/oddo/open-office.png" style="width: 25%;" alt="">
+                                                         <img src="/assets/images/oddo/open-office.png" alt="">
                                                          <h3 class="d-block pt-4 pb-3">Open Office</h3>
                                                          <span class="d-block">A lot of businesses like using OpenOffice for creating
                                                              documents, building presentations, managing spreadsheets, and accessing
