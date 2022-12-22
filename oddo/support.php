@@ -49,6 +49,24 @@
                       </div>
                </div>
         </section>
+        <section class="odo-integr-bg w-100 d-block py-3">
+              <div class="container">
+                     <h2 class="w-100 d-block text-center pb-4">Odoo ERP Support and Maintenance</h2>
+                     <div class="row">
+                           <div class="col-md-6">
+                                 <ul class="srpt-mnts w-100 d-block">
+                                       <li class="pb-3">
+                                           <img src="/assets/images/oddo/dedicated.png "
+                                           <strong>Dedicated Support Team</strong>
+                                           You will have a dedicated support team to ensure
+                                           all your issues are resolved on time without losing
+                                           time waiting for support tickets.</li>
+                                 </ul>
+                           </div>
+                           <div class="col-md-6"></div>
+                     </div>
+              </div>
+        </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
                 <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
