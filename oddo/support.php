@@ -51,7 +51,7 @@
         </section>
         <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
               <div class="container">
-                     <h2 class="w-100 d-block text-center pb-4">Odoo ERP Support and Maintenance</h2>
+                     <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support and Maintenance</h2>
                      <div class="row">
                             <div class="col-md-6 mb-4">
                                  <ul class="srpt-mnts w-100 d-block">
@@ -86,10 +86,11 @@
                             <div class="col-md-6">
                                   <ul class="srpt-mnts w-100 d-block">
                                          <li class="pb-3">
-                                             <img src="/assets/images/oddo/monitoring.png" alt="">
-                                             <strong class="w-100 d-block pb-3">Ongoing Support and Monitoring</strong>
-                                             We ensure that we are always ready to address potential problems
-                                             quickly and efficiently throughout the implementation stages.
+                                             <img src="/assets/images/oddo/custom-service.png" alt="">
+                                             <strong class="w-100 d-block pb-3">Custom Service Level Agreement</strong>
+                                             Our consultants are already Odoo 14 certified and are ready
+                                             to assist on your schedule as a part of Guaranteed SLA covering
+                                             almost every issue.
                                          </li>
                                   </ul>
                             </div>
