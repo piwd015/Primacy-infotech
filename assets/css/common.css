@@ -2189,7 +2189,8 @@ border-radius: 10px;
  cursor: pointer;
  font-weight: 600;
 background:#ff7b20;}
-.tabset > label img{width:60px; display:block; margin:0 auto;}
+.tabset > label img{width:60px; display:block; margin:0 auto; position: absolute;
+z-index:30; left:0px; right: 0px; top: 20px; margin:0 auto;}
 .tabset > label::after {
  content: "";
  position: absolute;
