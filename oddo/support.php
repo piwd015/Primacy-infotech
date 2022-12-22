@@ -332,7 +332,7 @@
                           <thead>
                                <tr>
                                    <th valign="top" width="31%" style="border:none;"></th>
-                                   <th valign="top" width="23%">
+                                   <th valign="top" width="23%" class="py-4">
                                         <div class="packg w-100 d-block text-center">
                                               <h6 class="w-100 d-block text-center">Package 1</h6>
                                                <h2 class="w-100 d-block text-center">
