@@ -324,7 +324,7 @@
                 </div>
             </div>
         </section>
-        <section class="py-md-5 py-3">
+        <section class="odo-integr-bg w-100 d-block py-md-5 py-3">
             <div class="container">
                  <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support Packages</h2>
                  <div class="table-responsive">
