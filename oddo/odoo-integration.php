@@ -41,7 +41,7 @@
                                              <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
                                        </div>
                                </div>
-                               <div class="col-lg-5 col-md-5 pt-md-0 pt-5">
+                               <div class="col-lg-5 col-md-5 pt-md-0 pt-3">
                                        <div class="migra-bnr-Img">
                                               <img src="../assets/images/oddo/integra-banr-right-Img.png" alt="">
                                        </div>
@@ -54,7 +54,7 @@
                       <div class="row">
                             <div class="col-md-5">
                                    <h2 class="w-100 d-block">Primacy Offer</h2>
-                                   <h5 class="w-100 d-block pb-3">Odoo Integration services</h5>
+                                   <h5 class="w-100 d-block pb-md-3 mb-md-2 mb-0">Odoo Integration services</h5>
                                    <span>Odoo integration the solution moves ahead with your Odoo
                                        platform as well as the unique tools which support your
                                        business operations. However, Odoo ERP Integration should
