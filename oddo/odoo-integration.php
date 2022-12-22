@@ -498,7 +498,7 @@
                                              <div class="row paymnt-gatwy">
                                                   <div class="col-md-4 mb-4">
                                                         <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                                <img src="/assets/images/oddo/biometric-device.png" style="width: 25%;" alt="">
+                                                                <img src="/assets/images/oddo/quickbooks.png" alt="">
                                                                 <h3 class="d-block pt-4 pb-3">Quickbooks </h3>
                                                                 <span class="d-block">QuickBooks is an accounting software package geared
                                                                     mainly toward small and medium-sized businesses and offer on-premises
@@ -511,7 +511,7 @@
                                                  </div>
                                                   <div class="col-md-4 mb-4">
                                                          <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                                 <img src="/assets/images/oddo/biometric-device.png" style="width: 25%;" alt="">
+                                                                 <img src="/assets/images/oddo/tally.png" alt="">
                                                                  <h3 class="d-block pt-4 pb-3">Tally</h3>
                                                                  <span class="d-block">Tally is an accounting and inventory software
                                                                      system that can be integrated with Odoo to improve your business
@@ -521,7 +521,7 @@
                                                  </div>
                                                   <div class="col-md-4 mb-4">
                                                      <div class="gatewy-box w-100 d-block p-md-4 p-3">
-                                                         <img src="/assets/images/oddo/biometric-device.png" style="width: 25%;" alt="">
+                                                         <img src="/assets/images/oddo/open-office.png" style="width: 25%;" alt="">
                                                          <h3 class="d-block pt-4 pb-3">Open Office</h3>
                                                          <span class="d-block">A lot of businesses like using OpenOffice for creating
                                                              documents, building presentations, managing spreadsheets, and accessing
