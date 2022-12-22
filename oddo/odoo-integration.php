@@ -227,7 +227,7 @@
                              <!-- Tab 5 -->
                              <input type="radio" name="tabset" id="tab5" aria-controls="docparser">
                              <label for="tab5">
-                                 <img src="/assets/images/oddo/social-media-02.png" alt="">
+                                 <img src="/assets/images/oddo/accounting.png" alt="">
                                  Accounting
                              </label>
 
