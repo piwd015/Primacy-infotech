@@ -2230,8 +2230,8 @@ position: relative;}
 
 ul.srpt-mnts{}
 ul.srpt-mnts li{display:block; padding-left:120px; font-size:16px; color:#000;
-position:relative; font-family:'Oswald', sans-serif;}
-ul.srpt-mnts li strong{font-size:20px; color:#000;}
+position:relative;}
+ul.srpt-mnts li strong{font-size:20px; color:#000; font-weight:700;}
 ul.srpt-mnts li img{width:100px; display:block; position:absolute; left:0px; top:0px;}
 
 /*-------------our team section-------------*/
