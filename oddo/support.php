@@ -325,7 +325,7 @@
             </div>
         </section>
         <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
-            <div class="container">
+            <div class="container suprt-pkgs">
                  <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support Packages</h2>
                  <div class="table-responsive">
                       <table class="table table-bordered table-sm">
