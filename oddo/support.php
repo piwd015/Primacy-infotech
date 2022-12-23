@@ -368,24 +368,54 @@
                                </tr>
                           </thead>
                           <tbody>
-                                   <tr>
-                                       <td>John</td>
-                                       <td>Doe</td>
-                                       <td>john@example.com</td>
-                                       <td>john@example.com</td>
-                                   </tr>
-                                   <tr>
-                                       <td>Mary</td>
-                                       <td>Moe</td>
-                                       <td>mary@example.com</td>
-                                       <td>john@example.com</td>
-                                   </tr>
-                                   <tr>
-                                       <td>July</td>
-                                       <td>Dooley</td>
-                                       <td>july@example.com</td>
-                                       <td>john@example.com</td>
-                                   </tr>
+                                       <tr>
+                                           <td valign="top">Incidents</td>
+                                           <td valign="top">15 Incidents</td>
+                                           <td valign="top">30 Incidents</td>
+                                           <td valign="top">45 Incidents</td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">24X7 Support</td>
+                                           <td valign="top"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">Custom Module Included</td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">Development Included</td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">Functional & Technical Support</td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">Enterprise & Community</td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">Maximum Incident Time</td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                       </tr>
+                                       <tr>
+                                           <td valign="top">Medium</td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                           <td valign="top"></td>
+                                       </tr>
                             </tbody>
                       </table>
                  </div>
