@@ -35,7 +35,9 @@
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-7 col-md-7 d-flex flex-wrap align-items-center">
-
+                                      <h1><strong>Odoo support & maintenance</strong> service</h1>
+                                      <span>Just like a machine, your website also needs regular maintenance.
+                                      Our support team is here to help you maximize Odoo ERP Success</span>
                                </div>
                                <div class="col-lg-5 col-md-5 pt-md-0 pt-3">
                                        <div class="migra-bnr-Img">
