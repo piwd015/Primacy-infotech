@@ -2270,6 +2270,51 @@ padding:0px 10px;}
  font-family:'Oswald', sans-serif;}
 .support-bg p{font-size:20px; color:#fff; line-height:28px;}
 
+
+
+
+
+
+
+div#popUpForm {
+ position: fixed;
+ width: 100%;
+ background-color: rgba(0, 0, 0, 0.8);
+ display:none;
+ height:100%;
+ z-index:99999;
+ top:0px;
+}
+#popContainer {
+ width: 800px;
+ text-align: center;
+ margin: 0 auto;
+ background-color:#fff;
+ height: auto;
+ margin-top: 40px;
+ position:relative;
+ border-radius:7px!important;
+ padding:20px;
+}
+#popContainer > form > p{
+ font-weight:bold;
+ font-size:20px;
+ color:#fff;
+}
+#close{
+ font-size:25px;
+ color:#000;
+ width:25px;
+ margin:10px;
+ cursor:pointer;
+ border-radius:2px;
+ font-weight:bold;
+ position:absolute;
+ right:0px;
+ top:-10px;
+ z-index:100;}
+#close:hover{}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){

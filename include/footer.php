@@ -411,20 +411,20 @@ $('.develp-Area-box').height(highestBox);
 
 
 
-    <script type="text/javascript">
-        $(document).ready(function() {
-            $(window).scroll(function() {
-                if ($(document).scrollTop() > 1000 && $(document).scrollTop() < 1200 && $("#popUpForm").css("display") === "none") {
-                    $('#popUpForm').fadeIn(1000);
-                }
-            });
-        });
-    </script>
-    <script type="text/javascript">
-        $( ".close" ).click(function() {
-            $( "#popUpForm" ).css("display", "none");
-        });
-    </script>
+<script type="text/javascript">
+$(document).ready(function() {
+$(window).scroll(function() {
+if ($(document).scrollTop() > 1000 && $(document).scrollTop() < 1200 && $("#popUpForm").css("display") === "none") {
+$('#popUpForm').fadeIn(1000);
+}
+});
+});
+</script>
+<script type="text/javascript">
+$( ".close" ).click(function() {
+$( "#popUpForm" ).css("display", "none");
+});
+</script>
 
 </body>
 </html>
