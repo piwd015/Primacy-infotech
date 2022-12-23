@@ -331,10 +331,10 @@
                       <table class="table table-bordered table-sm">
                           <thead>
                               <tr>
-                                  <th width="25%" style="border:none;"></th>
-                                  <th width="25%" style="border:none;"></th>
-                                  <th width="25%" class="mst-plr w-100 d-block text-center" style="border:none;">Most Popular</th>
-                                  <th width="25%" style="border:none;"></th>
+                                  <th width="28%" style="border:none;"></th>
+                                  <th width="24%" style="border:none;"></th>
+                                  <th width="24%" class="mst-plr w-100 d-block text-center" style="border:none;">Most Popular</th>
+                                  <th width="24%" style="border:none;"></th>
                               </tr>
                                <tr>
                                    <th valign="top" width="25%" style="border:none;">
@@ -372,9 +372,9 @@
                           <tbody>
                                        <tr>
                                            <td valign="top">Incidents</td>
-                                           <td valign="top">15 Incidents</td>
-                                           <td valign="top">30 Incidents</td>
-                                           <td valign="top">45 Incidents</td>
+                                           <td valign="top" style="text-align:center;">15 Incidents</td>
+                                           <td valign="top" style="text-align:center;">30 Incidents</td>
+                                           <td valign="top" style="text-align:center;">45 Incidents</td>
                                        </tr>
                                        <tr>
                                            <td valign="top">24X7 Support</td>
@@ -384,39 +384,39 @@
                                        </tr>
                                        <tr>
                                            <td valign="top">Custom Module Included</td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
                                        </tr>
                                        <tr>
                                            <td valign="top">Development Included</td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
                                        </tr>
                                        <tr>
                                            <td valign="top">Functional & Technical Support</td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
                                        </tr>
                                        <tr>
                                            <td valign="top">Enterprise & Community</td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
                                        </tr>
                                        <tr>
                                            <td valign="top">Maximum Incident Time</td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
+                                           <td valign="top" style="text-align:center;">1 Hour</td>
+                                           <td valign="top" style="text-align:center;">1 Hour</td>
+                                           <td valign="top" style="text-align:center;">1 Hour</td>
                                        </tr>
                                        <tr>
                                            <td valign="top">Medium</td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
-                                           <td valign="top"></td>
+                                           <td valign="top" style="text-align:center;">Zoom, Skype & Whatsapp</td>
+                                           <td valign="top" style="text-align:center;">Zoom, Skype & Whatsapp</td>
+                                           <td valign="top" style="text-align:center;">Zoom, Skype & Whatsapp</td>
                                        </tr>
                             </tbody>
                       </table>
