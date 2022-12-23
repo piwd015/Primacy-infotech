@@ -2257,6 +2257,8 @@ border:none!important; font-weight:none!important;}
 .gt-start2{background:#ad2fa7; font-size:14px; color:#fff; margin:0 auto; min-width:120px;
  border:none!important; font-weight:none!important;}
 .gt-start2:hover{background:#7b118f; color:#fff;}
+.mst-plr{background:#ad2fa7; font-size:15px; color:#fff; border-top-right-radius:8px;
+ border-top-left-radius:8px;}
 
 /*-------------our team section-------------*/
 
