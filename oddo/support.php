@@ -337,7 +337,7 @@
                                   <th width="25%" style="border:none;"></th>
                               </tr>
                                <tr>
-                                   <th valign="top" width="25%" class="bg-non" style="border:none;"></th>
+                                   <th valign="top" width="25%" style="border:none; background:none;"></th>
                                    <th valign="top" width="25%" class="bg-non py-4">
                                         <div class="packg w-100 d-block text-center">
                                               <h6 class="w-100 d-block text-center">Package 1</h6>
