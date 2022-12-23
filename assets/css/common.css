@@ -2246,7 +2246,7 @@ background:url("../images/oddo/bullet.png") no-repeat 0 3px;}
 .suprt-odo-Img{width:70%; margin:0 auto;}
 .suprt-odo-Img img{width:100%; display:block;}
 
-.packg{}
+.packg{ background:#fff;}
 .packg h6{font-size:12px; color:#000; font-weight:600;}
 .packg h2{font-size:45px; color:#000; font-weight:700;}
 .packg h2 sup{font-size:12px; color:#000; position:relative; top:-30px;}
@@ -2259,7 +2259,8 @@ border:none!important; font-weight:none!important;}
 .gt-start2:hover{background:#7b118f; color:#fff;}
 .mst-plr{background:#ad2fa7; font-size:15px; color:#fff; border-top-right-radius:8px;
  border-top-left-radius:8px;}
-.suprt-pkgs .table tr td{height:45px; font-size:15px; color:#000; padding-top:10px;}
+.suprt-pkgs .table tr td{height:45px; font-size:15px; color:#000; line-height:45px;
+padding:0px 10px;}
 .suprt-pkgs .table tr td i{font-size:15px; color:#28a745;}
 .suprt-pkgs .table tr:nth-child(even){background:#f4faff;}
 .suprt-pkgs .table tr th{background:none!important;}

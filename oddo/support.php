@@ -376,9 +376,9 @@
                                        </tr>
                                        <tr>
                                            <td valign="top">24X7 Support</td>
-                                           <td valign="top"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
+                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
                                        </tr>
                                        <tr>
                                            <td valign="top">Custom Module Included</td>
