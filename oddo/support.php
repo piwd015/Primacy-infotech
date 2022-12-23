@@ -337,9 +337,9 @@
                                   <th width="25%" style="border:none;"></th>
                               </tr>
                                <tr>
-                                   <th valign="top" width="25%" style="border:none; background:none;"></th>
-                                   <th valign="top" width="25%" class="bg-non py-4">
-                                        <div class="packg w-100 d-block text-center">
+                                   <th valign="top" width="25%" style="border:none;"></th>
+                                   <th valign="top" width="25%">
+                                        <div class="packg w-100 d-block text-center py-4">
                                               <h6 class="w-100 d-block text-center">Package 1</h6>
                                                <h2 class="w-100 d-block text-center">
                                                     <sup>$</sup>499<sub>/Month</sub>
@@ -347,8 +347,8 @@
                                                <button type="button" class="btn gt-start">Get Started</button>
                                         </div>
                                    </th>
-                                   <th valign="top" width="25%" class="py-4">
-                                       <div class="packg w-100 d-block text-center">
+                                   <th valign="top" width="25%">
+                                       <div class="packg w-100 d-block text-center py-4">
                                            <h6 class="w-100 d-block text-center">Package 2</h6>
                                            <h2 class="w-100 d-block text-center">
                                                <sup>$</sup>799<sub>/Month</sub>
@@ -356,8 +356,8 @@
                                            <button type="button" class="btn gt-start2">Get Started</button>
                                        </div>
                                    </th>
-                                   <th valign="top" width="25%" class="py-4">
-                                       <div class="packg w-100 d-block text-center">
+                                   <th valign="top" width="25%">
+                                       <div class="packg w-100 d-block text-center py-4">
                                            <h6 class="w-100 d-block text-center">Package 3</h6>
                                            <h2 class="w-100 d-block text-center">
                                                <sup>$</sup>1099<sub>/Month</sub>
