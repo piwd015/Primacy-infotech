@@ -2680,7 +2680,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .tabset > label::after{bottom:15px;}
  .tabset > input:checked + label{margin-bottom:25px;}
  .support-bg h1{font-size:25px;}
- .support-bg p{font-size:15px; line-height:20px;}
+ .support-bg p{font-size:15px; line-height:22px;}
  .support-bg p br{display:none;}
 }
 
