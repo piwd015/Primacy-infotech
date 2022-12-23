@@ -158,7 +158,7 @@
 
                             <option value="Web Designing">Web Designing</option>
 
-                            <option value="MLM Softawre">MLM Softawre</option>
+                            <option value="Odoo ERP">Odoo ERP</option>
 
                             <option value="Digital Marketing">Digital Marketing</option>
 
@@ -188,7 +188,8 @@
 
                             <option value="Billing Software">Billing Software</option>
 
-                            <option value="Accounting Portal">Accounting Portal</option>
+                            <option value="Accounting Portal">Accounting Portal</option>\
+                            <option value="MLM Softawre">MLM Softawre</option>
 
                         </select>
 

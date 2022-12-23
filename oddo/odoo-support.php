@@ -556,6 +556,248 @@
     </div>
 
     <!-- footer -->
+
+    !--start model end-->
+
+    <div id="myModal" class="modal fade modal_sec" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+        <div class="modal-dialog">
+
+            <div class="modal-content">
+
+                <div class="modal-header">
+
+                    <h3 id="myModalLabel"><b>Submit Detail & Get discount</b></h3><button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+
+                </div>
+
+                <div class="modal-body">
+
+                    <form class="form-horizontal col-sm-12" method="post">
+
+                        <div class="form-group"><label><b>Name</b></label>
+
+                            <input class="form-control required" placeholder="Your name" type="text" name="name" required></div>
+
+                        <div class="form-group"><label><b>E-Mail</b></label><input class="form-control email" placeholder="email@you.com (so that we can contact you)"  type="email" name="email" required></div>
+
+                        <div class="form-group"><label><b>Phone</b></label><input class="form-control phone" placeholder="999-999-9999" name="phone" type="tel" required></div>
+
+                        <div class="form-group">
+
+                            <label>Select Services</label>
+
+                            <select name="services" class="form-control" required>
+
+                                <option value="" disabled="disabled">Select Services</option>
+
+                                <option value="Web Developemnt">Web Developemnt</option>
+
+                                <option value="Web Designing">Web Designing</option>
+
+                                <option value="Odoo ERP">Odoo ERP</option>
+
+                                <option value="Digital Marketing">Digital Marketing</option>
+
+                                <option value="Mobile APP Development">Mobile APP Development</option>
+                                <option value="Intellectual Property Management ERP">Intellectual Property Management ERP</option>
+                                <option value="Ecommerce Website">Ecommerce Website </option>
+
+                                <option value="Grocerry Shop">Grocerry Shop</option>
+
+                                <option value="LMS">Learning Mamagement System</option>
+
+                                <option value="CMS">Content Management System</option>
+
+                                <option value="Food Delivery App">Food Delivery App</option>
+
+                                <option value="Loan Management Software">Loan Management Software</option>
+
+                                <option value="OLA/Uber Clone">OLA/Uber Clone</option>
+
+                                <option value="Travel Portal Solution">Travel Portal Solution</option>
+
+                                <option value="Recharge Portal">Recharge Portal</option>
+
+                                <option value="Real Estate Portal">Real Estate Portal</option>
+
+                                <option value="Video Portal">Video Portal</option>
+
+                                <option value="Billing Software">Billing Software</option>
+
+                                <option value="Accounting Portal">Accounting Portal</option>\
+                                <option value="MLM Softawre">MLM Softawre</option>
+
+                            </select>
+
+                        </div>
+
+                        <div class="form-group"><label><b>Message</b></label>
+
+                            <textarea class="form-control" name="message" placeholder="Your message here.." required></textarea></div>
+
+                        <div class="form-group">
+
+                            <!--          <p class="help-block pull-left text-danger hide" id="form-error">&nbsp; The form is not valid. </p>-->
+
+                        </div>
+
+                        <div class="modal-footer">
+
+                            <input type="hidden" name="g-recaptcha-response" class="g-recaptcha-response">
+
+                            <button type="submit" name="submit11" class="btn btn-success pull-right">Send It!</button>
+
+                            <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!--My fixed header-->
+    <script>
+
+        $(document).ready(function(){
+            $("#myModal").find('form').find('select option[value="Odoo ERP"]').prop('selected', true);
+        });
+
+
+
+        $('.demo_slider').slick({
+            dots: true,
+            infinite: false,
+            speed: 300,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+
+            ]
+        });
+
+        $('.pricing_slider').slick({
+            dots: true,
+            infinite: false,
+            speed: 300,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+
+            ]
+        });
+
+
+        $('.features_slider').slick({
+            dots: true,
+            infinite: false,
+            speed: 300,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            autoplay: true,
+            responsive: [
+                {
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+                    }
+                }
+
+            ]
+        });
+
+
+
+        $(window).scroll(function() {
+            var scroll = $(window).scrollTop();
+            console.log(scroll >= 0);
+            if (scroll >= 950) {
+                $(".header_tab_sec").addClass("active");
+            } else {
+                $(".header_tab_sec").removeClass("active");
+            }
+        });
+
+
+
+
+
+
+
+    </script>
+
     <?php include '../include/menu.php'; ?>
     <?php include '../include/footer.php'; ?>
 </head>
