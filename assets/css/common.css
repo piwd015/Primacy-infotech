@@ -2259,9 +2259,10 @@ border:none!important; font-weight:none!important;}
 .gt-start2:hover{background:#7b118f; color:#fff;}
 .mst-plr{background:#ad2fa7; font-size:15px; color:#fff; border-top-right-radius:8px;
  border-top-left-radius:8px;}
-.suprt-pkgs .table tr td{height:35px; font-size:15px; color:#000;}
+.suprt-pkgs .table tr td{height:45px; font-size:15px; color:#000;}
 .suprt-pkgs .table tr td i{font-size:15px; color:#28a745;}
 .suprt-pkgs .table tr:nth-child(even){background:#f4faff;}
+.suprt-pkgs .table tr th{background:none!important;}
 
 /*-------------our team section-------------*/
 
