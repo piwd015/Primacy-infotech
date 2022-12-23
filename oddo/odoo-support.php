@@ -395,7 +395,7 @@
                                         <div class="packg w-100"></div>
                                    </th>
                                    <th valign="top" width="25%">
-                                        <div class="packg w-100 d-block text-center py-4">
+                                        <div class="packg w-100 d-block text-center py-md-4 py-2">
                                               <h6 class="w-100 d-block text-center">Package 1</h6>
                                                <h2 class="w-100 d-block text-center">
                                                     <sup>$</sup>499<sub>/Month</sub>
@@ -404,7 +404,7 @@
                                         </div>
                                    </th>
                                    <th valign="top" width="25%">
-                                       <div class="packg w-100 d-block text-center py-4">
+                                       <div class="packg w-100 d-block text-center py-md-4 py-2">
                                            <h6 class="w-100 d-block text-center">Package 2</h6>
                                            <h2 class="w-100 d-block text-center">
                                                <sup>$</sup>799<sub>/Month</sub>
@@ -413,7 +413,7 @@
                                        </div>
                                    </th>
                                    <th valign="top" width="25%">
-                                       <div class="packg w-100 d-block text-center py-4">
+                                       <div class="packg w-100 d-block text-center py-md-4 py-2">
                                            <h6 class="w-100 d-block text-center">Package 3</h6>
                                            <h2 class="w-100 d-block text-center">
                                                <sup>$</sup>1099<sub>/Month</sub>
