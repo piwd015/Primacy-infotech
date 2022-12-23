@@ -35,15 +35,11 @@
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-7 col-md-7 d-flex flex-wrap align-items-center">
-                                       <div class="col-md-12">
-                                             <h1 class="d-block pb-md-4 pb-2">Odoo Integration Services</h1>
-                                             <h4 class="d-block pb-md-5 pb-2">Helping you consolidate and coordinate your Business Operations</h4>
-                                             <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
-                                       </div>
+
                                </div>
                                <div class="col-lg-5 col-md-5 pt-md-0 pt-3">
                                        <div class="migra-bnr-Img">
-                                              <img src="../assets/images/oddo/integra-banr-right-Img.png" alt="">
+                                              <img src="../assets/images/oddo/support-bnr-Img.png" alt="">
                                        </div>
                                </div>
                       </div>
