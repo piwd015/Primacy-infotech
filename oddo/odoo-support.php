@@ -84,56 +84,6 @@
     </div>
     <!--end model-->
 
-     <!--Start page popup-->
-    <div id="popUpForm" style="display: block;">
-        <div id="popContainer">
-            <div id="close">X</div>
-            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                <form class="form-horizontal col-sm-12"  method="post">
-                    <div class="form-group"><label><b>Name</b></label>
-                        <input class="form-control required" placeholder="Your name" type="text" name="name" required></div>
-                    <div class="form-group"><label><b>E-Mail</b></label><input class="form-control email" placeholder="email@you.com (so that we can contact you)" type="email" name="email" required></div>
-                    <div class="form-group"><label><b>Phone</b></label><input class="form-control phone" placeholder="999-999-9999" name="phone" type="tel" required></div>
-                    <div class="form-group">
-                        <label><b>Select Services</b></label>
-                        <select name="services" class="form-control" required>
-                            <option value="">Select Services</option>
-                            <option value="Web Developemnt">Web Developemnt</option>
-                            <option value="Web Designing">Web Designing</option>
-                            <option value="MLM Softawre">MLM Softawre</option>
-                            <option value="Digital Marketing">Digital Marketing</option>
-                            <option value="Mobile APP Development">Mobile APP Development</option>
-                            <option value="Ecommerce Website">Ecommerce Website </option>
-                            <option selected value="Ecommerce Website">Odoo ERP </option>
-                            <option  value="Grocery Shop">Intellectual Property Management ERP </option>
-                            <option value="Grocery Shop">Grocery Shop</option>
-                            <option value="LMS">Learning Mamagement System</option>
-                            <option value="CMS">Content Management System</option>
-                            <option value="Food Delivery App">Food Delivery App</option>
-                            <option value="Loan Management Software">Loan Management Software</option>
-                            <option value="OLA/Uber Clone">OLA/Uber Clone</option>
-                            <option value="Travel Portal Solution">Travel Portal Solution</option>
-                            <option value="Recharge Portal">Recharge Portal</option>
-                            <option value="Real Estate Portal">Real Estate Portal</option>
-                            <option value="Video Portal">Video Portal</option>
-                            <option value="Billing Software">Billing Software</option>
-                            <option value="Accounting Portal">Accounting Portal</option>
-                        </select>
-                    </div>
-                    <div class="form-group"><label><b>Message</b></label>
-                        <textarea class="form-control" name="message" placeholder="Your message here.." required></textarea></div>
-                    <div class="form-group">
-                    </div>
-                    <div class="modal-footer">
-                        <button type="submit" name="quotes12" class="btn btn-success pull-right">Send It!</button>
-                        <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-      <!--End page popup-->
-
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
         <section class="support-bg lts-cont w-100 d-block py-md-5 pt-5 pb-3 mt-md-0 mt-4">
