@@ -34,12 +34,12 @@
         <section class="support-bg w-100 d-block py-md-5 pt-5 pb-3 mt-md-0 mt-4">
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                               <div class="col-lg-7 col-md-7 pt-md-5">
+                               <div class="col-lg-6 col-md-6 pt-md-5">
                                       <h1><strong>Odoo support</strong> service</h1>
                                       <span>Just like a machine, your website also needs regular maintenance.<br/>
                                       Our support team is here to help you maximize Odoo ERP Success</span>
                                </div>
-                               <div class="col-lg-5 col-md-5 pt-md-0 pt-3">
+                               <div class="col-lg-6 col-md-6 pt-md-0 pt-3">
                                        <div class="migra-bnr-Img">
                                               <img src="../assets/images/oddo/support-bnr-Img.png" alt="">
                                        </div>
