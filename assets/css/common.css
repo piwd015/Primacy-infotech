@@ -2688,6 +2688,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .suprt-pkgs .table tr td{height:auto; font-size:12px; line-height: 16px; padding:10px 10px;}
  .mst-plr{font-size:12px; height:auto; line-height:30px;}
  .packg{height:auto;}
+ .packg h2 sup{top:-15px;}
+ .gt-start{height:36px;}
+ .gt-start2{height:36px;}
 }
 
 @media screen and (max-height: 450px) {
