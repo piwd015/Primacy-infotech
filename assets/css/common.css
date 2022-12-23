@@ -2682,6 +2682,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .support-bg h1{font-size:25px;}
  .support-bg p{font-size:15px; line-height:22px;}
  .support-bg p br{display:none;}
+ ul.srpt-mnts li{padding-left:0px; padding-top:80px; font-size:15px; line-height:20px;}
+ ul.srpt-mnts li img{width:90px; left:0px; right:0px; top:0px; margin:0 auto;}
+ ul.srpt-mnts li strong{font-size:20px; text-align:center;}
 }
 
 @media screen and (max-height: 450px) {
