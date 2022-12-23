@@ -40,7 +40,7 @@
                                       Our support team is here to help you maximize Odoo ERP Success</p>
                                       <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
                                </div>
-                               <div class="col-lg-5 col-md-5 pt-md-0 mt-md-0 mt-5">
+                               <div class="col-lg-5 col-md-5 pt-md-0 mt-md-0 mt-4">
                                        <div class="migra-bnr-Img">
                                               <img src="../assets/images/oddo/support-bnr-Img.png" alt="">
                                        </div>
