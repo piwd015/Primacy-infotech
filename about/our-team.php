@@ -42,6 +42,123 @@
                     <div class="container-fluid px-md-5 px-3">
                             <div class="row" data-aos="fade-down">
                                 <h1 class="w-100 d-block text-center mb-4">Our Team</h1>
+                                <h2 class="w-100 d-block text-center pb-md-4 pb-3" data-aos="fade-down">Our Board Member</h2>
+                                <div class="row mb-4" data-aos="fade-down">
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
+                                        <div class="content">
+                                            <a>
+                                                <div class="content-overlay"></div>
+                                                <div class="figure position-relative">
+                                                    <img  src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
+                                                </div>
+                                                <div class="content-details fadeIn-bottom">
+                                                    <div class="content-details-big-Img">
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Motaleb Molla</h3>
+                                                            <p class="content-text pb-0 mb-0">President</p>
+                                                        </div>
+                                                        <img src="../assets/images/about/motaleb-molla.jpg" alt="">
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
+                                        <div class="content">
+                                            <a>
+                                                <div class="content-overlay"></div>
+                                                <div class="figure position-relative">
+                                                    <img  src="../assets/images/about/kobir-hossain-thumb.jpg" alt="">
+                                                </div>
+                                                <div class="content-details fadeIn-bottom">
+                                                    <div class="content-details-big-Img">
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Kabir Hossain</h3>
+                                                            <p class="content-text pb-0 mb-0">CTO</p>
+                                                        </div>
+                                                        <img src="../assets/images/about/kobir-hossain.jpg" alt="">
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
+                                        <div class="content">
+                                            <a>
+                                                <div class="content-overlay"></div>
+                                                <div class="figure position-relative">
+                                                    <img  src="../assets/images/about/kamruzzaman-thumb.jpg" alt="">
+                                                </div>
+                                                <div class="content-details fadeIn-bottom">
+                                                    <div class="content-details-big-Img">
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Kamruzzaman</h3>
+                                                            <p class="content-text pb-0 mb-0">Managing Director</p>
+                                                        </div>
+                                                        <img src="../assets/images/about/kamruzzaman.jpg" alt="">
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
+                                        <div class="content">
+                                            <a>
+                                                <div class="content-overlay"></div>
+                                                <div class="figure position-relative">
+                                                    <img  src="../assets/images/about/rizwan-thumb.jpg" alt="">
+                                                </div>
+                                                <div class="content-details fadeIn-bottom">
+                                                    <div class="content-details-big-Img">
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Rizwan Ghani</h3>
+                                                            <p class="content-text pb-0 mb-0">Director (UK and Europe)</p>
+                                                        </div>
+                                                        <img src="../assets/images/about/rizwan.jpg" alt="">
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
+                                        <div class="content">
+                                            <a>
+                                                <div class="content-overlay"></div>
+                                                <div class="figure position-relative">
+                                                    <img  src="../assets/images/about/prosenjit-thumb.jpg" alt="">
+                                                </div>
+                                                <div class="content-details fadeIn-bottom">
+                                                    <div class="content-details-big-Img">
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Mr. Prosenjit</h3>
+                                                            <p class="content-text pb-0 mb-0">Director (Canada)</p>
+                                                        </div>
+                                                        <img src="../assets/images/about/prosenjit.jpg" alt="">
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
+                                        <div class="content">
+                                            <a>
+                                                <div class="content-overlay"></div>
+                                                <div class="figure position-relative">
+                                                    <img  src="../assets/images/about/enteja-thumb.jpg" alt="">
+                                                </div>
+                                                <div class="content-details fadeIn-bottom">
+                                                    <div class="content-details-big-Img">
+                                                        <div class="figure-contArea">
+                                                            <h3 class="pb-md-0 pb-md-2 mb-0">Miss Enteja</h3>
+                                                            <p class="content-text pb-0 mb-0">CHRO</p>
+                                                        </div>
+                                                        <img src="../assets/images/about/enteja.jpg" alt="">
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
                                 <h2 class="w-100 d-block text-center pt-3 pb-md-4 pb-3" data-aos="fade-down">Our Team Management</h2>
                                     <div class="col-md-2 col-6 px-3" data-aos="zoom-in-up">
                                         <div class="content">
