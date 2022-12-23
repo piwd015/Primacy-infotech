@@ -2266,7 +2266,8 @@ padding:0px 10px;}
 .suprt-pkgs .table tr th{padding:0px!important;}
 
 .support-bg{ background:#7882bc;}
-.support-bg h1{font-size:45px; color:#fff; text-transform:uppercase; font-family:'Oswald', sans-serif;}
+.support-bg h1{font-size:45px; color:#fff; text-transform:uppercase; font-weight:700;
+ font-family:'Oswald', sans-serif;}
 .support-bg p{font-size:20px; color:#fff; line-height:28px;}
 
 /*-------------our team section-------------*/
