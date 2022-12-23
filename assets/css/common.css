@@ -2670,6 +2670,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .integra-bg h1{font-size:25px;}
  .integra-bg h4{font-size:16px;}
  .lts-cont .button{font-size:16px; padding:10px 0px; width:150px;}
+ .lts-cont .button span::after{top:-16px;}
  .inte-srv h2{font-size:25px;}
  .inte-srv h5{font-size:20px;}
  .inte-srv span{font-size:15px; line-height:22px;}
@@ -2678,6 +2679,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .tabset > label{width: 100%; height:120px; line-height:160px;}
  .tabset > label::after{bottom:15px;}
  .tabset > input:checked + label{margin-bottom:25px;}
+ .support-bg h1{font-size:25px;}
+ .support-bg p{font-size:15px;}
+ .support-bg p br{display:none;}
 }
 
 @media screen and (max-height: 450px) {
