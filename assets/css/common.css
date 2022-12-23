@@ -2262,7 +2262,7 @@ border:none!important; font-weight:none!important;}
 .suprt-pkgs .table tr td{height:35px; font-size:15px; color:#000;}
 .suprt-pkgs .table tr td i{font-size:15px; color:#28a745;}
 .suprt-pkgs .table tr:nth-child(even){background:#f4faff;}
-.suprt-pkgs .table th:nth-child(even){background:none;}
+.suprt-pkgs .bg-non{background:none!important;}
 
 /*-------------our team section-------------*/
 
