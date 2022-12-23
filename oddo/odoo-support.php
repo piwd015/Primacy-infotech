@@ -53,7 +53,7 @@
                                 <option value="Digital Marketing">Digital Marketing</option>
                                 <option value="Mobile APP Development">Mobile APP Development</option>
                                 <option value="Ecommerce Website">Ecommerce Website </option>
-                                <option selected value="Ecommerce Website">Odoo Support Services </option>
+                                <option selected value="Ecommerce Website">Odoo ERP </option>
                                 <option  value="Grocery Shop">Intellectual Property Management ERP </option>
                                 <option value="Grocery Shop">Grocery Shop</option>
                                 <option value="LMS">Learning Mamagement System</option>
