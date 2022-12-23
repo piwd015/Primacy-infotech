@@ -337,7 +337,9 @@
                                   <th width="25%" style="border:none;"></th>
                               </tr>
                                <tr>
-                                   <th valign="top" width="25%" style="border:none;"></th>
+                                   <th valign="top" width="25%" style="border:none;">
+                                        <div class="packg w-100"></div>
+                                   </th>
                                    <th valign="top" width="25%">
                                         <div class="packg w-100 d-block text-center py-4">
                                               <h6 class="w-100 d-block text-center">Package 1</h6>
