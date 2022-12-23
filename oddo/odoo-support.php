@@ -38,7 +38,7 @@
                                       <h1 class="d-block pt-md-5 pb-md-3 pb-1">Odoo support services</h1>
                                       <p class="d-block pb-md-5 pb-2">Just like a machine, your website also needs regular maintenance.<br/>
                                       Our support team is here to help you maximize Odoo ERP Success</p>
-                                      <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
+                                      <a href="#" class="button" data-toggle="modal" data-target="#myModal_grocery"><span>Let's Connect! </span></a>
                                </div>
                                <div class="col-lg-5 col-md-5 pt-md-0 mt-md-0 mt-4">
                                        <div class="migra-bnr-Img">
