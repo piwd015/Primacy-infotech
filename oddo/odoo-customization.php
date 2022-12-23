@@ -64,7 +64,7 @@
                                  in an application focusing on the client’s requirements and ideas.
                                  Odoo provides a fully functional package to meet up an enterprise
                                  requirement, but there will be always an extra required by the
-                                 clients. At Cybrosys Technologies we analyze your requirement on t
+                                 clients. At Primacy Infotech we analyze your requirement on t
                                  he additional needs and there by setting the right strategy for
                                  fulfilling the functionalities. We deliver high end customization
                                  services so that customers get the full benefit of using their
