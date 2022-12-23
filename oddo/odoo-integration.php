@@ -31,7 +31,7 @@
     </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="integra-bg py-md-5 pt-5 pb-3 mt-md-0 mt-4">
+        <section class="integra-bg lts-cont py-md-5 pt-5 pb-3 mt-md-0 mt-4">
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-7 col-md-7 d-flex flex-wrap align-items-center">

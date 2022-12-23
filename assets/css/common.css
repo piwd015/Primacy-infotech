@@ -2098,7 +2098,7 @@ font-size:15px; color:#000; padding-left:20px;}
 background-size:100% 100%;}
 .integra-bg h1{font-size:45px; color:#000; font-weight:700; font-family: 'Oswald', sans-serif;}
 .integra-bg h4{font-size:20px; color:#858585;}
-.integra-bg .button {
+.lts-cont .button {
  border-radius: 8px;
  background-color: #040f3a;
  border: none;
@@ -2112,13 +2112,13 @@ background-size:100% 100%;}
  display: block;
 }
 
-.integra-bg .button span {
+.lts-cont .button span {
  cursor: pointer;
  display: inline-block;
  position: relative;
  transition: 0.5s;}
 
-.integra-bg .button span:after {
+.lts-cont .button span:after {
  content: '\00bb';
  font-size: 20px;
  position: absolute;
@@ -2128,10 +2128,10 @@ background-size:100% 100%;}
  transition: 0.5s;
  font-size:40px;}
 
-.integra-bg .button:hover span {
+.lts-cont .button:hover span {
  padding-right: 25px;}
 
-.integra-bg .button:hover span:after {
+.lts-cont .button:hover span:after {
  opacity: 1;
  right: 0;}
 
@@ -2267,7 +2267,7 @@ padding:0px 10px;}
 
 .support-bg{ background:#7882bc;}
 .support-bg h1{font-size:45px; color:#fff; text-transform:uppercase; font-family:'Oswald', sans-serif;}
-.support-bg span{font-size:20px; color:#fff; line-height:28px;}
+.support-bg p{font-size:20px; color:#fff; line-height:28px;}
 
 /*-------------our team section-------------*/
 

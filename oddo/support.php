@@ -31,13 +31,13 @@
     </style>
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="support-bg w-100 d-block py-md-5 pt-5 pb-3 mt-md-0 mt-4">
+        <section class="support-bg lts-cont w-100 d-block py-md-5 pt-5 pb-3 mt-md-0 mt-4">
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-7 col-md-7 pt-md-5">
                                       <h1 class="d-block pt-md-5 pb-md-3 pb-1"><strong>Odoo support</strong> services</h1>
-                                      <span class="d-block pb-md-5 pb-2">Just like a machine, your website also needs regular maintenance.<br/>
-                                      Our support team is here to help you maximize Odoo ERP Success</span>
+                                      <p class="d-block pb-md-5 pb-2">Just like a machine, your website also needs regular maintenance.<br/>
+                                      Our support team is here to help you maximize Odoo ERP Success</p>
                                       <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
                                </div>
                                <div class="col-lg-5 col-md-5 pt-md-0 pt-3">
