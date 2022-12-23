@@ -107,9 +107,9 @@
               <div class="container">
                      <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support and Maintenance</h2>
                      <div class="row">
-                            <div class="col-md-6 mb-4">
+                            <div class="col-md-6 mb-md-4">
                                  <ul class="srpt-mnts w-100 d-block">
-                                     <li class="pb-3">
+                                     <li>
                                            <img src="/assets/images/oddo/dedicated.png" alt="">
                                            <strong class="w-100 d-block pb-md-3 pb-2">Dedicated Support Team</strong>
                                            You will have a dedicated support team to ensure
@@ -117,9 +117,9 @@
                                            time waiting for support tickets.</li>
                                  </ul>
                            </div>
-                            <div class="col-md-6 mb-4">
+                            <div class="col-md-6 mb-md-4">
                                    <ul class="srpt-mnts w-100 d-block">
-                                           <li class="pb-3">
+                                           <li>
                                                <img src="/assets/images/oddo/monitoring.png" alt="">
                                                <strong class="w-100 d-block pb-3">Ongoing Support and Monitoring</strong>
                                                We ensure that we are always ready to address potential problems
@@ -127,9 +127,9 @@
                                            </li>
                                    </ul>
                            </div>
-                            <div class="col-md-6 mb-md-4 mb-4">
+                            <div class="col-md-6 mb-md-4">
                                   <ul class="srpt-mnts w-100 d-block">
-                                       <li class="pb-3">
+                                       <li>
                                            <img src="/assets/images/oddo/system-checkups.png" alt="">
                                            <strong class="w-100 d-block pb-3">System Checkups & Updates</strong>
                                            We offer regular system checkups to ensure you get the most out of your
