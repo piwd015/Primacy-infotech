@@ -2270,6 +2270,11 @@ padding:0px 10px;}
  font-family:'Oswald', sans-serif;}
 .support-bg p{font-size:20px; color:#fff; line-height:28px;}
 
+.license-bg{background:#f1f1f1;}
+.license-bnr-Img{width:100%;}
+.license-bnr-Img img{width:100%; display:block;}
+.lnc-bnr-bdr-right{width:80%; position:absolute; top:0px; right:50px;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){
