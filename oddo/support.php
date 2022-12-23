@@ -333,7 +333,7 @@
                               <tr>
                                   <th width="25%" style="border:none;"></th>
                                   <th width="25%" style="border:none;"></th>
-                                  <th width="25%" class="mst-plr w-100 d-block text-center py-3"></th>
+                                  <th width="25%" class="mst-plr w-100 d-block text-center py-4">Most Popular</th>
                                   <th width="25%" style="border:none;"></th>
                               </tr>
                                <tr>
