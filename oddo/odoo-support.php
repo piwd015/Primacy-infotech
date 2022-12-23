@@ -111,7 +111,7 @@
                                  <ul class="srpt-mnts w-100 d-block">
                                      <li class="pb-3">
                                            <img src="/assets/images/oddo/dedicated.png" alt="">
-                                           <strong class="w-100 d-block pb-3">Dedicated Support Team</strong>
+                                           <strong class="w-100 d-block pb-md-3 pb-2">Dedicated Support Team</strong>
                                            You will have a dedicated support team to ensure
                                            all your issues are resolved on time without losing
                                            time waiting for support tickets.</li>
