@@ -35,9 +35,10 @@
                   <div class="container-fluid px-md-5 px-3 pt-md-5">
                        <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-7 col-md-7 pt-md-5">
-                                      <h1 class="d-block pt-md-5"><strong>Odoo support</strong> service</h1>
-                                      <span>Just like a machine, your website also needs regular maintenance.<br/>
+                                      <h1 class="d-block pt-md-5 pb-md-3 pb-1"><strong>Odoo support</strong> services</h1>
+                                      <span class="d-block pb-md-5 pb-2">Just like a machine, your website also needs regular maintenance.<br/>
                                       Our support team is here to help you maximize Odoo ERP Success</span>
+                                      <a href="/about/contact.php" class="button"><span>Let's Connect! </span></a>
                                </div>
                                <div class="col-lg-5 col-md-5 pt-md-0 pt-3">
                                        <div class="migra-bnr-Img">
