@@ -343,18 +343,18 @@
                                    </th>
                                    <th valign="top" width="23%" class="py-4">
                                        <div class="packg w-100 d-block text-center">
-                                           <h6 class="w-100 d-block text-center">Package 1</h6>
+                                           <h6 class="w-100 d-block text-center">Package 2</h6>
                                            <h2 class="w-100 d-block text-center">
-                                               <sup>$</sup>499<sub>/Month</sub>
+                                               <sup>$</sup>799<sub>/Month</sub>
                                            </h2>
                                            <button type="button" class="btn gt-start">Get Started</button>
                                        </div>
                                    </th>
                                    <th valign="top" width="23%" class="py-4">
                                        <div class="packg w-100 d-block text-center">
-                                           <h6 class="w-100 d-block text-center">Package 1</h6>
+                                           <h6 class="w-100 d-block text-center">Package 3</h6>
                                            <h2 class="w-100 d-block text-center">
-                                               <sup>$</sup>499<sub>/Month</sub>
+                                               <sup>$</sup>1099<sub>/Month</sub>
                                            </h2>
                                            <button type="button" class="btn gt-start">Get Started</button>
                                        </div>
