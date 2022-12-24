@@ -2288,6 +2288,9 @@ text-transform: uppercase; width: 70%; font-weight:700;}
 .s-Media a{display:inline-block; width:30px; height:30px; border-radius:100%; font-size:13px;
 color:#fff; background:#ff7e16; text-align:center; line-height:35px; margin:0px 3px;}
 
+.lincenceImg{width:100%;}
+.lincenceImg img{width:100%; display:block;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){
