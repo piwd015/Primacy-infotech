@@ -38,6 +38,8 @@
                                <div class="col-lg-6 col-md-6 position-relative">
                                       <div class="lnc-bnr-bdr-bottom"></div>
                                       <div class="lnc-cst p-md-4 p-2">Odoo License cost Explained</div>
+                                   <h2>SOMETIMES,<br/><strong>PEOPLE GET CONFUSED</strong><br/>by odoo's
+                                       <strong>licensing</strong><br/><strong>cost</strong></h2>
                                </div>
                                <div class="col-lg-6 col-md-6 position-relative">
                                      <div class="lnc-bnr-bdr-right"></div>
