@@ -32,7 +32,7 @@
 
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-        <section class="license-bg w-100 d-block">
+          <section class="license-bg w-100 d-block">
                   <div class="container-fluid">
                          <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-6 col-md-6 position-relative">
@@ -64,7 +64,7 @@
                          </div>
                   </div>
         </section>
-        <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
+          <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
               <div class="container-fluid px-md-5 px-3">
                      <h2 class="w-100 d-block text-center pb-md-5 pb-3">Benefits of Odoo Licensing consultancy</h2>
                      <div class="row">
@@ -87,6 +87,12 @@
                                       choosing only those applications that are exactly needed
                                       and good for your company's financial health at less cost
                                       and that cover the entire business operations as well.</p>
+                                    <p class="d-block">Moreover, Odoo is open source there are some
+                                        guidelines and rules regarding the odoo apps modification,
+                                        reselling etc to be concerned. So Odoo Licensing consultancy can
+                                        lead you to grow your business without making any legal issues on
+                                        those odoo licensing policies and protects you from getting penalties
+                                        on those violations.</p>
                             </div>
                             <div class="col-md-5">
                                   <div class="lincenceImg">
@@ -96,7 +102,7 @@
                      </div>
               </div>
         </section>
-        <section class="features w-100 d-block">
+          <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
                 <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
                 <div class="row">
@@ -185,7 +191,63 @@
                 </div>
             </div>
         </section>
-        <section class="odo-srvs py-md-5 py-3">
+        <section class="switchng w-100 d-block py-md-5 py-3">
+            <div class="container">
+                <h2 class="w-100 d-block text-center pb-3 mb-md-5 mb-3">TYPES OF <strong>ODOO LICENSING</strong></h2>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="customz-box p-md-4 p-3 mb-4">
+                            <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Enterprise License</h5>
+                            <p class="d-block text-justify">Odoo Enterprise Falls Under Version V1.0. Suppose,
+                                If You Don’t Have A Valid Subscription To This Version, You Can’t Execute,
+                                Modify Or Even Execute After Modifying The Odoo Enterprise Edition.
+                                The Only People Who Are Allowed To Make Any Modifications Or Executions
+                                Are Odoo Partners. It Is An Illegal Act To Distribute, Sell Or Sublicense
+                                The Odoo Enterprise Edition Or Its Modified Versions. If You’re A Subscriber,
+                                You Can Use Odoo Modules Along With The Odoo Enterprise Version, With Or
+                                Without The License.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="customz-box p-md-4 p-3 mb-4">
+                            <div class="customz-boxImg"><img src="../assets/images/oddo/report.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Free App License</h5>
+                            <p class="d-block text-justify">One Can Build New Free Apps In Both Enterprise And
+                                Community Versions. With Odoo Enterprise, You Can Use The Free Apps With Any License
+                                That Are Available On The Odoo App Store As Community Version Comes Under LGPL
+                                (Lesser General Public License), They Can Publish And Distribute Free Apps With
+                                Any License.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="customz-box p-md-4 p-3 mb-4">
+                            <div class="customz-boxImg"><img src="../assets/images/oddo/invoice.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Community License</h5>
+                            <p class="d-block text-justify">Odoo Community Falls Under The GNU Lesser GPL
+                                Version (LGPLv3) Acquired From GPL. It Is By Free Software Foundation Inc.
+                                Moving On To GPL, It Is The Most Conventional Version That Allows The License
+                                Owner To Use The Covered Software For Their Organization. The Scenario Changes
+                                A Bit In LGPL, As The License Owner Can Use The Software Along With The Same
+                                Privileges As In GPL.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="customz-box p-md-4 p-3 mb-4">
+                            <div class="customz-boxImg"><img src="../assets/images/oddo/pos.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center py-md-4 pt-2 pb-0">Odoo Paid App License</h5>
+                            <p class="d-block text-justify">One Can Use Odoo Paid App License For Paid
+                                Add-Ons Available On The App Store. If You Wish To Use Those Add-Ons,
+                                You Will Have To Buy Them Or Get A Written Document From The Author.
+                                It Is Illegal To Distribute, Sell Or Sublicense Them. But, You Can Use
+                                Them With The License As A Library And Also Import Features Without Taking
+                                Anything From The Add-Ons.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+          <section class="odo-srvs py-md-5 py-3">
             <h2 class="w-100 d-block text-center">OUR ODOO ERP DEVELOPMENT</h2>
             <h3 class="w-100 d-block text-center pb-3">SERVICES</h3>
             <div class="container">
@@ -265,7 +327,7 @@
                 </div>
             </div>
         </section>
-        <section class="odo-intgr w-100 d-block py-md-5 py-3">
+          <section class="odo-intgr w-100 d-block py-md-5 py-3">
             <div class="container">
                 <h2 class="w-100 d-block text-center pb-md-4 pb-2"><strong>Industries</strong> we helped with <strong>Oddo</strong></h2>
                 <div class="row">
@@ -317,7 +379,7 @@
                 </div>
             </div>
         </section>
-        <section class="w-100 d-block pb-md-5 mb-md-5">
+          <section class="w-100 d-block pb-md-5 mb-md-5">
             <div class="container odo-faq">
                 <h2 class="w-100 d-block text-center pb-md-4"><dd class="mr-md-3 mr-1"></dd>Frequently Asked Questions<dd class="ml-md-3 ml-1"></dd></h2>
                 <div id="accordion" role="tablist" aria-multiselectable="true">
