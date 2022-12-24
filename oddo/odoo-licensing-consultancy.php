@@ -68,7 +68,7 @@
               <div class="container-fluid px-md-5 px-3">
                      <h2 class="w-100 d-block text-center pb-md-5 pb-3">Benefits of Odoo Licensing consultancy</h2>
                      <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-7">
                                   <p class="d-block">In the growing scenario of Odoo, most of
                                       the business organisations are migrating to Odoo open
                                       ERP for its vast application and ease. Odoo licensing
@@ -88,7 +88,7 @@
                                       and good for your company's financial health at less cost
                                       and that cover the entire business operations as well.</p>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-5">
                                   <div class="lincenceImg">
                                         <img src="../assets/images/oddo/odoo-license-Img-01.jpg" alt="">
                                   </div>
