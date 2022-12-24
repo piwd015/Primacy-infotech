@@ -2283,6 +2283,10 @@ background-size:100% 50%; height: 100%;}
 text-transform: uppercase; width: 70%; font-weight:700;}
 .license-bg h2{font-size:35px; color:#000; text-transform:uppercase;}
 .license-bg p{font-size:16px; color:#000;}
+.s-Media{}
+.s-Media dd{font-size:11px; color:#ff7e16;}
+.s-Media a{display:inline-block; width:20px; height:20px; border-radius:100%; font-size:15px;
+color:#fff; background:#ff7e16;}
 
 /*-------------our team section-------------*/
 
