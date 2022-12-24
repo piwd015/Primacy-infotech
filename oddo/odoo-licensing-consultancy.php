@@ -211,8 +211,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="customz-box p-md-4 p-3 mb-4">
-                            <div class="customz-boxImg"><img src="../assets/images/oddo/report.png" alt=""></div>
-                            <h5 class="w-100 d-block text-center pt-md-4 pt-2 pb-0">Odoo Free App License</h5>
+                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/report.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center pb-0">Odoo Free App License</h5>
                             <p class="d-block text-justify">One Can Build New Free Apps In Both Enterprise And
                                 Community Versions. With Odoo Enterprise, You Can Use The Free Apps With Any License
                                 That Are Available On The Odoo App Store As Community Version Comes Under LGPL
@@ -222,8 +222,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="customz-box p-md-4 p-3 mb-4">
-                            <div class="customz-boxImg"><img src="../assets/images/oddo/invoice.png" alt=""></div>
-                            <h5 class="w-100 d-block text-center pt-md-4 pt-2 pb-0">Odoo Community License</h5>
+                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/invoice.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center pb-0">Odoo Community License</h5>
                             <p class="d-block text-justify">Odoo Community Falls Under The GNU Lesser GPL
                                 Version (LGPLv3) Acquired From GPL. It Is By Free Software Foundation Inc.
                                 Moving On To GPL, It Is The Most Conventional Version That Allows The License
@@ -234,8 +234,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="customz-box p-md-4 p-3 mb-4">
-                            <div class="customz-boxImg"><img src="../assets/images/oddo/pos.png" alt=""></div>
-                            <h5 class="w-100 d-block text-center pt-md-4 pt-2 pb-0">Odoo Paid App License</h5>
+                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/pos.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center pb-0">Odoo Paid App License</h5>
                             <p class="d-block text-justify">One Can Use Odoo Paid App License For Paid
                                 Add-Ons Available On The App Store. If You Wish To Use Those Add-Ons,
                                 You Will Have To Buy Them Or Get A Written Document From The Author.
