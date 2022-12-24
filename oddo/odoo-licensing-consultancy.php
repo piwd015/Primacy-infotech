@@ -52,8 +52,8 @@
                                            <img src="../assets/images/oddo/license-banner-Img.png" alt="">
                                      </div>
                                      <div class="s-Media w-100 d-block pt-5">
-                                             <dd class="mr-4">You can find us here</dd>
-                                             <dd class="mr-4">primacyinfotech.com</dd>
+                                             <dd class="mr-md-5 mr-3">You can find us here</dd>
+                                             <dd class="mr-md-5 mr-3">primacyinfotech.com</dd>
                                              <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                                              <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                              <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
