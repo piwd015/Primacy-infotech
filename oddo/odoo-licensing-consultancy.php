@@ -361,7 +361,7 @@
                                   </div>
                            </div>
                     </div>
-                    <div class="row">
+                    <div class="row pt-md-4 pt-2">
                            <div class="col-md-5"></div>
                            <div class="col-md-7">
                                    <ul class="cost w-100 d-block">
