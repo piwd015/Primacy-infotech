@@ -357,7 +357,7 @@
                            </div>
                            <div class="col-md-5">
                                   <div class="lincenceImg">
-                                        <img src="/assets/images/oddo/oddo-license-Img-02.png" alt="">
+                                        <img src="../assets/images/oddo/odoo-license-Img-02.png" alt="">
                                   </div>
                            </div>
                     </div>
