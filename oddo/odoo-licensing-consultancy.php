@@ -37,7 +37,7 @@
                          <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-6 col-md-6 position-relative pt-md-5 pt-3 pl-md-4 pl-3">
                                       <div class="lnc-bnr-bdr-bottom"></div>
-                                      <div class="lnc-cst p-md-4 p-2">Odoo License cost Explained</div>
+                                      <div class="lnc-cst p-md-4 p-2 mt-5">Odoo License cost Explained</div>
                                    <h2>SOMETIMES,<br/><strong>PEOPLE GET CONFUSED</strong><br/>by odoo's
                                        <strong>licensing</strong><br/><strong>cost</strong></h2>
                                </div>
