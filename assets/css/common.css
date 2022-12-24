@@ -2271,7 +2271,7 @@ padding:0px 10px;}
 .support-bg p{font-size:20px; color:#fff; line-height:28px;}
 
 .license-bg{background:#f1f1f1;}
-.license-bnr-Img{width:90%;}
+.license-bnr-Img{width:90%; margin-top:30px;}
 .license-bnr-Img img{width:100%; display:block;}
 .lnc-bnr-bdr-right{width:100%; position:absolute; top:0px; right:0px; z-index:10;
 background:url("../images/oddo/license-bnr-border-right.png") no-repeat 0 0;
