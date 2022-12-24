@@ -2291,6 +2291,10 @@ color:#fff; background:#ff7e16; text-align:center; line-height:35px; margin:0px 
 .lincenceImg{width:100%;}
 .lincenceImg img{width:100%; display:block;}
 
+ul.cost{}
+ul.cost li{display:block; font-size:16px; color:#000; padding-left:20px;
+background:url("../images/odoo/bullet-03.png") no-repeat 0 0;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){

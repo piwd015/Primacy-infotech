@@ -329,9 +329,32 @@
         </section>
           <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
                 <div class="container-fluid px-md-5 px-3">
-                    <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo Licensing costs</h2>
+                    <h2 class="w-100 d-block text-center pb-md-5 pb-3">ODOO LICENSING COSTS</h2>
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                           <div class="col-md-7"></div>
+                           <div class="col-md-7">
+                                 <ul class="cost w-100 d-block">
+                                       <li class="pb-md-4 pb-2">
+                                              As an Odoo customer, you can choose Odoo Online
+                                              (SAAS - no custom modules allowed) or Odoo SH
+                                              (Odoo hosted solution with custom modules allowed)
+                                              and self-hosted on the cloud. The latter is preferred
+                                              if you have a lot of Cronjobs and integrated external
+                                              APIs like EDI. At Confianz Global, we use AWS and Digital
+                                              Ocean for our customers.
+                                       </li>
+                                       <li class="pb-md-4 pb-2">
+                                           Odoo Community is 100% free and needs to be hosted on-premise
+                                           or on the cloud-like AWS or Digital Ocean.
+                                       </li>
+                                       <li class="pb-md-4 pb-2">
+                                            Odoo licensing costs can be paid monthly or yearly
+                                            depending on where you host. The monthly option is available
+                                            for Odoo SAAS and Odoo SH. If you are hosting on AWS or any
+                                            other cloud data center, you have to pay the Odoo license
+                                            cost yearly.
+                                       </li>
+                                 </ul>
+                           </div>
                            <div class="col-md-5"></div>
                     </div>
                     <div class="row">
