@@ -40,7 +40,7 @@
                                       <div class="lnc-cst p-md-4 p-2 mt-md-5 mt-3 ml-3">Odoo License cost Explained</div>
                                       <h2 class="d-block ml-3 pt-3">SOMETIMES,<br/><strong>PEOPLE GET CONFUSED</strong><br/>by odoo's
                                        <strong>licensing cost</strong></h2>
-                                       <p class="d-block ml-3 pt-4">Odoo has an easy licensing process that works well for all sizes of
+                                       <p class="d-block ml-3 pt-2">Odoo has an easy licensing process that works well for all sizes of
                                            businesses. Whether you are a 5-person business or a 2000-person
                                            business, Odoo makes it easy for you so that you do not have to pay
                                            for features you do not use compared to other ERPs.
