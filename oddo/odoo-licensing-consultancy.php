@@ -60,7 +60,7 @@
                                                         <dd>primacyinfotech.com</dd>
                                                  </div>
                                                  <div class="col-md-4">
-                                                        <a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                                                         <a href="#" target="_blank"><i class="fa fa-facebook-f"></i></a>
                                                         <a href="#" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                                                         <a href="#" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
