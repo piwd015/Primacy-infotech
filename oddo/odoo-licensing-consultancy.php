@@ -191,7 +191,7 @@
                 </div>
             </div>
         </section>
-        <section class="switchng w-100 d-block py-md-5 py-3">
+          <section class="switchng w-100 d-block py-md-5 py-3">
             <div class="container">
                 <h2 class="w-100 d-block text-center pb-3 mb-md-5 mb-3">TYPES OF <strong>ODOO LICENSING</strong></h2>
                 <div class="row">
@@ -327,6 +327,19 @@
                 </div>
             </div>
         </section>
+          <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
+                <div class="container-fluid px-md-5 px-3">
+                    <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo Licensing costs</h2>
+                    <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
+                           <div class="col-md-7"></div>
+                           <div class="col-md-5"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-7"></div>
+                        <div class="col-md-5"></div>
+                    </div>
+            </div>
+          </section>
           <section class="odo-intgr w-100 d-block py-md-5 py-3">
             <div class="container">
                 <h2 class="w-100 d-block text-center pb-md-4 pb-2"><strong>Industries</strong> we helped with <strong>Oddo</strong></h2>
