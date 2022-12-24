@@ -37,9 +37,7 @@
                          <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                <div class="col-lg-6 col-md-6"></div>
                                <div class="col-lg-6 col-md-6 position-relative">
-                                     <div class="lnc-bnr-bdr-right">
-
-                                     </div>
+                                     <div class="lnc-bnr-bdr-right"></div>
                                      <div class="license-bnr-Img">
                                            <img src="../assets/images/oddo/license-banner-Img.png" alt="">
                                      </div>
