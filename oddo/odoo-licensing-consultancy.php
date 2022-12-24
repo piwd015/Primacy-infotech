@@ -362,7 +362,11 @@
                            </div>
                     </div>
                     <div class="row mt-md-5 mt-2">
-                           <div class="col-md-5"></div>
+                           <div class="col-md-5">
+                                   <div class="lincenceImg">
+                                          <img src="../assets/images/oddo/odoo-license-Img-04.png" alt="">
+                                   </div>
+                           </div>
                            <div class="col-md-7">
                                    <ul class="cost w-100 d-block">
                                          <li class="pb-md-4 pb-2">
