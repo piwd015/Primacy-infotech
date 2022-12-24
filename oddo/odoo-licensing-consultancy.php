@@ -59,11 +59,11 @@
                                                  <div class="col-md-4">
                                                         <dd>primacyinfotech.com</dd>
                                                  </div>
-                                                 <div class="col-md-4">
+                                                 <div class="col-md-4 d-flex flex-wrap justify-content-md-start">
                                                         <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
                                                         <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                                        <a href="#" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                                        <a href="#" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a>
+                                                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                                        <a href="#" target="_blank"><i class="fab fa-whatsapp"></i></a>
                                                  </div>
                                            </div>
                                      </div>
