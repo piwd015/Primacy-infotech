@@ -197,8 +197,8 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="customz-box p-md-4 p-3 mb-4">
-                            <div class="customz-boxImg"><img src="../assets/images/oddo/crm.png" alt=""></div>
-                            <h5 class="w-100 d-block text-center pt-md-5 pt-2 pb-0">Odoo Enterprise License</h5>
+                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/crm.png" alt=""></div>
+                            <h5 class="w-100 d-block text-center pb-0">Odoo Enterprise License</h5>
                             <p class="d-block text-justify">Odoo Enterprise Falls Under Version V1.0. Suppose,
                                 If You Don’t Have A Valid Subscription To This Version, You Can’t Execute,
                                 Modify Or Even Execute After Modifying The Odoo Enterprise Edition.
