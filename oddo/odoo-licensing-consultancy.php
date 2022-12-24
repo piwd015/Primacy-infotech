@@ -35,7 +35,9 @@
         <section class="license-bg w-100 d-block">
                   <div class="container-fluid px-md-0 px-3">
                          <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                               <div class="col-lg-6 col-md-6"></div>
+                               <div class="col-lg-6 col-md-6 position-relative">
+                                      <div class="lnc-bnr-bdr-bottom"></div>
+                               </div>
                                <div class="col-lg-6 col-md-6 position-relative">
                                      <div class="lnc-bnr-bdr-right"></div>
                                      <div class="license-bnr-Img">
