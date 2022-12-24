@@ -51,7 +51,7 @@
                                      <div class="license-bnr-Img">
                                            <img src="../assets/images/oddo/license-banner-Img.png" alt="">
                                      </div>
-                                     <div>mgmgmgmgmgmgmgmgm</div>
+                                     <div class="pt-5">mgmgmgmgmgmgmgmgm</div>
                                </div>
                          </div>
                   </div>
