@@ -52,20 +52,13 @@
                                            <img src="../assets/images/oddo/license-banner-Img.png" alt="">
                                      </div>
                                      <div class="s-Media w-100 d-block pt-5">
-                                           <div class="row">
-                                                 <div class="col-md-4">
-                                                       <dd>You can find us here</dd>
-                                                 </div>
-                                                 <div class="col-md-4">
-                                                        <dd>primacyinfotech.com</dd>
-                                                 </div>
-                                                 <div class="col-md-4 d-flex flex-wrap justify-content-md-start">
-                                                        <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
-                                                        <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
-                                                        <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-                                                        <a href="#" target="_blank"><i class="fab fa-whatsapp"></i></a>
-                                                 </div>
-                                           </div>
+                                           <dd>You can find us here</dd>
+                                            <dd>primacyinfotech.com</dd>
+                                             <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                                             <a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                             <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                                             <a href="#" target="_blank"><i class="fab fa-whatsapp"></i></a>
+
                                      </div>
                                </div>
                          </div>
