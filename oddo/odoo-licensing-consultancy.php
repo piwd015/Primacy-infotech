@@ -40,7 +40,7 @@
                                       <div class="lnc-cst p-md-4 p-2 mt-md-5 mt-3 ml-3">Odoo License cost Explained</div>
                                       <h2 class="d-block ml-3 pt-4">SOMETIMES,<br/><strong>PEOPLE GET CONFUSED</strong><br/>by odoo's
                                        <strong>licensing cost</strong></h2>
-                                       <p class="d-block ml-3 pt-2">Odoo has an easy licensing process that works well for all sizes of
+                                       <p class="d-block ml-3 pt-3">Odoo has an easy licensing process that works well for all sizes of
                                            businesses. Whether you are a 5-person business or a 2000-person
                                            business, Odoo makes it easy for you so that you do not have to pay
                                            for features you do not use compared to other ERPs.
@@ -63,54 +63,6 @@
                                </div>
                          </div>
                   </div>
-        </section>
-        <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
-              <div class="container">
-                     <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support and Maintenance</h2>
-                     <div class="row">
-                            <div class="col-md-6 mb-md-4">
-                                 <ul class="srpt-mnts w-100 d-block">
-                                     <li>
-                                           <img src="/assets/images/oddo/dedicated.png" alt="">
-                                           <strong class="w-100 d-block pb-md-3 pb-2">Dedicated Support Team</strong>
-                                           You will have a dedicated support team to ensure
-                                           all your issues are resolved on time without losing
-                                           time waiting for support tickets.</li>
-                                 </ul>
-                           </div>
-                            <div class="col-md-6 mb-md-4">
-                                   <ul class="srpt-mnts w-100 d-block">
-                                           <li>
-                                               <img src="/assets/images/oddo/monitoring.png" alt="">
-                                               <strong class="w-100 d-block pb-3">Ongoing Support and Monitoring</strong>
-                                               We ensure that we are always ready to address potential problems
-                                               quickly and efficiently throughout the implementation stages.
-                                           </li>
-                                   </ul>
-                           </div>
-                            <div class="col-md-6 mb-md-4">
-                                  <ul class="srpt-mnts w-100 d-block">
-                                       <li>
-                                           <img src="/assets/images/oddo/system-checkups.png" alt="">
-                                           <strong class="w-100 d-block pb-3">System Checkups & Updates</strong>
-                                           We offer regular system checkups to ensure you get the most out of your
-                                           system and keep it updated as and when required.
-                                        </li>
-                                  </ul>
-                             </div>
-                            <div class="col-md-6">
-                                  <ul class="srpt-mnts w-100 d-block">
-                                         <li class="pb-3">
-                                             <img src="/assets/images/oddo/custom-service.png" alt="">
-                                             <strong class="w-100 d-block pb-3">Custom Service Level Agreement</strong>
-                                             Our consultants are already Odoo 14 certified and are ready
-                                             to assist on your schedule as a part of Guaranteed SLA covering
-                                             almost every issue.
-                                         </li>
-                                  </ul>
-                            </div>
-                     </div>
-              </div>
         </section>
         <section class="features w-100 d-block">
             <div class="container why-chs py-md-4">
@@ -201,64 +153,6 @@
                 </div>
             </div>
         </section>
-        <section class="odo-integr-bg w-100 d-block py-md-5 py-3">
-              <div class="container-fluid px-md-5 px-3">
-                     <h2 class="w-100 d-block text-center pb-md-4 pb-3">OUR ODOO SUPPORT SERVICES</h2>
-                     <div class="row pb-md-5 pb-3">
-                          <div class="col-md-4 d-flex flex-wrap justify-content-center align-items-center">
-                                <div class="suprt-odo-Img">
-                                      <img src="/assets/images/oddo/support-odoo.png" alt="">
-                                </div>
-                          </div>
-                          <div class="col-md-8">
-                                <div class="supprt-box w-100 d-block p-md-5 p-3">
-                                          <h2 class="d-block pb-2">Support from Odoo</h2>
-                                          <p class="d-block">Whenever you buy an online
-                                              subscription to Odoo, you get free access to Odoo’s
-                                              online support.
-                                          </p>
-                                          <h4 class="d-block pb-3"><u>The support consists of:</u></h4>
-                                          <ul class="w-100 d-block pl-0">
-                                                 <li class="pb-2">Get direct access to Odoo’s source
-                                                       material like product documentation and
-                                                       guidelines.</li>
-                                                 <li class="pb-2">Solutions for minor bugs that you come
-                                                       across during customization</li>
-                                                 <li class="pb-2">Address issues related to Odoo’s standard
-                                                     database</li>
-                                                 <li class="pb-2">Answers question regarding your account
-                                                     or subscription</li>
-                                          </ul>
-                                </div>
-                          </div>
-                    </div>
-                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                           <div class="col-md-8">
-                             <div class="supprt-box w-100 d-block p-md-5 p-3" style="background: linear-gradient(86deg,
-                             rgba(193,0,0,1) 0%, rgba(67,125,246,1) 0%, rgba(147,161,189,1) 49%,
-                             rgba(249,207,117,1) 100%);">
-                                     <h2 class="d-block pb-2">Odoo Technical Support Services</h2>
-                                     <h4 class="d-block pb-3"><u>Our technical support services consist of:</u></h4>
-                                     <ul class="w-100 d-block pl-0">
-                                             <li class="pb-2">User Training</li>
-                                             <li class="pb-2">Customizing Codes</li>
-                                             <li class="pb-2">Odoo Project Monitoring</li>
-                                             <li class="pb-2">Timely analysis of your organization.</li>
-                                             <li class="pb-2">Importing documents to your new database.</li>
-                                             <li class="pb-2">Odoo version upgrade with all data backups.</li>
-                                             <li class="pb-2">Migrating databases from older versions or other platforms.</li>
-                                             <li class="pb-2">Get daily answers of your queries from our company’s designated consultant team.</li>
-                                     </ul>
-                             </div>
-                         </div>
-                           <div class="col-md-4 d-flex flex-wrap justify-content-center align-items-center">
-                                  <div class="suprt-odo-Img">
-                                        <img src="/assets/images/oddo/technical-support.png" alt="">
-                                  </div>
-                           </div>
-                    </div>
-              </div>
-        </section>
         <section class="odo-srvs py-md-5 py-3">
             <h2 class="w-100 d-block text-center">OUR ODOO ERP DEVELOPMENT</h2>
             <h3 class="w-100 d-block text-center pb-3">SERVICES</h3>
@@ -337,105 +231,6 @@
                         </a>
                     </div>
                 </div>
-            </div>
-        </section>
-        <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
-            <div class="container suprt-pkgs">
-                 <h2 class="w-100 d-block text-center pb-md-5 pb-3">Odoo ERP Support Packages</h2>
-                 <div class="table-responsive">
-                      <table class="table table-bordered table-sm">
-                          <thead>
-                              <tr>
-                                  <th width="28%" style="border:none;"></th>
-                                  <th width="24%" style="border:none;"></th>
-                                  <th width="24%" class="mst-plr w-100 d-block text-center" style="border:none;">Most Popular</th>
-                                  <th width="24%" style="border:none;"></th>
-                              </tr>
-                               <tr>
-                                   <th valign="top" width="25%" style="border:none;">
-                                        <div class="packg w-100"></div>
-                                   </th>
-                                   <th valign="top" width="25%">
-                                        <div class="packg w-100 d-block text-center py-md-4 py-2">
-                                              <h6 class="w-100 d-block text-center">Package 1</h6>
-                                               <h2 class="w-100 d-block text-center">
-                                                    <sup>$</sup>499<sub>/Month</sub>
-                                               </h2>
-                                               <button type="button" class="btn gt-start">Get Started</button>
-                                        </div>
-                                   </th>
-                                   <th valign="top" width="25%">
-                                       <div class="packg w-100 d-block text-center py-md-4 py-2">
-                                           <h6 class="w-100 d-block text-center">Package 2</h6>
-                                           <h2 class="w-100 d-block text-center">
-                                               <sup>$</sup>799<sub>/Month</sub>
-                                           </h2>
-                                           <button type="button" class="btn gt-start2">Get Started</button>
-                                       </div>
-                                   </th>
-                                   <th valign="top" width="25%">
-                                       <div class="packg w-100 d-block text-center py-md-4 py-2">
-                                           <h6 class="w-100 d-block text-center">Package 3</h6>
-                                           <h2 class="w-100 d-block text-center">
-                                               <sup>$</sup>1099<sub>/Month</sub>
-                                           </h2>
-                                           <button type="button" class="btn gt-start">Get Started</button>
-                                       </div>
-                                   </th>
-                               </tr>
-                          </thead>
-                          <tbody>
-                                       <tr>
-                                           <td valign="top">Incidents</td>
-                                           <td valign="top" style="text-align:center;">15 Incidents</td>
-                                           <td valign="top" style="text-align:center;">30 Incidents</td>
-                                           <td valign="top" style="text-align:center;">45 Incidents</td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">24X7 Support</td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">Custom Module Included</td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">Development Included</td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">Functional & Technical Support</td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">Enterprise & Community</td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                           <td valign="top" style="text-align:center;"><i class="fa fa-check" aria-hidden="true"></i></td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">Maximum Incident Time</td>
-                                           <td valign="top" style="text-align:center;">1 Hour</td>
-                                           <td valign="top" style="text-align:center;">1 Hour</td>
-                                           <td valign="top" style="text-align:center;">1 Hour</td>
-                                       </tr>
-                                       <tr>
-                                           <td valign="top">Medium</td>
-                                           <td valign="top" style="text-align:center;">Zoom, Skype & Whatsapp</td>
-                                           <td valign="top" style="text-align:center;">Zoom, Skype & Whatsapp</td>
-                                           <td valign="top" style="text-align:center;">Zoom, Skype & Whatsapp</td>
-                                       </tr>
-                            </tbody>
-                      </table>
-                 </div>
             </div>
         </section>
         <section class="odo-intgr w-100 d-block py-md-5 py-3">
