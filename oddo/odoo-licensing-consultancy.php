@@ -346,7 +346,7 @@
                                            Odoo Community is 100% free and needs to be hosted on-premise
                                            or on the cloud-like AWS or Digital Ocean.
                                        </li>
-                                       <li class="pb-md-4 pb-2">
+                                       <li>
                                             Odoo licensing costs can be paid monthly or yearly
                                             depending on where you host. The monthly option is available
                                             for Odoo SAAS and Odoo SH. If you are hosting on AWS or any
@@ -362,8 +362,34 @@
                            </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-7"></div>
-                        <div class="col-md-5"></div>
+                           <div class="col-md-5"></div>
+                           <div class="col-md-7">
+                                   <ul class="cost w-100 d-block">
+                                         <li class="pb-md-4 pb-2">
+                                               The Odoo license agreement gives you access to use Odoo
+                                                unconditionally, as far as you do not add an unlicensed
+                                                user or install an Odoo app that you did not pay for.
+                                                The Odoo licensing system sends a ping to the Odoo
+                                                licensing server frequently and if it detects an unpaid user or app,
+                                                it will immediately show an alert to the administrator along with a
+                                                Purchase Order to pay for the newly installed app or license that has
+                                                been utilized. This additional cost is prorated to make it a seamless
+                                               billing. You will also see a notification when you log in to your
+                                               Odoo saying your database will expire in x number of days because of
+                                               unpaid licenses or apps being installed.
+                                         </li>
+                                         <li class="pb-md-4 pb-2">
+                                             It is very important that you pay for the difference or uninstall
+                                             the unused app or remove the extra user. If your database is locked,
+                                             it will create delays in your day-to-day business activities using Odoo.
+                                         </li>
+                                         <li>
+                                             The Odoo Enterprise agreement is non-transferable, meaning if you bought
+                                             the licenses for your business, you cannot transfer this license or sell
+                                             it to another company.
+                                         </li>
+                                   </ul>
+                           </div>
                     </div>
             </div>
           </section>
