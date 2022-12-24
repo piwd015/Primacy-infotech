@@ -65,7 +65,7 @@
                   </div>
         </section>
         <section class="odo-integr-bg w-100 d-block py-md-5 py-3" style="background:#fff;">
-              <div class="container">
+              <div class="container-fluid px-md-5 px-3">
                      <h2 class="w-100 d-block text-center pb-md-5 pb-3">Benefits of Odoo Licensing consultancy</h2>
                      <div class="row">
                             <div class="col-md-6">
