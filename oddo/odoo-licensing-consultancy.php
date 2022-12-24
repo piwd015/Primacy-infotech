@@ -355,7 +355,11 @@
                                        </li>
                                  </ul>
                            </div>
-                           <div class="col-md-5"></div>
+                           <div class="col-md-5">
+                                  <div class="lincenceImg">
+                                        <img src="/assets/images/oddo/odoo-license-Img-02.png" alt="">
+                                  </div>
+                           </div>
                     </div>
                     <div class="row">
                         <div class="col-md-7"></div>
