@@ -33,7 +33,7 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body">
-           <section class="portflo-bg w-100 d-block text-center mt-5">
+           <section class="portflo-bg port-scr-srt w-100 d-block text-center mt-5">
                   <div class="container-fluid">
                          <h1 class="w-100 d-block text-center pb-4 mb-4">Our Portfolios</h1>
                          <p class="d-block text-center pb-5">Our philosophy and expertise are best represented by our work</p>
@@ -43,8 +43,17 @@
                                  <img src="/assets/images/about/web-mob.png" alt="">
                                  All
                           </label>
-                          <div class="tab">
-                              empor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                          <div class="tab w-100 d-block">
+                              <div class="content">
+                                  <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                      <div class="content-overlay"></div>
+                                      <img class="content-image" src="https://images.unsplash.com/photo-1433360405326-e50f909805b3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=359e8e12304ffa04a38627a157fc3362">
+                                      <div class="content-details fadeIn-bottom">
+                                          <h3 class="content-title">This is a title</h3>
+                                          <p class="content-text">This is a short description</p>
+                                      </div>
+                                  </a>
+                              </div>
                           </div>
 
                           <input type="radio" name="tabs" id="tabtwo">
