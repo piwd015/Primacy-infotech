@@ -2435,7 +2435,8 @@ height:auto!important;
  left: 80%;
 }
 
-.potflo-Cont-Area{background:#eb7a2e; display:flex; justify-content:center; align-items:center;}
+.potflo-Cont-Area{background:#eb7a2e; display:flex; justify-content:center;
+ align-items:center; height: 100%;}
 .potflo-Cont-Area h3{ font-size:45px; color:#fff; text-transform:uppercase; font-weight:600;}
 
 /*-------------our team section-------------*/
