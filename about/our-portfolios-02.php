@@ -51,7 +51,7 @@
 
                           <input type="radio" name="tabs" id="tabtwo">
                           <label for="tabtwo">
-                              <img src="/assets/images/about/logo.png" alt="">
+                              <img src="/assets/images/about/mobile.png" alt="">
                               Web
                           </label>
                           <div class="tab">
@@ -61,7 +61,7 @@
 
                           <input type="radio" name="tabs" id="tabthree">
                           <label for="tabthree">
-                              <img src="/assets/images/about/mobile.png" alt="">
+                              <img src="/assets/images/about/logo.png" alt="">
                               Mobile
                           </label>
                           <div class="tab">
