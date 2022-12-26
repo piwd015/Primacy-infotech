@@ -2299,9 +2299,9 @@ background:url("../images/oddo/bullet-03.png") no-repeat 0 9px;}
 .portflo-bg h1{font-size:35px; color:#000; font-family:'Oswald', sans-serif;
  text-transform:uppercase; position: relative;}
 .portflo-bg h1:after{content:""; width:30px; height:4px; background:#ff7b22; position:absolute;
-left:50%; bottom:-15px;}
+left:50%; bottom:0px;}
 .portflo-bg h1:before{content:""; width:30px; height:4px; background:#ba1419; position:absolute;
- right: 50%; bottom:-15px;}
+ right: 50%; bottom:0px;}
 .portflo-bg p{font-size: 16px; color:#000;}
 
 /*-------------our team section-------------*/
