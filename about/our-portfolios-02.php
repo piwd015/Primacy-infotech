@@ -75,7 +75,7 @@
                                         </div>
                                         <div class="col-md-4 p-2">
                                               <div class="potflo-Cont-Area w-100 d-block">
-                                                     <h3>Opportunities</h3>
+                                                     Opportunities
                                               </div>
                                         </div>
                                         <div class="col-md-4"></div>
