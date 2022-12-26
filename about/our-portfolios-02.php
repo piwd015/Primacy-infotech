@@ -33,7 +33,7 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body">
-           <section class="portflo-bg w-100 d-block text-center">
+           <section class="portflo-bg w-100 d-block text-center pt-5">
                   <div class="container-fluid">
                          <h1 class="w-100 d-block text-center mb-4">Our Portfolios</h1>
                          <p class="d-block text-center">Our philosophy and expertise are best represented by our work</p>
