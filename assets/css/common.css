@@ -2319,6 +2319,7 @@ left:50%; bottom:0px;}
  cursor: pointer;
  border-top: solid 3px #ed6a12;
  transition: background ease 0.2s;}
+.tabs label img{width:50px; display:block; margin:0 auto;}
 .tabs .tab {
  order: 99;
  flex-grow: 1;

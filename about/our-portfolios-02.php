@@ -39,7 +39,10 @@
                          <p class="d-block text-center">Our philosophy and expertise are best represented by our work</p>
                       <div class="tabs">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
-                          <label for="tabone">All</label>
+                          <label for="tabone">
+                                 <img src="../assets/images/oddo/web.png" alt="">
+                                 All
+                          </label>
                           <div class="tab">
                               <h1>Tab One Content</h1>
                               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
