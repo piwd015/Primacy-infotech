@@ -2328,7 +2328,8 @@ right:0px; top:-60px;}
  width: 100%;
  display: none;
  padding: 1rem;
- background: #fff;}
+ background: #fff;
+height:auto!important;}
 .tabs input[type=radio] {display:none;}
 .tabs input[type=radio]:checked + label {background: #fff;}
 .tabs input[type=radio]:checked + label + .tab {display:block;}
