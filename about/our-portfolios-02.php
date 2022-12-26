@@ -38,7 +38,7 @@
                          <h1 class="w-100 d-block text-center pb-4 mb-4">Our Portfolios</h1>
                          <p class="d-block text-center pb-5">Our philosophy and expertise are best represented by our work</p>
                       <div class="tabs">
-                          <input type="radio" name="tabs" id="tabone" checked="checked">
+                          <input type="radio" name="tabs" id="tabone">
                           <label for="tabone">
                                  <img src="/assets/images/about/web-mob.png" alt="">
                                  All
@@ -47,7 +47,7 @@
                                  <img src="/assets/images/about/portfolio-01.jpg" alt="">
                           </div>
 
-                          <input type="radio" name="tabs" id="tabtwo"  checked="checked">
+                          <input type="radio" name="tabs" id="tabtwo">
                           <label for="tabtwo">
                               <img src="/assets/images/about/web.png" alt="">
                               Web
