@@ -222,7 +222,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="customz-box p-md-4 p-3 mb-4">
-                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/invoice.png" alt=""></div>
+                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/community-license.png" alt=""></div>
                             <h5 class="w-100 d-block text-center pb-0">Odoo Community License</h5>
                             <p class="d-block text-justify">Odoo Community Falls Under The GNU Lesser GPL
                                 Version (LGPLv3) Acquired From GPL. It Is By Free Software Foundation Inc.
