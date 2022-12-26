@@ -47,7 +47,7 @@
                                  <img src="/assets/images/about/portfolio-01.jpg" alt="">
                           </div>
 
-                          <input type="radio" name="tabs" id="tabtwo">
+                          <input type="radio" name="tabs" id="tabtwo"  checked="checked">
                           <label for="tabtwo">
                               <img src="/assets/images/about/web.png" alt="">
                               Web
