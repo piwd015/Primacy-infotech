@@ -2720,6 +2720,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .s-Media dd{font-size:13px;}
  .s-Media{text-align:center;}
  .s-Media a{line-height:30px;}
+ .lnc-cst{width:100%; font-size:25px;}
+ .license-bg h2{font-size:18px;}
+ .license-bg p{font-size:14px; line-height:20px;}
 }
 
 @media screen and (max-height: 450px) {
