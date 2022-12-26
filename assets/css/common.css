@@ -2310,6 +2310,7 @@ left:50%; bottom:0px;}
  color:#000;
  font-weight:600;
  font-family:'Oswald', sans-serif;
+ text-transform:uppercase;
  order: 1;
  display: block;
  padding: 0.3rem 2rem;

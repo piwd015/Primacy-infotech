@@ -61,7 +61,7 @@
                           </div>
 
                           <input type="radio" name="tabs" id="tabfour">
-                          <label for="tabfour">Mobile</label>
+                          <label for="tabfour">Logo</label>
                           <div class="tab">
                               <h1>Tab Three Content</h1>
                               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
