@@ -44,7 +44,7 @@
                                  All
                           </label>
                           <div class="tab w-100 d-block">
-                                <div class="row">
+                                <div class="row p">
                                        <div class="col-md-4">
                                              <div class="col-md-12">
                                                  <div class="content">
@@ -109,6 +109,7 @@
 
                   </div>
            </section>
+            <div class="clear"></div>
     </div>
     <!-- footer -->
     <?php include '../include/menu.php'; ?>

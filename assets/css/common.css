@@ -2315,7 +2315,7 @@ left:50%; bottom:0px;}
  order: 1;
  display: block;
  padding: 0.3rem 2rem;
- margin:0px 15px;
+ margin:0px 25px;
  cursor: pointer;
  border-top: solid 3px #ba1419;
  transition: background ease 0.2s;
@@ -2425,6 +2425,7 @@ right:0px; top:-60px;}
 .port-scr-srt .fadeIn-right{
  left: 80%;
 }
+.clear{width:auto; height: auto; clear:both; display: block;}
 
 /*-------------our team section-------------*/
 
