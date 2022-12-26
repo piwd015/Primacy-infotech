@@ -49,7 +49,12 @@
                                               <div class="col-md-12">
                                                   <div class="content">
                                                       <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-                                                          <div class="content-overlay fadeIn-left">mgmgmgmgmg</div>
+                                                          <div class="content-overlay">
+                                                              <div class="content-details fadeIn-left">
+                                                                  <h3 class="content-title">This is a title</h3>
+                                                                  <p class="content-text">This is a short description</p>
+                                                              </div>
+                                                          </div>
                                                           <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
                                                           <!--<div class="content-details fadeIn-left">
                                                               <h3 class="content-title">This is a title</h3>
