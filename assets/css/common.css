@@ -2311,10 +2311,10 @@ left:50%; bottom:0px;}
  font-family:'Oswald', sans-serif;
  order: 1;
  display: block;
- padding: 1rem 2rem;
- margin-right: 0.2rem;
+ padding: 0.5rem 2rem;
+ margin:0px 10px;
  cursor: pointer;
- border-bottom: solid 3px #ed6a12;
+ border-top: solid 3px #ed6a12;
  transition: background ease 0.2s;}
 .tabs .tab {
  order: 99;
