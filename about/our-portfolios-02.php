@@ -35,7 +35,7 @@
     <div class="page-body">
            <section class="portflo-bg w-100 d-block text-center mt-5">
                   <div class="container-fluid">
-                         <h1 class="w-100 d-block text-center pb-3 mb-4">Our Portfolios</h1>
+                         <h1 class="w-100 d-block text-center pb-4 mb-4">Our Portfolios</h1>
                          <p class="d-block text-center">Our philosophy and expertise are best represented by our work</p>
                   </div>
            </section>
