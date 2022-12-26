@@ -240,8 +240,11 @@
                       </a>
                   </li>
                   <li><a href="../about/our-portfolios"><i class="icofont-notebook icofont-2x"></i><br />
-                          <div class="txt">Case Study</div>
+                          <div class="txt">Our Portfolios</div>
                       </a>
+                  </li>
+                  <li>
+                      <a href="#">Our Team</a>
                   </li>
               </ul>
           </li>
@@ -391,13 +394,16 @@
                 <a href="#"><i class="fas fa-paper-plane fa-lg"></i> About Us <span class="arrow"></span></a>
             </li>
             <ul class="sub-menu collapse" id="about3">
-                <li><a href="../about/our-company">Company</a>
-                </li>
-                <li><a href="https://erp.primacyinfotech.com/jobs">Career</a>
-                </li>
-                <li>
-                    <a href="../about/our-portfolios">Case Study</a>
-                </li>
+                    <li><a href="../about/our-company">Company</a>
+                    </li>
+                    <li><a href="https://erp.primacyinfotech.com/jobs">Career</a>
+                    </li>
+                    <li>
+                        <a href="../about/our-portfolios">Our Portfolios</a>
+                    </li>
+                    <li>
+                        <a href="#">Our Team</a>
+                    </li>
             </ul>
             <li>
                 <a href="https://erp.primacyinfotech.com/blog/"><i class="fas fa-blog"></i> Blog</a>
