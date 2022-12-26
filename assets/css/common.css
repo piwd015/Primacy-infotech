@@ -2364,6 +2364,10 @@ height:auto!important;
  -webkit-transition: all 0.4s ease-in-out 0s;
  -moz-transition: all 0.4s ease-in-out 0s;
  transition: all 0.4s ease-in-out 0s;
+ font-size:30px;
+ color: #fff;
+ font-weight:700;
+ text-align:center;
 }
 
 .port-scr-srt .content:hover .content-overlay{
