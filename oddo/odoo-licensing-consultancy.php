@@ -367,7 +367,7 @@
                                        <img src="../assets/images/oddo/odoo-license-Img--04.jpg" alt="">
                                    </div>
                            </div>
-                           <div class="col-md-7">
+                           <div class="col-md-7 pt-md-0 pt-3">
                                    <ul class="cost w-100 d-block">
                                          <li class="pb-md-4 pb-2">
                                                The Odoo license agreement gives you access to use Odoo
