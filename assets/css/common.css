@@ -2404,17 +2404,20 @@ height:auto!important;
 }
 
 .port-scr-srt .content-details h3{
- font-size:25px;
+ font-size:55px;
  color: #fff;
- font-weight: 700;
+ font-weight: 600;
  letter-spacing: 1px;
  margin-bottom: 0.5em;
  text-transform: uppercase;
+ letter-spacing:2px;
 }
 
 .port-scr-srt .content-details p{
  color: #fff;
  font-size: 14px;
+ font-width:300;
+ letter-spacing:2px;
 }
 
 .port-scr-srt .fadeIn-bottom{
