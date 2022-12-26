@@ -49,17 +49,13 @@
                                               <div class="col-md-12">
                                                   <div class="content">
                                                       <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-                                                          <div class="content-overlay">
-                                                              <div class="content-details fadeIn-left">
-                                                                  <h3 class="content-title">This is a title</h3>
-                                                                  <p class="content-text">This is a short description</p>
-                                                              </div>
-                                                          </div>
-                                                          <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
-                                                          <!--<div class="content-details fadeIn-left">
-                                                              <h3 class="content-title">This is a title</h3>
-                                                              <p class="content-text">This is a short description</p>
-                                                          </div>-->
+                                                            <div class="content-overlay">
+                                                                  <div class="content-details fadeIn-left">
+                                                                         <h3 class="content-title">Global</h3>
+                                                                         <p>Student Assistant</p>
+                                                                  </div>
+                                                            </div>
+                                                            <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
                                                       </a>
                                                   </div>
                                               </div>
