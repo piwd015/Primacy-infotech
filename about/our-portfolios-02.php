@@ -44,7 +44,7 @@
                                  All
                           </label>
                           <div class="tab w-100 d-block">
-                                 <img src="assets/images/about/portfolio-01.jpg" alt="">
+                                 <img src="/assets/images/about/portfolio-01.jpg" alt="">
                           </div>
 
                           <input type="radio" name="tabs" id="tabtwo">
