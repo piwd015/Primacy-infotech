@@ -40,7 +40,7 @@
                       <div class="tabs">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
-                                 <img src="assets/images/oddo/web.png" alt="">
+                                 <img src="/assets/images/about/web.png" alt="">
                                  All
                           </label>
                           <div class="tab">
