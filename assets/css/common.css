@@ -2352,7 +2352,7 @@ height:auto!important;
 }
 
 .port-scr-srt .content .content-overlay {
- background: #eb7a2e;
+ background: rgba(235,122,46,0.7);
  position: absolute;
  height: 100%;
  width: 100%;
