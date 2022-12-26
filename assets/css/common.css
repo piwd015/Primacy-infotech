@@ -2298,10 +2298,10 @@ background:url("../images/oddo/bullet-03.png") no-repeat 0 9px;}
 .portflo-bg{background:#fff;}
 .portflo-bg h1{font-size:35px; color:#000; font-family:'Oswald', sans-serif;
  text-transform:uppercase; position: relative;}
-.portflo-bg h1:after{content:""; width:20px; height:3px; background:#ff7b22; position:absolute;
-left:0px; right:0px; bottom:-10px; margin:0 auto;}
-.portflo-bg h1:before{content:""; width:40px; height:3px; background:#ba1419; position:absolute;
- left:0px; right:0px; bottom:-10px; margin:0 auto;}
+.portflo-bg h1:after{content:""; width:30px; height:3px; background:#ff7b22; position:absolute;
+left:50%; bottom:-10px;}
+.portflo-bg h1:before{content:""; width:30px; height:3px; background:#ba1419; position:absolute;
+ right: 50%; bottom:-10px;}
 .portflo-bg p{font-size: 16px; color:#000;}
 
 /*-------------our team section-------------*/
