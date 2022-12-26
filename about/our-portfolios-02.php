@@ -163,7 +163,7 @@
                                                         </a>
                                                 </div>
                                         </div>
-                                        <div class="col-md-4 p-1 pb-2">
+                                        <div class="col-md-4 p-2 pb-2">
                                                 <div class="content">
                                                         <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
                                                                 <div class="content-overlay">
