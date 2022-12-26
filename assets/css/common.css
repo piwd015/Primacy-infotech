@@ -2726,6 +2726,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .lnc-bnr-bdr-bottom{width:35%; height:25%; bottom:-55px;}
  .odo-integr-bg p{font-size:13px;}
  .lincenceImg{width:80%; margin:0 auto;}
+ ul.cost li{font-size:14px; line-height:20px;}
 }
 
 @media screen and (max-height: 450px) {

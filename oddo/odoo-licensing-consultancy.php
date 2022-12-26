@@ -331,7 +331,7 @@
                 <div class="container-fluid px-md-5 px-3">
                     <h2 class="w-100 d-block text-center pb-md-5 pb-3">ODOO LICENSING COSTS</h2>
                     <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                           <div class="col-md-7">
+                           <div class="col-md-7 pt-md-0 pt-3">
                                  <ul class="cost w-100 d-block">
                                        <li class="pb-md-4 pb-2">
                                               As an Odoo customer, you can choose Odoo Online
