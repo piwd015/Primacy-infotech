@@ -109,6 +109,47 @@
                                                     </div>
                                             </div>
                                         </div>
+                                        <div class="col-md-8 p-0">
+                                                <div class="content">
+                                                        <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                                <div class="content-overlay">
+                                                                    <div class="content-details fadeIn-left">
+                                                                        <h3 class="content-title">Global</h3>
+                                                                        <p>Student Assistant</p>
+                                                                    </div>
+                                                                </div>
+                                                                <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                        </a>
+                                                </div>
+                                        </div>
+                                        <div class="col-md-4 p-0">
+                                               <div class="col-md-12">
+                                                       <div class="content">
+                                                               <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                                       <div class="content-overlay">
+                                                                               <div class="content-details fadeIn-left">
+                                                                                   <h3 class="content-title">Global</h3>
+                                                                                   <p>Student Assistant</p>
+                                                                               </div>
+                                                                       </div>
+                                                                       <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                               </a>
+                                                       </div>
+                                               </div>
+                                               <div class="col-md-12 pt-2">
+                                                       <div class="content">
+                                                               <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                                       <div class="content-overlay">
+                                                                               <div class="content-details fadeIn-left">
+                                                                                   <h3 class="content-title">Global</h3>
+                                                                                   <p>Student Assistant</p>
+                                                                               </div>
+                                                                       </div>
+                                                                       <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                               </a>
+                                                       </div>
+                                               </div>
+                                        </div>
                                  </div>
                           </div>
 
