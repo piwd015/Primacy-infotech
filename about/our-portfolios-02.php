@@ -76,6 +76,9 @@
                                         <div class="col-md-4 p-1">
                                               <div class="potflo-Cont-Area w-100 d-block">
                                                      <h3>Opportunities</h3>
+                                                     <h2>Come, when</h2>
+                                                     <h2>You are</h2>
+                                                     <h2><strong>Creative</strong></h2>
                                               </div>
                                         </div>
                                         <div class="col-md-4 p-1"></div>
