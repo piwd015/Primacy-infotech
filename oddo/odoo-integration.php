@@ -245,7 +245,7 @@
                 </div>
             </div>
         </section>
-        <section class="odo-integr-bg w-100 d-block py-3" id="integration-services">
+        <section class="odo-integr-bg erp-integ-srv w-100 d-block py-3" id="integration-services">
                 <h2 class="w-100 d-block text-center pb-2">Odoo ERP Integration Services</h2>
                 <p class="w-100 d-block text-center pb-md-4 pb-2 px-md-0 px-3">Odoo is known for its resourcefulness
                     and flexibility, which benefits users wanting to manage various<br/>
