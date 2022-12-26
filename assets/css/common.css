@@ -2374,7 +2374,6 @@ height:auto!important;
  width: 100%;
  border-radius:0px!important;
  filter: none!important;
- height: 250px;
 }
 
 .port-scr-srt .content-details {
@@ -2385,7 +2384,7 @@ height:auto!important;
  width: 100%;
  top: 50%;
  left: 50%;
- opacity: 0;
+ opacity: 1;
  -webkit-transform: translate(-50%, -50%);
  -moz-transform: translate(-50%, -50%);
  transform: translate(-50%, -50%);
@@ -2406,11 +2405,13 @@ height:auto!important;
  letter-spacing: 0.15em;
  margin-bottom: 0.5em;
  text-transform: uppercase;
+ opacity:1;
 }
 
 .port-scr-srt .content-details p{
  color: #fff;
  font-size: 0.8em;
+ opacity:1;
 }
 
 .port-scr-srt .fadeIn-bottom{
