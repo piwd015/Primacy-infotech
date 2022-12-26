@@ -45,7 +45,7 @@
                           </label>
                           <div class="tab">
                                  <div class="row">
-                                        <div class="col-md-4 p-1">
+                                        <div class="col-md-4 p-0">
                                                <div class="col-md-12">
                                                       <div class="content">
                                                               <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
@@ -73,7 +73,7 @@
                                                       </div>
                                               </div>
                                         </div>
-                                        <div class="col-md-4 p-1">
+                                        <div class="col-md-4 p-0">
                                               <div class="potflo-Cont-Area w-100 d-block">
                                                      <h3 class="mb-0">Opportunities</h3>
                                                      <h2 class="pb-5">Come, when</h2>
@@ -81,7 +81,7 @@
                                                      <h2><strong>Creative</strong></h2>
                                               </div>
                                         </div>
-                                        <div class="col-md-4 p-1"></div>
+                                        <div class="col-md-4 p-0"></div>
                                  </div>
                           </div>
 
