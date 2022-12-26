@@ -73,7 +73,11 @@
                                                       </div>
                                               </div>
                                         </div>
-                                        <div class="col-md-4"></div>
+                                        <div class="col-md-4">
+                                              <div class="potflo-Cont-Area w-100 d-block">
+                                                     <h3>Opportunities</h3>
+                                              </div>
+                                        </div>
                                         <div class="col-md-4"></div>
                                  </div>
                           </div>
