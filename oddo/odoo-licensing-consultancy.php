@@ -38,7 +38,7 @@
                                <div class="col-lg-6 col-md-6 position-relative">
                                       <div class="lnc-bnr-bdr-bottom"></div>
                                       <div class="lnc-cst p-md-4 p-2 mt-md-5 mt-3 ml-md-3">Odoo License cost Explained</div>
-                                      <h2 class="d-block ml-3 pt-md-4 pt-2">SOMETIMES,<br/><strong>PEOPLE GET CONFUSED</strong><br/>by odoo's
+                                      <h2 class="d-block ml-md-3 pt-md-4 pt-2">SOMETIMES,<br/><strong>PEOPLE GET CONFUSED</strong><br/>by odoo's
                                        <strong>licensing cost</strong></h2>
                                        <p class="d-block ml-md-3 pt-md-3">Odoo has an easy licensing process that works well for all sizes of
                                            businesses. Whether you are a 5-person business or a 2000-person
