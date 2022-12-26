@@ -36,7 +36,7 @@
            <section class="portflo-bg w-100 d-block text-center mt-5">
                   <div class="container-fluid">
                          <h1 class="w-100 d-block text-center pb-4 mb-4">Our Portfolios</h1>
-                         <p class="d-block text-center">Our philosophy and expertise are best represented by our work</p>
+                         <p class="d-block text-center pb-5">Our philosophy and expertise are best represented by our work</p>
                       <div class="tabs">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
