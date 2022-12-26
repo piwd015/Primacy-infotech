@@ -2329,7 +2329,6 @@ right:0px; top:-60px;}
  display: none;
  padding: 1rem;
  background: #fff;
- height:auto!important;
 }
 .tabs input[type=radio] {display:none;}
 .tabs input[type=radio]:checked + label {background: #fff;}
