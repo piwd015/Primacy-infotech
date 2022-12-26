@@ -211,7 +211,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="customz-box p-md-4 p-3 mb-4">
-                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/report.png" alt=""></div>
+                            <div class="customz-boxImg mb-3"><img src="../assets/images/oddo/free-app-license.png" alt=""></div>
                             <h5 class="w-100 d-block text-center pb-0">Odoo Free App License</h5>
                             <p class="d-block text-justify">One Can Build New Free Apps In Both Enterprise And
                                 Community Versions. With Odoo Enterprise, You Can Use The Free Apps With Any License
