@@ -2384,7 +2384,7 @@ height:auto!important;
  width: 100%;
  top: 50%;
  left: 50%;
- opacity: 1;
+ opacity: 0;
  -webkit-transform: translate(-50%, -50%);
  -moz-transform: translate(-50%, -50%);
  transform: translate(-50%, -50%);
@@ -2405,13 +2405,11 @@ height:auto!important;
  letter-spacing: 0.15em;
  margin-bottom: 0.5em;
  text-transform: uppercase;
- opacity:1;
 }
 
 .port-scr-srt .content-details p{
  color: #fff;
  font-size: 0.8em;
- opacity:1;
 }
 
 .port-scr-srt .fadeIn-bottom{
