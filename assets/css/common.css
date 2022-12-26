@@ -2345,7 +2345,6 @@ right:0px; top:-60px;}
 .port-scr-srt .content {
  position: relative;
  width: 100%;
- max-width: 400px;
  margin: auto;
  overflow: hidden;
 }
@@ -2371,7 +2370,7 @@ right:0px; top:-60px;}
 
 .port-scr-srt .content-image{
  width: 100%;
- border-radius:none!important;
+ border-radius:0px!important;
  filter: none!important;
 }
 
