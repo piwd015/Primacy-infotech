@@ -2723,8 +2723,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .lnc-cst{width:100%; font-size:25px;}
  .license-bg h2{font-size:18px;}
  .license-bg p{font-size:14px; line-height:20px;}
- .lnc-bnr-bdr-bottom{width:35%; height:25%; bottom:-40px;}
+ .lnc-bnr-bdr-bottom{width:35%; height:25%; bottom:-55px;}
  .odo-integr-bg p{font-size:13px;}
+ .lincenceImg{width:80%; margin:0 auto;}
 }
 
 @media screen and (max-height: 450px) {

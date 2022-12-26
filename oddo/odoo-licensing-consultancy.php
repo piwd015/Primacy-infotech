@@ -68,7 +68,7 @@
               <div class="container-fluid px-md-5 px-3">
                      <h2 class="w-100 d-block text-center pb-md-5 pb-3">Benefits of Odoo Licensing consultancy</h2>
                      <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                            <div class="col-md-7">
+                            <div class="col-md-7 pt-md-0 pt-3">
                                   <p class="d-block">In the growing scenario of Odoo, most of
                                       the business organisations are migrating to Odoo open
                                       ERP for its vast application and ease. Odoo licensing
