@@ -2308,11 +2308,12 @@ left:50%; bottom:0px;}
 .tabs label {
  font-size:20px;
  color:#000;
+ font-weight:600;
  font-family:'Oswald', sans-serif;
  order: 1;
  display: block;
- padding: 0.5rem 2rem;
- margin:0px 10px;
+ padding: 0.3rem 0rem;
+ margin:0px 15px;
  cursor: pointer;
  border-top: solid 3px #ed6a12;
  transition: background ease 0.2s;}
