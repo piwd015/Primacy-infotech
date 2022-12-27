@@ -2295,7 +2295,7 @@ ul.cost li{display:block; font-size:17px; color:#000; padding-left:30px; line-he
 background:url("../images/oddo/bullet-03.png") no-repeat 0 9px;}
 
 .portflo-bg{background:#fff; margin-top:100px;}
-.portflo-bg h1{font-size:65px; color:#000; font-family:'Oswald', sans-serif;
+.portflo-bg h1{font-size:65px; color:#000;
  text-transform:uppercase; position: relative; letter-spacing:4px;}
 .portflo-bg h1:after{content:""; width:30px; height:4px; background:#ff7b22; position:absolute;
 left:50%; bottom:0px;}
