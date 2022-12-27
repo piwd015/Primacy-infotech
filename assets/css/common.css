@@ -2317,7 +2317,6 @@ left:50%; bottom:0px;}
  padding: 0.3rem 2rem;
  margin:0px 25px;
  cursor: pointer;
- border-top: solid 3px #ba1419;
  transition: background ease 0.2s;
 position: relative;}
 .tabs label img{width:50px; display:block; margin:0 auto; position:absolute; left:0px;
@@ -2332,7 +2331,7 @@ right:0px; top:-60px;}
 height:auto!important;
 }
 .tabs input[type=radio] {display:none;}
-.tabs input[type=radio]:checked + label {background: #fff;}
+.tabs input[type=radio]:checked + label {border-top: solid 3px #ba1419;}
 .tabs input[type=radio]:checked + label + .tab {display:block;}
 @media (max-width: 45em) {
  .tabs .tab,
