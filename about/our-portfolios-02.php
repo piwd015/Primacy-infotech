@@ -33,7 +33,7 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body">
-           <section class="portflo-bg port-scr-srt w-100 d-block text-center mt-5">
+           <section class="portflo-bg port-scr-srt w-100 d-block text-center">
                   <div class="container-fluid px-md-0 px-3">
                          <h1 class="w-100 d-block text-center pb-4 mb-4">Our Portfolios</h1>
                          <p class="d-block text-center pb-5">Our philosophy and expertise are best represented by our work</p>
@@ -123,14 +123,13 @@
                                         <div class="col-md-4 p-0 pb-2">
                                                <div class="col-md-12">
                                                        <div class="content">
-                                                               <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                               <a href="#" target="_blank">
                                                                        <div class="content-overlay">
                                                                                <div class="content-details fadeIn-left">
-                                                                                   <h3 class="content-title">Global</h3>
-                                                                                   <p>Student Assistant</p>
+                                                                                      <h3 class="content-title">Delvfast</h3>
                                                                                </div>
                                                                        </div>
-                                                                       <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                                       <img class="content-image" src="/assets/images/about/portfolio-06.jpg" alt="">
                                                                </a>
                                                        </div>
                                                </div>
