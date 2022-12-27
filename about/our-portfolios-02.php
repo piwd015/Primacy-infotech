@@ -568,11 +568,11 @@
 
                                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""><img src="../assets/images/debasis.jpg" alt=""></li>
 
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""><img src="assets/images/ayon-roy.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""><img src="../assets/images/ayon-roy.jpg" alt=""></li>
 
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""><img src="assets/images/anwar.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""><img src="../assets/images/anwar.jpg" alt=""></li>
 
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="3" class="active"><img src="assets/images/sumanta.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="3" class="active"><img src="../assets/images/sumanta.jpg" alt=""></li>
 
                                 </ol>
 
