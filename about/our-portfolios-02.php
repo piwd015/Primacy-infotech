@@ -566,7 +566,7 @@
 
                                 <ol class="carousel-indicators w-100 d-block text-center mb-0">
 
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""><img src="assets/images/debasis.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""><img src="../assets/images/debasis.jpg" alt=""></li>
 
                                     <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""><img src="assets/images/ayon-roy.jpg" alt=""></li>
 
