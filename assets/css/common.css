@@ -2314,7 +2314,7 @@ left:50%; bottom:0px;}
  letter-spacing:1px;
  order: 1;
  display: block;
- padding: 0.3rem 2rem;
+ padding: 0.3rem 0.5rem;
  margin:0px 25px;
  cursor: pointer;
  transition: background ease 0.2s;
