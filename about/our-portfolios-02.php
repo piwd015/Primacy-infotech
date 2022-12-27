@@ -37,13 +37,13 @@
                   <div class="container-fluid px-md-0 px-3">
                          <h1 class="w-100 d-block text-center pb-4">Our Portfolios</h1>
                          <p class="d-block text-center pt-4 pb-5">Our philosophy and expertise are best represented by our work</p>
-                      <div class="tabs pt-4 pb-5">
+                      <div class="tabs pt-4">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
                                  <img src="/assets/images/about/web-mob.png" alt="">
                                  All
                           </label>
-                          <div class="tab mt-4">
+                          <div class="tab mt-5">
                                  <div class="row">
                                         <div class="col-md-4 p-0 pb-2">
                                                <div class="col-md-12">
@@ -233,7 +233,7 @@
                               <img src="/assets/images/about/web.png" alt="">
                               Web
                           </label>
-                          <div class="tab mt-4">
+                          <div class="tab mt-5">
                                  <div class="row">
                                          <div class="col-md-8 p-0 pb-2">
                                              <div class="content">
@@ -397,13 +397,12 @@
                                      </div>
                                  </div>
                           </div>
-
                           <input type="radio" name="tabs" id="tabthree">
                           <label for="tabthree">
                               <img src="/assets/images/about/mobile.png" alt="">
                               Mobile
                           </label>
-                          <div class="tab mt-4">
+                          <div class="tab mt-5">
                                  <div class="row">
                                         <div class="col-md-6 p-2 pb-2">
                                          <div class="content">
@@ -478,7 +477,7 @@
                               <img src="/assets/images/about/logo.png" alt="">
                               Logo
                           </label>
-                          <div class="tab mt-4">
+                          <div class="tab mt-5">
                                  <div class="row">
                                      <div class="col-md-6 p-2 pb-2">
                                          <div class="content">
