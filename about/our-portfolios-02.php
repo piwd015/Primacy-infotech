@@ -550,6 +550,237 @@
 
                   </div>
            </section>
+        <section class="customer-feed-bg pag-hd w-100 d-block">
+
+            <div class="container-fluid pr-md-0">
+
+                <div class="row">
+
+                    <h2 class="w-100 d-block text-center py-md-4"><span>W</span>hat Customer Says</h2>
+
+                    <div class="col-md-12 client-bg mx-auto w-100 d-block pt-3">
+
+                        <div class="p-md-2 paralax rounded position-relative">
+
+                            <div class="carousel slide w-100 d-block" id="carouselExampleIndicators" data-ride="carousel">
+
+                                <ol class="carousel-indicators w-100 d-block text-center mb-0">
+
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""><img src="assets/images/debasis.jpg" alt=""></li>
+
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""><img src="assets/images/ayon-roy.jpg" alt=""></li>
+
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""><img src="assets/images/anwar.jpg" alt=""></li>
+
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="3" class="active"><img src="assets/images/sumanta.jpg" alt=""></li>
+
+                                </ol>
+
+                                <div class="carousel-inner px-md-0 pb-4">
+
+                                    <div class="carousel-item">
+
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+
+                                            <h4 class="w-100 d-block text-center pb-3">“Great Team to work with, really attentive and react to request immediately. Excellent work and I'm really pleased with the results. Thanks Primacy Infotech Pvt. Ltd.”</h4>
+
+                                            <h3 class="w-100 d-block text-center pb-2">DEBASISH BISWAS</h3>
+
+                                            <h5 class="w-100 d-block text-center">Chief Instructor of Gpluseducation</h5>
+
+                                            <div class="col-md-12">
+
+                                                <div id="full-stars-example">
+
+                                                    <div class="rating-group">
+
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    <!-- Carousel slide-->
+
+                                    <div class="carousel-item">
+
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+
+                                            <h4 class="w-100 d-block text-center pb-3">“If you are looking for a Web Development company who is fast, organized and very detailed oriented... then you will find it with Primacy Infotech Pvt. Ltd. They designed, our idea of a website to all our specifications. They also made many creative improvements that we never thought of. We would recommend Primacy Infotech Pvt. Ltd. to anyone. ”</h4>
+
+                                            <h3 class="w-100 d-block text-center pb-2">AYAN ROY</h3>
+
+                                            <h5 class="w-100 d-block text-center">Director of Relaxindia.org</h5>
+
+                                            <div class="col-md-12">
+
+                                                <div id="full-stars-example">
+
+                                                    <div class="rating-group">
+
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    <!-- Carousel slide-->
+
+                                    <div class="carousel-item">
+
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+
+                                            <h4 class="w-100 d-block text-center pb-3">“They provide great quality for the best prices that I have found in the business. I have been very happy with their work to date and recommend them highly. Thanks for the good job ....I LOVE my new website.”</h4>
+
+                                            <h3 class="w-100 d-block text-center pb-2">ANWAR SEKH</h3>
+
+                                            <h5 class="w-100 d-block text-center">MD of Epariseva.com</h5>
+
+                                            <div class="col-md-12">
+
+                                                <div id="full-stars-example">
+
+                                                    <div class="rating-group">
+
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    <!-- Carousel slide-->
+
+                                    <div class="carousel-item active">
+
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+
+                                            <h4 class="w-100 d-block text-center pb-3">“We came to Primacy Infotech Pvt. Ltd. with a vision for our website. you listened, that vision with your constructive criticism and insight, produced a very attractive website! We hear nothing but positive comments! So again, THANK YOU!”</h4>
+
+                                            <h3 class="w-100 d-block text-center pb-2">SUMANTA BHATTACHARJEE.</h3>
+
+                                            <h5 class="w-100 d-block text-center">Director of Institute of Alternative Medicines Kolkata</h5>
+
+                                            <div class="col-md-12">
+
+                                                <div id="full-stars-example">
+
+                                                    <div class="rating-group">
+
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+
+                                                    </div>
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
     </div>
     <!-- footer -->
     <?php include '../include/menu.php'; ?>
