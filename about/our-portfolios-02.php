@@ -97,14 +97,13 @@
                                                 </div>
                                                 <div class="col-md-12 pt-2">
                                                     <div class="content">
-                                                            <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                            <a href="#" target="_blank">
                                                                     <div class="content-overlay">
-                                                                        <div class="content-details fadeIn-left">
-                                                                            <h3 class="content-title">Global</h3>
-                                                                            <p>Student Assistant</p>
-                                                                        </div>
+                                                                           <div class="content-details fadeIn-left">
+                                                                                 <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
+                                                                           </div>
                                                                     </div>
-                                                                    <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                                    <img class="content-image" src="/assets/images/about/portfolio-04.jpg" alt="">
                                                             </a>
                                                     </div>
                                             </div>
