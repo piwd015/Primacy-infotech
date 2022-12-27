@@ -37,7 +37,7 @@
                   <div class="container-fluid px-md-0 px-3">
                          <h1 class="w-100 d-block text-center pb-4">Our Portfolios</h1>
                          <p class="d-block text-center pt-4 pb-5">Our philosophy and expertise are best represented by our work</p>
-                      <div class="tabs pt-4">
+                      <div class="tabs pt-4 pb-5">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
                                  <img src="/assets/images/about/web-mob.png" alt="">
