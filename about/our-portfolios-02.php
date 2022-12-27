@@ -35,7 +35,7 @@
     <div class="page-body">
            <section class="portflo-bg port-scr-srt w-100 d-block text-center">
                   <div class="container-fluid px-md-0 px-3">
-                         <h1 class="w-100 d-block text-center pb-4 mb-5">Our Portfolios</h1>
+                         <h1 class="w-100 d-block text-center pb-4">Our Portfolios</h1>
                          <p class="d-block text-center py-5">Our philosophy and expertise are best represented by our work</p>
                       <div class="tabs">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
