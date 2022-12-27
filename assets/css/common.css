@@ -2331,7 +2331,7 @@ right:0px; top:-60px;}
 height:auto!important;
 }
 .tabs input[type=radio] {display:none;}
-.tabs input[type=radio]:checked + label {border-top: solid 3px #ba1419;}
+.tabs input[type=radio]:checked + label {border-top: solid 3px #ff7b23;}
 .tabs input[type=radio]:checked + label + .tab {display:block;}
 @media (max-width: 45em) {
  .tabs .tab,
@@ -2351,7 +2351,7 @@ height:auto!important;
 }
 
 .port-scr-srt .content .content-overlay {
- background:#ff6600;
+ background:rgba(255,102,0,0,4);
  position: absolute;
  height: 100%;
  width: 100%;
