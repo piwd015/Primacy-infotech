@@ -173,29 +173,51 @@
                                         <div class="col-md-3 p-2 pb-2">
                                                <div class="content">
                                                       <a href="#" target="_blank">
-                                                 <div class="content-overlay">
-                                                     <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Happy Martz</h3>
-                                                     </div>
-                                                 </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
-                                             </a>
+                                                             <div class="content-overlay">
+                                                                 <div class="content-details fadeIn-left">
+                                                                     <h3 class="content-title">Happy Martz</h3>
+                                                                 </div>
+                                                             </div>
+                                                            <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
+                                                      </a>
                                                </div>
                                         </div>
-
                                          <div class="col-md-3 p-2 pb-2">
-                                             <div class="content">
-                                                 <a href="#" target="_blank">
-                                                     <div class="content-overlay">
-                                                         <div class="content-details fadeIn-left">
-                                                             <h3 class="content-title">Global</h3>
-                                                             <p>Student Assistant</p>
-                                                         </div>
-                                                     </div>
-                                                     <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
-                                                 </a>
-                                             </div>
+                                                 <div class="content">
+                                                         <a href="#" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                         <div class="content-details fadeIn-left">
+                                                                             <h3 class="content-title">Kts Click</h3>
+                                                                         </div>
+                                                                 </div>
+                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
+                                                         </a>
+                                                </div>
                                          </div>
+                                         <div class="col-md-3 p-2 pb-2">
+                                                 <div class="content">
+                                                         <a href="#" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                         <div class="content-details fadeIn-left">
+                                                                                <h3 class="content-title">Prowess</h3>
+                                                                         </div>
+                                                                 </div>
+                                                                 <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
+                                                         </a>
+                                                 </div>
+                                         </div>
+                                         <div class="col-md-3 p-2 pb-2">
+                                                 <div class="content">
+                                                     <a href="#" target="_blank">
+                                                         <div class="content-overlay">
+                                                             <div class="content-details fadeIn-left">
+                                                                 <h3 class="content-title">SNS Present<br/> Ludo</h3>
+                                                             </div>
+                                                         </div>
+                                                         <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
+                                                     </a>
+                                                 </div>
+                                        </div>
                                         <div class="col-md-4 p-2 pb-2">
                                          <div class="content">
                                              <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
