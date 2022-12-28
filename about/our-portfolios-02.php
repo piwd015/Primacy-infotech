@@ -151,8 +151,7 @@
                                                         <a href="#" target="_blank">
                                                                 <div class="content-overlay">
                                                                         <div class="content-details fadeIn-left">
-                                                                            <h3 class="content-title">Global</h3>
-                                                                            <p>Student Assistant</p>
+                                                                            <h3 class="content-title">Lyceum</h3>
                                                                         </div>
                                                                 </div>
                                                                 <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
@@ -164,7 +163,7 @@
                                                         <a href="#" target="_blank">
                                                                 <div class="content-overlay">
                                                                     <div class="content-details fadeIn-left">
-                                                                        <h3 class="content-title">Lyceum Logo</h3>
+                                                                        <h3 class="content-title">delvfast</h3>
                                                                     </div>
                                                                 </div>
                                                                 <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
@@ -176,8 +175,7 @@
                                                       <a href="#" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
+                                                         <h3 class="content-title">Happy Martz</h3>
                                                      </div>
                                                  </div>
                                                  <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
