@@ -290,7 +290,7 @@
                     <li><a href="../service/ui-ux-desing">UI/UX Design</a>
                     </li>
                     <li><a href="../service/mlm-software-development.php">MLM Software Development</a></li>
-                    <li><a href="../service/health-care-mangment">Halthcare Portal Development</a></li>
+                    <li><a href="../service/health-care-mangment">Healthcare Portal Development</a></li>
             </ul>
             <li data-toggle="collapse" data-target="#service2" class="collapsed">
                 <a href="#"><i class="fa fa-globe fa-lg"></i> Solution <span class="arrow"></span></a>
