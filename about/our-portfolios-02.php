@@ -238,7 +238,7 @@
                                                                              <h3 class="content-title">Sbec</h3>
                                                                          </div>
                                                                  </div>
-                                                                 <img class="content-image" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
+                                                                 <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
                                                          </a>
                                                  </div>
                                          </div>
@@ -251,7 +251,7 @@
                                                                              <h3 class="content-title">Bank<br/>Sahayak</h3>
                                                                      </div>
                                                              </div>
-                                                            <img class="content-image" src="/assets/images/about/portfolio-app-01.jpg" alt="">
+                                                            <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
                                                      </a>
                                               </div>
                                         </div>
@@ -292,7 +292,7 @@
                                                                             <h3 class="content-title">Levchat</h3>
                                                                      </div>
                                                              </div>
-                                                            <img class="content-image" src="/assets/images/about/portfolio-app-04.jpg" alt="">
+                                                            <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
                                                      </a>
                                              </div>
                                      </div>
