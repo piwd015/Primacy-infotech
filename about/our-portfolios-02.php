@@ -73,7 +73,8 @@
                                                       </div>
                                               </div>
                                         </div>
-                                        <div class="col-md-4 p-0 pb-2">
+                                        <div class="col-md-4 p-0 pb-2 d-flex flex-wrap justify-content-center
+                                         align-items-center">
                                               <div class="potflo-Cont-Area w-100 d-block">
                                                      <h3 class="mb-0">Opportunities</h3>
                                                      <h2 class="pb-5">Come, when</h2>
