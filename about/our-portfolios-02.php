@@ -314,11 +314,11 @@
                                                          <a href="#" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
-                                                                                <dd>Mobile App</dd>
-                                                                                <h3 class="content-title">Pistore</h3>
+                                                                               <dd>Mobile App</dd>
+                                                                               <h3 class="content-title">As News<br/>>Empire</h3>
                                                                          </div>
                                                                  </div>
-                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-05.jpg" alt="">
+                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
                                                          </a>
                                                  </div>
                                          </div>
