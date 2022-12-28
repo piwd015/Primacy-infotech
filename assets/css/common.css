@@ -2417,7 +2417,7 @@ height:auto!important;
  font-width:300;
  letter-spacing:2px;
 }
-.port-scr-srt .content-details span{
+.port-scr-srt .content-details dd{
  font-size:17px;
  color: #e96c1b;
  font-weight: 400;

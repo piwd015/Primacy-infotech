@@ -247,7 +247,7 @@
                                              <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                          <span>Mobile App</span>
+                                                          <dd>Mobile App</dd>
                                                          <h3 class="content-title">Bank<br/>Sahayak</h3>
                                                      </div>
                                                  </div>
