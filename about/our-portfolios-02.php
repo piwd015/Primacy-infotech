@@ -155,11 +155,10 @@
                                                                             <p>Student Assistant</p>
                                                                         </div>
                                                                 </div>
-                                                                <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
                                                         </a>
                                                 </div>
                                         </div>
-                                        <div class="col-md-3 p-2 pb-2"></div>
                                         <div class="col-md-3 p-2 pb-2">
                                                 <div class="content">
                                                         <a href="#" target="_blank">
@@ -172,8 +171,6 @@
                                                         </a>
                                                 </div>
                                         </div>
-                                       <div class="col-md-3 p-2 pb-2"></div>
-                                       <div class="col-md-3 p-2 pb-2"></div>
                                         <div class="col-md-3 p-2 pb-2">
                                                <div class="content">
                                                       <a href="#" target="_blank">
@@ -187,7 +184,7 @@
                                              </a>
                                                </div>
                                         </div>
-                                         <div class="col-md-3 p-2 pb-2"></div>
+
                                          <div class="col-md-3 p-2 pb-2">
                                              <div class="content">
                                                  <a href="#" target="_blank">
