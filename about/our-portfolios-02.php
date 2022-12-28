@@ -138,11 +138,10 @@
                                                                <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
                                                                        <div class="content-overlay">
                                                                                <div class="content-details fadeIn-left">
-                                                                                   <h3 class="content-title">Global</h3>
-                                                                                   <p>Student Assistant</p>
+                                                                                   <h3 class="content-title">Kts Click</h3>
                                                                                </div>
                                                                        </div>
-                                                                       <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                                       <img class="content-image" src="/assets/images/about/portfolio-07.jpg" alt="">
                                                                </a>
                                                        </div>
                                                </div>
