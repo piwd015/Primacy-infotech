@@ -126,7 +126,7 @@
                                                                      <li><a href="../service/digital-marketing"><i class="icofont-automation icofont-1x"></i>Digital Marketing</a></li>
                                                                      <li><a href="../service/ui-ux-desing"><i class="icofont-penalty-card icofont-1x"></i>UI/UX Design</a></li>
                                                                      <li><a href="../service/mlm-software-development.php"><i class="icofont-company icofont-1x"></i>MLM Software Development</a></li>
-                                                                     <li><a href="../service/health-care-mangment"><i class="icofont-company icofont-1x"></i>Halthcare Portal Development</a></li>
+                                                                     <li><a href="../service/health-care-mangment"><i class="icofont-company icofont-1x"></i>Healthcare Portal Development</a></li>
                                                                  </ul>
                                                              </div>
                                                          </div>
