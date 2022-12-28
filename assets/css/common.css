@@ -2417,6 +2417,13 @@ height:auto!important;
  font-width:300;
  letter-spacing:2px;
 }
+.port-scr-srt .content-details span{
+ font-size:17px;
+ color: #e96c1b;
+ font-weight: 400;
+ letter-spacing:2px;
+ text-transform:uppercase;
+}
 
 .port-scr-srt .fadeIn-bottom{
  top: 80%;
