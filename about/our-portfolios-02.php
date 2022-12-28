@@ -261,7 +261,7 @@
                                                              <div class="content-overlay">
                                                                      <div class="content-details fadeIn-left">
                                                                            <dd>Mobile App</dd>
-                                                                            <h3 class="content-title">Global</h3>
+                                                                            <h3 class="content-title">Happy Martz</h3>
 
                                                                      </div>
                                                              </div>
