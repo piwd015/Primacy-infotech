@@ -325,7 +325,7 @@
                                          </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                                <dd>Mobile App</dd>
