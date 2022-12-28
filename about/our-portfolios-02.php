@@ -329,10 +329,10 @@
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                                <dd>Mobile App</dd>
-                                                                               <h3 class="content-title">As News<br/>>Empire</h3>
+                                                                               <h3 class="content-title">Samritmart</h3>
                                                                          </div>
                                                                  </div>
-                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
+                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-07.jpg" alt="">
                                                          </a>
                                                  </div>
                                          </div>
