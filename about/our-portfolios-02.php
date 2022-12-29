@@ -164,7 +164,7 @@
                                              </div>
                                              <div class="col-md-12 pt-2">
                                                      <div class="content">
-                                                             <a href="#" target="_blank">
+                                                             <a href="https://sbec.org.in/" target="_blank">
                                                                      <div class="content-overlay">
                                                                              <div class="content-details fadeIn-left">
                                                                                     <h3 class="content-title">Sbec</h3>
@@ -189,7 +189,7 @@
                                      </div>
                                         <div class="col-md-3 p-2 pb-2">
                                                 <div class="content">
-                                                        <a href="#" target="_blank">
+                                                        <a href="https://www.lyceumworld.com/" target="_blank">
                                                                 <div class="content-overlay">
                                                                         <div class="content-details fadeIn-left">
                                                                             <h3 class="content-title">Lyceum</h3>
@@ -201,7 +201,7 @@
                                         </div>
                                         <div class="col-md-3 p-2 pb-2">
                                                 <div class="content">
-                                                        <a href="#" target="_blank">
+                                                        <a href="https://delvfast.com/" target="_blank">
                                                                 <div class="content-overlay">
                                                                     <div class="content-details fadeIn-left">
                                                                         <h3 class="content-title">delvfast</h3>
@@ -213,7 +213,7 @@
                                         </div>
                                         <div class="col-md-3 p-2 pb-2">
                                                <div class="content">
-                                                      <a href="#" target="_blank">
+                                                      <a href="https://happymartz.com/" target="_blank">
                                                              <div class="content-overlay">
                                                                  <div class="content-details fadeIn-left">
                                                                      <h3 class="content-title">Happy Martz</h3>
@@ -225,7 +225,7 @@
                                         </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://ktsclickworld.com/" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                              <h3 class="content-title">Kts Click</h3>
@@ -237,10 +237,10 @@
                                          </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://prowesspursuit.com/" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
-                                                                                <h3 class="content-title">Prowess</h3>
+                                                                                <h3 class="content-title">Prowess pursuit pvt ltd</h3>
                                                                          </div>
                                                                  </div>
                                                                  <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
@@ -249,7 +249,7 @@
                                          </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                     <a href="#" target="_blank">
+                                                     <a href="https://ludo.sportsnscreen.com/" target="_blank">
                                                          <div class="content-overlay">
                                                              <div class="content-details fadeIn-left">
                                                                  <h3 class="content-title">SNS Present<br/> Ludo</h3>
@@ -261,7 +261,7 @@
                                         </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://annodyne.in/" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                                 <h3 class="content-title">Annodyne</h3>
@@ -273,7 +273,7 @@
                                          </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://sbec.org.in/" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                              <h3 class="content-title">Sbec</h3>
