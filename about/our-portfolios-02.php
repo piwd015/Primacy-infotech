@@ -37,367 +37,367 @@
                   <div class="container-fluid px-md-0 px-3">
                          <h1 class="w-100 d-block text-center pb-4">Our Portfolios</h1>
                          <p class="d-block text-center pt-md-4 pt-2 pb-md-5 pb-3">Our philosophy and expertise are best represented by our work</p>
-                      <div class="tabs  pt-4">
-                          <input type="radio" name="tabs" id="tabone" checked="checked">
-                          <label for="tabone">
-                                 <img src="/assets/images/about/web-mob.png" alt="">
-                                 All
-                          </label>
-                          <div class="tab mt-md-5 mt-3">
-                                 <div class="row">
-                                        <div class="col-md-4 p-0 pb-2">
-                                               <div class="col-md-12">
-                                                      <div class="content">
-                                                              <a href="https://globalstudentassistance.co.uk/" target="_blank">
-                                                                    <div class="content-overlay">
-                                                                          <div class="content-details fadeIn-left">
-                                                                                 <h3 class="content-title">Global</h3>
-                                                                                 <p>Student Assistant</p>
-                                                                          </div>
-                                                                    </div>
-                                                                    <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
-                                                              </a>
-                                                      </div>
-                                               </div>
-                                               <div class="col-md-12 pt-2">
-                                                      <div class="content">
-                                                              <a href="https://happymartz.com/" target="_blank">
-                                                                      <div class="content-overlay">
-                                                                          <div class="content-details fadeIn-left">
-                                                                              <h3 class="content-title">Happy</h3>
-                                                                              <h3 class="content-title">Martz</h3>
-                                                                          </div>
-                                                                      </div>
-                                                                      <img class="content-image" src="/assets/images/about/portfolio-02.jpg" alt="">
-                                                              </a>
-                                                      </div>
-                                              </div>
-                                        </div>
-                                        <div class="col-md-4 p-0 pb-2 d-flex flex-wrap justify-content-center
-                                         align-items-center">
-                                              <div class="potflo-Cont-Area w-100 d-block">
-                                                     <h3 class="mb-0">Opportunities</h3>
-                                                     <h2 class="pb-5">Come, when</h2>
-                                                     <h2 class="mb-0">You are</h2>
-                                                     <h2><strong>Creative</strong></h2>
-                                              </div>
-                                        </div>
-                                        <div class="col-md-4 p-0 pb-2">
-                                                <div class="col-md-12">
-                                                        <div class="content">
-                                                                <a href="https://samritmart.com/" target="_blank">
+                         <div class="tabs  pt-4">
+                              <input type="radio" name="tabs" id="tabone" checked="checked">
+                              <label for="tabone">
+                                     <img src="/assets/images/about/web-mob.png" alt="">
+                                     All
+                              </label>
+                              <div class="tab mt-md-5 mt-0">
+                                     <div class="row">
+                                            <div class="col-md-4 p-0 pb-2">
+                                                   <div class="col-md-12">
+                                                          <div class="content">
+                                                                  <a href="https://globalstudentassistance.co.uk/" target="_blank">
                                                                         <div class="content-overlay">
-                                                                            <div class="content-details fadeIn-left">
-                                                                                <h3 class="content-title">Samritmart</h3>
-                                                                                <p>One stop online destination for all your grocery</p>
-                                                                            </div>
+                                                                              <div class="content-details fadeIn-left">
+                                                                                     <h3 class="content-title">Global</h3>
+                                                                                     <p>Student Assistant</p>
+                                                                              </div>
                                                                         </div>
-                                                                        <img class="content-image" src="/assets/images/about/portfolio-03.jpg" alt="">
+                                                                        <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                                  </a>
+                                                          </div>
+                                                   </div>
+                                                   <div class="col-md-12 pt-2">
+                                                          <div class="content">
+                                                                  <a href="https://happymartz.com/" target="_blank">
+                                                                          <div class="content-overlay">
+                                                                              <div class="content-details fadeIn-left">
+                                                                                  <h3 class="content-title">Happy</h3>
+                                                                                  <h3 class="content-title">Martz</h3>
+                                                                              </div>
+                                                                          </div>
+                                                                          <img class="content-image" src="/assets/images/about/portfolio-02.jpg" alt="">
+                                                                  </a>
+                                                          </div>
+                                                  </div>
+                                            </div>
+                                            <div class="col-md-4 p-0 pb-2 d-flex flex-wrap justify-content-center
+                                             align-items-center">
+                                                  <div class="potflo-Cont-Area w-100 d-block">
+                                                         <h3 class="mb-0">Opportunities</h3>
+                                                         <h2 class="pb-md-5">Come, when</h2>
+                                                         <h2 class="mb-0">You are</h2>
+                                                         <h2><strong>Creative</strong></h2>
+                                                  </div>
+                                            </div>
+                                            <div class="col-md-4 p-0 pb-2">
+                                                    <div class="col-md-12">
+                                                            <div class="content">
+                                                                    <a href="https://samritmart.com/" target="_blank">
+                                                                            <div class="content-overlay">
+                                                                                <div class="content-details fadeIn-left">
+                                                                                    <h3 class="content-title">Samritmart</h3>
+                                                                                    <p>One stop online destination for all your grocery</p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <img class="content-image" src="/assets/images/about/portfolio-03.jpg" alt="">
+                                                                    </a>
+                                                            </div>
+                                                    </div>
+                                                    <div class="col-md-12 pt-2">
+                                                        <div class="content">
+                                                                <a href="https://poliglotasedu.com/" target="_blank">
+                                                                        <div class="content-overlay">
+                                                                               <div class="content-details fadeIn-left">
+                                                                                     <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
+                                                                               </div>
+                                                                        </div>
+                                                                        <img class="content-image" src="/assets/images/about/portfolio-04.jpg" alt="">
                                                                 </a>
                                                         </div>
                                                 </div>
-                                                <div class="col-md-12 pt-2">
+                                            </div>
+                                            <div class="col-md-8 p-0 pb-2">
                                                     <div class="content">
-                                                            <a href="https://poliglotasedu.com/" target="_blank">
+                                                            <a href="https://pawscart.com/" target="_blank">
                                                                     <div class="content-overlay">
-                                                                           <div class="content-details fadeIn-left">
-                                                                                 <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
-                                                                           </div>
+                                                                            <div class="content-details fadeIn-left">
+                                                                                   <h3 class="content-title">Pawscart</h3>
+                                                                            </div>
                                                                     </div>
-                                                                    <img class="content-image" src="/assets/images/about/portfolio-04.jpg" alt="">
+                                                                    <img class="content-image" src="/assets/images/about/portfolio-05.jpg" alt="">
                                                             </a>
                                                     </div>
                                             </div>
-                                        </div>
-                                        <div class="col-md-8 p-0 pb-2">
-                                                <div class="content">
-                                                        <a href="https://pawscart.com/" target="_blank">
-                                                                <div class="content-overlay">
+                                            <div class="col-md-4 p-0 pb-2">
+                                                   <div class="col-md-12">
+                                                           <div class="content">
+                                                                   <a href="https://delvfast.com/" target="_blank">
+                                                                           <div class="content-overlay">
+                                                                                   <div class="content-details fadeIn-left">
+                                                                                          <h3 class="content-title">Delvfast</h3>
+                                                                                   </div>
+                                                                           </div>
+                                                                           <img class="content-image" src="/assets/images/about/portfolio-06.jpg" alt="">
+                                                                   </a>
+                                                           </div>
+                                                   </div>
+                                                   <div class="col-md-12 pt-2">
+                                                           <div class="content">
+                                                                   <a href="https://ktsclickworld.com/" target="_blank">
+                                                                           <div class="content-overlay">
+                                                                                   <div class="content-details fadeIn-left">
+                                                                                       <h3 class="content-title">Kts Click<br/>
+                                                                                       World</h3>
+                                                                                   </div>
+                                                                           </div>
+                                                                           <img class="content-image" src="/assets/images/about/portfolio-07.jpg" alt="">
+                                                                   </a>
+                                                           </div>
+                                                   </div>
+                                            </div>
+                                            <div class="col-md-4 p-0 pb-2">
+                                                 <div class="col-md-12">
+                                                         <div class="content">
+                                                                 <a href="https://www.lyceumworld.com/" target="_blank">
+                                                                         <div class="content-overlay">
+                                                                                 <div class="content-details fadeIn-left">
+                                                                                         <h3 class="content-title">Lyceum</h3>
+                                                                                         <p>Live Without Limits</p>
+                                                                                 </div>
+                                                                         </div>
+                                                                         <img class="content-image" src="/assets/images/about/portfolio-08.jpg" alt="">
+                                                                 </a>
+                                                         </div>
+                                                 </div>
+                                                 <div class="col-md-12 pt-2">
+                                                         <div class="content">
+                                                                 <a href="https://sbec.org.in/" target="_blank">
+                                                                         <div class="content-overlay">
+                                                                                 <div class="content-details fadeIn-left">
+                                                                                        <h3 class="content-title">Sbec</h3>
+                                                                                 </div>
+                                                                         </div>
+                                                                        <img class="content-image" src="/assets/images/about/portfolio-09.jpg" alt="">
+                                                                 </a>
+                                                         </div>
+                                                 </div>
+                                         </div>
+                                            <div class="col-md-8 p-0 pb-2">
+                                             <div class="content">
+                                                 <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
+                                                     <div class="content-overlay">
+                                                         <div class="content-details fadeIn-left">
+                                                             <h3 class="content-title">My own<br/>Smurf</h3>
+                                                         </div>
+                                                     </div>
+                                                     <img class="content-image" src="/assets/images/about/portfolio-10.jpg" alt="">
+                                                 </a>
+                                             </div>
+                                         </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                    <div class="content">
+                                                            <a href="https://www.lyceumworld.com/" target="_blank">
+                                                                    <div class="content-overlay">
+                                                                            <div class="content-details fadeIn-left">
+                                                                                <h3 class="content-title">Lyceum</h3>
+                                                                            </div>
+                                                                    </div>
+                                                                    <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
+                                                            </a>
+                                                    </div>
+                                            </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                    <div class="content">
+                                                            <a href="https://delvfast.com/" target="_blank">
+                                                                    <div class="content-overlay">
                                                                         <div class="content-details fadeIn-left">
-                                                                               <h3 class="content-title">Pawscart</h3>
+                                                                            <h3 class="content-title">delvfast</h3>
                                                                         </div>
-                                                                </div>
-                                                                <img class="content-image" src="/assets/images/about/portfolio-05.jpg" alt="">
-                                                        </a>
-                                                </div>
-                                        </div>
-                                        <div class="col-md-4 p-0 pb-2">
-                                               <div class="col-md-12">
-                                                       <div class="content">
-                                                               <a href="https://delvfast.com/" target="_blank">
-                                                                       <div class="content-overlay">
-                                                                               <div class="content-details fadeIn-left">
-                                                                                      <h3 class="content-title">Delvfast</h3>
-                                                                               </div>
-                                                                       </div>
-                                                                       <img class="content-image" src="/assets/images/about/portfolio-06.jpg" alt="">
-                                                               </a>
-                                                       </div>
-                                               </div>
-                                               <div class="col-md-12 pt-2">
-                                                       <div class="content">
-                                                               <a href="https://ktsclickworld.com/" target="_blank">
-                                                                       <div class="content-overlay">
-                                                                               <div class="content-details fadeIn-left">
-                                                                                   <h3 class="content-title">Kts Click<br/>
-                                                                                   World</h3>
-                                                                               </div>
-                                                                       </div>
-                                                                       <img class="content-image" src="/assets/images/about/portfolio-07.jpg" alt="">
-                                                               </a>
-                                                       </div>
-                                               </div>
-                                        </div>
-                                        <div class="col-md-4 p-0 pb-2">
-                                             <div class="col-md-12">
+                                                                    </div>
+                                                                    <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
+                                                            </a>
+                                                    </div>
+                                            </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                   <div class="content">
+                                                          <a href="https://happymartz.com/" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                     <div class="content-details fadeIn-left">
+                                                                         <h3 class="content-title">Happy Martz</h3>
+                                                                     </div>
+                                                                 </div>
+                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
+                                                          </a>
+                                                   </div>
+                                            </div>
+                                             <div class="col-md-3 p-2 pb-2">
                                                      <div class="content">
-                                                             <a href="https://www.lyceumworld.com/" target="_blank">
+                                                             <a href="https://ktsclickworld.com/" target="_blank">
                                                                      <div class="content-overlay">
                                                                              <div class="content-details fadeIn-left">
-                                                                                     <h3 class="content-title">Lyceum</h3>
-                                                                                     <p>Live Without Limits</p>
+                                                                                 <h3 class="content-title">Kts Click</h3>
                                                                              </div>
                                                                      </div>
-                                                                     <img class="content-image" src="/assets/images/about/portfolio-08.jpg" alt="">
+                                                                    <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
+                                                             </a>
+                                                    </div>
+                                             </div>
+                                             <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                             <a href="https://prowesspursuit.com/" target="_blank">
+                                                                     <div class="content-overlay">
+                                                                             <div class="content-details fadeIn-left">
+                                                                                    <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
+                                                                             </div>
+                                                                     </div>
+                                                                     <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
                                                              </a>
                                                      </div>
                                              </div>
-                                             <div class="col-md-12 pt-2">
+                                             <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                         <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                                             <div class="content-overlay">
+                                                                 <div class="content-details fadeIn-left">
+                                                                     <h3 class="content-title">SNS Present<br/> Ludo</h3>
+                                                                 </div>
+                                                             </div>
+                                                             <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
+                                                         </a>
+                                                     </div>
+                                            </div>
+                                             <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                             <a href="https://annodyne.in/" target="_blank">
+                                                                     <div class="content-overlay">
+                                                                             <div class="content-details fadeIn-left">
+                                                                                    <h3 class="content-title">Annodyne</h3>
+                                                                             </div>
+                                                                     </div>
+                                                                    <img class="content-image" src="/assets/images/about/portfolio-logo-07.jpg" alt="">
+                                                             </a>
+                                                     </div>
+                                             </div>
+                                             <div class="col-md-3 p-2 pb-2">
                                                      <div class="content">
                                                              <a href="https://sbec.org.in/" target="_blank">
                                                                      <div class="content-overlay">
                                                                              <div class="content-details fadeIn-left">
-                                                                                    <h3 class="content-title">Sbec</h3>
+                                                                                 <h3 class="content-title">Sbec</h3>
                                                                              </div>
                                                                      </div>
-                                                                    <img class="content-image" src="/assets/images/about/portfolio-09.jpg" alt="">
+                                                                     <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
+                                                             </a>
+                                                     </div>
+                                             </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                  <div class="content">
+                                                         <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                         <div class="content-details fadeIn-left">
+                                                                                <dd>Mobile App</dd>
+                                                                                 <h3 class="content-title">Bank<br/>Sahayak</h3>
+                                                                         </div>
+                                                                 </div>
+                                                                <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
+                                                         </a>
+                                                  </div>
+                                            </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                 <div class="content">
+                                                         <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                         <div class="content-details fadeIn-left">
+                                                                               <dd>Mobile App</dd>
+                                                                                <h3 class="content-title">Happy Martz</h3>
+
+                                                                         </div>
+                                                                 </div>
+                                                                 <img class="content-image" src="/assets/images/about/portfolio-app-02.jpg" alt="">
+                                                         </a>
+                                                 </div>
+                                            </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                 <div class="content">
+                                                         <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                         <div class="content-details fadeIn-left">
+                                                                               <dd>Mobile App</dd>
+                                                                               <h3 class="content-title">Delvfast</h3>
+                                                                                <p>Meat, Fish & more</p>
+                                                                         </div>
+                                                                 </div>
+                                                                 <img class="content-image" src="/assets/images/about/portfolio-app-03.jpg" alt="">
+                                                         </a>
+                                                 </div>
+                                           </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                 <div class="content">
+                                                         <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
+                                                                 <div class="content-overlay">
+                                                                         <div class="content-details fadeIn-left">
+                                                                                <dd>Mobile App</dd>
+                                                                                <h3 class="content-title">Levchat</h3>
+                                                                         </div>
+                                                                 </div>
+                                                                <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
+                                                         </a>
+                                                 </div>
+                                            </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                             <a href="https://piapps.in/pistore/" target="_blank">
+                                                                     <div class="content-overlay">
+                                                                             <div class="content-details fadeIn-left">
+                                                                                   <dd>Mobile App</dd>
+                                                                                   <h3 class="content-title">Pistore</h3>
+                                                                             </div>
+                                                                     </div>
+                                                                    <img class="content-image border" src="/assets/images/about/portfolio-app-05.jpg" alt="">
+                                                             </a>
+                                                     </div>
+                                              </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                             <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
+                                                                     <div class="content-overlay">
+                                                                             <div class="content-details fadeIn-left">
+                                                                                   <dd>Mobile App</dd>
+                                                                                   <h3 class="content-title">As News<br/>>Empire</h3>
+                                                                             </div>
+                                                                     </div>
+                                                                     <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
+                                                             </a>
+                                                     </div>
+                                             </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                             <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
+                                                                     <div class="content-overlay">
+                                                                             <div class="content-details fadeIn-left">
+                                                                                   <dd>Mobile App</dd>
+                                                                                   <h3 class="content-title">Samritmart</h3>
+                                                                             </div>
+                                                                     </div>
+                                                                     <img class="content-image border" src="/assets/images/about/portfolio-app-07.jpg" alt="">
+                                                             </a>
+                                                     </div>
+                                             </div>
+                                            <div class="col-md-3 p-2 pb-2">
+                                                     <div class="content">
+                                                             <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
+                                                                     <div class="content-overlay">
+                                                                             <div class="content-details fadeIn-left">
+                                                                                   <dd>Mobile App</dd>
+                                                                                   <h3 class="content-title">Tbp-Travel Business Portal</h3>
+                                                                             </div>
+                                                                     </div>
+                                                                     <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
                                                              </a>
                                                      </div>
                                              </div>
                                      </div>
-                                        <div class="col-md-8 p-0 pb-2">
-                                         <div class="content">
-                                             <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
-                                                 <div class="content-overlay">
-                                                     <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">My own<br/>Smurf</h3>
-                                                     </div>
-                                                 </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-10.jpg" alt="">
-                                             </a>
-                                         </div>
-                                     </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                                <div class="content">
-                                                        <a href="https://www.lyceumworld.com/" target="_blank">
-                                                                <div class="content-overlay">
-                                                                        <div class="content-details fadeIn-left">
-                                                                            <h3 class="content-title">Lyceum</h3>
-                                                                        </div>
-                                                                </div>
-                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
-                                                        </a>
-                                                </div>
-                                        </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                                <div class="content">
-                                                        <a href="https://delvfast.com/" target="_blank">
-                                                                <div class="content-overlay">
-                                                                    <div class="content-details fadeIn-left">
-                                                                        <h3 class="content-title">delvfast</h3>
-                                                                    </div>
-                                                                </div>
-                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
-                                                        </a>
-                                                </div>
-                                        </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                               <div class="content">
-                                                      <a href="https://happymartz.com/" target="_blank">
-                                                             <div class="content-overlay">
-                                                                 <div class="content-details fadeIn-left">
-                                                                     <h3 class="content-title">Happy Martz</h3>
-                                                                 </div>
-                                                             </div>
-                                                            <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
-                                                      </a>
-                                               </div>
-                                        </div>
-                                         <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://ktsclickworld.com/" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                             <h3 class="content-title">Kts Click</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
-                                                         </a>
-                                                </div>
-                                         </div>
-                                         <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://prowesspursuit.com/" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                                <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                 <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                         </div>
-                                         <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                     <a href="https://ludo.sportsnscreen.com/" target="_blank">
-                                                         <div class="content-overlay">
-                                                             <div class="content-details fadeIn-left">
-                                                                 <h3 class="content-title">SNS Present<br/> Ludo</h3>
-                                                             </div>
-                                                         </div>
-                                                         <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
-                                                     </a>
-                                                 </div>
-                                        </div>
-                                         <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://annodyne.in/" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                                <h3 class="content-title">Annodyne</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                <img class="content-image" src="/assets/images/about/portfolio-logo-07.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                         </div>
-                                         <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://sbec.org.in/" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                             <h3 class="content-title">Sbec</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                 <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                         </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                              <div class="content">
-                                                     <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
-                                                             <div class="content-overlay">
-                                                                     <div class="content-details fadeIn-left">
-                                                                            <dd>Mobile App</dd>
-                                                                             <h3 class="content-title">Bank<br/>Sahayak</h3>
-                                                                     </div>
-                                                             </div>
-                                                            <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
-                                                     </a>
-                                              </div>
-                                        </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                             <div class="content">
-                                                     <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
-                                                             <div class="content-overlay">
-                                                                     <div class="content-details fadeIn-left">
-                                                                           <dd>Mobile App</dd>
-                                                                            <h3 class="content-title">Happy Martz</h3>
+                              </div>
 
-                                                                     </div>
-                                                             </div>
-                                                             <img class="content-image" src="/assets/images/about/portfolio-app-02.jpg" alt="">
-                                                     </a>
-                                             </div>
-                                        </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                             <div class="content">
-                                                     <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
-                                                             <div class="content-overlay">
-                                                                     <div class="content-details fadeIn-left">
-                                                                           <dd>Mobile App</dd>
-                                                                           <h3 class="content-title">Delvfast</h3>
-                                                                            <p>Meat, Fish & more</p>
-                                                                     </div>
-                                                             </div>
-                                                             <img class="content-image" src="/assets/images/about/portfolio-app-03.jpg" alt="">
-                                                     </a>
-                                             </div>
-                                       </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                             <div class="content">
-                                                     <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
-                                                             <div class="content-overlay">
-                                                                     <div class="content-details fadeIn-left">
-                                                                            <dd>Mobile App</dd>
-                                                                            <h3 class="content-title">Levchat</h3>
-                                                                     </div>
-                                                             </div>
-                                                            <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
-                                                     </a>
-                                             </div>
-                                        </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://piapps.in/pistore/" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                               <dd>Mobile App</dd>
-                                                                               <h3 class="content-title">Pistore</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                <img class="content-image border" src="/assets/images/about/portfolio-app-05.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                          </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                               <dd>Mobile App</dd>
-                                                                               <h3 class="content-title">As News<br/>>Empire</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                         </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                               <dd>Mobile App</dd>
-                                                                               <h3 class="content-title">Samritmart</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-07.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                         </div>
-                                        <div class="col-md-3 p-2 pb-2">
-                                                 <div class="content">
-                                                         <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
-                                                                 <div class="content-overlay">
-                                                                         <div class="content-details fadeIn-left">
-                                                                               <dd>Mobile App</dd>
-                                                                               <h3 class="content-title">Tbp-Travel Business Portal</h3>
-                                                                         </div>
-                                                                 </div>
-                                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
-                                                         </a>
-                                                 </div>
-                                         </div>
-                                 </div>
-                          </div>
-
-                          <input type="radio" name="tabs" id="tabtwo">
-                          <label for="tabtwo">
-                              <img src="/assets/images/about/web.png" alt="">
-                              Web
-                          </label>
-                          <div class="tab mt-md-5 mt-3">
+                              <input type="radio" name="tabs" id="tabtwo">
+                              <label for="tabtwo">
+                                  <img src="/assets/images/about/web.png" alt="">
+                                  Web
+                              </label>
+                              <div class="tab mt-md-5 mt-0">
                                  <div class="row">
                                          <div class="col-md-8 p-0 pb-2">
                                              <div class="content">
@@ -554,12 +554,12 @@
                                          </div>
                                  </div>
                           </div>
-                          <input type="radio" name="tabs" id="tabthree">
-                          <label for="tabthree">
-                              <img src="/assets/images/about/mobile.png" alt="">
-                              Mobile
-                          </label>
-                          <div class="tab mt-md-5 mt-3">
+                              <input type="radio" name="tabs" id="tabthree">
+                              <label for="tabthree">
+                                  <img src="/assets/images/about/mobile.png" alt="">
+                                  Mobile
+                              </label>
+                              <div class="tab mt-md-5 mt-0">
                                  <div class="row">
                                        <div class="col-md-3 p-2 pb-2">
                                          <div class="content">
@@ -670,12 +670,12 @@
                                  </div>
                           </div>
 
-                          <input type="radio" name="tabs" id="tabfour">
-                          <label for="tabfour">
-                              <img src="/assets/images/about/logo.png" alt="">
-                              Logo
-                          </label>
-                               <div class="tab mt-md-5 mt-3">
+                              <input type="radio" name="tabs" id="tabfour">
+                              <label for="tabfour">
+                                  <img src="/assets/images/about/logo.png" alt="">
+                                  Logo
+                              </label>
+                               <div class="tab mt-md-5 mt-0">
                                      <div class="row">
                                          <div class="col-md-3 p-2 pb-2">
                                              <div class="content">
