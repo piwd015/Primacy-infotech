@@ -156,14 +156,14 @@
                     </div>
                     <div id="tab-2" class="tab-content3" data-aos="flip-right">
                              <div class="row">
-                                     <div class="col-lg-6 col-md-6">
+                                     <div class="col-lg-5 col-md-5">
                                          <div class="odoImg"><img src="../assets/images/oddo/odoo-customization.png" alt="">
                                          </div>
                                      </div>
-                                     <div class="col-lg-6 col-md-6">
-                                          <h2 class="d-block pb-2">Odoo <strong>customization</strong></h2>
-                                          <p class="d-block pb-md-4 pb-2">Do you want Odoo ERP to be customized?  Whether it is extending the functionality of a native Odoo module or building a new module from scratch, we have 8+ years of experience in doing this the best possible way. No hacking of Odoo core modules and no poorly written code. We get it done for you the right way every time.</p>
-                                          <a href="#" class="odo-aps">Oddo Customization<i class="fas fa-external-link-alt ml-2"></i></a>
+                                     <div class="col-lg-7 col-md-7 pl-md-5">
+                                          <h2 class="d-block pb-2 pl-md-5">Odoo <strong>customization</strong></h2>
+                                          <p class="d-block pb-md-4 pb-2 pl-md-5">Do you want Odoo ERP to be customized?  Whether it is extending the functionality of a native Odoo module or building a new module from scratch, we have 8+ years of experience in doing this the best possible way. No hacking of Odoo core modules and no poorly written code. We get it done for you the right way every time.</p>
+                                          <a href="#" class="odo-aps ml-md-5">Oddo Customization<i class="fas fa-external-link-alt ml-2"></i></a>
                                      </div>
                             </div>
                     </div>
