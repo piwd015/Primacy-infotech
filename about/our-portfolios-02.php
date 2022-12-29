@@ -48,6 +48,16 @@
                               <img src="/assets/images/about/web.png" alt="">
                               Web
                           </label>
+                          <input type="radio" name="tabs" id="tabthree">
+                          <label for="tabthree">
+                              <img src="/assets/images/about/mobile.png" alt="">
+                              Mobile
+                          </label>
+                          <input type="radio" name="tabs" id="tabfour">
+                          <label for="tabfour">
+                              <img src="/assets/images/about/logo.png" alt="">
+                              Logo
+                          </label>
 
                           <!--<input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
