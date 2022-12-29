@@ -2874,8 +2874,9 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .portflo-bg h1{font-size:30px;}
  .portflo-bg p{font-size:20px;}
  .tabs label{width: 25%; text-align:center; font-size:15px; font-weight:400;
-  margin:0px; padding: 0.3rem 0.5rem;}
+  margin:0px; padding: 0.3rem 0rem;}
  .tabs label img{width:35px; top:-45px;}
+ .tabs input[type="radio"]:checked + label{border-top: solid 2px #ff7b23;}
 }
 
 @media screen and (max-height: 450px) {
