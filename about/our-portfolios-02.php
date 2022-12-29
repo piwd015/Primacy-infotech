@@ -441,41 +441,38 @@
                                                </div>
                                          </div>
                                          <div class="col-md-4 p-2 pb-2">
-                                             <div class="content">
-                                                 <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                <div class="content">
+                                                 <a href="https://poliglotasedu.com/" target="_blank">
                                                      <div class="content-overlay">
                                                          <div class="content-details fadeIn-left">
-                                                             <h3 class="content-title">Global</h3>
-                                                             <p>Student Assistant</p>
+                                                             <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
                                                          </div>
                                                      </div>
-                                                     <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                     <img class="content-image" src="/assets/images/about/portfolio-04.jpg" alt="">
                                                  </a>
                                              </div>
                                          </div>
                                          <div class="col-md-4 p-2 pb-2">
-                                             <div class="content">
-                                                 <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                <div class="content">
+                                                 <a href="https://pawscart.com/" target="_blank">
                                                      <div class="content-overlay">
                                                          <div class="content-details fadeIn-left">
-                                                             <h3 class="content-title">Global</h3>
-                                                             <p>Student Assistant</p>
+                                                             <h3 class="content-title">Pawscart</h3>
                                                          </div>
                                                      </div>
-                                                     <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                     <img class="content-image" src="/assets/images/about/portfolio-05.jpg" alt="">
                                                  </a>
                                              </div>
                                          </div>
                                          <div class="col-md-4 p-2 pb-2">
-                                             <div class="content">
-                                                 <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                <div class="content">
+                                                 <a href="https://delvfast.com/" target="_blank">
                                                      <div class="content-overlay">
                                                          <div class="content-details fadeIn-left">
-                                                             <h3 class="content-title">Global</h3>
-                                                             <p>Student Assistant</p>
+                                                             <h3 class="content-title">Delvfast</h3>
                                                          </div>
                                                      </div>
-                                                     <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                     <img class="content-image" src="/assets/images/about/portfolio-06.jpg" alt="">
                                                  </a>
                                              </div>
                                          </div>
