@@ -40,30 +40,9 @@
                       <div class="tabs pt-4">
                           <input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
-                              <img src="/assets/images/about/web-mob.png" alt="">
-                              All
-                          </label>
-                          <input type="radio" name="tabs" id="tabtwo">
-                          <label for="tabtwo">
-                              <img src="/assets/images/about/web.png" alt="">
-                              Web
-                          </label>
-                          <input type="radio" name="tabs" id="tabthree">
-                          <label for="tabthree">
-                              <img src="/assets/images/about/mobile.png" alt="">
-                              Mobile
-                          </label>
-                          <input type="radio" name="tabs" id="tabfour">
-                          <label for="tabfour">
-                              <img src="/assets/images/about/logo.png" alt="">
-                              Logo
-                          </label>
-
-                          <!--<input type="radio" name="tabs" id="tabone" checked="checked">
-                          <label for="tabone">
                                  <img src="/assets/images/about/web-mob.png" alt="">
                                  All
-                          </label>-->
+                          </label>
                           <div class="tab mt-5">
                                  <div class="row">
                                         <div class="col-md-4 p-0 pb-2">
@@ -413,11 +392,11 @@
                                  </div>
                           </div>
 
-                          <!--<input type="radio" name="tabs" id="tabtwo">
+                          <input type="radio" name="tabs" id="tabtwo">
                           <label for="tabtwo">
                               <img src="/assets/images/about/web.png" alt="">
                               Web
-                          </label>-->
+                          </label>
                           <div class="tab mt-5">
                                  <div class="row">
                                          <div class="col-md-8 p-0 pb-2">
@@ -575,11 +554,11 @@
                                          </div>
                                  </div>
                           </div>
-                          <!--<input type="radio" name="tabs" id="tabthree">
+                          <input type="radio" name="tabs" id="tabthree">
                           <label for="tabthree">
                               <img src="/assets/images/about/mobile.png" alt="">
                               Mobile
-                          </label>-->
+                          </label>
                           <div class="tab mt-5">
                                  <div class="row">
                                        <div class="col-md-3 p-2 pb-2">
@@ -691,11 +670,11 @@
                                  </div>
                           </div>
 
-                          <!--<input type="radio" name="tabs" id="tabfour">
+                          <input type="radio" name="tabs" id="tabfour">
                           <label for="tabfour">
                               <img src="/assets/images/about/logo.png" alt="">
                               Logo
-                          </label>-->
+                          </label>
                                <div class="tab mt-5">
                                      <div class="row">
                                          <div class="col-md-3 p-2 pb-2">
