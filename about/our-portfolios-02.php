@@ -785,7 +785,7 @@
                     <div class="col-md-12 client-bg mx-auto w-100 d-block pt-3">
                         <div class="p-md-2 paralax rounded position-relative">
                             <div class="carousel slide w-100 d-block" id="carouselExampleIndicators" data-ride="carousel">
-                                <ol class="carousel-indicators w-100 d-block text-center mb-0">
+                                <ol class="carousel-indicators d-block text-center mb-0">
                                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""><img src="../assets/images/debasis.jpg" alt=""></li>
                                     <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""><img src="../assets/images/ayon-roy.jpg" alt=""></li>
                                     <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""><img src="../assets/images/anwar.jpg" alt=""></li>
