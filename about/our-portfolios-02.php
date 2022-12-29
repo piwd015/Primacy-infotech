@@ -283,7 +283,7 @@
                                                          </a>
                                                  </div>
                                          </div>
-                                         <div class="col-md-3 p-2 pb-2">
+                                        <div class="col-md-3 p-2 pb-2">
                                               <div class="content">
                                                      <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
                                                              <div class="content-overlay">
@@ -350,7 +350,7 @@
                                                          </a>
                                                  </div>
                                           </div>
-                                         <div class="col-md-3 p-2 pb-2">
+                                        <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
                                                          <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
                                                                  <div class="content-overlay">
@@ -363,7 +363,7 @@
                                                          </a>
                                                  </div>
                                          </div>
-                                         <div class="col-md-3 p-2 pb-2">
+                                        <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
                                                          <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
                                                                  <div class="content-overlay">
@@ -376,7 +376,7 @@
                                                          </a>
                                                  </div>
                                          </div>
-                                         <div class="col-md-3 p-2 pb-2">
+                                        <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
                                                          <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
                                                                  <div class="content-overlay">
@@ -479,6 +479,34 @@
                                                  </a>
                                              </div>
                                          </div>
+                                         <div class="col-md-4 p-0 pb-2">
+                                             <div class="col-md-12">
+                                                 <div class="content">
+                                                     <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                         <div class="content-overlay">
+                                                             <div class="content-details fadeIn-left">
+                                                                 <h3 class="content-title">Global</h3>
+                                                                 <p>Student Assistant</p>
+                                                             </div>
+                                                         </div>
+                                                         <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                     </a>
+                                                 </div>
+                                             </div>
+                                             <div class="col-md-12 pt-2">
+                                                 <div class="content">
+                                                     <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                         <div class="content-overlay">
+                                                             <div class="content-details fadeIn-left">
+                                                                 <h3 class="content-title">Global</h3>
+                                                                 <p>Student Assistant</p>
+                                                             </div>
+                                                         </div>
+                                                         <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                     </a>
+                                                 </div>
+                                             </div>
+                                         </div>
                                          <div class="col-md-8 p-0 pb-2">
                                          <div class="content">
                                              <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
@@ -492,8 +520,7 @@
                                              </a>
                                          </div>
                                      </div>
-                                         <div class="col-md-4 p-0 pb-2">
-                                         <div class="col-md-12">
+                                         <div class="col-md-4 p-2 pb-2">
                                              <div class="content">
                                                  <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
                                                      <div class="content-overlay">
@@ -506,7 +533,7 @@
                                                  </a>
                                              </div>
                                          </div>
-                                         <div class="col-md-12 pt-2">
+                                         <div class="col-md-4 p-2 pb-2">
                                              <div class="content">
                                                  <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
                                                      <div class="content-overlay">
@@ -519,33 +546,6 @@
                                                  </a>
                                              </div>
                                          </div>
-                                     </div>
-                                         <div class="col-md-4 p-2 pb-2">
-                                         <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-                                                 <div class="content-overlay">
-                                                     <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
-                                                     </div>
-                                                 </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
-                                             </a>
-                                         </div>
-                                     </div>
-                                         <div class="col-md-4 p-2 pb-2">
-                                         <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
-                                                 <div class="content-overlay">
-                                                     <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
-                                                     </div>
-                                                 </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
-                                             </a>
-                                         </div>
-                                     </div>
                                          <div class="col-md-4 p-2 pb-2">
                                          <div class="content">
                                              <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
@@ -568,68 +568,109 @@
                           </label>
                           <div class="tab mt-5">
                                  <div class="row">
-                                        <div class="col-md-6 p-2 pb-2">
+                                       <div class="col-md-3 p-2 pb-2">
                                          <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                             <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Bank<br/>Sahayak</h3>
                                                      </div>
                                                  </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
                                              </a>
                                          </div>
                                      </div>
-                                        <div class="col-md-6 p-2 pb-2">
+                                       <div class="col-md-3 p-2 pb-2">
                                          <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                             <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Happy Martz</h3>
+
                                                      </div>
                                                  </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                 <img class="content-image" src="/assets/images/about/portfolio-app-02.jpg" alt="">
                                              </a>
                                          </div>
                                      </div>
-                                        <div class="col-md-6 p-2 pb-2">
+                                       <div class="col-md-3 p-2 pb-2">
                                          <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                             <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Delvfast</h3>
+                                                         <p>Meat, Fish & more</p>
                                                      </div>
                                                  </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                 <img class="content-image" src="/assets/images/about/portfolio-app-03.jpg" alt="">
                                              </a>
                                          </div>
                                      </div>
-                                        <div class="col-md-6 p-2 pb-2">
+                                       <div class="col-md-3 p-2 pb-2">
                                          <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                             <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Levchat</h3>
                                                      </div>
                                                  </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
                                              </a>
                                          </div>
                                      </div>
-                                        <div class="col-md-6 p-2 pb-2">
+                                       <div class="col-md-3 p-2 pb-2">
                                          <div class="content">
-                                             <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                             <a href="https://piapps.in/pistore/" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
-                                                         <h3 class="content-title">Global</h3>
-                                                         <p>Student Assistant</p>
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Pistore</h3>
                                                      </div>
                                                  </div>
-                                                 <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-05.jpg" alt="">
+                                             </a>
+                                         </div>
+                                     </div>
+                                       <div class="col-md-3 p-2 pb-2">
+                                         <div class="content">
+                                             <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
+                                                 <div class="content-overlay">
+                                                     <div class="content-details fadeIn-left">
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">As News<br/>>Empire</h3>
+                                                     </div>
+                                                 </div>
+                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
+                                             </a>
+                                         </div>
+                                     </div>
+                                       <div class="col-md-3 p-2 pb-2">
+                                         <div class="content">
+                                             <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
+                                                 <div class="content-overlay">
+                                                     <div class="content-details fadeIn-left">
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Samritmart</h3>
+                                                     </div>
+                                                 </div>
+                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-07.jpg" alt="">
+                                             </a>
+                                         </div>
+                                     </div>
+                                       <div class="col-md-3 p-2 pb-2">
+                                         <div class="content">
+                                             <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
+                                                 <div class="content-overlay">
+                                                     <div class="content-details fadeIn-left">
+                                                         <dd>Mobile App</dd>
+                                                         <h3 class="content-title">Tbp-Travel Business Portal</h3>
+                                                     </div>
+                                                 </div>
+                                                 <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
                                              </a>
                                          </div>
                                      </div>
