@@ -38,11 +38,45 @@
                          <h1 class="w-100 d-block text-center pb-4">Our Portfolios</h1>
                          <p class="d-block text-center pt-md-4 pt-2 pb-md-5 pb-3">Our philosophy and expertise are best represented by our work</p>
                       <div class="tabs pt-4">
-                          <input type="radio" name="tabs" id="tabone" checked="checked">
+                            <div class="row d-flex flex-wrap justify-content-center">
+                                  <div class="col-md-7">
+                                        <div class="row">
+                                               <div class="col-md-3">
+                                                   <input type="radio" name="tabs" id="tabone" checked="checked">
+                                                   <label for="tabone">
+                                                       <img src="/assets/images/about/web-mob.png" alt="">
+                                                       All
+                                                   </label>
+                                               </div>
+                                               <div class="col-md-3">
+                                                   <input type="radio" name="tabs" id="tabtwo">
+                                                   <label for="tabtwo">
+                                                       <img src="/assets/images/about/web.png" alt="">
+                                                       Web
+                                                   </label>
+                                               </div>
+                                               <div class="col-md-3">
+                                                   <input type="radio" name="tabs" id="tabthree">
+                                                   <label for="tabthree">
+                                                       <img src="/assets/images/about/mobile.png" alt="">
+                                                       Mobile
+                                                   </label>
+                                               </div>
+                                               <div class="col-md-3">
+                                                   <input type="radio" name="tabs" id="tabfour">
+                                                   <label for="tabfour">
+                                                       <img src="/assets/images/about/logo.png" alt="">
+                                                       Logo
+                                                   </label>
+                                               </div>
+                                        </div>
+                                  </div>
+                            </div>
+                          <!--<input type="radio" name="tabs" id="tabone" checked="checked">
                           <label for="tabone">
                                  <img src="/assets/images/about/web-mob.png" alt="">
                                  All
-                          </label>
+                          </label>-->
                           <div class="tab mt-5">
                                  <div class="row">
                                         <div class="col-md-4 p-0 pb-2">
@@ -392,11 +426,11 @@
                                  </div>
                           </div>
 
-                          <input type="radio" name="tabs" id="tabtwo">
+                          <!--<input type="radio" name="tabs" id="tabtwo">
                           <label for="tabtwo">
                               <img src="/assets/images/about/web.png" alt="">
                               Web
-                          </label>
+                          </label>-->
                           <div class="tab mt-5">
                                  <div class="row">
                                          <div class="col-md-8 p-0 pb-2">
@@ -554,11 +588,11 @@
                                          </div>
                                  </div>
                           </div>
-                          <input type="radio" name="tabs" id="tabthree">
+                          <!--<input type="radio" name="tabs" id="tabthree">
                           <label for="tabthree">
                               <img src="/assets/images/about/mobile.png" alt="">
                               Mobile
-                          </label>
+                          </label>-->
                           <div class="tab mt-5">
                                  <div class="row">
                                        <div class="col-md-3 p-2 pb-2">
@@ -670,11 +704,11 @@
                                  </div>
                           </div>
 
-                          <input type="radio" name="tabs" id="tabfour">
+                          <!--<input type="radio" name="tabs" id="tabfour">
                           <label for="tabfour">
                               <img src="/assets/images/about/logo.png" alt="">
                               Logo
-                          </label>
+                          </label>-->
                                <div class="tab mt-5">
                                      <div class="row">
                                          <div class="col-md-3 p-2 pb-2">
