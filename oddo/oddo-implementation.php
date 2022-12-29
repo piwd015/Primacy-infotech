@@ -156,7 +156,7 @@
                                       <div class="col-lg-7 col-md-5 pl-md-5">
                                             <h2 class="d-block pb-2 pl-md-5">Odoo <strong>customization</strong></h2>
                                             <p class="d-block pb-md-4 pb-2 pl-md-5">Do you want Odoo ERP to be customized?  Whether it is extending the functionality of a native Odoo module or building a new module from scratch, we have 8+ years of experience in doing this the best possible way. No hacking of Odoo core modules and no poorly written code. We get it done for you the right way every time.</p>
-                                            <a href="#" class="odo-aps pl-md-5">Oddo Customization<i class="fas fa-external-link-alt ml-2"></i></a>
+                                            <a href="#" class="odo-aps ml-md-5">Oddo Customization<i class="fas fa-external-link-alt ml-2"></i></a>
                                       </div>
 				      	    </div>
 				      </div>
