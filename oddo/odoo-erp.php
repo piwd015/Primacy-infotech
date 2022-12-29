@@ -155,16 +155,16 @@
                             </div>
                     </div>
                     <div id="tab-2" class="tab-content3" data-aos="flip-right">
-                             <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                                  <div class="col-lg-6 col-md-6">
+                             <div class="row">
+                                     <div class="col-lg-6 col-md-6">
+                                         <div class="odoImg"><img src="../assets/images/oddo/odoo-customization.png" alt="">
+                                         </div>
+                                     </div>
+                                     <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>customization</strong></h2>
                                           <p class="d-block pb-md-4 pb-2">Do you want Odoo ERP to be customized?  Whether it is extending the functionality of a native Odoo module or building a new module from scratch, we have 8+ years of experience in doing this the best possible way. No hacking of Odoo core modules and no poorly written code. We get it done for you the right way every time.</p>
                                           <a href="#" class="odo-aps">Oddo Customization<i class="fas fa-external-link-alt ml-2"></i></a>
-                                  </div>
-                                  <div class="col-lg-6 col-md-6">
-                                          <div class="odoImg"><img src="../assets/images/oddo/odoo-customization.png" alt="">
-                                          </div>
-                                  </div>
+                                     </div>
                             </div>
                     </div>
                     <div id="tab-3" class="tab-content3" data-aos="flip-up">
@@ -182,16 +182,16 @@
                     </div>
                    <div id="tab-4" class="tab-content3" data-aos="flip-down">
                            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
-                                  <div class="col-lg-6 col-md-6">
+                                   <div class="col-lg-6 col-md-6">
+                                       <div class="odoImg"><img src="../assets/images/oddo/odoo-migration.png" alt="">
+                                       </div>
+                                   </div>
+                                   <div class="col-lg-6 col-md-6">
                                           <h2 class="d-block pb-2">Odoo <strong>Integration & Migration</strong></h2>
                                           <p class="d-block pb-md-4 pb-2">Looking for Odoo migration? Whether migration of Odoo from an old version to the current stable version or migrating from a third-party ERP system to Odoo, we’ve got you covered. We have 8+ years of experience in successful Odoo migrations.</p>
                                           <a href="#" class="odo-aps">Oddo Integration & Migration<i class="fas fa-external-link-alt ml-2"></i></a>
-                                  </div>
-                                  <div class="col-lg-6 col-md-6">
-                                          <div class="odoImg"><img src="../assets/images/oddo/odoo-migration.png" alt="">
-                                          </div>
-                                  </div>
-                             </div>
+                                   </div>
+                           </div>
                    </div>
                    <div id="tab-5" class="tab-content3" data-aos="flip-left">
                            <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
