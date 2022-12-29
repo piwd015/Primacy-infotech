@@ -17,6 +17,7 @@
 <link rel="stylesheet" href="../css/common-style.css">
 <link rel="stylesheet" href="../css/readmore.css">
 <link rel="stylesheet" href="../css/food_style.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
 <style>
     img.g-img {
 

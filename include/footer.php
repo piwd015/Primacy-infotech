@@ -118,6 +118,8 @@
 
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+
 <script>
     function openNav() {
         document.getElementById("myCanvs").style.width = "100%";
@@ -408,6 +410,17 @@ highestBox = $(this).height();
 $('.develp-Area-box').height(highestBox);
 });
 </script>
+
+    <script>
+        $(document).ready(function(){
+            //FANCYBOX
+            //https://github.com/fancyapps/fancyBox
+            $(".fancybox").fancybox({
+                openEffect: "none",
+                closeEffect: "none"
+            });
+        });
+    </script>
 
 </body>
 </html>

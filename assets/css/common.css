@@ -2441,6 +2441,8 @@ border-radius:100%;}
 .potflo-Cont-Area h2{font-size:45px; color:#fff; text-transform:uppercase;}
 .potflo-Cont-Area h3{ font-size:35px; color:#fff; text-transform:uppercase; font-weight:700;}
 
+.tm-glry {display: inline-block;}
+
 /*-------------our team section-------------*/
 
 @media only screen and (max-width:990px){
