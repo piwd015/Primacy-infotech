@@ -43,7 +43,7 @@
                                  <img src="/assets/images/about/web-mob.png" alt="">
                                  All
                           </label>
-                          <div class="tab d-md-block d-none mt-md-5 mt-3">
+                          <div class="tab mt-md-5 mt-3">
                                  <div class="row">
                                         <div class="col-md-4 p-0 pb-2">
                                                <div class="col-md-12">
@@ -397,7 +397,7 @@
                               <img src="/assets/images/about/web.png" alt="">
                               Web
                           </label>
-                          <div class="tab d-md-block d-none mt-md-5 mt-3">
+                          <div class="tab mt-md-5 mt-3">
                                  <div class="row">
                                          <div class="col-md-8 p-0 pb-2">
                                              <div class="content">
