@@ -514,6 +514,19 @@
                          </div>
                    </div>
             </section>
+
+            <section class="w-100 d-block">
+                    <div class="container-fluid">
+                            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/motaleb-molla-thumb.jpg">
+                                            <img src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
+                                            <div class='text-right'>
+                                                   <small class='text-muted'>Image Title</small>
+                                            </div>
+                                    </a>
+                            </div>
+                    </div>
+            </section>
     </div>
 
     <!-- footer -->
