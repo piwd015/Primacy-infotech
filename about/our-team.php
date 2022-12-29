@@ -391,8 +391,6 @@
                             </div>
                     </div>
             </section>
-
-
             <section class="w-100 d-none">
                    <div class="container">
                         <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2" data-aos="fade-up">Two Decades At Glance</h2>
@@ -484,6 +482,18 @@
                         </div>
                    </div>
             </section>
+            <section class="w-100 d-block">
+            <div class="container-fluid">
+                <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/motaleb-molla-thumb.jpg">
+                        <img src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
+                        <div class='text-right'>
+                            <small class='text-muted'>Image Title</small>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
             <section class="count-bg w-100 d-block py-md-5 py-3">
                    <div class="container">
                          <div class="row">
@@ -513,19 +523,6 @@
                                  </div>
                          </div>
                    </div>
-            </section>
-
-            <section class="w-100 d-block">
-                    <div class="container-fluid">
-                            <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/motaleb-molla-thumb.jpg">
-                                            <img src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
-                                            <div class='text-right'>
-                                                   <small class='text-muted'>Image Title</small>
-                                            </div>
-                                    </a>
-                            </div>
-                    </div>
             </section>
     </div>
 
