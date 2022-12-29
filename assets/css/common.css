@@ -2881,6 +2881,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  ul.cost li{font-size:14px; line-height:20px;}
  .portflo-bg h1{font-size:30px;}
  .portflo-bg p{font-size:20px;}
+ .tabs label{width: 30%; text-align:center; font-size:16px;}
+ .tabs label img{width:40px; top:-50px;}
 }
 
 @media screen and (max-height: 450px) {
