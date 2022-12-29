@@ -1,4 +1,4 @@
-<section class="features w-100 d-block">
+<!--<section class="features w-100 d-block">
        <div class="container why-chs py-md-4">
         <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
         <div class="row">
@@ -86,7 +86,7 @@
             </div>
         </div>
     </div>
-</section>
+</section>-->
 
 <section class="odo-srvs py-md-5 py-3">
     <h2 class="w-100 d-block text-center">OUR ODOO ERP DEVELOPMENT</h2>
