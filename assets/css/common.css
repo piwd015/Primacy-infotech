@@ -2348,6 +2348,7 @@ height:auto!important;
  width: 100%;
  margin: auto;
  overflow: hidden;
+ box-shadow: 0px 1px 8px 0px rgba(0,0,0,0.4);
 }
 
 .port-scr-srt .content .content-overlay {
