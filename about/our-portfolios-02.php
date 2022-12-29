@@ -517,15 +517,14 @@
                                              </div>
                                          </div>
                                          <div class="col-md-4 p-2 pb-2">
-                                             <div class="content">
-                                                 <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
+                                                <div class="content">
+                                                 <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
                                                      <div class="content-overlay">
                                                          <div class="content-details fadeIn-left">
-                                                             <h3 class="content-title">Global</h3>
-                                                             <p>Student Assistant</p>
+                                                             <h3 class="content-title">My own<br/>Smurf</h3>
                                                          </div>
                                                      </div>
-                                                     <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                                     <img class="content-image" src="/assets/images/about/portfolio-10.jpg" alt="">
                                                  </a>
                                              </div>
                                          </div>
@@ -543,7 +542,7 @@
                                              </div>
                                          </div>
                                          <div class="col-md-4 p-2 pb-2">
-                                         <div class="content">
+                                                <div class="content">
                                              <a href="https://unsplash.com/photos/HkTMcmlMOUQ" target="_blank">
                                                  <div class="content-overlay">
                                                      <div class="content-details fadeIn-left">
@@ -554,7 +553,7 @@
                                                  <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
                                              </a>
                                          </div>
-                                     </div>
+                                         </div>
                                  </div>
                           </div>
                           <input type="radio" name="tabs" id="tabthree">
