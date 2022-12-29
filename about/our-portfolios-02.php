@@ -85,7 +85,7 @@
                                         <div class="col-md-4 p-0 pb-2">
                                                 <div class="col-md-12">
                                                         <div class="content">
-                                                                <a href="#" target="_blank">
+                                                                <a href="https://samritmart.com/" target="_blank">
                                                                         <div class="content-overlay">
                                                                             <div class="content-details fadeIn-left">
                                                                                 <h3 class="content-title">Samritmart</h3>
@@ -98,7 +98,7 @@
                                                 </div>
                                                 <div class="col-md-12 pt-2">
                                                     <div class="content">
-                                                            <a href="#" target="_blank">
+                                                            <a href="https://poliglotasedu.com/" target="_blank">
                                                                     <div class="content-overlay">
                                                                            <div class="content-details fadeIn-left">
                                                                                  <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
@@ -111,7 +111,7 @@
                                         </div>
                                         <div class="col-md-8 p-0 pb-2">
                                                 <div class="content">
-                                                        <a href="#" target="_blank">
+                                                        <a href="https://pawscart.com/" target="_blank">
                                                                 <div class="content-overlay">
                                                                         <div class="content-details fadeIn-left">
                                                                                <h3 class="content-title">Pawscart</h3>
@@ -124,7 +124,7 @@
                                         <div class="col-md-4 p-0 pb-2">
                                                <div class="col-md-12">
                                                        <div class="content">
-                                                               <a href="#" target="_blank">
+                                                               <a href="https://delvfast.com/" target="_blank">
                                                                        <div class="content-overlay">
                                                                                <div class="content-details fadeIn-left">
                                                                                       <h3 class="content-title">Delvfast</h3>
@@ -136,10 +136,11 @@
                                                </div>
                                                <div class="col-md-12 pt-2">
                                                        <div class="content">
-                                                               <a href="#" target="_blank">
+                                                               <a href="https://ktsclickworld.com/" target="_blank">
                                                                        <div class="content-overlay">
                                                                                <div class="content-details fadeIn-left">
-                                                                                   <h3 class="content-title">Kts Click</h3>
+                                                                                   <h3 class="content-title">Kts Click<br/>
+                                                                                   World</h3>
                                                                                </div>
                                                                        </div>
                                                                        <img class="content-image" src="/assets/images/about/portfolio-07.jpg" alt="">
@@ -154,6 +155,7 @@
                                                                      <div class="content-overlay">
                                                                              <div class="content-details fadeIn-left">
                                                                                      <h3 class="content-title">Lyceum</h3>
+                                                                                     <p>Live Without Limits</p>
                                                                              </div>
                                                                      </div>
                                                                      <img class="content-image" src="/assets/images/about/portfolio-08.jpg" alt="">
