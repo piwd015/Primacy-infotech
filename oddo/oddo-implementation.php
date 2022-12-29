@@ -241,58 +241,6 @@
       	     	   </div>
       	     </div>
       </section>
-      <section class="odo-intgr w-100 d-block py-md-5 py-3">
-      	   <div class="container">   	   	    
-    	 	    <h2 class="w-100 d-block text-center pb-md-4 pb-2"><strong>Industries</strong> we helped with <strong>Oddo</strong></h2>
-    	 	    <div class="row">
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/Manufacturing.png" alt=""><span class="w-100 d-block text-center pt-3">Manufacturing</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/retail.png" alt=""><span class="w-100 d-block text-center pt-3">Retail</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/wholesale.png" alt=""><span class="w-100 d-block text-center pt-3">Wholesale</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/E-Commerce.png" alt=""><span class="w-100 d-block text-center pt-3">E-Commerce</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/telecom.png" alt=""><span class="w-100 d-block text-center pt-3">Telecom</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/construction.png" alt=""><span class="w-100 d-block text-center pt-3">Construction</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/fmcg.png" alt=""><span class="w-100 d-block text-center pt-3">FMCG</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/trading.pmg" alt=""><span class="w-100 d-block text-center pt-3">Trading</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div>
-	   	    	 	  <!-- <div class="col-lg-3 col-md-3 col-6 mb-4">
-	   	    	 	  	   <div class="indus-logo">
-	   	    	 	  	   	     <img src="../assets/images/oddo/healthcare.png" alt=""><span class="w-100 d-block text-center pt-3">Healthcare</span>
-	   	    	 	  	   </div>
-	   	    	 	  </div> -->
-    	 	    </div>     	   	    
-      	   </div>
-      </section>
       <section class="w-100 d-block" id="implementationprocess">
       	       <div class="container">
                     <h2 class="hdr-txt w-100 d-block text-center pb-md-5 pb-2">Our <strong>Odoo</strong> ERP <strong>Implementation</strong> Process</h2>
@@ -386,85 +334,7 @@
                         </div>
                 </div>
       </section>
-      <section class="w-100 d-block pb-md-5 mb-md-5">
-      	     <div class="container odo-faq">
-      	     	   <h2 class="w-100 d-block text-center pb-md-4"><dd class="mr-md-3 mr-1"></dd>Frequently Asked Questions<dd class="ml-md-3 ml-1"></dd></h2>
-      	     	   <div id="accordion" role="tablist" aria-multiselectable="true">          
-				          <div class="card">
-					            <div class="card-header" role="tab" id="accordionHeadingOne">
-						              <div class="mb-0 row">
-							                <div class="col-12 no-padding accordion-head">
-								                  <a data-toggle="collapse" data-parent="#accordion" href="#accordionBodyOne" aria-expanded="false" aria-controls="accordionBodyOne"
-									                    class="collapsed ">
-									                    <i class="fa fa-angle-down" aria-hidden="true"></i>
-									                    <h3><img src="../assets/images/oddo/consultance-icon.png" class="mr-3" alt="">Why should I choose Primacy Infotech for odoo implementation?</h3>
-								                  </a>
-							                </div>
-						              </div>
-					            </div>
-					            <div id="accordionBodyOne" class="collapse" role="tabpanel" aria-labelledby="accordionHeadingOne" aria-expanded="false" data-parent="accordion">
-						              <div class="card-block d-block col-12">
-							                <p>The availability of technical and functional consultants makes Primacy Infotech the best odoo implementation partner for your company. 8+ Years of experience and knowledge in every industry domains, make Primacy Infotech project undertakings fool-proof and robust. We always keep customer desires on top priority while making every decision.</p>				          
-						              </div>
-					            </div>
-				          </div>          
-				          <div class="card">
-					            <div class="card-header" role="tab" id="accordionHeadingTwo">
-						              <div class="mb-0 row">
-							                <div class="col-12 no-padding accordion-head">
-								                  <a data-toggle="collapse" data-parent="#accordion" href="#accordionBodyTwo" aria-expanded="false" aria-controls="accordionBodyTwo"
-								                    class="collapsed ">
-									                    <i class="fa fa-angle-down" aria-hidden="true"></i>
-									                    <h3><img src="../assets/images/oddo/freelancer-icon.png" class="mr-3" alt="">Why choose Odoo partners over freelancers for Odoo implementation?</h3>
-								                  </a>
-							                </div>
-						              </div>
-					            </div>
-					            <div id="accordionBodyTwo" class="collapse" role="tabpanel" aria-labelledby="accordionHeadingTwo" aria-expanded="false" data-parent="accordion">
-						              <div class="card-block col-12">
-							                <p>It is better to go for Odoo partners than freelancers for Odoo Implementation, as Odoo partners are more qualified and trained professionals. Being certified, Odoo Partners always adhere to standards and professional methodologies.Also, Odoo partners are experts in all industry domains and have access to Enterprise Edition source code, offering boundless Odoo services.</p>
-						              </div>
-					            </div>
-				          </div>          
-				          <div class="card">
-					            <div class="card-header" role="tab" id="accordionHeadingThree">
-						              <div class="mb-0 row">
-							                <div class="col-12 no-padding accordion-head">
-								                  <a data-toggle="collapse" data-parent="#accordion" href="#accordionBodyThree" aria-expanded="false" aria-controls="accordionBodyThree"
-								                    class="collapsed ">
-								                    <i class="fa fa-angle-down" aria-hidden="true"></i>
-								                    <h3><img src="../assets/images/oddo/friendly-icon.png" class="mr-3" alt="">What makes Odoo implementation pocket-friendly?</h3>
-								                  </a>
-							                </div>
-						              </div>
-					            </div>
-					            <div id="accordionBodyThree" class="collapse" role="tabpanel" aria-labelledby="accordionHeadingThree" aria-expanded="false" data-parent="accordion">
-						              <div class="card-block col-12">
-							                <p>You can lower the cost of Odoo implementation by adding only essential modules that are required for your business. Lesser the modules, lesser the Odoo implementation costs. With no license fees unlike proprietary ERPs, Odoo community edition further lowers down the cost of Odoo implementation. Odoo enterprise online edition, brings down further the expense, as no additional infrastructures are demanded.</p>
-						              </div>
-					            </div>
-				          </div>
-				          <div class="card">
-					            <div class="card-header" role="tab" id="accordionHeadingFour">
-						              <div class="mb-0 row">
-							                <div class="col-12 no-padding accordion-head">
-								                  <a data-toggle="collapse" data-parent="#accordion" href="#accordionBodyFour" aria-expanded="false" aria-controls="accordionBodyThree"
-								                    class="collapsed ">
-								                    <i class="fa fa-angle-down" aria-hidden="true"></i>
-								                    <h3><img src="../assets/images/oddo/erp-icon.png" class="mr-3" alt="">Why should I opt Odoo over other ERPs?</h3>
-								                  </a>
-							                </div>
-						              </div>
-					            </div>
-					            <div id="accordionBodyFour" class="collapse" role="tabpanel" aria-labelledby="accordionHeadingFour" aria-expanded="false" data-parent="accordion">
-						              <div class="card-block col-12">
-							                <p>Odoo saves you with a lot of money, leaving them for utilizing in future customizations and other essentials. Secondly, Odoo offers the unlimited possibility of customizations in the ERP. Numerous custom feature modules help the business achieve business results with greater ease. Also with Odoo, there is no risk of getting locked in either by the vendor or technology.</p>
-						              </div>
-					            </div>
-				          </div>
-                   </div>
-      	     </div>
-      </section>
+
 </div>
 	
 <!-- footer -->
