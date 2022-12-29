@@ -391,7 +391,7 @@
                 </li>
             </ul>
             <li data-toggle="collapse" data-target="#about3" class="collapsed">
-                <a href="#"><i class="fas fa-paper-plane fa-lg"></i> About Us <span class="arrow"></span></a>
+                <a href="../about/about"><i class="fas fa-paper-plane fa-lg"></i> About Us <span class="arrow"></span></a>
             </li>
             <ul class="sub-menu collapse" id="about3">
                     <li><a href="../about/our-company">Company</a>
