@@ -2318,7 +2318,9 @@ left:50%; bottom:0px;}
  margin:0px 27px;
  cursor: pointer;
  transition: background ease 0.2s;
-position: relative;}
+position: relative;
+ border-top:solid 3px #ededed;
+}
 .tabs label img{width:50px; display:block; margin:0 auto; position:absolute; left:0px;
 right:0px; top:-60px;}
 .tabs .tab {
