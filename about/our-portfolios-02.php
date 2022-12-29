@@ -285,7 +285,7 @@
                                          </div>
                                          <div class="col-md-3 p-2 pb-2">
                                               <div class="content">
-                                                     <a href="#" target="_blank">
+                                                     <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
                                                              <div class="content-overlay">
                                                                      <div class="content-details fadeIn-left">
                                                                             <dd>Mobile App</dd>
@@ -298,7 +298,7 @@
                                         </div>
                                         <div class="col-md-3 p-2 pb-2">
                                              <div class="content">
-                                                     <a href="#" target="_blank">
+                                                     <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
                                                              <div class="content-overlay">
                                                                      <div class="content-details fadeIn-left">
                                                                            <dd>Mobile App</dd>
@@ -312,7 +312,7 @@
                                         </div>
                                         <div class="col-md-3 p-2 pb-2">
                                              <div class="content">
-                                                     <a href="#" target="_blank">
+                                                     <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
                                                              <div class="content-overlay">
                                                                      <div class="content-details fadeIn-left">
                                                                            <dd>Mobile App</dd>
@@ -326,7 +326,7 @@
                                        </div>
                                         <div class="col-md-3 p-2 pb-2">
                                              <div class="content">
-                                                     <a href="#" target="_blank">
+                                                     <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
                                                              <div class="content-overlay">
                                                                      <div class="content-details fadeIn-left">
                                                                             <dd>Mobile App</dd>
@@ -339,7 +339,7 @@
                                         </div>
                                         <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://piapps.in/pistore/" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                                <dd>Mobile App</dd>
@@ -352,7 +352,7 @@
                                           </div>
                                          <div class="col-md-3 p-2 pb-2">
                                                  <div class="content">
-                                                         <a href="#" target="_blank">
+                                                         <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
                                                                                <dd>Mobile App</dd>
