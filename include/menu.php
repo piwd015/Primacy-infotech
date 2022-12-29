@@ -391,10 +391,10 @@
                 </li>
             </ul>
             <li data-toggle="collapse" data-target="#about3" class="collapsed">
-                <a href="../about/about"><i class="fas fa-paper-plane fa-lg"></i> About Us <span class="arrow"></span></a>
+                <a href="#"><i class="fas fa-paper-plane fa-lg"></i> About Us <span class="arrow"></span></a>
             </li>
             <ul class="sub-menu collapse" id="about3">
-                    <li><a href="../about/our-company">Company</a>
+                    <li><a href="../about/about">Company</a>
                     </li>
                     <li><a href="https://erp.primacyinfotech.com/jobs">Career</a>
                     </li>
