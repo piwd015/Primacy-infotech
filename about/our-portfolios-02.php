@@ -48,7 +48,7 @@
                                         <div class="col-md-4 p-0 pb-2">
                                                <div class="col-md-12">
                                                       <div class="content">
-                                                              <a href="#" target="_blank">
+                                                              <a href="https://globalstudentassistance.co.uk/" target="_blank">
                                                                     <div class="content-overlay">
                                                                           <div class="content-details fadeIn-left">
                                                                                  <h3 class="content-title">Global</h3>
@@ -61,7 +61,7 @@
                                                </div>
                                                <div class="col-md-12 pt-2">
                                                       <div class="content">
-                                                              <a href="#" target="_blank">
+                                                              <a href="https://happymartz.com/" target="_blank">
                                                                       <div class="content-overlay">
                                                                           <div class="content-details fadeIn-left">
                                                                               <h3 class="content-title">Happy</h3>
