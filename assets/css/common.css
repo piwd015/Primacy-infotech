@@ -2881,6 +2881,7 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .tabs input[type="radio"]:checked + label{border-top: solid 2px #ff7b23;}
  .potflo-Cont-Area h2{font-size:25px;}
  .potflo-Cont-Area h3{font-size:20px;}
+ .potflo-Cont-Area{height:40vh; padding-top:30%;}
 }
 
 @media screen and (max-height: 450px) {
