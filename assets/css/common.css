@@ -636,9 +636,9 @@ top:17px;}
 
 .menu-black-bg{background:#000; width:100%; display:block; padding:10px 0px;}
 
-ul.top-menu{width:100%; display:block;}
+ul.top-menu{width:100%; display:block; padding-left:15px;}
 
-ul.top-menu li{display:inline-block; margin:0px 15px;}
+ul.top-menu li{display:block; margin:0px 15px; float:left;}
 
 ul.top-menu li:first-child{margin-left:0px;}
 
