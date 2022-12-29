@@ -240,7 +240,7 @@
                                                          <a href="https://prowesspursuit.com/" target="_blank">
                                                                  <div class="content-overlay">
                                                                          <div class="content-details fadeIn-left">
-                                                                                <h3 class="content-title">Prowess pursuit pvt ltd</h3>
+                                                                                <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
                                                                          </div>
                                                                  </div>
                                                                  <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
