@@ -240,7 +240,7 @@
                                        <div class="packg w-100 d-block text-center py-md-4 py-2">
                                            <h6 class="w-100 d-block text-center">Package 2</h6>
                                            <h2 class="w-100 d-block text-center">
-                                               <sup>$</sup>799<sub>/Month</sub>
+                                               <sup>$</sup>499<sub>/Month</sub>
                                            </h2>
                                            <button type="button" class="btn gt-start2">Get Started</button>
                                        </div>
@@ -249,7 +249,7 @@
                                        <div class="packg w-100 d-block text-center py-md-4 py-2">
                                            <h6 class="w-100 d-block text-center">Package 3</h6>
                                            <h2 class="w-100 d-block text-center">
-                                               <sup>$</sup>1099<sub>/Month</sub>
+                                               <sup>$</sup>749<sub>/Month</sub>
                                            </h2>
                                            <button type="button" class="btn gt-start">Get Started</button>
                                        </div>
