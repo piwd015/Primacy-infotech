@@ -298,12 +298,18 @@
 				<div class="col-12">
 					<div class="swiper-container app-screenshot-slider">
 					    <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="app-screenshot-item">
-                                    <a href="../assets/images/global.jpg" data-rel="lightbox-popup:screenshot"><img src="../assets/images/global.jpg" alt="web development"></a>
-                                    <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                <div class="swiper-slide">
+                                        <div class="app-screenshot-item">
+                                              <a href="../assets/images/global.jpg" data-rel="lightbox-popup:screenshot"><img src="../assets/images/global.jpg" alt="web development"></a>
+                                              <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                        </div>
                                 </div>
-                            </div>
+                                <div class="swiper-slide">
+                                    <div class="app-screenshot-item">
+                                        <a href="../assets/images/pawscraft.jpg" data-rel="lightbox-popup:screenshot"><img src="../assets/images/pawscraft.jpg" alt="web development"></a>
+                                        <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                    </div>
+                                </div>
                                 <div class="swiper-slide">
                                         <div class="app-screenshot-item">
                                                <a href="../assets/images/samritmart.jpg" data-rel="lightbox-popup:screenshot"><img src="../assets/images/samritmart.jpg" alt="web development"></a>
