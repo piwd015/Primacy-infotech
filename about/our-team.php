@@ -411,7 +411,7 @@
                 </div>
                 <ul class="row portfolio-item">
                     <li class="mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd">
-                        <img src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" itemprop="thumbnail" alt="Image description" />
+                        <img src="../assets/images/about/office-tour/gallery-big-01.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Project Name</p>
