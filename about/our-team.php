@@ -34,7 +34,7 @@
     <!-- ------end header section------- -->
     <div class="page-body">
             <section class="tour-banner" data-aos="fade-down">
-                 <div class="container-fluid"></div>
+                    <div class="ovrly"></div>
              </section>
             <section class="team-bg w-100 d-block py-md-5 py-3">
                     <div class="container-fluid px-md-5 px-3">
@@ -393,7 +393,7 @@
             <div class="container-fluid pl-md-5">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="pb-md-5 pb-3">Primacy Infotech Office Tour</h2>
+                        <h2 class="pb-md-5 pb-3">Live at Primacy</h2>
                         <p class="pb-md-5 pb-3">Office tours are the most amazing thing in this world that empowers
                             the employees<br/> and employees fills overjoy while they celebrate the
                             moments in the tours.</p>
@@ -401,7 +401,7 @@
                 </div>
                 <div class="portfolio-menu mt-2 mb-4">
                     <nav class="controls">
-                        <button type="button" class="control outline" data-filter="all">Taki Tour</button>
+                        <button type="button" class="control outline" data-filter="all">Office Tour</button>
                         <!--<button type="button" class="control outline" data-filter=".web">Web Design</button>
                         <button type="button" class="control outline" data-filter=".dev">Development</button>
                         <button type="button" class="control outline" data-filter=".wp">WordPress</button>-->
