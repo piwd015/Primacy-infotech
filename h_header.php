@@ -230,7 +230,7 @@
                                                          </div>
                                                          <div class="col-lg-6 col-md-6">
                                                              <ul>
-                                                                   <li><a href="../about/about.php"><i class="icofont-notebook icofont-1x"></i>Our Case Study</a></li>
+                                                                   <li><a href="../about/about"><i class="icofont-notebook icofont-1x"></i>Our Case Study</a></li>
                                                              </ul>
                                                          </div>
                                                      </div>
