@@ -494,7 +494,7 @@
                 </div>
             </div>
         </section>
-            <section class="count-bg w-100 d-block py-md-5 py-3">
+            <section class="count-bg w-100 d-block pb-md-5 pb-3">
                    <div class="container">
                          <div class="row">
                                  <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-up">
