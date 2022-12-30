@@ -502,7 +502,7 @@
                         <img src="../assets/images/about/office-tour/gallery-thumb-06.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
-                                <p class="category">Taki Golpatar Jungle</p>
+                                <p class="category">Taki Golpata Forest</p>
                                 <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
@@ -538,7 +538,7 @@
                         <img src="../assets/images/about/office-tour/gallery-thumb-08.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
-                                <p class="category">Taki Lanch Ghat</p>
+                                <p class="category">Taki Ferry Ghat</p>
                                 <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
@@ -556,7 +556,7 @@
                         <img src="../assets/images/about/office-tour/gallery-thumb-09.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
-                                <p class="category">Project Name</p>
+                                <p class="category">Taki Golpata Forest</p>
                                 <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
