@@ -391,7 +391,7 @@
                             </div>
                     </div>
             </section>
-            <section class="w-100 d-none">
+            <section class="w-100">
                    <div class="container">
                         <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2" data-aos="fade-up">Two Decades At Glance</h2>
                         <div class="row" data-aos="fade-down">
