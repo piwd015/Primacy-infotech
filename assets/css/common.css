@@ -2441,7 +2441,15 @@ border-radius:100%;}
 .potflo-Cont-Area h2{font-size:45px; color:#fff; text-transform:uppercase;}
 .potflo-Cont-Area h3{ font-size:35px; color:#fff; text-transform:uppercase; font-weight:700;}
 
-
+.tour-banner {
+ background: url(../images/about/office-tour/tour-banner.jpg) no-repeat center top;
+ width: 100%;
+ height: 90vh;
+ background-size: 100% 100%;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
 
 .portfolio-section {
  padding: 50px 0;
