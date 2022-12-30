@@ -96,7 +96,7 @@
     <div class="container">
         <div class="row pl-md-5">
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="/oddo/odoo-customization.php">
+                <a href="../oddo/odoo-customization.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/customization-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Odoo Customization</h4>
