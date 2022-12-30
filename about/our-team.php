@@ -403,15 +403,15 @@
                 </div>
                 <div class="portfolio-menu mt-2 mb-4">
                     <nav class="controls">
-                        <button type="button" class="control outline" data-filter="all">All</button>
-                        <button type="button" class="control outline" data-filter=".web">Web Design</button>
+                        <button type="button" class="control outline" data-filter="all">Taki Tour</button>
+                        <!--<button type="button" class="control outline" data-filter=".web">Web Design</button>
                         <button type="button" class="control outline" data-filter=".dev">Development</button>
-                        <button type="button" class="control outline" data-filter=".wp">WordPress</button>
+                        <button type="button" class="control outline" data-filter=".wp">WordPress</button>-->
                     </nav>
                 </div>
                 <ul class="row portfolio-item">
                     <li class="mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd">
-                        <img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" itemprop="thumbnail" alt="Image description" />
+                        <img src="../assets/images/about/office-tour/gallery-thumb-01.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Project Name</p>
