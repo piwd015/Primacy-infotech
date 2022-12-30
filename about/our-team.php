@@ -429,7 +429,7 @@
                         </div>
                     </li>
                     <li class="mix web col-xl-3 col-md-4 col-12 col-sm-6 pd">
-                        <img src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" itemprop="thumbnail" alt="Image description" />
+                        <img src="../assets/images/about/office-tour/gallery-thumb-02.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Project Name</p>
@@ -438,7 +438,7 @@
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
                                 </a>
-                                <a data-fancybox="item" title="click to zoom-in" href="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" data-size="1200x600">
+                                <a data-fancybox="item" title="click to zoom-in" href="../assets/images/about/office-tour/gallery-big-02.jpg" data-size="1200x600">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
                                     </div>
