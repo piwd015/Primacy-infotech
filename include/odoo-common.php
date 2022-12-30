@@ -1,5 +1,5 @@
 <section class="features w-100 d-block">
-         <div class="why-chs w-100 d-block py-md-5">
+         <div class="why-chs w-100 d-block py-md-5 py-3">
              <div class="container">
                    <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
                     <div class="row">
@@ -96,7 +96,7 @@
     <div class="container">
         <div class="row pl-md-5">
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="/odoo">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/customization-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Odoo Customization</h4>
