@@ -2456,6 +2456,7 @@ border-radius:100%;}
 .portfolio-menu {
  text-align: center;
 }
+.portfolio-item li{display:block;}
 .control {
  background: #000;
  color: #fff;
