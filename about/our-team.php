@@ -483,18 +483,15 @@
                    </div>
             </section>
             <section class="w-100 d-block">
-            <div class="container-fluid">
-                <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/motaleb-molla-thumb.jpg">
-                        <img src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
-                        <div class='text-right'>
-                            <small class='text-muted'>Image Title</small>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </section>
-            <section class="count-bg w-100 d-block pb-md-5 pb-3">
+                    <div class="container-fluid">
+                            <div class="col-md-3">
+                                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/motaleb-molla-thumb.jpg">
+                                          <img src="../assets/images/about/motaleb-molla-thumb.jpg" alt="">
+                                    </a>
+                            </div>
+                    </div>
+           </section>
+            <section class="count-bg w-100 d-block py-md-5 py-3">
                    <div class="container">
                          <div class="row">
                                  <div class="col-md-3 col-6 mb-md-0 mb-3" data-aos="fade-up">
