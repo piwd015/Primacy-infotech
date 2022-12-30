@@ -2456,6 +2456,8 @@ border-radius:100%;}
 .portfolio-menu {
  text-align: center;
 }
+.fancybox-arrow:after{width:54px!important; height: 54px!important;
+ background-size:54px 54px!important;}
 .portfolio-item li{display:block!important; list-style-type:none;}
 .control {
  background: #000;

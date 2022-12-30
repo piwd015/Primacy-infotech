@@ -411,7 +411,7 @@
                 </div>
                 <ul class="row portfolio-item">
                     <li class="mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd">
-                        <img src="../assets/images/about/office-tour/gallery-thumb-01.jpg" itemprop="thumbnail" alt="Image description" />
+                        <img src="../assets/images/about/office-tour/gallery-big-01.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Project Name</p>
@@ -420,7 +420,7 @@
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
                                 </a>
-                                <a data-fancybox="item" title="click to zoom-in" href="../assets/images/about/office-tour/gallery-big-01.jpg">
+                                <a data-fancybox="item" title="click to zoom-in" href="../assets/images/about/office-tour/gallery-thumb-01.jpg">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
                                     </div>
