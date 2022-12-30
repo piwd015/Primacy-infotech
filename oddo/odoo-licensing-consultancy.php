@@ -100,7 +100,7 @@
                                            for features you do not use compared to other ERPs.
                                        </p>
                                        <div class="col-md-12 d-flex flex-wrap justify-content-center">
-                                            <a href="#" class="button licen-consult-btn" data-toggle="modal" data-target="#myModal_grocery"><span>Talk to your license consultant</span></a>
+                                            <a href="#" class="button licen-consult-btn" data-toggle="modal" data-target="#myModal_grocery"><span>Talk to our license consultant</span></a>
                                        </div>
                                </div>
                                <div class="col-lg-6 col-md-6 position-relative">
