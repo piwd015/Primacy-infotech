@@ -159,7 +159,7 @@
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="../oddo/odoo-erp.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/hosting-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Hosting</h4>
