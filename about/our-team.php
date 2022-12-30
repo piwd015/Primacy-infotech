@@ -391,103 +391,14 @@
                             </div>
                     </div>
             </section>
-            <section class="w-100">
-                   <div class="container">
-                        <h2 class="abut-hdr-txt w-100 d-block pb-md-4 pb-2" data-aos="fade-up">Two Decades At Glance</h2>
-                        <div class="row" data-aos="fade-down">
-                               <div class="col-md-3 col-6 mb-md-4">
-                                     <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Core Services</h4>
-                                            <p class="d-block">Digital Consulting, Web
-                                             Apps, Mobile Apps,
-                                             Digital Marketing,
-                                             Analytics, Cloud Infra</p>
-                                     </div>
-                              </div>
-                               <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Business Distribution</h4>
-                                            <p class="d-block">75% Tech, 25% Marketing</p>
-                                        </div>
-                                </div>
-                               <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Industries Served</h4>
-                                            <p class="d-block">75% Tech, 25% Marketing</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                    <div class="glns-box">
-                                        <h4 class="d-block pb-md-2">Projects Delivered</h4>
-                                        <p class="d-block">3000+</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Hours Delivered</h4>
-                                            <p class="d-block">2,250,000 Hours and
-                                                counting</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Proud of</h4>
-                                            <p class="d-block">75% of Business comes from
-                                                existing clients.</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Lean Organization</h4>
-                                            <p class="d-block">Only three levels of
-                                                hierarchy including top
-                                                management.
-                                                Empowered team.</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Current Sales Channel</h4>
-                                            <p class="d-block">Inbound –Online, Events,
-                                                Word of Mouth, References.</p>
-                                        </div>
-                               </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Super Team</h4>
-                                            <p class="d-block">At least 3x more
-                                                productive</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Perceived As</h4>
-                                            <p class="d-block">Innovation Outsourcing
-                                                Partner, Strategic
-                                                Digital Partner</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Project Ticket Size</h4>
-                                            <p class="d-block">$15-$100K</p>
-                                        </div>
-                                </div>
-                                <div class="col-md-3 col-6 mb-md-4">
-                                        <div class="glns-box">
-                                            <h4 class="d-block pb-md-2">Relationship Value</h4>
-                                            <p class="d-block">$50K -$2m per annum</p>
-                                        </div>
-                                </div>
-                        </div>
-                   </div>
-            </section>
             <section class="portfolio-section" id="portfolio">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2>Project Gallery</h2>
-                        <p>Use all the same size pictures :)</p>
+                        <h2>Primacy Office Tour</h2>
+                        <p>Office tours are the most amazing thing in this world that empowers
+                            the employees and employees fills overjoy while they celebrate the
+                            moments in the tours.</p>
                     </div>
                 </div>
                 <div class="portfolio-menu mt-2 mb-4">
