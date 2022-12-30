@@ -485,7 +485,7 @@
             <section class="w-100 d-block">
                     <div class="container-fluid">
                             <div class="col-md-3">
-                                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/gallery-big-01.jpg">
+                                    <a class="thumbnail fancybox" rel="ligthbox" href="../assets/images/about/office-tour/gallery-big-01.jpg">
                                           <img src="../assets/images/about/office-tour/gallery-thumb-01.jpg" alt="">
                                     </a>
                             </div>
