@@ -467,7 +467,7 @@
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Taki Golpatar Jungle</p>
-                                <a href="#" title="View Project" target="_blank">
+                                <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
@@ -485,7 +485,7 @@
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Taki Park</p>
-                                <a href="#" title="View Project" target="_blank">
+                                <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
@@ -502,8 +502,8 @@
                         <img src="../assets/images/about/office-tour/gallery-thumb-06.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
-                                <p class="category">Project Name</p>
-                                <a href="#" title="View Project" target="_blank">
+                                <p class="category">Taki Golpatar Jungle</p>
+                                <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
@@ -521,7 +521,7 @@
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Primacy Office Webel Tower</p>
-                                <a href="#" title="View Project" target="_blank">
+                                <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
@@ -539,7 +539,7 @@
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Taki Lanch Ghat</p>
-                                <a href="#" title="View Project" target="_blank">
+                                <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
@@ -553,16 +553,16 @@
                         </div>
                     </li>
                     <li class="mix wp col-xl-3 col-md-4 col-12 col-sm-6 pd">
-                        <img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" itemprop="thumbnail" alt="Image description" />
+                        <img src="../assets/images/about/office-tour/gallery-thumb-09.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Project Name</p>
-                                <a href="#" title="View Project" target="_blank">
+                                <a href="https://primacyinfotech.com/" title="View Project" target="_blank">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
                                 </a>
-                                <a data-fancybox="item" title="click to zoom-in" href="https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" data-size="1200x600">
+                                <a data-fancybox="item" title="click to zoom-in" href="../assets/images/about/office-tour/gallery-big-09.jpg" data-size="1200x600">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
                                     </div>
