@@ -112,9 +112,8 @@
                                    <span>Odoo integration the solution moves ahead with your Odoo
                                        platform as well as the unique tools which support your
                                        business operations. However, Odoo ERP Integration should
-                                       be done with the right expertise Cybrosys Technologies is
-                                       your trustful expert Odoo Gold partner with 13+ years of
-                                       service. Today Cybrosys leads the top of the charts among
+                                       be done with the right expertise Primacy Infotech is
+                                       your trustful expert. Primacy Infotech the top of the charts among
                                        Odoo partners offering impeccable solutions and Odoo
                                        services.
                                    </span>
