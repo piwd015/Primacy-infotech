@@ -420,7 +420,7 @@
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
                                 </a>
-                                <a data-fancybox="item" title="click to zoom-in" href="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
+                                <a data-fancybox="item" title="click to zoom-in" href="../assets/images/about/office-tour/gallery-big-01.jpg">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
                                     </div>
