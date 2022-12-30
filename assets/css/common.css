@@ -2508,9 +2508,9 @@ border-radius:100%;}
  position: absolute;
  z-index: 2;
  top: 0;
- left: 0;
+ left: -20px;
  background: rgba(0, 0, 0, 0.7);
- width: 100%;
+ width: 90%;
  height: 100%;
  text-align: center;
  visibility: hidden;
