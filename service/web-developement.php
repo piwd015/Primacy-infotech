@@ -293,43 +293,47 @@
 		<div class="container-fluid px-md-5">
 			<div class="s-title my-4">
 				<h2><span class="logo-color">O</span>ur Projects</h2>
-<!--				<p>Ut totam hymenaeos a quasi enim, duis erat mollitia, pellentesque ac metus!</p>-->
 			</div>
 			<div class="row app-screenshot-slider-row">
 				<div class="col-12">
 					<div class="swiper-container app-screenshot-slider">
 					    <div class="swiper-wrapper">
-					        <div class="swiper-slide">
-					        	<div class="app-screenshot-item">
-					        		<a href="../assets/images/netwood.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/netwood.png" alt="web development"></a>
-					        		<div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
-					        	</div>
-					        </div>
-					        <div class="swiper-slide">
-					        	<div class="app-screenshot-item">
-					        		<a href="../assets/images/jwellery.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/jwellery.png" alt="web development"></a>
-					        		<div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
-					        	</div>
-					        </div>
-					        <div class="swiper-slide">
-					        	<div class="app-screenshot-item">
-					        		<a href="../assets/images/muddiz.jpg" data-rel="lightbox-popup:screenshot"><img src="../assets/images/muddiz.jpg" alt="web development"></a>
-					        		<div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
-					        	</div>
-					        </div>
-					        <div class="swiper-slide">
-					        	<div class="app-screenshot-item">
-					        		<a href="../assets/images/boi.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/boi.png" alt="web development"></a>
-					        		<div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
-					        	</div>
-					        </div>
-					        <div class="swiper-slide">
-					        	<div class="app-screenshot-item">
-					        		<a href="../assets/images/irfsd.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/irfsd.png" alt="web development"></a>
-					        		<div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
-					        	</div>
-					        </div>
-					       
+                                <div class="swiper-slide">
+                                <div class="app-screenshot-item">
+                                    <a href="../assets/images/global.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/global.png" alt="web development"></a>
+                                    <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                </div>
+                            </div>
+                                <div class="swiper-slide">
+                                    <div class="app-screenshot-item">
+                                        <a href="../assets/images/netwood.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/netwood.png" alt="web development"></a>
+                                        <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="app-screenshot-item">
+                                        <a href="../assets/images/jwellery.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/jwellery.png" alt="web development"></a>
+                                        <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="app-screenshot-item">
+                                        <a href="../assets/images/muddiz.jpg" data-rel="lightbox-popup:screenshot"><img src="../assets/images/muddiz.jpg" alt="web development"></a>
+                                        <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="app-screenshot-item">
+                                        <a href="../assets/images/boi.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/boi.png" alt="web development"></a>
+                                        <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="app-screenshot-item">
+                                        <a href="../assets/images/irfsd.png" data-rel="lightbox-popup:screenshot"><img src="../assets/images/irfsd.png" alt="web development"></a>
+                                        <div class="asi-icon-wr"><span class="asi-icon"><i class="icon_plus"></i></span></div>
+                                    </div>
+                                </div>
 					    </div>
 					    <div class="swiper-pagination"></div>
 					</div>
