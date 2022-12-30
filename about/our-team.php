@@ -33,7 +33,8 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body">
-            <section class="aboutImg-01" data-aos="fade-down">
+            <section class="aboutImg-01" data-aos="fade-down"
+                     style="background: url("../assets/images/about/office-tour/tour-banner.jpg") no-repeat 0 0;">
                  <div class="container-fluid">
 
                  </div>
@@ -392,10 +393,10 @@
                     </div>
             </section>
             <section class="portfolio-section" id="portfolio">
-            <div class="container-fluid">
+            <div class="container-fluid pl-md-5">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="pb-md-5 pb-3">Primacy Office Tour</h2>
+                        <h2 class="pb-md-5 pb-3">Primacy Infotech Office Tour</h2>
                         <p class="pb-md-5 pb-3">Office tours are the most amazing thing in this world that empowers
                             the employees<br/> and employees fills overjoy while they celebrate the
                             moments in the tours.</p>
@@ -465,7 +466,7 @@
                         </div>
                     </li>
                     <li class="mix dev col-xl-3 col-md-4 col-12 col-sm-6 pd ">
-                        <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" itemprop="thumbnail" alt="Image description" />
+                        <img src="../assets/images/about/office-tour/gallery-thumb-04.jpg" itemprop="thumbnail" alt="Image description" />
                         <div class="portfolio-overlay">
                             <div class="overlay-content">
                                 <p class="category">Project Name</p>
@@ -474,7 +475,7 @@
                                         <p><span><i class="fa fa-link" aria-hidden="true"></i></span></p>
                                     </div>
                                 </a>
-                                <a data-fancybox="item" title="click to zoom-in" href="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" data-size="1200x600">
+                                <a data-fancybox="item" title="click to zoom-in" href="../assets/images/about/office-tour/gallery-big-04.jpg" data-size="1200x600">
                                     <div class="magnify-icon">
                                         <p><span><i class="fa fa-search" aria-hidden="true"></i></span></p>
                                     </div>
