@@ -17,7 +17,9 @@
 <link rel="stylesheet" href="../css/common-style.css">
 <link rel="stylesheet" href="../css/readmore.css">
 <link rel="stylesheet" href="../css/food_style.css">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+<!--------------------fancy box-------------------->
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
 <style>
     img.g-img {
 

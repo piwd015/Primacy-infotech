@@ -118,7 +118,6 @@
 
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
-    <script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
 
 <script>
     function openNav() {
@@ -410,15 +409,27 @@ highestBox = $(this).height();
 $('.develp-Area-box').height(highestBox);
 });
 </script>
-
+    <!-- fancybox -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.2.2/mixitup.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.js'></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script>
-        $(document).ready(function(){
-            //FANCYBOX
-            //https://github.com/fancyapps/fancyBox
-            $(".fancybox").fancybox({
-                openEffect: "none",
-                closeEffect: "none"
-            });
+        var containerEl = document.querySelector(".portfolio-item");
+        var mixer = mixitup(containerEl, {
+            animation: {
+                effects: "fade translateZ(-100px)",
+                effectsIn: "fade translateY(-100%)",
+                easing: "cubic-bezier(0.645, 0.045, 0.355, 1)"
+            }
+        });
+
+        $("[data-fancybox]").fancybox({
+            loop: true,
+            hash: true,
+            transitionEffect: "slide",
+            clickContent: function(current, event) {
+                return current.type === "image" ? "next" : false;
+            }
         });
     </script>
 
