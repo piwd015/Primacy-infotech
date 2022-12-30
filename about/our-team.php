@@ -397,7 +397,7 @@
                     <div class="col-lg-12 text-center">
                         <h2>Primacy Office Tour</h2>
                         <p>Office tours are the most amazing thing in this world that empowers
-                            the employees and employees fills overjoy while they celebrate the
+                            the employees<br/> and employees fills overjoy while they celebrate the
                             moments in the tours.</p>
                     </div>
                 </div>
