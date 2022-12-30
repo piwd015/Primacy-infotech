@@ -105,16 +105,16 @@
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="../oddo/oddo-implementation.php">
+                <a href="../oddo/odoo-implementation.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/implementation-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Odoo Implementation</h4>
-                        <p class="d-block text-center mb-0">We understand your businessRequirements! We customize the eachEach module to implement it in the wayyou want!</p>
+                        <p class="d-block text-center mb-0">We understand your business Requirements! We customize the each module to implement it in the way you want!</p>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="../oddo/odoo-integration.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/integration-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Odoo Integration</h4>
@@ -123,16 +123,16 @@
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="../oddo/odoo-migration.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/migration-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Odoo Migration</h4>
-                        <p class="d-block text-center mb-0">We provide data and code Migrationfrom your legacy system!</p>
+                        <p class="d-block text-center mb-0">We provide data and code Migration from your legacy system!</p>
                     </div>
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="../oddo/odoo-support.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/maintenance-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Odoo Support and Maintenance</h4>
@@ -141,7 +141,7 @@
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="../oddo/odoo-consulting-services.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/consulting-service-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Consulting Services</h4>
@@ -150,7 +150,7 @@
                 </a>
             </div>
             <div class="col-md-3 col-6 mb-3 px-2">
-                <a href="#implementationprocess">
+                <a href="../oddo/odoo-licensing-consultancy.php">
                     <div class="odo-srvs-box">
                         <img src="../assets/images/oddo/consultation-icon.png" alt="">
                         <h4 class="w-100 d-block text-center pt-md-4 pt-2 pb-md-2">Licencing Consultation</h4>
