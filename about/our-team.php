@@ -395,8 +395,8 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2>Primacy Office Tour</h2>
-                        <p>Office tours are the most amazing thing in this world that empowers
+                        <h2 class="pb-md-4">Primacy Office Tour</h2>
+                        <p class="pb-md-4">Office tours are the most amazing thing in this world that empowers
                             the employees<br/> and employees fills overjoy while they celebrate the
                             moments in the tours.</p>
                     </div>
