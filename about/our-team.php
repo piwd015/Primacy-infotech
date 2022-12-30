@@ -34,7 +34,10 @@
     <!-- ------end header section------- -->
     <div class="page-body">
             <section class="tour-banner" data-aos="fade-down">
-                    <div class="ovrly"></div>
+                    <div class="ovrly">
+                          <h1 class="w-100 d-block text-center">WE CREATE</h1>
+                          <h2 class="w-100 d-block text-center">INNOVATION<br/>IN EVERY STEP</h2>
+                    </div>
              </section>
             <section class="team-bg w-100 d-block py-md-5 py-3">
                     <div class="container-fluid px-md-5 px-3">
