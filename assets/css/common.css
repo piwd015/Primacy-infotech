@@ -2594,7 +2594,7 @@ border-radius:100%;}
  line-height: 40px;
  cursor: pointer;
 }
-.licen-consult-btn{width: fit-content!important;}
+.licen-consult-btn{width: fit-content!important; padding: 16px 20px!important;}
 
 /*-------------our team section-------------*/
 
