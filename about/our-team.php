@@ -33,8 +33,7 @@
     <script type="text/javascript" src="../assets/js/customize.js"></script>
     <!-- ------end header section------- -->
     <div class="page-body">
-            <section class="aboutImg-01" data-aos="fade-down"
-                     style="background: url("../assets/images/about/office-tour/tour-banner.jpg") no-repeat 0 0;">
+            <section class="aboutImg-01" data-aos="fade-down">
                  <div class="container-fluid">
 
                  </div>
