@@ -99,7 +99,9 @@
                                            business, Odoo makes it easy for you so that you do not have to pay
                                            for features you do not use compared to other ERPs.
                                        </p>
-                                       <a href="#" class="button licen-consult-btn" data-toggle="modal" data-target="#myModal_grocery"><span>Talk to your license consultant</span></a>
+                                       <div class="col-md-12 d-flex flex-wrap justify-content-center">
+                                            <a href="#" class="button licen-consult-btn" data-toggle="modal" data-target="#myModal_grocery"><span>Talk to your license consultant</span></a>
+                                       </div>
                                </div>
                                <div class="col-lg-6 col-md-6 position-relative">
                                      <div class="lnc-bnr-bdr-right"></div>
