@@ -78,7 +78,7 @@
                   <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                         <div class="col-md-6 migra-Cont-Area pt-3">
                               <h2 class="w-100 d-block pb-md-2">Migrate Your Website</h2>
-                              <p class="d-block mb-md-3 mb-1">With An Experience Of 9+ Years, Uncanny Can Handle Any
+                              <p class="d-block mb-md-3 mb-1">With An Experience Of Can Handle Any
                                   Type Of Odoo Migration. We Ensure To Keep All Your Data
                                   Secured During The Migration. There Are Various Migration
                                   Process Such As Data Migration From Legacy ERP And Community
