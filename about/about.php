@@ -383,7 +383,7 @@
                                 <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-up" data-aos-duration="3000">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
-                                                 <img src="../assets/images/about/born-digital.png" alt="">
+                                                 <img src="../assets/images/about/support-and-quality.png" alt="">
                                                 <h4 class="d-block pb-md-2 pt-2">Support & Quality</h4>
                                                 <span class="d-block">Since 2008, We have a strong commitment to
                                                     sustainability and ethical business practices, which translates
