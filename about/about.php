@@ -409,6 +409,8 @@
                                                      problem-solving, which allows us to find creative solutions to
                                                      complex challenges</span>
                                          </div>
+                                 </div>
+                                 <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/agile-design.png" alt="">
                                              <h4 class="d-block pb-md-2 pt-2">Creative & Innovation</h4>
@@ -416,6 +418,8 @@
                                                  and we have a supportive and collaborative culture that fosters
                                                  innovation</span>
                                          </div>
+                                 </div>
+                                 <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/agile-design.png" alt="">
                                              <h4 class="d-block pb-md-2 pt-2">Adopt New Technology</h4>
@@ -423,6 +427,8 @@
                                                  improvement, and we invest in training and development to ensure
                                                  that our team is always up-to-date on the latest trends and best practices</span>
                                          </div>
+                                  </div>
+                                 <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/agile-design.png" alt="">
                                              <h4 class="d-block pb-md-2 pt-2"> Client First</h4>
