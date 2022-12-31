@@ -369,7 +369,7 @@
                                 <div class="col-md-3 mb-md-4 mb-3 data-aos="fade-up" data-aos-duration="3000">
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-3">
-                                          <img src="../assets/images/about/service-digital.png" alt="">
+                                          <img src="../assets/images/about/about-technology.png" alt="">
                                           <h4 class="d-block text-center pb-md-2 pt-2">It’s All About Technology</h4>
                                             <span class="d-block">We have a team of experienced and highly
                                                 skilled professionals who are experts in the latest
