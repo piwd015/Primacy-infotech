@@ -430,7 +430,7 @@
                                   </div>
                                  <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
-                                             <img src="../assets/images/about/agile-design.png" alt="">
+                                             <img src="../assets/images/about/client.png" alt="">
                                              <h4 class="d-block pb-md-2 pt-2"> Client First</h4>
                                              <span class="d-block">We are proactive in identifying and addressing
                                                  the unique challenges and opportunities facing our clients, and we are always
