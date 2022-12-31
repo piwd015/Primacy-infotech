@@ -1,532 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Primacy Infotech | Oddo Implementation In Kolkata | Affordable & Best ERP for SMEs | ERP  for Manufacturing Industry</title>
+    <meta name="description" content="Primacy Infotech provides Odoo ERP  for construction, manufacturing, Retail Industry, Schools, Hospitals. Our Odoo implementation includes evaluation, planning, configuration and data migration. ☆Ask - Odoo Demo +91-8088015866. " />
+    <meta name="keywords" content="erp development,erp software development,erp software development company,erp development company,odoo development services,erp development services,odoo erp development,erp implementation,erp software development company,erp implementation companies,custom erp software development,best erp software in india,erp software india,erp software development company in india,odoo development company in India,ERP management system
+" />
+    <meta name="robots" content="index, follow">
+    <meta name="language" content="EN">
+    <meta name="organization" content="Primacy Infotech">
+    <link rel="canonical" href="../index.php">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Primacy Infotech Best website development company in kolkata">
+    <meta property="og:description" content="Primacy Infotech- It is a website design and development company based in kolkata. We help small and mid sized company to achieve thier marketing goals. Call today - 9088015866">
+    <meta property="og:image" content="assets/images/logo-p.png">
+    <meta property="og:url" content="index.html">
+    <meta property="og:site_name" content="Primacy Infotech">
+    <meta name="format-detection" content="telephone=no">
+    <style>
+        @media only screen and (max-width:767px) {
+            .oddo-imple-bnr {
+                margin-top: 50px;
+            }
+        }
+    </style>
+    <!-- ------start header section------- -->
+    <?php include '../include/header.php'; ?>
+    <link rel="stylesheet" type="text/css" href="../assets/css/common.css">
+    <script type="text/javascript" src="../assets/js/customize.js"></script>
+    <!-- ------end header section------- -->
+    <div class="page-body">
+        <section class="portflo-bg port-scr-srt w-100 d-block text-center">
+            <div class="container-fluid px-md-0 px-3">
+                <h1 class="w-100 d-block text-center pb-4">Our Portfolios</h1>
+                <p class="d-block text-center pt-md-4 pt-2 pb-md-5 pb-3">Our philosophy and expertise are best represented by our work</p>
+                <div class="tabs  pt-4">
+                    <input type="radio" name="tabs" id="tabone" checked="checked">
+                    <label for="tabone">
+                        <img src="/assets/images/about/web-mob.png" alt="">
+                        All
+                    </label>
+                    <div class="tab mt-md-5 mt-0">
+                        <div class="row">
+                            <div class="col-md-4 p-0 pb-2">
+                                <div class="col-md-12">
+                                    <div class="content">
+                                        <a href="https://globalstudentassistance.co.uk/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Global</h3>
+                                                    <p>Student Assistant</p>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 pt-2">
+                                    <div class="content">
+                                        <a href="https://happymartz.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Happy</h3>
+                                                    <h3 class="content-title">Martz</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-02.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-0 pb-2 d-flex flex-wrap justify-content-center
+                                             align-items-center">
+                                <div class="potflo-Cont-Area w-100 d-block">
+                                    <h3 class="mb-0">Opportunities</h3>
+                                    <h2 class="pb-md-5">Come, when</h2>
+                                    <h2 class="mb-0">You are</h2>
+                                    <h2><strong>Creative</strong></h2>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-0 pb-2">
+                                <div class="col-md-12">
+                                    <div class="content">
+                                        <a href="https://samritmart.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Samritmart</h3>
+                                                    <p>One stop online destination for all your grocery</p>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-03.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 pt-2">
+                                    <div class="content">
+                                        <a href="https://poliglotasedu.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-04.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-8 p-0 pb-2">
+                                <div class="content">
+                                    <a href="https://pawscart.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Pawscart</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-0 pb-2">
+                                <div class="col-md-12">
+                                    <div class="content">
+                                        <a href="https://delvfast.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Delvfast</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-06.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 pt-2">
+                                    <div class="content">
+                                        <a href="https://ktsclickworld.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Kts Click<br/>
+                                                        World</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-07.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-0 pb-2">
+                                <div class="col-md-12">
+                                    <div class="content">
+                                        <a href="https://www.lyceumworld.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Lyceum</h3>
+                                                    <p>Live Without Limits</p>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-08.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 pt-2">
+                                    <div class="content">
+                                        <a href="https://sbec.org.in/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Sbec</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-09.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-8 p-0 pb-2">
+                                <div class="content">
+                                    <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">My own<br/>Smurf</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-10.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://www.lyceumworld.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Lyceum</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://delvfast.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">delvfast</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://happymartz.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Happy Martz</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ktsclickworld.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Kts Click</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://prowesspursuit.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">SNS Present<br/> Ludo</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://annodyne.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Annodyne</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-07.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://sbec.org.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Sbec</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Bank<br/>Sahayak</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Happy Martz</h3>
 
-<link rel="stylesheet" href="../assets/css/animate.css">
-<link rel="stylesheet" href="../assets/css/lightcase.css">
-<link rel="stylesheet" href="../assets/css/simple-line-icons.css">
-<link rel="stylesheet" href="../assets/css/ElegantIcons.css">
-<link rel="stylesheet" href="../assets/css/swiper.min.css">
-<link rel="stylesheet" href="../assets/css/font-awesome.min.css">
-<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/css/home-3-style.css">
-<link rel="stylesheet" href="../assets/css/home-4-style.css">
-<link rel="stylesheet" href="../assets/css/home-5-style.css">
-<link rel="stylesheet" href="../assets/css/style.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
-<link rel="stylesheet" type="text/css" href="../assets/css/icofont/icofont.min.css">
-<link href="https://fonts.googleapis.com/css?family=Cabin|Montserrat&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../css/readmore.css">
-<link rel="stylesheet" href="../assets/css/responsive.css">
-<script src="../unpkg.com/sweetalert%402.1.2/dist/sweetalert.min.js"></script>
-<style>
-    section{padding: 50px 0;}
-    .gallery-title{
-        font-size: 36px;
-        color: #3F6184;
-        text-align: center;
-        font-weight: 500;
-        margin-bottom: 70px;}
-    .filter-button{
-        font-size: 18px;
-        border: 2px solid #3F6184!important;
-        padding:5px 10px;
-        text-align: center;
-        color: #3F6184!important;
-        margin-bottom: 30px;
-        background:transparent;
-        cursor:pointer;}
-    .filter-button:hover,
-    .filter-button:focus,
-    .filter-button.active{
-        color: #ffffff!important;
-        background-color:#3F6184;
-        outline:none;}
-    .gallery_product{
-        margin: 0px;
-        padding:0;
-        position:relative;}
-    .gallery_product .img-info{
-        position: absolute;
-        background: rgba(0,0,0,0.5);
-        left: 0;
-        right: 0;
-        bottom: 0;
-        padding: 20px;
-        overflow:hidden;
-        color:#fff;
-        top:0;
-        display:none;
-        -webkit-transition: 2s;
-        transition: 2s;}
-    .gallery_product:hover .img-info{
-        display:block;
-        -webkit-transition: 2s;
-        transition: 2s;}
-    .img-info p{
-        color:#fff;
-        text-align: left;
-        font-size: 15px;}
-</style>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110654741-8"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-110654741-8');
-</script>
-</head>
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-<body data-spy="scroll" data-target=".navbar">
-<!-- header -->
-<?php include '../include/header.php'; ?>
-<!-- header -->
-<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css"/>
-<section class="portfolio mt-5" id="portfolio">
-    <div class="container">
-        <div class="row">
-            <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h1 class="gallery-title mb-3">Our Portfolios</h1>
-            </div>
-
-            <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-                <div align="center">
-
-                    <button class="filter-button" data-filter="all">All</button>
-
-                    <button class="filter-button" data-filter="category1">Designing</button>
-
-                    <button class="filter-button" data-filter="category2">Development</button>
-
-                    <button class="filter-button" data-filter="category3">App</button>
-
-                </div></div>
-
-
-
-            <br/>
-
-
-
-            <div class="gallery_product col-sm-3 col-12 filter all category1 ">
-
-                <a class="fancybox" rel="ligthbox" href="../assets/images/jwellery.png">
-
-                    <img class="img-responsive" alt="#primacy" src="../assets/images/jwellery-small.png" />
-
-                    <div class='img-info'>
-
-                        <h4>REYNA</h4>
-
-                        <p>Jwellery Website Developed In Wordpress,Html5,Css3,Jquery</p>
-
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-app-02.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Delvfast</h3>
+                                                <p>Meat, Fish & more</p>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-app-03.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Levchat</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://piapps.in/pistore/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Pistore</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">As News<br/>>Empire</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Samritmart</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-07.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Tbp-Travel Business Portal</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
-                </a>
+                    <input type="radio" name="tabs" id="tabtwo">
+                    <label for="tabtwo">
+                        <img src="/assets/images/about/web.png" alt="">
+                        Web
+                    </label>
+                    <div class="tab mt-md-5 mt-0">
+                        <div class="row">
+                            <div class="col-md-8 p-0 pb-2">
+                                <div class="content">
+                                    <a href="https://globalstudentassistance.co.uk/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Global</h3>
+                                                <p>Student Assistant</p>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-01.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-0 pb-2">
+                                <div class="col-md-12">
+                                    <div class="content">
+                                        <a href="https://samritmart.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Samritmart</h3>
+                                                    <p>One stop online destination for all your grocery</p>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-03.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 pt-2">
+                                    <div class="content">
+                                        <a href="https://happymartz.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Happy</h3>
+                                                    <h3 class="content-title">Martz</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-02.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://poliglotasedu.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-04.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://pawscart.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Pawscart</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://delvfast.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Delvfast</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-06.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-0 pb-2">
+                                <div class="col-md-12">
+                                    <div class="content">
+                                        <a href="https://ktsclickworld.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Kts Click<br/>
+                                                        World</h3>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-07.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 pt-2">
+                                    <div class="content">
+                                        <a href="https://www.lyceumworld.com/" target="_blank">
+                                            <div class="content-overlay">
+                                                <div class="content-details fadeIn-left">
+                                                    <h3 class="content-title">Lyceum</h3>
+                                                    <p>Live Without Limits</p>
+                                                </div>
+                                            </div>
+                                            <img class="content-image" src="/assets/images/about/portfolio-08.jpg" alt="">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-8 p-0 pb-2">
+                                <div class="content">
+                                    <a href="https://sbec.org.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Sbec</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-09.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">My own<br/>Smurf</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-10.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Sns<br/> Ludo</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-11.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://annodyne.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Annodyne</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-12.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="radio" name="tabs" id="tabthree">
+                    <label for="tabthree">
+                        <img src="/assets/images/about/mobile.png" alt="">
+                        Mobile
+                    </label>
+                    <div class="tab mt-md-5 mt-0">
+                        <div class="row">
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Bank<br/>Sahayak</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Happy Martz</h3>
 
-            </div>
-
-
-
-            <div class="gallery_product col-sm-3 col-12 filter category3 ">
-
-                <a class="fancybox" rel="ligthbox" href="../assets/images/muddiz.jpg">
-
-                    <img class="img-responsive" alt="#primacy" src="../assets/images/muddiz-small.jpg" />
-
-                    <div class='img-info'>
-
-                        <h4>MUDDIZ</h4>
-
-                        <p>Grocerry Website Developed In Codeigniter,Html5,Css3,Jquery </p>
-
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-app-02.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Delvfast</h3>
+                                                <p>Meat, Fish & more</p>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-app-03.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Levchat</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://piapps.in/pistore/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Pistore</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">As News<br/>>Empire</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-06.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Samritmart</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-07.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Tbp-Travel Business Portal</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
-                </a>
-
-            </div>
-
-
-
-            <div class="gallery_product col-sm-3 col-12 filter category2">
-
-                <a class="fancybox" rel="ligthbox" href="../assets/images/netwood.png">
-
-                    <img class="img-responsive" alt="#primacy" src="../assets/images/netwood-small.png" />
-
-                    <div class='img-info'>
-
-                        <h4>NETWOOD</h4>
-
-                        <p>Video Portal Website Developed In Codeigniter,Html5,Css3,Jquery</p>
-
+                    <input type="radio" name="tabs" id="tabfour">
+                    <label for="tabfour">
+                        <img src="/assets/images/about/logo.png" alt="">
+                        Logo
+                    </label>
+                    <div class="tab mt-md-5 mt-0">
+                        <div class="row">
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://www.lyceumworld.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Lyceum</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://delvfast.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">delvfast</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://happymartz.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Happy Martz</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ktsclickworld.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Kts Click</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://prowesspursuit.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">SNS Present<br/> Ludo</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://annodyne.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Annodyne</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-07.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://sbec.org.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Sbec</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-
-                </a>
-
+                </div>
             </div>
+        </section>
+        <section class="customer-feed-bg pag-hd w-100 d-block">
+            <div class="container-fluid pr-md-0">
+                <div class="row">
+                    <h2 class="w-100 d-block text-center py-md-4"><span>W</span>hat Customer Says</h2>
+                    <div class="col-md-12 client-bg mx-auto w-100 d-block pt-3">
+                        <div class="p-md-2 paralax rounded position-relative">
+                            <div class="carousel slide w-100 d-block" id="carouselExampleIndicators" data-ride="carousel">
+                                <ol class="carousel-indicators d-block text-center mb-0">
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class=""><img src="../assets/images/debasis.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1" class=""><img src="../assets/images/ayon-roy.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2" class=""><img src="../assets/images/anwar.jpg" alt=""></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="3" class="active"><img src="../assets/images/sumanta.jpg" alt=""></li>
+                                </ol>
+                                <div class="carousel-inner px-md-0 pb-4">
+                                    <div class="carousel-item">
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+                                            <h4 class="w-100 d-block text-center pb-3">“Great Team to work with, really attentive and react to request immediately. Excellent work and I'm really pleased with the results. Thanks Primacy Infotech Pvt. Ltd.”</h4>
+                                            <h3 class="w-100 d-block text-center pb-2">DEBASISH BISWAS</h3>
+                                            <h5 class="w-100 d-block text-center">Chief Instructor of Gpluseducation</h5>
+                                            <div class="col-md-12">
+                                                <div id="full-stars-example">
+                                                    <div class="rating-group">
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
 
-
-
-            <div class="gallery_product col-sm-3 col-12 filter category2">
-
-                <a class="fancybox" rel="ligthbox" href="../assets/images/boi.png">
-
-                    <img class="img-responsive" alt="#primacy" src="../assets/images/boi-small.jpg" />
-
-                    <div class='img-info'>
-
-                        <h4>BOI BIPANI</h4>
-
-                        <p>BOI BIPANI  Ecommerce Website Developed In Wordpress,Html5,Css3,Jquery</p>
-
+                                    <!-- Carousel slide-->
+                                    <div class="carousel-item">
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+                                            <h4 class="w-100 d-block text-center pb-3">“If you are looking for a Web Development company who is fast, organized and very detailed oriented... then you will find it with Primacy Infotech Pvt. Ltd. They designed, our idea of a website to all our specifications. They also made many creative improvements that we never thought of. We would recommend Primacy Infotech Pvt. Ltd. to anyone. ”</h4>
+                                            <h3 class="w-100 d-block text-center pb-2">AYAN ROY</h3>
+                                            <h5 class="w-100 d-block text-center">Director of Relaxindia.org</h5>
+                                            <div class="col-md-12">
+                                                <div id="full-stars-example">
+                                                    <div class="rating-group">
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Carousel slide-->
+                                    <div class="carousel-item">
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+                                            <h4 class="w-100 d-block text-center pb-3">“They provide great quality for the best prices that I have found in the business. I have been very happy with their work to date and recommend them highly. Thanks for the good job ....I LOVE my new website.”</h4>
+                                            <h3 class="w-100 d-block text-center pb-2">ANWAR SEKH</h3>
+                                            <h5 class="w-100 d-block text-center">MD of Epariseva.com</h5>
+                                            <div class="col-md-12">
+                                                <div id="full-stars-example">
+                                                    <div class="rating-group">
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Carousel slide-->
+                                    <div class="carousel-item active">
+                                        <div class="feed-bck w-100 d-block text-center px-md-5 feed-bck-pt feed-bck-ht">
+                                            <h4 class="w-100 d-block text-center pb-3">“We came to Primacy Infotech Pvt. Ltd. with a vision for our website. you listened, that vision with your constructive criticism and insight, produced a very attractive website! We hear nothing but positive comments! So again, THANK YOU!”</h4>
+                                            <h3 class="w-100 d-block text-center pb-2">SUMANTA BHATTACHARJEE.</h3>
+                                            <h5 class="w-100 d-block text-center">Director of Institute of Alternative Medicines Kolkata</h5>
+                                            <div class="col-md-12">
+                                                <div id="full-stars-example">
+                                                    <div class="rating-group">
+                                                        <label aria-label="1 star" class="rating__label" for="rating-1"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-1" value="1" type="radio" tabindex="0">
+                                                        <label aria-label="2 stars" class="rating__label" for="rating-2"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-2" value="2" type="radio" tabindex="0">
+                                                        <label aria-label="3 stars" class="rating__label" for="rating-3"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-3" value="3" type="radio" checked="" tabindex="0">
+                                                        <label aria-label="4 stars" class="rating__label" for="rating-4"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-4" value="4" type="radio" tabindex="0">
+                                                        <label aria-label="5 stars" class="rating__label" for="rating-5"><i class="rating__icon rating__icon--star fa fa-star"></i></label>
+                                                        <input class="rating__input" name="rating" id="rating-5" value="5" type="radio" tabindex="0">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-
-                </a>
-
+                </div>
             </div>
-
-
-
-
-
-            <!--
-
-                       <div class="gallery_product col-sm-3 col-xs-6 filter all category1 ">
-
-                            <a class="fancybox" rel="ligthbox" href="assets/images/jwellery.png">
-
-                                <img class="img-responsive" alt="#primacy" src="assets/images/jwellery-small.png" />
-
-                                <div class='img-info'>
-
-                                    <h4>REYNA</h4>
-
-                                    <p>Jwellery Website Developed In Wordpress,Html5,Css3,Jquery</p>
-
-                                </div>
-
-                            </a>
-
-                        </div>
-
-
-
-                        <div class="gallery_product col-sm-3 col-xs-6 filter category3 ">
-
-                            <a class="fancybox" rel="ligthbox" href="assets/images/muddiz.jpg">
-
-                                <img class="img-responsive" alt="#primacy" src="assets/images/muddiz-small.jpg" />
-
-                                <div class='img-info'>
-
-                                    <h4>MUDDIZ</h4>
-
-                                    <p>Grocerry Website Developed In Codeigniter,Html5,Css3,Jquery </p>
-
-                                </div>
-
-                            </a>
-
-                        </div>
-
-
-
-                        <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-
-                             <a class="fancybox" rel="ligthbox" href="assets/images/netwood.png">
-
-                                <img class="img-responsive" alt="#primacy" src="assets/images/netwood-small.png" />
-
-                                <div class='img-info'>
-
-                                    <h4>NETWOOD</h4>
-
-                                    <p>Video Portal Website Developed In Codeigniter,Html5,Css3,Jquery</p>
-
-                                </div>
-
-                            </a>
-
-                        </div>
-
-
-
-                        <div class="gallery_product col-sm-3 col-xs-6 filter category2">
-
-                            <a class="fancybox" rel="ligthbox" href="assets/images/boi.png">
-
-                                <img class="img-responsive" alt="#primacy" src="assets/images/boi-small.jpg" />
-
-                                <div class='img-info'>
-
-                                    <h4>BOI BIPANI</h4>
-
-                                    <p>BOI BIPANI  Ecommerce Website Developed In Wordpress,Html5,Css3,Jquery</p>
-
-                                </div>
-
-                            </a>
-
-                        </div>
-
-            -->
-
-
-
-
-
-
-
-
-
-        </div>
-
-        <div class="clearfix"></div>
-
-
-
+        </section>
     </div>
-
-</section>
-<!-- footer -->
-<?php include '../include/menu.php'; ?>
-<?php include '../include/footer.php'; ?>
-<!-- footer -->
-<script src="../assets/js/jquery-2.2.3.min.js"></script>
-<script src="../assets/js/jquery.easing.min.js"></script>
-<script src="../assets/js/popper.min.js"></script>
-<script src="../assets/js/waypoints.min.js"></script>
-<script src="../assets/js/bootstrap.min.js"></script>
-<script src="../assets/js/swiper.min.js"></script>
-<script src="../assets/js/jquery.events.touch.min.js"></script>
-<script src="../assets/js/lightcase.js"></script>
-<script src="../assets/js/jquery.counterup.min.js"></script>
-<script src="../assets/js/TweenMax.min.js"></script>
-<script src="../assets/js/jquery.wavify.js"></script>
-<script src="../assets/js/wow.min.js"></script>
-<script src="../assets/js/jquery.parallax-scroll.js"></script>
-<script src="../cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
-<!--	<script src="assets/js/particles.min.js"></script>-->
-<script src="../assets/js/jquery.lazy.min.js"></script>
-<script src="../assets/js/jquery.lazy.plugins.min.js"></script>
-<script src="../assets/js/custom.js"></script>
-
-
-<script>
-    //				$(window).on('load', function() {
-    //		   $('#loading').delay('2000').fadeOut('slow');
-    //		});
-    // plugin build-in placeholder management
-    $(function() {
-        $('.lazy').lazy({
-
-            delay:1500,
-            effect: "fadeIn",
-            effectTime: 1000,
-            threshold: 0
-
-        });
-    });
-
-
-    $(document).ready(function() {
-
-        $('.menu-icon').click(function() {
-
-
-            $('.menu-icon').addClass('active');
-
-        });
-
-        $('.menu-icon2').click(function() {
-            $('.menu-icon2').addClass('active');
-            $('.footer-mega-menu').removeClass('active');
-            $('.menu-icon').removeClass('active');
-
-        });
-
-        $('.menu-icon').click(function() {
-
-            $('.footer-mega-menu').addClass('active');
-        });
-    });
-</script>
-
-<script>
-    function open_menu() {
-        //alert("hii");
-        $('#slide_menu2').slideToggle('slow');
-        //alert($('#ravi_1').val());
-    }
-
-    $(document).ready(function(){
-        $('#global-dropdown').click(function(){
-            //alert('dsadsa');
-            $('#my-global').toggle('fast');
-
-        });
-    });
-</script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'AW-751223910');
-</script>
-<!-- Event snippet for Leads conversion page
-In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
-<script>
-    function gtag_report_conversion(url) {
-        var callback = function () {
-            if (typeof(url) != 'undefined') {
-                window.location = url;
+    <!-- footer -->
+    <?php include '../include/menu.php'; ?>
+    <?php include '../include/footer.php'; ?>
+    <script>
+        $(".box").on({
+            mouseover:function(){
+                $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+                $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+            }, mouseout:function(){
+                $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+                $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
             }
-        };
-        gtag('event', 'conversion', {
-            'send_to': 'AW-751223910/q0bDCJv_75gBEOaIm-YC',
-            'event_callback': callback
         });
-        return false;
-    }
-</script>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-        s1.async=true;
-        s1.src='https://embed.tawk.to/565b419c81505c8622dd95ea/default';
-        s1.charset='UTF-8';
-        s1.setAttribute('crossorigin','*');
-        s0.parentNode.insertBefore(s1,s0);
-    })();
-
-
-</script>
-<!--End of Tawk.to Script-->
-<script>
-    var scroll = new SmoothScroll('a[href*="#"]');
-</script>
-<script>
-    window.onscroll = myFunction;
-    // Filename: script.js
-    function myFunction(){
-        var  myWidth = window.innerWidth;
-//		 if(myWidth >768){
-
-//      var element = document.getElementById("my-tab");
-
-
-
-        var desiredPosition = 500;
-
-        if(window.pageYOffset >= desiredPosition){
-            document.getElementById("my-tab").style.cssText+="position:fixed;top:20px;z-index:999";
-
-
-        }
-        else {
-            document.getElementById("my-tab").style.cssText+="position:relative";
-        }
-
-//	  }
-
-    }
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147240416-1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-147240416-1');
-</script>
-
-
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-        s1.async=true;
-        s1.src='https://embed.tawk.to/565b419c81505c8622dd95ea/default';
-        s1.charset='UTF-8';
-        s1.setAttribute('crossorigin','*');
-        s0.parentNode.insertBefore(s1,s0);
-    })();
-</script>
-<!--End of Tawk.to Script-->
-</body>
+    </script>
+</head>
 </html>
-<script src="../cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
-<script>
-
-    /*	gallery */
-
-    $(document).ready(function(){
-
-
-
-        $(".filter-button").click(function(){
-
-            var value = $(this).attr('data-filter');
-
-
-
-            if(value == "all")
-
-            {
-
-                $('.filter').show('1000');
-
-            }
-
-            else
-
-            {
-
-                $(".filter").not('.'+value).hide('3000');
-
-                $('.filter').filter('.'+value).show('3000');
-
-
-
-            }
-
-
-
-            if ($(".filter-button").removeClass("active")) {
-
-                $(this).removeClass("active");
-
-            }
-
-            $(this).addClass("active");
-
-        });
-
-    });
-
-    /*	end gallery */
-
-
-
-    $(document).ready(function(){
-
-        $(".fancybox").fancybox({
-
-            openEffect: "none",
-
-            closeEffect: "none"
-
-        });
-
-    });
-
-
-
-
-
-</script>
