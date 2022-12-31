@@ -357,6 +357,15 @@
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
                          <div class="row">
+                                 <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
+                                         <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
+                                             <img src="../assets/images/about/client.png" alt="">
+                                             <h4 class="d-block pb-md-2 pt-2"> Client First</h4>
+                                             <span class="d-block">We are proactive in identifying and addressing
+                                                         the unique challenges and opportunities facing our clients, and we are always
+                                                         looking for ways to add value and make a positive impact.</span>
+                                         </div>
+                                 </div>
                                 <div class="col-md-3 mb-md-4 mb-3 data-aos="fade-up" data-aos-duration="3000">
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-3">
@@ -428,15 +437,7 @@
                                                  that our team is always up-to-date on the latest trends and best practices</span>
                                          </div>
                                   </div>
-                                 <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-                                         <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
-                                             <img src="../assets/images/about/client.png" alt="">
-                                             <h4 class="d-block pb-md-2 pt-2"> Client First</h4>
-                                             <span class="d-block">We are proactive in identifying and addressing
-                                                 the unique challenges and opportunities facing our clients, and we are always
-                                                 looking for ways to add value and make a positive impact.</span>
-                                         </div>
-                                 </div>
+
                          </div>
                    </div>
             </section>
