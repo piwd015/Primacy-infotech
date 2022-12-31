@@ -357,7 +357,7 @@
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
                          <div class="row">
-                                 <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
+                                 <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/client.png" alt="">
                                              <h4 class="d-block pb-md-2 pt-2"> Client First</h4>
