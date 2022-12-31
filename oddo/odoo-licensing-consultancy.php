@@ -108,7 +108,7 @@
                                      <div class="license-bnr-Img">
                                            <img src="../assets/images/oddo/license-banner-Img.png" alt="">
                                      </div>
-                                     <div class="s-Media w-100 d-block pt-5">
+                                     <div class="s-Media2 w-100 d-block pt-5">
                                              <dd class="mr-md-5 mr-1">You can find us here</dd>
                                              <dd class="mr-md-5 mr-1">primacyinfotech.com</dd>
                                              <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>

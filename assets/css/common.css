@@ -2282,9 +2282,9 @@ background-size:100% 50%; height: 100%;}
 text-transform: uppercase; width: 70%; font-weight:700;}
 .license-bg h2{font-size:35px; color:#000; text-transform:uppercase;}
 .license-bg p{font-size:16px; color:#000;}
-.s-Media{}
-.s-Media dd{font-size:14px; color:#ff7e16; display:inline-block;}
-.s-Media a{display:inline-block; width:30px; height:30px; border-radius:100%; font-size:13px;
+.s-Media2{}
+.s-Media2 dd{font-size:14px; color:#ff7e16; display:inline-block;}
+.s-Media2 a{display:inline-block; width:30px; height:30px; border-radius:100%; font-size:13px;
 color:#fff; background:#ff7e16; text-align:center; line-height:35px; margin:0px 3px;}
 
 .lincenceImg{width:100%;}
