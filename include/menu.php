@@ -313,16 +313,16 @@
                     <li><a href="../oddo/oddo-implementation.php">Odoo Implementation</a>
                     </li>
                     <li>
-                        <a href="#">Odoo Consulting Services</a>
+                        <a href="../oddo/odoo-consulting-services">Odoo Consulting Services</a>
                     </li>
-                    <li><a href="#">Odoo Customization</a>
+                    <li><a href="../oddo/odoo-customization">Odoo Customization</a>
                     </li>
-                    <li><a href="#">Oddo Migration</a>
+                    <li><a href="../oddo/odoo-migration">Oddo Migration</a>
                     </li>
-                    <li><a href="#">Odoo Integration</a>
+                    <li><a href="../oddo/odoo-integration">Odoo Integration</a>
                     </li>
-                    <li><a href="#">Odoo Support</a></li>
-                    <li><a href="#">Odoo Licensing Consultancy</a></li>
+                    <li><a href="../oddo/odoo-support">Odoo Support</a></li>
+                    <li><a href="../oddo/odoo-licensing-consultancy">Odoo Licensing Consultancy</a></li>
                     <li><a href="#">Odoo Training</a></li>
                     <li><a href="#">Odoo Hosting</a></li>
                     <li><a href="#">Odoo Demo</a></li>
