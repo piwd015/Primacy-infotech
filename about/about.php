@@ -403,7 +403,7 @@
                                 </div>
                                  <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
-                                                <img src="../assets/images/about/agile-design.png" alt="">
+                                                <img src="../assets/images/about/flexibility.png" alt="">
                                                 <h4 class="d-block pb-md-2 pt-2">Flexibility</h4>
                                                  <span class="d-block">We have a flexible and agile approach to
                                                      problem-solving, which allows us to find creative solutions to
