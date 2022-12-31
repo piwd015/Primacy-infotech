@@ -360,7 +360,7 @@
                                  <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/client.png" alt="">
-                                             <h4 class="d-block pb-md-2 pt-2"> Client First</h4>
+                                             <h4 class="d-block text-center pb-md-2 pt-2"> Client First</h4>
                                              <span class="d-block">We are proactive in identifying and addressing
                                                          the unique challenges and opportunities facing our clients, and we are always
                                                          looking for ways to add value and make a positive impact.</span>
@@ -370,7 +370,7 @@
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-3">
                                           <img src="../assets/images/about/service-digital.png" alt="">
-                                          <h4 class="d-block pb-md-2 pt-2">It’s All About Technology</h4>
+                                          <h4 class="d-block text-center pb-md-2 pt-2">It’s All About Technology</h4>
                                             <span class="d-block">We have a team of experienced and highly
                                                 skilled professionals who are experts in the latest
                                                 technologies.</span>
@@ -380,7 +380,7 @@
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
                                                 <img src="../assets/images/about/erterprise-grade.png" alt="">
-                                                <h4 class="d-block pb-md-2 pt-2">Enterprise-
+                                                <h4 class="d-block text-center pb-md-2 pt-2">Enterprise-
                                                     Grade</h4>
                                                 <span class="d-block">Successful track record of
                                                     delivering mission-critical, scalable, digital
@@ -392,7 +392,7 @@
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
                                                  <img src="../assets/images/about/support-and-quality.png" alt="">
-                                                <h4 class="d-block pb-md-2 pt-2">Support & Quality</h4>
+                                                <h4 class="d-block text-center pb-md-2 pt-2">Support & Quality</h4>
                                                 <span class="d-block">We have a strong commitment to
                                                     sustainability and ethical business practices, which translates
                                                     into both better support for our customers and higher-quality
@@ -402,7 +402,7 @@
                                 <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                      <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                          <img src="../assets/images/about/agile-design.png" alt="">
-                                         <h4 class="d-block pb-md-2 pt-2">Agile by Design</h4>
+                                         <h4 class="d-block text-center pb-md-2 pt-2">Agile by Design</h4>
                                          <span class="d-block"> Devops Architecture :We take a holistic approach to DevOps,
                                              considering not just technical considerations but also organizational culture
                                              and processes. This helps us create sustainable, long-term solutions that
@@ -412,7 +412,7 @@
                                  <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                                 <img src="../assets/images/about/flexibility.png" alt="">
-                                                <h4 class="d-block pb-md-2 pt-2">Flexibility</h4>
+                                                <h4 class="d-block text-center pb-md-2 pt-2">Flexibility</h4>
                                                  <span class="d-block">We have a flexible and agile approach to
                                                      problem-solving, which allows us to find creative solutions to
                                                      complex challenges</span>
@@ -421,7 +421,7 @@
                                  <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/creative.png" alt="">
-                                             <h4 class="d-block pb-md-2 pt-2">Creative & Innovation</h4>
+                                             <h4 class="d-block text-center pb-md-2 pt-2">Creative & Innovation</h4>
                                              <span class="d-block">We encourage and reward creativity and risk-taking,
                                                  and we have a supportive and collaborative culture that fosters
                                                  innovation</span>
@@ -430,7 +430,7 @@
                                  <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                              <img src="../assets/images/about/technology.png" alt="">
-                                             <h4 class="d-block pb-md-2 pt-2">Adopt New Technology</h4>
+                                             <h4 class="d-block text-center pb-md-2 pt-2">Adopt New Technology</h4>
                                              <span class="d-block">We have a culture of continuous learning and
                                                  improvement, and we invest in training and development to ensure
                                                  that our team is always up-to-date on the latest trends and best practices</span>
