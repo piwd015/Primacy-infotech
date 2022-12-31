@@ -400,13 +400,14 @@
                                         </div>
                                 </div>
                                 <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-                                    <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
-                                        <img src="../assets/images/about/flexibility.png" alt="">
-                                        <h4 class="d-block text-center pb-md-2 pt-2">Flexibility</h4>
-                                        <span class="d-block">We have a flexible and agile approach to
-                                                     problem-solving, which allows us to find creative solutions to
-                                                     complex challenges</span>
-                                    </div>
+                                     <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
+                                         <img src="../assets/images/about/architecher.png" alt="">
+                                         <h4 class="d-block text-center pb-md-2 pt-2">Devops Architecture</h4>
+                                         <span class="d-block">We take a holistic approach to DevOps,
+                                             considering not just technical considerations but also organizational culture
+                                             and processes. This helps us create sustainable, long-term solutions that
+                                             deliver real business value.</span>
+                                       </div>
                                 </div>
                                  <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                          <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
