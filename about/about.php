@@ -401,7 +401,7 @@
                                 </div>
                                 <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                      <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
-                                         <img src="../assets/images/about/agile-design.png" alt="">
+                                         <img src="../assets/images/about/architecher.png" alt="">
                                          <h4 class="d-block text-center pb-md-2 pt-2">Devops Architecture</h4>
                                          <span class="d-block">We take a holistic approach to DevOps,
                                              considering not just technical considerations but also organizational culture
