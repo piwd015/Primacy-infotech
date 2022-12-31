@@ -402,7 +402,7 @@
                         <a href="../about/our-portfolios">Our Portfolios</a>
                     </li>
                     <li>
-                        <a href="#">Our Team</a>
+                        <a href="../about/our-team">Our Team</a>
                     </li>
             </ul>
             <li>
