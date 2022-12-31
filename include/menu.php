@@ -71,21 +71,21 @@
                             <a href="../oddo/oddo-implementation"><i class="icofont-print icofont-2x"></i><br />
                                 <div class="txt">Odoo Implementation</div></a>
                         </li>
-                        <li><a href="#"><i class="icofont-architecture-alt icofont-2x"></i>
+                        <li><a href="../oddo/odoo-consulting-services"><i class="icofont-architecture-alt icofont-2x"></i>
                                 <div class="txt">Odoo Consulting Services</div>
                             </a>
                         </li>
-                        <li><a href="#"><i class="icofont-instrument icofont-2x"></i><br /><div class="txt">Odoo Customization</div></a>
+                        <li><a href="../oddo/odoo-customization"><i class="icofont-instrument icofont-2x"></i><br /><div class="txt">Odoo Customization</div></a>
                         </li>
-                        <li><a href="#"><i class="icofont-brainstorming icofont-2x"></i><br /><div class="txt">Oddo Migration</div></a>
+                        <li><a href="../oddo/odoo-migration"><i class="icofont-brainstorming icofont-2x"></i><br /><div class="txt">Oddo Migration</div></a>
                         </li>
-                        <li><a href="#"><i class="icofont-test-tube-alt icofont-2x"></i>
+                        <li><a href="../oddo/odoo-integration"><i class="icofont-test-tube-alt icofont-2x"></i>
                             <br /><div class="txt">Odoo Integration</div></a>
                         </li>
-                        <li><a href="#"><i class="icofont-cubes icofont-2x"></i><br />
+                        <li><a href="../oddo/odoo-support"><i class="icofont-cubes icofont-2x"></i><br />
                                 <div class="txt">Odoo Support</div></a>
                         </li>
-                        <li><a href="#"><i class="icofont-brand-compaq icofont-2x"></i><br /><div class="txt">Odoo Licensing Consultancy</div></a>
+                        <li><a href="../oddo/odoo-licensing-consultancy"><i class="icofont-brand-compaq icofont-2x"></i><br /><div class="txt">Odoo Licensing Consultancy</div></a>
                         </li>
                         <li><a href="#"><i class="icofont-read-book-alt icofont-2x"></i>
                             <br /><div class="txt">Odoo Training</div></a>
