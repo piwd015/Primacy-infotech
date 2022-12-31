@@ -357,7 +357,7 @@
                    <div class="container">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
                          <div class="row">
-                                <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-up" data-aos-duration="3000">
+                                <div class="col-md-3 mb-md-4 mb-3 data-aos="fade-up" data-aos-duration="3000">
                                       <div class="why-us-box d-block position-relative
                                             px-md-4 px-3 pt-3">
                                           <img src="../assets/images/about/service-digital.png" alt="">
@@ -368,7 +368,7 @@
                                                 delivery.</span>
                                       </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
+                                <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
                                                 <img src="../assets/images/about/erterprise-grade.png" alt="">
@@ -380,7 +380,7 @@
                                                     solutions</span>
                                         </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-up" data-aos-duration="3000">
+                                <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-up" data-aos-duration="3000">
                                         <div class="why-us-box d-block position-relative
                                                 px-md-4 px-3 pt-3">
                                                  <img src="../assets/images/about/born-digital.png" alt="">
@@ -391,7 +391,7 @@
                                                     products and services.</span>
                                         </div>
                                 </div>
-                                <div class="col-md-3 mb-md-0 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
+                                <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                                      <div class="why-us-box d-block position-relative px-md-4 px-3 pt-3">
                                          <img src="../assets/images/about/agile-design.png" alt="">
                                          <h4 class="d-block pb-md-2 pt-2">Agile by Design</h4>
