@@ -354,7 +354,7 @@
                     </div>
             </section>
             <section class="w-100 d-block why-us pt-md-5 pt-3">
-                   <div class="container">
+                   <div class="container-fluid px-md-5 px-3">
                         <h2 class="w-100 d-block pb-md-5 pb-2" data-aos="fade-down">Why Us</h2>
                          <div class="row">
                                  <div class="col-md-3 mb-md-4 mb-3" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
