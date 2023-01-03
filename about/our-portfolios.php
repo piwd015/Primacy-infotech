@@ -677,7 +677,7 @@
                     </label>
                     <div class="tab mt-md-5 mt-0">
                         <div class="row">
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -689,7 +689,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -701,7 +701,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -713,7 +713,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -725,7 +725,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -737,7 +737,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -749,7 +749,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -761,7 +761,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -773,7 +773,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -785,7 +785,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -797,7 +797,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -809,7 +809,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-2 pb-2">
+                            <div class="col-md-3 col-6 p-2 pb-2">
                                 <div class="content">
                                     <a>
                                         <div class="content-overlay">
@@ -818,6 +818,66 @@
                                             </div>
                                         </div>
                                         <img class="content-image border" src="/assets/images/about/portfolio-logo-12.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Relax Imdia</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-13.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Green Mart</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-14.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Aotrek Travel Expert</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-15.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Nirman</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-16.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-6 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Qubes Foods LLP</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-17.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
