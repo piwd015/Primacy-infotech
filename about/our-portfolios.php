@@ -189,102 +189,6 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://www.lyceumworld.com/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Lyceum</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://delvfast.com/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">delvfast</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://happymartz.com/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Happy Martz</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://ktsclickworld.com/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Kts Click</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://prowesspursuit.com/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">SNS Present<br/> Ludo</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://annodyne.in/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Annodyne</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-logo-07.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a href="https://sbec.org.in/" target="_blank">
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Sbec</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
                                     <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
@@ -386,6 +290,102 @@
                                             </div>
                                         </div>
                                         <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://www.lyceumworld.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Lyceum</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-01.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://delvfast.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">delvfast</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-02.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://happymartz.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Happy Martz</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-03.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ktsclickworld.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Kts Click</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-04.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://prowesspursuit.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-05.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">SNS Present<br/> Ludo</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-06.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://annodyne.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Annodyne</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-logo-07.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a href="https://sbec.org.in/" target="_blank">
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Sbec</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -554,6 +554,7 @@
                             </div>
                         </div>
                     </div>
+
                     <input type="radio" name="tabs" id="tabthree">
                     <label for="tabthree">
                         <img src="/assets/images/about/mobile.png" alt="">
