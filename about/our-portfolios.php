@@ -48,7 +48,7 @@
                             <div class="col-md-4 p-0 pb-2">
                                 <div class="col-md-12">
                                     <div class="content">
-                                        <a href="https://globalstudentassistance.co.uk/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Global</h3>
@@ -61,7 +61,7 @@
                                 </div>
                                 <div class="col-md-12 pt-2">
                                     <div class="content">
-                                        <a href="https://happymartz.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Happy</h3>
@@ -85,7 +85,7 @@
                             <div class="col-md-4 p-0 pb-2">
                                 <div class="col-md-12">
                                     <div class="content">
-                                        <a href="https://samritmart.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Samritmart</h3>
@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="col-md-12 pt-2">
                                     <div class="content">
-                                        <a href="https://poliglotasedu.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
@@ -111,7 +111,7 @@
                             </div>
                             <div class="col-md-8 p-0 pb-2">
                                 <div class="content">
-                                    <a href="https://pawscart.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Pawscart</h3>
@@ -124,7 +124,7 @@
                             <div class="col-md-4 p-0 pb-2">
                                 <div class="col-md-12">
                                     <div class="content">
-                                        <a href="https://delvfast.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Delvfast</h3>
@@ -136,7 +136,7 @@
                                 </div>
                                 <div class="col-md-12 pt-2">
                                     <div class="content">
-                                        <a href="https://ktsclickworld.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Kts Click<br/>
@@ -151,7 +151,7 @@
                             <div class="col-md-4 p-0 pb-2">
                                 <div class="col-md-12">
                                     <div class="content">
-                                        <a href="https://www.lyceumworld.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Lyceum</h3>
@@ -164,7 +164,7 @@
                                 </div>
                                 <div class="col-md-12 pt-2">
                                     <div class="content">
-                                        <a href="https://sbec.org.in/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Sbec</h3>
@@ -177,7 +177,7 @@
                             </div>
                             <div class="col-md-8 p-0 pb-2">
                                 <div class="content">
-                                    <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">My own<br/>Smurf</h3>
@@ -189,7 +189,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -202,12 +202,11 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.happymartz.com" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
                                                 <h3 class="content-title">Happy Martz</h3>
-
                                             </div>
                                         </div>
                                         <img class="content-image" src="/assets/images/about/portfolio-app-02.jpg" alt="">
@@ -216,7 +215,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -230,7 +229,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -243,7 +242,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://piapps.in/pistore/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -256,7 +255,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -269,7 +268,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -282,7 +281,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -295,7 +294,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://www.lyceumworld.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Lyceum</h3>
@@ -307,7 +306,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://delvfast.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">delvfast</h3>
@@ -319,7 +318,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://happymartz.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Happy Martz</h3>
@@ -331,7 +330,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://ktsclickworld.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Kts Click</h3>
@@ -343,7 +342,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://prowesspursuit.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
@@ -355,7 +354,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">SNS Present<br/> Ludo</h3>
@@ -367,7 +366,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://annodyne.in/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Annodyne</h3>
@@ -379,7 +378,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://sbec.org.in/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Sbec</h3>
@@ -401,7 +400,7 @@
                         <div class="row">
                             <div class="col-md-8 p-0 pb-2">
                                 <div class="content">
-                                    <a href="https://globalstudentassistance.co.uk/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Global</h3>
@@ -415,7 +414,7 @@
                             <div class="col-md-4 p-0 pb-2">
                                 <div class="col-md-12">
                                     <div class="content">
-                                        <a href="https://samritmart.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Samritmart</h3>
@@ -428,7 +427,7 @@
                                 </div>
                                 <div class="col-md-12 pt-2">
                                     <div class="content">
-                                        <a href="https://happymartz.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Happy</h3>
@@ -442,7 +441,7 @@
                             </div>
                             <div class="col-md-4 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://poliglotasedu.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">La Casa De<br/> Ios Poliglotas</h3>
@@ -454,7 +453,7 @@
                             </div>
                             <div class="col-md-4 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://pawscart.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Pawscart</h3>
@@ -466,7 +465,7 @@
                             </div>
                             <div class="col-md-4 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://delvfast.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Delvfast</h3>
@@ -479,7 +478,7 @@
                             <div class="col-md-4 p-0 pb-2">
                                 <div class="col-md-12">
                                     <div class="content">
-                                        <a href="https://ktsclickworld.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Kts Click<br/>
@@ -492,7 +491,7 @@
                                 </div>
                                 <div class="col-md-12 pt-2">
                                     <div class="content">
-                                        <a href="https://www.lyceumworld.com/" target="_blank">
+                                        <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
                                                     <h3 class="content-title">Lyceum</h3>
@@ -506,7 +505,7 @@
                             </div>
                             <div class="col-md-8 p-0 pb-2">
                                 <div class="content">
-                                    <a href="https://sbec.org.in/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Sbec</h3>
@@ -518,7 +517,7 @@
                             </div>
                             <div class="col-md-4 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://www.myownsmurf.com/?currency=USD" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">My own<br/>Smurf</h3>
@@ -530,7 +529,7 @@
                             </div>
                             <div class="col-md-4 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Sns<br/> Ludo</h3>
@@ -542,7 +541,7 @@
                             </div>
                             <div class="col-md-4 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://annodyne.in/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Annodyne</h3>
@@ -564,7 +563,7 @@
                         <div class="row">
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.banksahayak" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -591,7 +590,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=user.delvfast.com" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -605,7 +604,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.levchat" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -618,7 +617,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://piapps.in/pistore/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -631,7 +630,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.asnewsempire" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -644,7 +643,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=primacyinfotech.samritmart.com" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -657,7 +656,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://play.google.com/store/apps/details?id=com.primacyinfotech.tbp" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
@@ -680,7 +679,7 @@
                         <div class="row">
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://www.lyceumworld.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Lyceum</h3>
@@ -692,7 +691,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://delvfast.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">delvfast</h3>
@@ -704,7 +703,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://happymartz.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Happy Martz</h3>
@@ -716,7 +715,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://ktsclickworld.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Kts Click</h3>
@@ -728,7 +727,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://prowesspursuit.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Prowess pursuit<br/> pvt ltd</h3>
@@ -740,7 +739,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://ludo.sportsnscreen.com/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">SNS Present<br/> Ludo</h3>
@@ -752,7 +751,7 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://annodyne.in/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Annodyne</h3>
@@ -764,13 +763,61 @@
                             </div>
                             <div class="col-md-3 p-2 pb-2">
                                 <div class="content">
-                                    <a href="https://sbec.org.in/" target="_blank">
+                                    <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <h3 class="content-title">Sbec</h3>
                                             </div>
                                         </div>
                                         <img class="content-image border" src="/assets/images/about/portfolio-logo-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Kishore Bandhu</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-09.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Vidyarambh</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-10.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Pak IngRaja</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-11.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Aldron</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-logo-12.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
