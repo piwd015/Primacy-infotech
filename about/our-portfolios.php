@@ -551,6 +551,42 @@
                                     </a>
                                 </div>
                             </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">Biswajit Sarkar</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-13.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">ABRS & ASSOCIATES</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-14.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-4 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <h3 class="content-title">VEDAMINDIAMRL</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image" src="/assets/images/about/portfolio-16.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
 
