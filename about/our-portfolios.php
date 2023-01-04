@@ -693,7 +693,7 @@
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
-                                                <h3 class="content-title">Pistore</h3>
+                                                <h3 class="content-title">Pifood</h3>
                                             </div>
                                         </div>
                                         <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
@@ -706,10 +706,10 @@
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
-                                                <h3 class="content-title">Bank<br/>Sahayak</h3>
+                                                <h3 class="content-title">Ktsclick - aeps, marm, dmt, bbps</h3>
                                             </div>
                                         </div>
-                                        <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-09.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -786,10 +786,10 @@
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
-                                                <h3 class="content-title">Ktsclick - aeps, marm, dmt, bbps</h3>
+                                                <h3 class="content-title">Bank<br/>Sahayak</h3>
                                             </div>
                                         </div>
-                                        <img class="content-image border" src="/assets/images/about/portfolio-app-09.jpg" alt="">
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
