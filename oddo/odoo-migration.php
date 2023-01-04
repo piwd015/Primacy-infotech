@@ -168,7 +168,7 @@
                      <h2 class="migra-pros-txt w-100 d-block text-center pb-md-4 pb-2">Odoo Migration
                          Process</h2>
                      <div class="row">
-                               <div class="col-md-6 mb-md-3">
+                              <div class="col-md-6 mb-md-3">
                                      <ul class="migra-pros w-100 d-block pl-0">
                                            <img src="../assets/images/oddo/migra-pross-01.png" alt="">
                                            <h3 class="w-100 d-block py-md-3">1. Migration Assessment and Assistance</h3>
@@ -179,7 +179,7 @@
                                            <li class="pb-2">Do you have any studio customizations?</li>
                                      </ul>
                                </div>
-                              <div class="col-md-6 pl-md-5 mb-md-3">
+                              <div class="col-md-6 mb-md-3">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-03.png" alt="">
                                           <h3 class="w-100 d-block py-md-3">2. Estimation Phase</h3>
