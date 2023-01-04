@@ -94,7 +94,7 @@
                                    <img src="../assets/images/oddo/odoo-logo.png" alt="">
                                </div>
                           </div>
-                          <div class="col-md-3">
+                          <div class="col-md-6">
                                <div class="social-md w-100 d-block">
                                    <i class="fab fa-twitter"></i>
                                    <i class="fa fa-facebook-f mr-2"></i>
