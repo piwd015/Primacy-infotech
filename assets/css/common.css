@@ -2141,12 +2141,12 @@ background-size:100% 100%;}
 line-height: 30px; text-align:justify;}
 a.inte-srv-box{background:#fff; padding: 15px 0px 45px; border-radius:3px;}
 a.inte-srv-box img{width:90px; display:block; margin: 0 auto;}
-a.inte-srv-box h5{font-size:20px; color:#fb751b; text-transform:uppercase; font-weight:600;
-position:relative; letter-spacing:2px;}
+a.inte-srv-box h5{font-size:15px; color:#fb751b; text-transform:uppercase; font-weight:600;
+position:relative; letter-spacing:1px;}
 a.inte-srv-box h5:before{content:""; border:solid 2px #535353; width:32%; height:8px;
 background:#c4c4c4; position:absolute; left:0px; right:0px; bottom:-20px; margin:0 auto;}
 a.inte-srv-box h5:after{content:""; width:28%; height:1px; background:#000; position:absolute;
-left:0px; right:0px; top:48px; margin:0 auto;}
+left:0px; right:0px; top:41px; margin:0 auto;}
 
 .odo-integr-bg{background:#eef7ff;}
 .odo-integr-bg h2{font-size:35px; color:#000; font-weight:600; font-family:'Oswald', sans-serif;}
