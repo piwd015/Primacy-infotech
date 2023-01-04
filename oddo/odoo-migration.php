@@ -201,7 +201,7 @@
                                       </ul>
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-02.png" alt="">
-                                          <h3 class="w-100 d-block py-md-3">4. System Configuration</h3>
+                                          <h3 class="w-100 d-block py-md-3">5. System Configuration</h3>
                                           <li class="pb-2">User and its access rights</li>
                                           <li class="pb-2">Company Property</li>
                                           <li class="pb-2">Report Layout</li>
@@ -211,7 +211,7 @@
                               <div class="col-md-6">
                                       <ul class="migra-pros w-100 d-block pl-0">
                                           <img src="../assets/images/oddo/migra-pross-04.png" alt="">
-                                          <h3 class="w-100 d-block py-md-3">5. Migration Implementation</h3>
+                                          <h3 class="w-100 d-block py-md-3">4. Migration Implementation</h3>
                                           <li class="pb-2">Choosing Migration Methods
                                                <ul class="w-100 d-block ml-4">
                                                     <li class="pb-2">Open upgrade</li>
