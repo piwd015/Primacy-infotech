@@ -88,10 +88,10 @@
     <div class="page-body mb-5">
           <section class="traing-banr-bg py-md-5 py-3">
                <div class="container-fluid px-md-5 px-3">
-                    <div class="row">
+                    <div class="row pt-md-5 pt-3">
                           <div class="col-md-3">
                                <div class="trn-odo-lgo">
-                                   <img src="../assets/images/odoo-logo.png" alt="">
+                                   <img src="../assets/images/oddo/odoo-logo.png" alt="">
                                </div>
                           </div>
                           <div class="col-md-3"></div>
