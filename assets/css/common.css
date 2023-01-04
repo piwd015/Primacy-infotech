@@ -2693,6 +2693,8 @@ h1 {}
 
 .traing-banr-bg{background:url("../images/oddo/training-banner-bg.jpg") no-repeat center top;
 background-size:100% 100%;width: 100%; height: 600px; display:block;}
+.trn-odo-lgo{width:25%;}
+.trn-odo-lgo img{width:100%; display:block;}
 
 /*-------------our team section-------------*/
 
