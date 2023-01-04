@@ -734,19 +734,6 @@
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
-                                                <h3 class="content-title">Levchat</h3>
-                                            </div>
-                                        </div>
-                                        <img class="content-image border" src="/assets/images/about/portfolio-app-04.jpg" alt="">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="col-md-3 p-2 pb-2">
-                                <div class="content">
-                                    <a>
-                                        <div class="content-overlay">
-                                            <div class="content-details fadeIn-left">
-                                                <dd>Mobile App</dd>
                                                 <h3 class="content-title">As News<br/>>Empire</h3>
                                             </div>
                                         </div>
@@ -777,6 +764,19 @@
                                             </div>
                                         </div>
                                         <img class="content-image border" src="/assets/images/about/portfolio-app-08.jpg" alt="">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-2 pb-2">
+                                <div class="content">
+                                    <a>
+                                        <div class="content-overlay">
+                                            <div class="content-details fadeIn-left">
+                                                <dd>Mobile App</dd>
+                                                <h3 class="content-title">Ktsclick - aeps, marm, dmt, bbps</h3>
+                                            </div>
+                                        </div>
+                                        <img class="content-image border" src="/assets/images/about/portfolio-app-09.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
