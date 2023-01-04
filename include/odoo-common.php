@@ -1,91 +1,95 @@
 <section class="features w-100 d-block">
          <div class="why-chs w-100 d-block py-md-5 py-3">
              <div class="container-fluid px-md-5 px-3">
-                   <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
-                    <div class="row">
-                        <div class="col-md-6 mb-md-5 mb-3">
-                            <div class="odo-fturs" style="background:#4d7285;">
-                                <div class="fturs-icon-bg">
-                                    <dd style="background:#4d7285;"><img src="../assets/images/oddo/build-website-icon.png" alt=""></dd>
-                                </div>
-                                <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Build stunning website</h2>
-                                <ul class="d-block pl-md-3 pl-4">
-                                    <li class="float-left">Website</li>
-                                    <li class="float-left">Blog</li>
-                                    <li class="float-left">E-commerce</li>
-                                    <li class="float-left">Forum</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-md-5 mb-3">
-                            <div class="odo-fturs" style="background:#8c3e74;">
-                                <div class="fturs-icon-bg">
-                                    <dd style="background:#8c3e74;"><img src="../assets/images/oddo/finance-icon.png" alt=""></dd>
-                                </div>
-                                <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Get control of your finances</h2>
-                                <ul class="d-block pl-md-3 pl-4">
-                                    <li class="float-left w-100">Invoicing</li>
-                                    <li class="float-left w-100">Accounting</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-md-5 mb-3">
-                            <div class="odo-fturs" style="background:#91450e;">
-                                <div class="fturs-icon-bg">
-                                    <dd style="background:#91450e;"><img src="../assets/images/oddo/sales-icon.png" alt=""></dd>
-                                </div>
-                                <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Boost your sales</h2>
-                                <ul class="d-block pl-md-3 pl-4">
-                                    <li class="float-left">CRM</li>
-                                    <li class="float-left">Sales</li>
-                                    <li class="float-left">Point of Sale</li>
-                                    <li class="float-left">Subscriptions</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-md-5 mb-3">
-                            <div class="odo-fturs" style="background:#284068;">
-                                <div class="fturs-icon-bg">
-                                    <dd style="background:#284068;"><img src="../assets/images/oddo/human-resource-icon.png" alt=""></dd>
-                                </div>
-                                <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Human Resource</h2>
-                                <ul class="d-block pl-md-3 pl-4">
-                                    <li class="float-left">Employees</li>
-                                    <li class="float-left">Expences</li>
-                                    <li class="float-left">Recruitment</li>
-                                    <li class="float-left">Appraisals</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6 mb-md-5 mb-3">
-                            <div class="odo-fturs" style="background:#00b2a5;">
-                                <div class="fturs-icon-bg">
-                                    <dd style="background:#00b2a5;"><img src="../assets/images/oddo/operation-better-icon.png" alt=""></dd>
-                                </div>
-                                <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Run your operation better</h2>
-                                <ul class="d-block pl-md-3 pl-4">
-                                    <li class="float-left">Project</li>
-                                    <li class="float-left">Manufacturing</li>
-                                    <li class="float-left">Warehouse</li>
-                                    <li class="float-left">Purchase</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="odo-fturs" style="background:#b83820;">
-                                <div class="fturs-icon-bg">
-                                    <dd style="background:#b83820;"><img src="../assets/images/oddo/marketing-icon.png" alt=""></dd>
-                                </div>
-                                <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Boost Your Marketing</h2>
-                                <ul class="d-block pl-md-3 pl-4">
-                                    <li class="float-left">Email Marketing</li>
-                                    <li class="float-left">Expences</li>
-                                    <li class="float-left">Recruitment</li>
-                                    <li class="float-left">Appraisals</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+                     <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
+                     <div class="row d-flex flex-wrap justify-content-center">
+                           <div class="col-md-11">
+                                <div class="row">
+                                    <div class="col-md-6 mb-md-5 mb-3">
+                                        <div class="odo-fturs" style="background:#4d7285;">
+                                            <div class="fturs-icon-bg">
+                                                <dd style="background:#4d7285;"><img src="../assets/images/oddo/build-website-icon.png" alt=""></dd>
+                                            </div>
+                                            <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Build stunning website</h2>
+                                            <ul class="d-block pl-md-3 pl-4">
+                                                <li class="float-left">Website</li>
+                                                <li class="float-left">Blog</li>
+                                                <li class="float-left">E-commerce</li>
+                                                <li class="float-left">Forum</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mb-md-5 mb-3">
+                                        <div class="odo-fturs" style="background:#8c3e74;">
+                                            <div class="fturs-icon-bg">
+                                                <dd style="background:#8c3e74;"><img src="../assets/images/oddo/finance-icon.png" alt=""></dd>
+                                            </div>
+                                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Get control of your finances</h2>
+                                            <ul class="d-block pl-md-3 pl-4">
+                                                <li class="float-left w-100">Invoicing</li>
+                                                <li class="float-left w-100">Accounting</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mb-md-5 mb-3">
+                                        <div class="odo-fturs" style="background:#91450e;">
+                                            <div class="fturs-icon-bg">
+                                                <dd style="background:#91450e;"><img src="../assets/images/oddo/sales-icon.png" alt=""></dd>
+                                            </div>
+                                            <h2 class="d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Boost your sales</h2>
+                                            <ul class="d-block pl-md-3 pl-4">
+                                                <li class="float-left">CRM</li>
+                                                <li class="float-left">Sales</li>
+                                                <li class="float-left">Point of Sale</li>
+                                                <li class="float-left">Subscriptions</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mb-md-5 mb-3">
+                                        <div class="odo-fturs" style="background:#284068;">
+                                            <div class="fturs-icon-bg">
+                                                <dd style="background:#284068;"><img src="../assets/images/oddo/human-resource-icon.png" alt=""></dd>
+                                            </div>
+                                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Human Resource</h2>
+                                            <ul class="d-block pl-md-3 pl-4">
+                                                <li class="float-left">Employees</li>
+                                                <li class="float-left">Expences</li>
+                                                <li class="float-left">Recruitment</li>
+                                                <li class="float-left">Appraisals</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 mb-md-5 mb-3">
+                                        <div class="odo-fturs" style="background:#00b2a5;">
+                                            <div class="fturs-icon-bg">
+                                                <dd style="background:#00b2a5;"><img src="../assets/images/oddo/operation-better-icon.png" alt=""></dd>
+                                            </div>
+                                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Run your operation better</h2>
+                                            <ul class="d-block pl-md-3 pl-4">
+                                                <li class="float-left">Project</li>
+                                                <li class="float-left">Manufacturing</li>
+                                                <li class="float-left">Warehouse</li>
+                                                <li class="float-left">Purchase</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="odo-fturs" style="background:#b83820;">
+                                            <div class="fturs-icon-bg">
+                                                <dd style="background:#b83820;"><img src="../assets/images/oddo/marketing-icon.png" alt=""></dd>
+                                            </div>
+                                            <h2 class="w-100 d-block pt-md-4 pt-3 pl-md-0 pl-4 text-left">Boost Your Marketing</h2>
+                                            <ul class="d-block pl-md-3 pl-4">
+                                                <li class="float-left">Email Marketing</li>
+                                                <li class="float-left">Expences</li>
+                                                <li class="float-left">Recruitment</li>
+                                                <li class="float-left">Appraisals</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                 </div>
+                           </div>
+                     </div>
                </div>
          </div>
 </section>
