@@ -646,7 +646,7 @@
                                                     <h3 class="content-title">Annodyne</h3>
                                                 </div>
                                             </div>
-                                            <img class="content-image" src="/assets/images/about/portfolio-19.jpg" alt="">
+                                            <img class="content-image" src="/assets/images/about/portfolio-21.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
