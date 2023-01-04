@@ -1,6 +1,6 @@
 <section class="features w-100 d-block">
          <div class="why-chs w-100 d-block py-md-5 py-3">
-             <div class="container">
+             <div class="container-fluid px-md-5 px-3">
                    <h2 class="w-100 d-block text-center pb-4"><strong>ODOO Features</strong></h2>
                     <div class="row">
                         <div class="col-md-6 mb-md-5 mb-3">
