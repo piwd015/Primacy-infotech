@@ -786,7 +786,7 @@
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
                                                 <dd>Mobile App</dd>
-                                                <h3 class="content-title">Bank<br/>Sahayak</h3>
+                                                <h3 class="content-title">Madaripurtsc</h3>
                                             </div>
                                         </div>
                                         <img class="content-image border" src="/assets/images/about/portfolio-app-01.jpg" alt="">
