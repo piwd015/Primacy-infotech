@@ -656,10 +656,11 @@
                                     <a>
                                         <div class="content-overlay">
                                             <div class="content-details fadeIn-left">
-                                                <h3 class="content-title">Ajmu</h3>
+                                                <h3 class="content-title">Prowess</h3>
+                                                <h3>Pursuit Pvt Ltd</h3>
                                             </div>
                                         </div>
-                                        <img class="content-image" src="/assets/images/about/portfolio-17.jpg" alt="">
+                                        <img class="content-image" src="/assets/images/about/portfolio-22.jpg" alt="">
                                     </a>
                                 </div>
                             </div>
