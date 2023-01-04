@@ -96,8 +96,9 @@
                           </div>
                           <div class="col-md-3">
                                <div class="social-md w-100 d-block">
-                                   <i class="fa fa-twitter mr-2" aria-hidden="true"></i>
+                                   <i class="fab fa-twitter"></i>
                                    <i class="fa fa-facebook-f mr-2"></i>
+                                   <dd>Follow us on: home study</dd>
                                </div>
                           </div>
                           <div class="col-md-3"></div>
