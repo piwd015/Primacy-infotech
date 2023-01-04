@@ -2603,14 +2603,14 @@ border-radius:100%;}
 div#popUpForm {
  position: fixed;
  width: 100%;
- background-color: rgba(0, 0, 0, 0.8);
+ background-color: rgba(0, 0, 0, 0.5);
  display:none;
  height:100%;
  z-index:99999;
  top:0px;
 }
 #popContainer {
- width: 800px;
+ width: 450px;
  text-align: center;
  margin: 0 auto;
  background-color:#fff;
@@ -2618,7 +2618,7 @@ div#popUpForm {
  margin-top: 40px;
  position:relative;
  border-radius:7px!important;
- padding:20px;
+ padding:20px 0px;
 }
 #popContainer > form > p{
  font-weight:bold;
