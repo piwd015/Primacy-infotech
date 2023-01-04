@@ -86,7 +86,9 @@
 
     <!-- ------end header section------- -->
     <div class="page-body mb-5">
-
+          <section class="traing-banr-bg py-md-5 py-3">
+               <div class="container-fluid px-md-5 px-3"></div>
+          </section>
     </div>
 
     <!-- footer -->
