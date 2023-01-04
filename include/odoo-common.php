@@ -93,7 +93,7 @@
 <section class="odo-srvs py-md-5 py-3">
     <h2 class="w-100 d-block text-center">OUR ODOO ERP DEVELOPMENT</h2>
     <h3 class="w-100 d-block text-center pb-3">SERVICES</h3>
-    <div class="container">
+    <div class="container-fluid px-md-5 px-3">
         <div class="row pl-md-5">
             <div class="col-md-3 col-6 mb-3 px-2">
                 <a href="../oddo/odoo-customization.php">
