@@ -617,11 +617,10 @@
                                         <a>
                                             <div class="content-overlay">
                                                 <div class="content-details fadeIn-left">
-                                                    <h3 class="content-title">Happy</h3>
-                                                    <h3 class="content-title">Martz</h3>
+                                                    <h3 class="content-title">Annodyne</h3>
                                                 </div>
                                             </div>
-                                            <img class="content-image" src="/assets/images/about/portfolio-02.jpg" alt="">
+                                            <img class="content-image" src="/assets/images/about/portfolio-19.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
