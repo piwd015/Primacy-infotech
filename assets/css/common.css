@@ -2715,9 +2715,9 @@ z-index:10; top:8px; font-weight:700;}
 .pln-bnft{background:#fff; border:solid 1px #a6a09c;}
 
 .trin-prs{background:#2aac98;}
-.trin-prs h6{font-size:14px; color:#fff;}
+.trin-prs h6{font-size:16px; color:#fff;}
 .trin-prs h2{font-size:55px; color:#000;}
-.trin-prs h2 sup{font-size:12px; color:#000;}
+.trin-prs h2 sub{font-size:14px; color:#000;}
 .trin-prs h4{font-size:18px; color:#000;}
 
 
