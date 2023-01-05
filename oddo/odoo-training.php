@@ -140,7 +140,7 @@
                                              clients, infrastructure providers and end-users who want to achieve
                                              a deeper functional understanding of Odoo. Functional training
                                              covers:</p>
-                                          <ul class="w-100 d-block pt-3">
+                                          <ul class="w-100 d-block pt-2">
                                                 <li><dd><span>1</span></dd>Deep learning on all functional modules from Odoo Experts.</li>
                                                 <li><dd><span>2</span></dd>Get Trained with Latest Editions and Version in Odoo.</li>
                                                 <li><dd><span>3</span></dd>Learn to Install, Manage and Configure with Basic Modules.</li>
