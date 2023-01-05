@@ -183,39 +183,38 @@
                                               <img src="../assets/images/oddo/traingImg-02.jpg" alt="">
                                           </div>
                                       </div>
-                                    <div class="col-md-6 pl-3">
-                                      <h2 class="w-100 d-block pb-3">Technical Training</h2>
-                                      <p class="d-block">Technical Odoo Training mainly dedicated to new
-                                          candidates and IT professionals who are interested in Odoo
-                                          customization and development. Technical training cover the
-                                          following aspects:</p>
-                                      <ul class="w-100 d-block pt-2">
-                                          <li><dd><span>1</span></dd>Odoo Installation in Linux/Windows.</li>
-                                          <li><dd><span>2</span></dd>Get Trained with Latest Editions and Version in Odoo.</li>
-                                          <li><dd><span>3</span></dd>Learn to Install, Manage and Configure with Basic Modules.</li>
-                                          <li><dd><span>4</span></dd>Learn How to Create and Customize with Odoo Studio</li>
-                                          <li><dd><span>4</span></dd>Save time and Cost and Increase Business efficiency.</li>
-                                      </ul>
+                                      <div class="col-md-6 pl-3">
+                                              <h2 class="w-100 d-block pb-3">Technical Training</h2>
+                                              <p class="d-block">Technical Odoo Training mainly dedicated
+                                              to new candidates and IT professionals who are interested
+                                              in Odoo customization and development. Technical training
+                                              cover the following aspects:</p>
+                                              <ul class="w-100 d-block pt-2">
+                                                  <li><dd><span>1</span></dd>Odoo Installation in Linux/Windows.</li>
+                                                  <li><dd><span>2</span></dd>Overview of Odoo Framework.</li>
+                                                  <li><dd><span>3</span></dd>Learn how to Develop Odoo Apps.</li>
+                                                  <li><dd><span>4</span></dd>Learn how to Handle Techincal Issues.</li>
+                                                  <li><dd><span>4</span></dd>Different Programming Languages in Odoo.</li>
+                                              </ul>
                                       <div class="pln-bnft w-100 d-block mt-5">
-                                          <div class="row">
-                                              <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
-                                                  <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
-                                                  <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
-                                                  <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
+                                             <div class="row">
+                                                  <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
+                                                      <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
+                                                      <h2 class="w-100 d-block text-center mb-2"><b>$</b>499</h2>
+                                                      <h4 class="w-100 d-block text-center mb-2">8 Hours</h4>
+                                                  </div>
+                                                  <div class="col-md-9 pt-3 px-3">
+                                                      <ul class="w-100 d-block pl-0">
+                                                          <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
+                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Odoo Installation</li>
+                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>2 Day (4 Hours/Day)</li>
+                                                      </ul>
+                                                      <p class="d-block pt-3">Want to know more about our Odoo Training Packages,
+                                                          Send an e-mail to <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>
+                                                          for customized Packages.</p>
+                                                  </div>
                                               </div>
-                                              <div class="col-md-9 pt-3 px-3">
-                                                  <ul class="w-100 d-block pl-0">
-                                                      <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
-                                                      <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
-                                                      <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
-                                                          Automation, Social Marketing, SMS Marketing</li>
-                                                  </ul>
-                                                  <p class="d-block pt-3">Want to know more about our Odoo Training
-                                                      Customized Packages, Send an e-mail to
-                                                      <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>.</p>
-                                              </div>
-                                          </div>
-                                      </div>
+                                        </div>
                                   </div>
                               </div>
                       </div>
