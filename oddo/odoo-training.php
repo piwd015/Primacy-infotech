@@ -105,6 +105,12 @@
                                     <dd>www.primacyinfotech.com</dd>
                               </div>
                           </div>
+                          <div class="col-md-8"></div>
+                          <div class="col-md-4">
+                                <div class="training-Img">
+                                    <img src="../assets/images/oddo/training-banner-Img.png" alt=""/>
+                                </div>
+                          </div>
                     </div>
                </div>
           </section>
