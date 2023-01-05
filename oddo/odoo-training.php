@@ -180,7 +180,7 @@
                               <div class="row">
                                       <div class="col-md-6">
                                           <div class="func-train-Img">
-                                              <img src="../assets/images/oddo/trainingImg-02.jpg" alt="">
+                                              <img src="../assets/images/oddo/traingImg-02.jpg" alt="">
                                           </div>
                                       </div>
                                     <div class="col-md-6">
