@@ -152,7 +152,7 @@
                                                    <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
                                                    <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
                                              </div>
-                                             <div class="col-md-9 pt-3 pl-3">
+                                             <div class="col-md-9 pt-3 pl-4">
                                                    <ul class="w-100 d-block pl-0">
                                                          <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
