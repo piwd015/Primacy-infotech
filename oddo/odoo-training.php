@@ -148,7 +148,7 @@
                                   <div class="pln-bnft w-100 d-block">
                                          <div class="col-md-4 trin-prs w-100 pt-5">
                                                <h6 class="w-100 d-block text-center pb-3">Training Package</h6>
-                                               <h2 class="w-100 d-block text-center pb-3"><sub>₹</sub>199</h2>
+                                               <h2 class="w-100 d-block text-center pb-3"><sup>₹</sup>199</h2>
                                                <h4 class="w-100 d-block text-center pb-3">4 Hours</h4>
                                          </div>
                                          <div class="col-md-8"></div>

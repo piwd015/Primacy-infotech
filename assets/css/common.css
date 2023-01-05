@@ -2716,9 +2716,9 @@ z-index:10; top:8px; font-weight:700;}
 
 .trin-prs{background:#2aac98;}
 .trin-prs h6{font-size:16px; color:#fff;}
-.trin-prs h2{font-size:55px; color:#000;}
-.trin-prs h2 sub{font-size:14px; color:#000;}
-.trin-prs h4{font-size:18px; color:#000;}
+.trin-prs h2{font-size:55px; color:#000; position:relative;}
+.trin-prs h2 sup{font-size:14px; color:#000; position:absolute; left:0px; top:0px;}
+.trin-prs h4{font-size:18px; color:#000; font-weight:600;}
 
 
 /*-------------our team section-------------*/
