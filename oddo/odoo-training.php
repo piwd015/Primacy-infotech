@@ -141,10 +141,11 @@
                                              a deeper functional understanding of Odoo. Functional training
                                              covers:</p>
                                           <ul class="w-100 d-block">
-                                                <li class="mb-4"><dd><span>1</span></dd>Training on respective odoo modules using in business process</li>
-                                                <li class="mb-4"><dd><span>2</span></dd>Training through Live Demo and interactive sessions</li>
-                                                <li class="mb-4"><dd><span>3</span></dd>Training through videos</li>
-                                                <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
+                                                <li class="mb-4"><dd><span>1</span></dd>Deep learning on all functional modules from Odoo Experts.</li>
+                                                <li class="mb-4"><dd><span>2</span></dd>Get Trained with Latest Editions and Version in Odoo.</li>
+                                                <li class="mb-4"><dd><span>3</span></dd>Learn to Install, Manage and Configure with Basic Modules.</li>
+                                                <li class="mb-4"><dd><span>4</span></dd>Learn How to Create and Customize with Odoo Studio</li>
+                                                <li class="mb-4"><dd><span>4</span></dd>Save time and Cost and Increase Business efficiency.</li>
                                            </ul>
                                           <div class="pln-bnft w-100 d-block mt-5">
                                                <div class="row">
