@@ -96,10 +96,10 @@
                           </div>
                           <div class="col-md-9 pt-md-4">
                                <div class="social-md d-inline-block mr-md-5">
-                                   <i class="fab fa-twitter mr-2"></i>
+                                   <a href="https://www.facebook.com/primacyit" target="_blank"><i class="fab fa-twitter mr-2"></i></a>
                                    <i class="fab fa-facebook-f mr-2"></i>
                                    <i class="fab fa-instagram mr-2"></i>
-                                   <dd>Follow us on: home study</dd>
+                                   <dd>Follow us on: Primacy Infotech</dd>
                                </div>
                               <div class="social-md d-inline-block">
                                     <dd>www.primacyinfotech.com</dd>
