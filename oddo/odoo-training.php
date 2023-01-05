@@ -107,7 +107,7 @@
                           </div>
                           <div class="col-md-8">
                                <div class="row pt-md-5 pt-3">
-                                     <div class="col-md-12 pb-3">
+                                     <div class="col-md-12 pb-md-5 pb-3">
                                          <img src="../assets/images/oddo/download-text.png" alt="">
                                      </div>
                                      <div class="col-md-4">
