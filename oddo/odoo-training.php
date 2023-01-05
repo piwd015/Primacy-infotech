@@ -218,38 +218,41 @@
                                   </div>
                               </div>
                       </div>
-                         <div class="func-traing-bg w-100 d-block py-md-5 py-3 px-md-4 px-3">
+                         <div class="func-traing-bg w-100 d-block py-md-5 py-3 px-md-4 px-3"
+                              style="background:#fff;">
                               <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                       <div class="col-md-6">
-                                          <h2 class="w-100 d-block pb-3">Functional Training</h2>
-                                          <p class="d-block">The functional Odoo Training course is devoted to
-                                              clients, infrastructure providers and end-users who want to achieve
-                                              a deeper functional understanding of Odoo. Functional training
-                                              covers:</p>
+                                          <h2 class="w-100 d-block pb-3">Corporate Training</h2>
+                                          <p class="d-block">Corporate training is intended for the corporate
+                                              business firms who are using Odoo and for those who are planning to
+                                              completely migrate the business operations to Odoo.
+                                              Training includes:</p>
                                           <ul class="w-100 d-block pt-2">
-                                              <li><dd><span>1</span></dd>Deep learning on all functional modules from Odoo Experts.</li>
-                                              <li><dd><span>2</span></dd>Get Trained with Latest Editions and Version in Odoo.</li>
-                                              <li><dd><span>3</span></dd>Learn to Install, Manage and Configure with Basic Modules.</li>
-                                              <li><dd><span>4</span></dd>Learn How to Create and Customize with Odoo Studio</li>
-                                              <li><dd><span>4</span></dd>Save time and Cost and Increase Business efficiency.</li>
+                                              <li><dd><span>1</span></dd>Training on respective odoo modules using in business process</li>
+                                              <li><dd><span>2</span></dd>Training through Live Demo and interactive sessions</li>
+                                              <li><dd><span>3</span></dd>Training through videos</li>
+                                              <li><dd><span>4</span></dd>Live support Available</li>
                                           </ul>
                                           <div class="pln-bnft w-100 d-block mt-5">
                                               <div class="row">
                                                   <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
                                                       <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
-                                                      <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
-                                                      <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
+                                                      <h2 class="w-100 d-block text-center mb-2"><b>$</b>1000</h2>
+                                                      <h4 class="w-100 d-block text-center mb-2">20 Hours</h4>
                                                   </div>
                                                   <div class="col-md-9 pt-3 px-3">
                                                       <ul class="w-100 d-block pl-0">
-                                                          <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
-                                                          <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
-                                                          <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
-                                                              Automation, Social Marketing, SMS Marketing</li>
+                                                              <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
+                                                              <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>Up to 5 users</li>
+                                                              <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>20 Hours</li>
+                                                              <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>Modules include Sales,
+                                                                  Purchase, Inventory, CRM and Accounts</li>
+                                                              <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>Extra user $150</li>
                                                       </ul>
-                                                      <p class="d-block pt-3">Want to know more about our Odoo Training
-                                                          Customized Packages, Send an e-mail to
-                                                          <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>.</p>
+                                                      <p class="d-block pt-3">Please send an email to
+                                                          <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>
+                                                          for customized Packages.
+                                                      </p>
                                                   </div>
                                               </div>
                                           </div>
