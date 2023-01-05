@@ -2721,7 +2721,7 @@ position:relative;}
 .pln-bnft ul li i{font-size:18px; color:#01b837; position:absolute; left:0px; top:0px;
 margin-bottom:0px!important;}
 .pln-bnft p{font-size:15px; color:#000;}
-.pln-bnft p a{color:#f58336}
+.pln-bnft p a{color:#f58336; font-weight:600;}
 .pln-bnft p a:hover{color:#b90e14;}
 
 .trin-prs{background:#2aac98;}
