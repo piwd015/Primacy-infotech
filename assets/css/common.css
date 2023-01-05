@@ -2713,10 +2713,12 @@ position:relative;}
 .func-traing-bg ul li dd span{font-size:17px; color:#264882; position:absolute; left: 15px;
 z-index:10; top:8px; font-weight:700;}
 .pln-bnft{background:#fff; border:solid 1px #a6a09c;}
-.pln-bnft h6{font-size:14px; color:#fff;}
-.pln-bnft h2{font-size:55px; color:#f57f30;}
-.pln-bnft h2 sup{font-size:12px; color:#f57f30;}
-.pln-bnft h4{font-size:18px; color:#f57f30;}
+
+.trin-prs{background:#2aac98;}
+.trin-prs h6{font-size:14px; color:#fff;}
+.trin-prs h2{font-size:55px; color:#f57f30;}
+.trin-prs h2 sup{font-size:12px; color:#f57f30;}
+.trin-prs h4{font-size:18px; color:#f57f30;}
 
 
 /*-------------our team section-------------*/
