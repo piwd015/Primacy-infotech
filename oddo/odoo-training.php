@@ -145,7 +145,7 @@
                                         <li class="mb-4"><dd><span>3</span></dd>Training through videos</li>
                                         <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
                                    </ul>
-                                  <div class="pln-bnft w-100 d-block mt-3">
+                                  <div class="pln-bnft w-100 d-block mt-5">
                                        <div class="row">
                                              <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
                                                    <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
@@ -159,7 +159,7 @@
                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
                                                              Automation, Social Marketing, SMS Marketing</li>
                                                    </ul>
-                                                   <p class="d-block pt-md-5 pt-3">Want to know more about our Odoo Training
+                                                   <p class="d-block pt-3">Want to know more about our Odoo Training
                                                        Customized Packages, Send an e-mail to
                                                        <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>.</p>
                                              </div>
