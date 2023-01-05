@@ -206,8 +206,8 @@
                                                   <div class="col-md-9 pt-3 px-3">
                                                       <ul class="w-100 d-block pl-0">
                                                           <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
-                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Odoo Installation</li>
-                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>2 Day (4 Hours/Day)</li>
+                                                          <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>Odoo Installation</li>
+                                                          <li class="pb-3 mb-0"><i class="fas fa-check-circle mr-2"></i>2 Day (4 Hours/Day)</li>
                                                       </ul>
                                                       <p class="d-block pt-3">Want to know more about our Odoo Training Packages,
                                                           Send an e-mail to <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>
