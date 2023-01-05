@@ -110,8 +110,12 @@
                                      <div class="col-md-12">
                                          <img src="../assets/images/oddo/download-text.png" alt="">
                                      </div>
-                                     <div class="col-md-6"></div>
-                                     <div class="col-md-6"></div>
+                                     <div class="col-md-6">
+                                           <strong class="d-block">Free and paid plans</strong>
+                                     </div>
+                                     <div class="col-md-6">
+                                          <strong class="d-block">The best of online learning</strong>
+                                     </div>
                                </div>
                           </div>
                           <div class="col-md-4">
