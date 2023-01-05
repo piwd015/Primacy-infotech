@@ -146,12 +146,19 @@
                                         <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
                                    </ul>
                                   <div class="pln-bnft w-100 d-block">
-                                         <div class="col-md-4 trin-prs w-100 py-md-5 py-3">
+                                         <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
                                                <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
                                                <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
                                                <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
                                          </div>
-                                         <div class="col-md-8"></div>
+                                         <div class="col-md-9">
+                                               <ul class="w-100 d-block pl-0">
+                                                     <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
+                                                     <li><i class="fas fa-check-circle"></i>1 Day (4 Hours/Day)</li>
+                                                     <li><i class="fas fa-check-circle"></i>Modules include CRM, Marketing
+                                                         Automation, Social Marketing, SMS Marketing</li>
+                                               </ul>
+                                         </div>
                                   </div>
                             </div>
                             <div class="col-md-6"></div>
