@@ -168,7 +168,7 @@
                             </div>
                             <div class="col-md-6">
                                   <div class="func-train-Img">
-                                       <img src="../assets/images/oddo/trainingImg-01.png" alt="">
+                                       <img src="../assets/images/oddo/trainingImg-01.jpg" alt="">
                                   </div>
                             </div>
                       </div>
