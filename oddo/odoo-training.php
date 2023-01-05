@@ -107,15 +107,18 @@
                           </div>
                           <div class="col-md-8">
                                <div class="row pt-md-5 pt-3">
-                                     <div class="col-md-12">
+                                     <div class="col-md-12 pb-3">
                                          <img src="../assets/images/oddo/download-text.png" alt="">
                                      </div>
-                                     <div class="col-md-6">
-                                           <strong class="d-block">Free and paid plans</strong>
+                                     <div class="col-md-4">
+                                            <strong class="d-block pb-2">Free and paid plans</strong>
+                                            <p class="d-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </p>
                                      </div>
-                                     <div class="col-md-6">
-                                          <strong class="d-block">The best of online learning</strong>
+                                     <div class="col-md-4">
+                                           <strong class="d-block pb-2">The best of online learning</strong>
+                                           <p class="d-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </p>
                                      </div>
+                                     <div class="col-md-4"></div>
                                </div>
                           </div>
                           <div class="col-md-4">
