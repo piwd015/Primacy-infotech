@@ -96,10 +96,10 @@
                           </div>
                           <div class="col-md-9 pt-md-4">
                                <div class="social-md d-inline-block mr-md-5">
-                                       <a href="https://twitter.com/primacyinfotech" target="_blank"><i class="fab fa-twitter mr-2"></i></a>
-                                       <a href="https://www.facebook.com/primacyit" target="_blank"><i class="fab fa-facebook-f mr-2"></i></a>
-                                       <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" target="_blank"><i class="fab fa-instagram mr-2"></i></a>
-                                       <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" target="_blank"><i class="fab fa-youtube mr-2"></i></a>
+                                       <a href="https://twitter.com/primacyinfotech" target="_blank"><i class="fab fa-twitter mr-md-2 mr-1"></i></a>
+                                       <a href="https://www.facebook.com/primacyit" target="_blank"><i class="fab fa-facebook-f mr-md-2 mr-1"></i></a>
+                                       <a href="https://www.instagram.com/primacyinfotech.in/?hl=en" target="_blank"><i class="fab fa-instagram mr-md-2 mr-1"></i></a>
+                                       <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" target="_blank"><i class="fab fa-youtube mr-md-2 mr-1"></i></a>
                                        <dd>Follow us on: Primacy Infotech</dd>
                                </div>
                               <div class="social-md d-inline-block">
