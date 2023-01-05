@@ -95,13 +95,13 @@
                                </div>
                           </div>
                           <div class="col-md-9 pt-md-4">
-                               <div class="social-md w-100 d-inline-block mr-md-5">
+                               <div class="social-md d-inline-block mr-md-5">
                                    <i class="fab fa-twitter mr-2"></i>
                                    <i class="fab fa-facebook-f mr-2"></i>
                                    <i class="fab fa-instagram mr-2"></i>
                                    <dd>Follow us on: home study</dd>
                                </div>
-                              <div class="social-md w-100 d-inline-block">
+                              <div class="social-md d-inline-block">
                                     <dd>www.primacyinfotech.com</dd>
                               </div>
                           </div>
