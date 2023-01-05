@@ -146,7 +146,7 @@
                                         <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
                                    </ul>
                                   <div class="pln-bnft w-100 d-block">
-                                         <div class="col-md-4 trin-prs w-100 pt-5">
+                                         <div class="col-md-4 trin-prs w-100 py-md-5 py-3">
                                                <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
                                                <h2 class="w-100 d-block text-center mb-2"><sup>₹</sup>199</h2>
                                                <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
