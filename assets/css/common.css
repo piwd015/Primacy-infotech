@@ -2729,6 +2729,9 @@ position:relative;}
 .trin-prs h2 b{font-size:15px; color:#000; position:absolute; left:19%; top:0px;}
 .trin-prs h4{font-size:18px; color:#000; font-weight:600;}
 
+.func-train-Img{width:100%;}
+.func-train-Img img{width:100%; display:block; border-radius:10px;}
+
 
 /*-------------our team section-------------*/
 
