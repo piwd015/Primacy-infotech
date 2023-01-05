@@ -155,8 +155,8 @@
                                              <div class="col-md-9">
                                                    <ul class="w-100 d-block pl-0">
                                                          <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
-                                                         <li><i class="fas fa-check-circle"></i>1 Day (4 Hours/Day)</li>
-                                                         <li><i class="fas fa-check-circle"></i>Modules include CRM, Marketing
+                                                         <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
+                                                         <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
                                                              Automation, Social Marketing, SMS Marketing</li>
                                                    </ul>
                                              </div>
