@@ -142,8 +142,8 @@
                                   <ul class="w-100 d-block">
                                         <li class="mb-4"><dd><span>1</span></dd>Training on respective odoo modules using in business process</li>
                                         <li class="mb-4"><dd><span>2</span></dd>Training through Live Demo and interactive sessions</li>
-                                        <li class="mb-5"><dd><span>3</span></dd>Training through videos</li>
-                                        <li class="mb-5"><dd><span>4</span></dd>Live support Available</li>
+                                        <li class="mb-4"><dd><span>3</span></dd>Training through videos</li>
+                                        <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
                                   </ul>
                             </div>
                             <div class="col-md-6"></div>
