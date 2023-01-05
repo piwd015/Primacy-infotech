@@ -108,7 +108,7 @@
                           <div class="col-md-8"></div>
                           <div class="col-md-4">
                                 <div class="training-Img">
-                                    <img src="../assets/images/oddo/training-banner-Img.png" alt=""/>
+                                    <img src="../assets/images/oddo/training-banner-Img.png" alt="">
                                 </div>
                           </div>
                     </div>
