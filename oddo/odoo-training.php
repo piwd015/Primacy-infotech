@@ -103,7 +103,7 @@
                                        <dd>Follow us on: Primacy Infotech</dd>
                                </div>
                               <div class="social-md d-inline-block d-flex flex-wrap
-                                    justify-content-md-start justify-content-center">
+                                     justify-content-center">
                                     <dd>www.primacyinfotech.com</dd>
                               </div>
                           </div>
