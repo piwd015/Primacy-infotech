@@ -2707,7 +2707,7 @@ background-size:100% 100%;width: 100%; display:block;}
 .func-traing-bg p{font-size:16px; color:#000;}
 .func-traing-bg ul{padding:0px; margin:0px;}
 .func-traing-bg ul li{display:block; padding-left:45px; font-size:17px; color:#000;
-position:relative;}
+position:relative; margin-bottom:20px;}
 .func-traing-bg ul li dd{width:42px; height:40px; position:absolute; left:0px; top:-5px;
  background-size:100% 100%; background:url("../images/oddo/bullet-icon.png") no-repeat 0 0; }
 .func-traing-bg ul li dd span{font-size:17px; color:#264882; position:absolute; left: 15px;
