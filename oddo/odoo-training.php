@@ -102,10 +102,7 @@
                                        <a href="https://www.youtube.com/channel/UCWJHz9cozplDnNCpu1UlPtA" target="_blank"><i class="fab fa-youtube mr-md-2 mr-1"></i></a>
                                        <dd>Follow us on: Primacy Infotech</dd>
                                </div>
-                              <div class="social-md d-inline-block d-flex flex-wrap
-                                     justify-content-center">
-                                    <dd>www.primacyinfotech.com</dd>
-                              </div>
+                              <div class="social-md d-inline-block"><dd>www.primacyinfotech.com</dd></div>
                           </div>
                           <div class="col-md-8">
                                <div class="row pt-md-5 pt-3">
