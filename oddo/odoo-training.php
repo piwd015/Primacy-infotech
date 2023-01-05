@@ -109,7 +109,7 @@
                           <div class="col-md-8">
                                <div class="row pt-md-5 pt-3">
                                      <div class="col-md-12 pb-md-5 pb-3">
-                                         <img src="../assets/images/oddo/download-text.png" alt="">
+                                         <img src="../assets/images/oddo/download-text.png" class="img-fluid" alt="">
                                      </div>
                                      <div class="col-md-4">
                                             <strong class="d-block pb-2">Free and paid plans</strong>
