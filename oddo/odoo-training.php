@@ -152,13 +152,16 @@
                                                    <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
                                                    <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
                                              </div>
-                                             <div class="col-md-9 pt-3 pl-4">
+                                             <div class="col-md-9 pt-3 px-3">
                                                    <ul class="w-100 d-block pl-0">
                                                          <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
                                                          <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
                                                              Automation, Social Marketing, SMS Marketing</li>
                                                    </ul>
+                                                   <p class="d-block">Want to know more about our Odoo Training
+                                                       Customized Packages, Send an e-mail to
+                                                       <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>.</p>
                                              </div>
                                        </div>
                                   </div>

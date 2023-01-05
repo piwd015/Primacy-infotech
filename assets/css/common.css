@@ -2714,10 +2714,14 @@ position:relative;}
 z-index:10; top:8px; font-weight:700;}
 .pln-bnft{background:#fff; border:solid 1px #a6a09c;}
 .pln-bnft ul{ padding:0px; margin:0px;}
-.pln-bnft ul h5{font-size:22px; color:#000;}
+.pln-bnft ul h5{font-size:18px; color:#000;}
+.pln-bnft ul h5{font-size:18px; color:#000;}
 .pln-bnft ul li{display:block; font-size:15px; color:#000; padding-left:25px!important;
 position:relative;}
 .pln-bnft ul li i{font-size:18px; color:#01b837; position:absolute; left:0px; top:0px;}
+.pln-bnft p{font-size:15px; color:#000;}
+.pln-bnft p a{color:#f58336}
+.pln-bnft p a:hover{color:#b90e14;}
 
 .trin-prs{background:#2aac98;}
 .trin-prs h6{font-size:16px; color:#fff;}
