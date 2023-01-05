@@ -3181,6 +3181,8 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .port-scr-srt .fadeIn-left{left:0%;}
  .port-scr-srt .content-details{padding-left:0em; padding-right: 0em;}
  .traing-banr-bg .social-md dd{font-size:13px;}
+ .traing-banr-bg strong{text-align:center; font-size:14px;}
+ .traing-banr-bg p{font-size:13px; text-align:center;}
 }
 
 @media screen and (max-height: 450px) {
