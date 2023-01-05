@@ -140,7 +140,7 @@
                                      a deeper functional understanding of Odoo. Functional training
                                      covers:</p>
                                   <ul class="w-100 d-block">
-                                      <li><dd>1</dd>Training on respective odoo modules using in business process</li>
+                                      <li><dd><span>1</span></dd>Training on respective odoo modules using in business process</li>
                                   </ul>
                             </div>
                             <div class="col-md-6"></div>
