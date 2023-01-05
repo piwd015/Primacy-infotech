@@ -2703,10 +2703,10 @@ background-size:100% 100%;width: 100%; display:block;}
 .traing-banr-bg strong{font-size:16px; color:#fff; letter-spacing:1px;}
 .traing-banr-bg p{font-size:14px; color:#fff;}
 .func-traing-bg{background:#edf1f7;}
-.func-traing-bg h2{font-size:55px; color:#000; font-weight:600;}
+.func-traing-bg h2{font-size:45px; color:#000; font-weight:600;}
 .func-traing-bg p{font-size:16px; color:#000;}
 .func-traing-bg ul{padding:0px; margin:0px;}
-.func-traing-bg ul li{display:block; padding-left:70px; font-size:16px; color:#000;
+.func-traing-bg ul li{display:block; padding-left:50px; font-size:16px; color:#000;
 position:relative;}
 .func-traing-bg ul li dd{width:42px; height:40px; position:absolute; left:0px; top:0px;
  background-size:100% 100%; background:url("../images/oddo/bullet-icon.png") no-repeat 0 0; }
