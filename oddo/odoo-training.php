@@ -131,48 +131,50 @@
                </div>
           </section>
           <section class="w-100 d-block">
-                <div class="container-fluid px-md-5 px-3">
-                      <div class="row func-traing-bg w-100 d-block py-md-5 py-3 px-md-4 px-3">
-                            <div class="col-md-6">
-                                 <h2 class="w-100 d-block pb-3">Functional Training</h2>
-                                 <p class="d-block">The functional Odoo Training course is devoted to
-                                     clients, infrastructure providers and end-users who want to achieve
-                                     a deeper functional understanding of Odoo. Functional training
-                                     covers:</p>
-                                  <ul class="w-100 d-block">
-                                        <li class="mb-4"><dd><span>1</span></dd>Training on respective odoo modules using in business process</li>
-                                        <li class="mb-4"><dd><span>2</span></dd>Training through Live Demo and interactive sessions</li>
-                                        <li class="mb-4"><dd><span>3</span></dd>Training through videos</li>
-                                        <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
-                                   </ul>
-                                  <div class="pln-bnft w-100 d-block mt-5">
-                                       <div class="row">
-                                             <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
-                                                   <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
-                                                   <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
-                                                   <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
-                                             </div>
-                                             <div class="col-md-9 pt-3 px-3">
-                                                   <ul class="w-100 d-block pl-0">
-                                                         <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
-                                                         <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
-                                                         <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
-                                                             Automation, Social Marketing, SMS Marketing</li>
-                                                   </ul>
-                                                   <p class="d-block pt-3">Want to know more about our Odoo Training
-                                                       Customized Packages, Send an e-mail to
-                                                       <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>.</p>
-                                             </div>
-                                       </div>
-                                  </div>
-                            </div>
-                            <div class="col-md-6">
-                                  <div class="func-train-Img">
-                                       <img src="../assets/images/oddo/trainingImg-01.jpg" alt="">
-                                  </div>
-                            </div>
-                      </div>
-                </div>
+                  <div class="container-fluid px-md-5 px-3">
+                         <div class="func-traing-bg w-100 d-block py-md-5 py-3 px-md-4 px-3">
+                              <div class="row">
+                                    <div class="col-md-6">
+                                         <h2 class="w-100 d-block pb-3">Functional Training</h2>
+                                         <p class="d-block">The functional Odoo Training course is devoted to
+                                             clients, infrastructure providers and end-users who want to achieve
+                                             a deeper functional understanding of Odoo. Functional training
+                                             covers:</p>
+                                          <ul class="w-100 d-block">
+                                                <li class="mb-4"><dd><span>1</span></dd>Training on respective odoo modules using in business process</li>
+                                                <li class="mb-4"><dd><span>2</span></dd>Training through Live Demo and interactive sessions</li>
+                                                <li class="mb-4"><dd><span>3</span></dd>Training through videos</li>
+                                                <li class="mb-4"><dd><span>4</span></dd>Live support Available</li>
+                                           </ul>
+                                          <div class="pln-bnft w-100 d-block mt-5">
+                                               <div class="row">
+                                                     <div class="col-md-3 trin-prs w-100 py-md-5 py-3">
+                                                           <h6 class="w-100 d-block text-center mb-2">Training Package</h6>
+                                                           <h2 class="w-100 d-block text-center mb-2"><b>$</b>199</h2>
+                                                           <h4 class="w-100 d-block text-center mb-2">4 Hours</h4>
+                                                     </div>
+                                                     <div class="col-md-9 pt-3 px-3">
+                                                           <ul class="w-100 d-block pl-0">
+                                                                 <h5 class="w-100 d-block pb-2">Plan Benefits & Features</h5>
+                                                                 <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>1 Day (4 Hours/Day)</li>
+                                                                 <li class="pb-3"><i class="fas fa-check-circle mr-2"></i>Modules include CRM, Marketing
+                                                                     Automation, Social Marketing, SMS Marketing</li>
+                                                           </ul>
+                                                           <p class="d-block pt-3">Want to know more about our Odoo Training
+                                                               Customized Packages, Send an e-mail to
+                                                               <a href="mailto:odoo@primacyinfotech.com">odoo@primacyinfotech.com</a>.</p>
+                                                     </div>
+                                               </div>
+                                          </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                          <div class="func-train-Img">
+                                               <img src="../assets/images/oddo/trainingImg-01.jpg" alt="">
+                                          </div>
+                                    </div>
+                              </div>
+                         </div>
+                  </div>
           </section>
     </div>
 
