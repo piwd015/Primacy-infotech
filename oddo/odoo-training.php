@@ -133,7 +133,7 @@
                          <div class="func-traing-bg w-100 d-block py-md-5 py-3 px-md-4 px-3">
                               <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                     <div class="col-md-6">
-                                         <h2 class="w-100 d-block pb-3">Functional Training</h2>
+                                         <h2 class="w-100 d-block pb-md-3 pt-md-0 pt-3">Functional Training</h2>
                                          <p class="d-block">The functional Odoo Training course is devoted to
                                              clients, infrastructure providers and end-users who want to achieve
                                              a deeper functional understanding of Odoo. Functional training
@@ -182,7 +182,7 @@
                                           </div>
                                       </div>
                                       <div class="col-md-6 pl-3">
-                                              <h2 class="w-100 d-block pb-3">Technical Training</h2>
+                                              <h2 class="w-100 d-block pb-md-3 pt-md-0 pt-3">Technical Training</h2>
                                               <p class="d-block">Technical Odoo Training mainly dedicated
                                               to new candidates and IT professionals who are interested
                                               in Odoo customization and development. Technical training
@@ -220,7 +220,7 @@
                               style="background:#fff;">
                               <div class="row d-flex flex-wrap flex-column-reverse flex-md-row">
                                       <div class="col-md-6">
-                                          <h2 class="w-100 d-block pb-3">Corporate Training</h2>
+                                          <h2 class="w-100 d-block pb-md-3 pt-md-0 pt-3">Corporate Training</h2>
                                           <p class="d-block">Corporate training is intended for the corporate
                                               business firms who are using Odoo and for those who are planning to
                                               completely migrate the business operations to Odoo.

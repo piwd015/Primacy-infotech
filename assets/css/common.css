@@ -3184,6 +3184,10 @@ a.lrn-mr{display:block; margin: 0 auto; width:120px; text-align:center;}
  .traing-banr-bg strong{text-align:center; font-size:14px;}
  .traing-banr-bg p{font-size:13px; text-align:center;}
  #popContainer{width:90%;}
+ h3#myModalLabel{font-size:15px;}
+ .func-traing-bg h2{font-size:20px;}
+ .func-traing-bg p{font-size:14px;}
+ .func-traing-bg ul li{font-size:14px;}
 }
 
 @media screen and (max-height: 450px) {
