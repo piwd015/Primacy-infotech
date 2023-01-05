@@ -130,6 +130,23 @@
                     </div>
                </div>
           </section>
+          <section class="w-100 d-block">
+                <div class="container-fluid px-md-5 px-3">
+                      <div class="row func-traing-bg w-100 d-block py-md-5 py-3">
+                            <div class="col-md-6">
+                                 <h2 class="w-100 d-block pb-3">Functional Training</h2>
+                                 <p class="d-block">The functional Odoo Training course is devoted to
+                                     clients, infrastructure providers and end-users who want to achieve
+                                     a deeper functional understanding of Odoo. Functional training
+                                     covers:</p>
+                                  <ul class="w-100 d-block">
+                                      <li><dd>1</dd>Training on respective odoo modules using in business process</li>
+                                  </ul>
+                            </div>
+                            <div class="col-md-6"></div>
+                      </div>
+                </div>
+          </section>
     </div>
 
     <!-- footer -->
