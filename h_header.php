@@ -80,12 +80,12 @@
                                              <div class="row">
                                                    <div class="col-md-8">
                                                          <ul class="top-menu">
-                                                               <li><a href="../about/about.php">About Us</a></li>
+                                                               <li><a href="../about/about">About Us</a></li>
                                                                <li><a href="https://erp.primacyinfotech.com/jobs">Career</a></li>
                                                                <li><a href="../about/our-portfolios">Our Portfolios</a></li>
                                                                <li><a href="../about/our-team">Our Team</a></li>
                                                                <li><a href="https://erp.primacyinfotech.com/blog/">Blog</a></li>
-                                                               <li><a href="../about/contact.php">Contact Us</a></li>
+                                                               <li><a href="../about/contact">Contact Us</a></li>
 
                                                          </ul>
                                                    </div>
