@@ -70,6 +70,6 @@
 
 
     <?php include 'include/menu.php'; ?>
-    <?php include 'h_footer.php'; ?>
+    <?php include 'include/footer.php'; ?>
 </hader>
 </html>
