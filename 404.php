@@ -25,7 +25,7 @@
 
     <link rel="stylesheet" href="css/404.css">
 
-    <div class="bg-purple w-100 d-block h-100">
+    <body class="bg-purple w-100 d-block h-100">
         <?php include '/include/header.php'; ?>
     <div class="stars">
         <div class="central-body">
@@ -53,7 +53,7 @@
 
     </div>
 
-    </div>
+    </body>
 
 
     <?php include 'include/menu.php'; ?>
