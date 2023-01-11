@@ -25,7 +25,7 @@
     <?php include 'h_header.php'; ?>
     <link rel="stylesheet" href="css/404.css">
 
-    <div class="bg-purple">
+    <div class="bg-purple w-100 d-block h-100">
 
     <div class="stars">
         <div class="custom-navbar">
