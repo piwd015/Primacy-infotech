@@ -231,8 +231,8 @@
 
               <ul class="my-col-2">
                    <li>
-                       <a href="../about/our-company"><i class="icofont-building icofont-2x"></i><br />
-                           <div class="txt">Company</div>
+                       <a href="../about/about"><i class="icofont-building icofont-2x"></i><br />
+                           <div class="txt">About Us</div>
                        </a>
                   </li>
                   <li><a href="https://erp.primacyinfotech.com/jobs"><i class="icofont-search-job icofont-2x"></i><br />

@@ -300,7 +300,7 @@
                                             <li><a href="../about/our-portfolios">Our Portfolios</a></li>
                                             <li><a href="../about/our-team">Our Team</a></li>
                                             <li><a href="https://erp.primacyinfotech.com/blog/">Blog</a></li>
-                                            <li><a href="../about/contact.php">Contact Us</a></li>
+                                            <li><a href="../about/contact">Contact Us</a></li>
 
                                         </ul>
                                     </div>
