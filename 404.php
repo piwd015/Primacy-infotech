@@ -25,7 +25,7 @@
     <?php include 'h_header.php'; ?>
     <link rel="stylesheet" href="css/404.css">
 
-    <body class="bg-purple w-100 d-block h-100">
+    <div class="bg-purple w-100 d-block h-100">
 
     <div class="stars">
         <div class="custom-navbar">
@@ -66,7 +66,7 @@
 
     </div>
 
-    </body>
+    </div>
 
 
     <?php include 'include/menu.php'; ?>
