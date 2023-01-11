@@ -55,6 +55,7 @@ html, body{
     -moz-user-select: none; /* Firefox 2+ */
     -ms-user-select: none; /* IE 10+ */
     user-select: none; /* Standard syntax */
+    ba
 }
 
 .bg-purple{
