@@ -1,77 +1,31 @@
 <!DOCTYPE html>
-
 <html lang="en-US" class="mob">
-
 <hader>
-
 <meta charset="utf-8" />
+    <!-- Primary Meta Tags -->
+    <title>Primacy Infotech Web, App & Odoo ERP Development Company</title>
+    <meta name="title" content="Primacy Infotech Web, App & Odoo ERP Development Company">
+    <meta name="description" content="Primacy Infotech Provide Enterprise-Grade High-quality, Stable and Scalable Web, App & Odoo ERP Development Services with Premium Support for our Clients. ">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <!-- Chrome, Firefox OS and Opera -->
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://primacyinfotech.com/">
+    <meta property="og:title" content="Primacy Infotech Web, App & Odoo ERP Development Company">
+    <meta property="og:description" content="Primacy Infotech Provide Enterprise-Grade High-quality, Stable and Scalable Web, App & Odoo ERP Development Services with Premium Support for our Clients. ">
+    <meta property="og:image" content="../primacyinfotech.in/wp-content/uploads/2015/04/FotoJet.jpg">
 
-<meta name="theme-color" content="#ba1217">
-
-    <title>Primacy Infotech Best web &amp; Mobile Application Development Company in India</title>
-
-<!-- This site is optimized with the Yoast SEO Premium plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
-
-<meta name="description" content="We are one of the best web & app development company in India.We provide IT Service in reasonable price. Contact 09088015865"/>
-
-<meta name="robots" content="noodp"/>
-
-<meta name="keywords" content="Best Website Design &amp; Development Company in India, Digital Marketing company in India, App development company in India, Online groccery shop in India, Online Groccery, SEO Development Company in India, Travel Portal, School Management Software in India "/>
-
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://primacyinfotech.com/">
+    <meta property="twitter:title" content="Primacy Infotech Web, App & Odoo ERP Development Company">
+    <meta property="twitter:description" content="Primacy Infotech Provide Enterprise-Grade High-quality, Stable and Scalable Web, App & Odoo ERP Development Services with Premium Support for our Clients. ">
+    <meta property="twitter:image" content="../primacyinfotech.in/wp-content/uploads/2015/04/FotoJet.jpg">
 
 
-<link rel="publisher" href="https://plus.google.com/+PrimacyInfotechPvtLtdBaruipur/"/>
 
-<meta property="og:locale" content="en_US" />
+<!-- / Meta  -->
+    <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
 
-<meta property="og:type" content="website" />
-
-<meta property="og:title" content="Primacy Infotech Best web &amp; Mobile Application Development Company in India" />
-
-<meta property="og:description" content="Primacy Infotech Pvt. Ltd. is one of the best website design development company" />
-
-<meta property="og:url" content="index.html" />
-
-<meta property="og:site_name" content="Primacy Infotech" />
-
-<meta property="og:image" content="../primacyinfotech.in/wp-content/uploads/2015/04/FotoJet.jpg" />
-
-<meta name="twitter:card" content="summary" />
-
-<meta name="twitter:description" content="Primacy Infotech is one of the best website design &amp; development company in Kolkata. We provide affordable all type of IT solution. Contact Us : 09088015865" />
-
-<meta name="twitter:title" content="website design &amp; development company, Affordable Price" />
-
-<meta name="twitter:site" content="@primacyinfotech" />
-
-<meta name="twitter:image" content="../primacyinfotech.in/wp-content/uploads/2015/04/FotoJet.jpg" />
-
-<meta name="twitter:creator" content="@primacyinfotech" />
-
-<meta property="DC.date.issued" content="2015-04-24T00:22:56+05:30" />
-
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/primacyinfotech.in\/","name":"Primacy Infotech Pvt. Ltd.","alternateName":"Best Webdesign Company in Kokata","potentialAction":{"@type":"SearchAction","target":"https:\/\/primacyinfotech.in\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/primacyinfotech.in\/","sameAs":["https:\/\/www.facebook.com\/primacyit\/","index.html\/\/www.linkedin.com\/company\/primacy-infotech-pvt-ltd","index.html\/\/plus.google.com\/+PrimacyInfotechPvtLtdBaruipur\/","index.html\/\/www.youtube.com\/channel\/UCa4mcQ046494I8Vieqhg0Ow","index.html\/\/www.pinterest.com\/primacyinfotech\/","https:\/\/twitter.com\/primacyinfotech"],"@id":"#organization","name":"Primacy Infotech Pvt. Ltd.","logo":"http:\/\/primacyinfotech.in\/wp-content\/uploads\/2016\/05\/primacy-infotech-logo-n1.png"}</script>
-
-<meta name="msvalidate.01" content="AFE60094AC8A24AC50C83C66A278D2B0" />
-
-<meta name="google-site-verification" content="i6toY7ZSmG-v6ScE-4uIBP0_wYWV1ayIEikgFmxnM8Q" />
-
-<!-- / Yoast SEO Premium plugin. -->
-
-<style>
-
-.grecaptcha-badge {
-
-    bottom: 60px !important;
-
-}
-
-</style>
     <?php include 'h_header.php'; ?>
 
 <!--end fixed header-->
@@ -96,7 +50,7 @@
                                            <div class="primc-logo animate fadeInRightBig fade-rght">
                                                 <img src="assets/images/p-logo.gif">
                                            </div>
-                                           <p class="d-block text-md-center text-left animate fadeInUpBig fade-up">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software are used by Enterprises / MSME / Startup s in India and abroad for automation of mission critical business processes and systems.</p>
+                                           <p class="d-block text-md-center text-left animate fadeInUpBig fade-up">Primacy Infotech is the fastest growing IT Organization in Asia, and the leading Odoo ERP Development & Mobile App Development Company working since 2015. Our company develops Cloud-based, Enterprise-Grade, High-quality, Stable and Scalable Enterprise Business Process Automation Software and Mobility Applications for multiple business functions and providing managed software services under the SaaS model. These High Availability Online business process automation software like School Managment System, Travel Portal, LMS Portal, Ecommerce’s App, CRM, Project Management, Production Management and ERP software For  Enterprises / MSME / Startups  with Premium Support for our Clients.</p>
                                            <h2 class="w-100 d-block text-center animate fadeInDownBig fade-dn">Innovation In Every Step</h2>
                                            <ul class="w-100 d-block text-center animate fadeInDownBig fade-dn">
                                                 <li><a href="#">Odoo Implementation</a></li>
@@ -403,9 +357,9 @@
 
                                               <p class="d-block text-left mb-3">Primacy Infotech went through a lingering path in the industry of internet marketing. With our diverse years of experience we discern the changing needs of small businesses in their online uplift. We are given away to our protégé and consorts and have a passion for modern technologies. We take on big challenges, and pride ourselves on seeing them through. We hold ourselves culpable to our customers, bondholder, partners, and employees by commemorate our commitments, providing results, and pushing for the apical affirmation.</p>
 
-                                              <p class="d-block text-left pb-3">Primacy Infotech go in for in a soup of sectors like web designing, three-dimensional and two-dimensional animations, computer-based tutorials, brochure, multimedia presentations, web-designing and software development. We originate ourselves as Primacy Infotech IT services and Products Company at KOLKATA.</p>
+                                              <p class="d-block text-left pb-3">Primacy Infotech Provide Enterprise-Grade High-quality, Stable and Scalable Web Application Development , Mobile App  Development & Odoo ERP  implementation  Services  with Premium Support for our Clients.</p>
 
-                                               <a href="../about/our-company">About Us</a>
+                                               <a href="../about/about">About Us</a>
 
                                         </div>
 
@@ -1359,9 +1313,9 @@
 
                                           <p class="d-block text-left mb-3">Primacy Infotech went through a lingering path in the industry of internet marketing. With our diverse years of experience we discern the changing needs of small businesses in their online uplift. We are given away to our protégé and consorts and have a passion for modern technologies. We take on big challenges, and pride ourselves on seeing them through. We hold ourselves culpable to our customers, bondholder, partners, and employees by commemorate our commitments, providing results, and pushing for the apical affirmation.</p>
 
-                                          <p class="d-block text-left pb-3">Primacy Infotech go in for in a soup of sectors like web designing, three-dimensional and two-dimensional animations, computer-based tutorials, brochure, multimedia presentations, web-designing and software development. We originate ourselves as Primacy Infotech IT services and Products Company at KOLKATA.</p>
+                                          <p class="d-block text-left pb-3">Primacy Infotech Provide Enterprise-Grade High-quality, Stable and Scalable Web Application Development , Mobile App  Development & Odoo ERP  implementation  Services  with Premium Support for our Clients.</p>
 
-                                           <a href="../about/our-company">About Us</a>
+                                           <a href="../about/about">About Us</a>
 
                                     </div>
 
