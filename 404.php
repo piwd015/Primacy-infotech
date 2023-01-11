@@ -22,7 +22,7 @@
     <meta property="twitter:image" content="../primacyinfotech.in/wp-content/uploads/2015/04/FotoJet.jpg">
     <!-- / Meta  -->
     <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
-    <?php include 'include/header.php'; ?>
+    <?php include 'h_header.php'; ?>
     <link rel="stylesheet" href="css/404.css">
 
     <body class="bg-purple w-100 d-block h-100">
