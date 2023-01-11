@@ -24,9 +24,8 @@
     <link rel="icon" href="../pilogofab.png" type="image/gif" sizes="HeightxWidth|any">
 
     <link rel="stylesheet" href="css/404.css">
-
+</hader>
     <body class="bg-purple w-100 d-block h-100">
-        <?php include '/include/header.php'; ?>
     <div class="stars">
         <div class="central-body">
             <img class="image-404" src="http://salehriaz.com/404Page/img/404.svg" width="300px">
@@ -54,9 +53,4 @@
     </div>
 
     </body>
-
-
-    <?php include 'include/menu.php'; ?>
-    <?php include 'include/footer.php'; ?>
-</hader>
 </html>
